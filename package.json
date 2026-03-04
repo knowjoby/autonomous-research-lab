@@ -1,0 +1,19 @@
+{
+  "name": "autonomous-research-lab",
+  "version": "1.0.0",
+  "description": "Self-operating AI research system",
+  "main": "index.js",
+  "scripts": {
+    "discover": "node scripts/discovery/runner.js",
+    "hypothesize": "node scripts/hypothesis/generator.js",
+    "collect": "node scripts/evidence/collector.js",
+    "validate": "node scripts/validation/cross-validate.js",
+    "synthesize": "node scripts/synthesis/report-generator.js",
+    "publish": "node scripts/publish/site-generator.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}

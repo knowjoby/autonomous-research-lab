@@ -1,0 +1,42 @@
+{
+  "research_lab": {
+    "name": "Autonomous Research Lab",
+    "description": "Self-operating AI research system",
+    "version": "1.0.0"
+  },
+  "llm": {
+    "primary_model": "openai/gpt-4o-mini",
+    "validation_models": [
+      "openai/gpt-4o-mini",
+      "deepseek/DeepSeek-R1"
+    ],
+    "max_tokens_per_run": 10000,
+    "temperature": 0.7
+  },
+  "sources": {
+    "arxiv": {
+      "enabled": true,
+      "categories": ["cs.AI", "cs.LG", "cs.CL"]
+    },
+    "hackernews": {
+      "enabled": true,
+      "max_stories": 30
+    },
+    "github": {
+      "enabled": true,
+      "topics": ["machine-learning", "ai", "research"]
+    }
+  },
+  "research": {
+    "max_hypotheses_per_run": 1,
+    "min_evidence_sources": 5,
+    "confidence_threshold": 0.7,
+    "enable_self_improvement": true
+  },
+  "publishing": {
+    "site_title": "AI Research Journal",
+    "posts_per_page": 10,
+    "enable_rss": true,
+    "enable_search": true
+  }
+}
