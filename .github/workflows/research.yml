@@ -1,0 +1,92 @@
+name: 🧠 Autonomous Research Cycle
+
+on:
+  schedule:
+    # Run every 6 hours (at 00:00, 06:00, 12:00, 18:00 UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch:  # Allow manual triggers
+  push:
+    branches: [ main ]
+    paths:
+      - 'config/**'  # Only run on config changes
+
+# Prevent recursive workflows
+env:
+  SKIP_CI: true
+
+jobs:
+  research-cycle:
+    runs-on: ubuntu-latest
+    # Add timeout to prevent runaway processes
+    timeout-minutes: 10
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch all history for proper commits
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci || npm install
+
+      - name: Phase 1 - Discovery
+        run: npm run discover
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Phase 2 - Hypothesis Generation
+        run: npm run hypothesize
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Phase 3 - Evidence Collection
+        run: npm run collect
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Phase 4 - Cross-Validation
+        run: npm run validate
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Phase 5 - Report Synthesis
+        run: npm run synthesize
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Phase 6 - Site Generation
+        run: npm run publish
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "research-bot[bot]"
+          git config --global user.email "research-bot[bot]@users.noreply.github.com"
+          
+          # Add all content changes
+          git add content/ site/
+          
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "📚 Research update: $(date +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        if: success()
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
+          publish_branch: gh-pages
+          keep_files: true
+          full_commit_message: "🚀 Deploy research site: $(date +'%Y-%m-%d %H:%M UTC')"
