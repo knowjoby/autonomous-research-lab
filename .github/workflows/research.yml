@@ -2,24 +2,19 @@ name: 🧠 Autonomous Research Cycle
 
 on:
   schedule:
-    # Run every 6 hours
     - cron: '0 */6 * * *'
-  workflow_dispatch:  # Allow manual triggers
+  workflow_dispatch:
   push:
     branches: [ main ]
     paths:
       - 'config/**'
       - 'scripts/**'
-      - '!**.md'
 
-# Give necessary permissions
 permissions:
   contents: write
   pages: write
   id-token: write
-  pull-requests: read
 
-# Prevent recursive workflows
 env:
   SKIP_CI: true
 
@@ -38,19 +33,26 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+          cache: 'npm'
 
-      - name: Create directories if missing
+      - name: Install dependencies
+        run: |
+          npm ci || npm install
+          echo "✅ Dependencies installed"
+
+      - name: Create directories
         run: |
           mkdir -p content/topics
           mkdir -p content/hypotheses
           mkdir -p content/evidence
-          mkdir -p site
+          mkdir -p site/content
+          echo "✅ Directories created"
 
       - name: Phase 1 - Discovery
         run: node scripts/discovery/runner.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        continue-on-error: true  # Don't fail if discovery has issues
+        continue-on-error: true
 
       - name: Phase 2 - Hypothesis Generation
         run: node scripts/hypothesis/generator.js
@@ -58,37 +60,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         continue-on-error: true
 
-      - name: Phase 3 - Evidence Collection
-        run: node scripts/evidence/collector.js
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Phase 3 - Evidence Collection (Placeholder)
+        run: |
+          echo '{"status":"placeholder"}' > content/evidence/today.json
         continue-on-error: true
 
-      - name: Phase 4 - Simple Validation
-        run: |
-          echo "🔄 Validation phase - creating summary"
-          node -e "
-            const fs = require('fs');
-            const date = new Date().toISOString().split('T')[0];
-            const summary = {
-              timestamp: new Date().toISOString(),
-              status: 'validation complete',
-              files_processed: []
-            };
-            
-            // Check if hypothesis exists
-            const hypPath = \`./content/hypotheses/\${date}/hypothesis.json\`;
-            if (fs.existsSync(hypPath)) {
-              summary.files_processed.push('hypothesis.json');
-            }
-            
-            fs.mkdirSync('./content/validation', { recursive: true });
-            fs.writeFileSync(\`./content/validation/\${date}.json\`, JSON.stringify(summary, null, 2));
-          "
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Phase 5 - Site Generation
+      - name: Phase 4 - Site Generation
         run: node scripts/publish/site-generator.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -107,7 +84,6 @@ jobs:
                 const hyp = JSON.parse(fs.readFileSync(hypPath, 'utf8'));
                 research.push({
                   ...hyp,
-                  evidence_count: 0,
                   generated_at: hyp.generated_at || new Date().toISOString()
                 });
               }
@@ -115,7 +91,7 @@ jobs:
               console.log('No hypothesis found for today');
             }
             
-            // Create latest.json in site folder
+            // Create latest.json
             fs.mkdirSync('./site/content', { recursive: true });
             fs.writeFileSync('./site/content/latest.json', JSON.stringify({
               research: research,
@@ -128,10 +104,8 @@ jobs:
           git config --global user.name "research-bot[bot]"
           git config --global user.email "research-bot[bot]@users.noreply.github.com"
           
-          # Add all content changes
           git add content/ site/
           
-          # Only commit if there are changes
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
@@ -147,4 +121,3 @@ jobs:
           publish_dir: ./site
           publish_branch: gh-pages
           keep_files: true
-          full_commit_message: "🚀 Deploy research site: $(date +'%Y-%m-%d %H:%M UTC')"
