@@ -10,12 +10,15 @@ async function fetchArxivPapers() {
   // Fetch recent AI/ML papers from arXiv
   return new Promise((resolve) => {
     const categories = CONFIG.sources.arxiv.categories.join(',');
-    const url = `http://export.arxiv.org/api/query?search_query=cat:${categories}&sortBy=submittedDate&sortOrder=descending&max_results=10`;
-    
+    const url = `https://export.arxiv.org/api/query?search_query=cat:${categories}&sortBy=submittedDate&sortOrder=descending&max_results=10`;
+
     https.get(url, (resp) => {
       let data = '';
       resp.on('data', chunk => data += chunk);
       resp.on('end', () => resolve(parseArxivXML(data)));
+    }).on('error', (err) => {
+      console.error('arXiv fetch error:', err.message);
+      resolve([]);
     });
   });
 }
@@ -23,6 +26,7 @@ async function fetchArxivPapers() {
 async function fetchHackerNews() {
   // Fetch top stories from HackerNews
   const topStories = await fetchJSON('https://hacker-news.firebaseio.com/v0/topstories.json');
+  if (!topStories) return [];
   const stories = await Promise.all(
     topStories.slice(0, CONFIG.sources.hackernews.max_stories)
       .map(id => fetchJSON(`https://hacker-news.firebaseio.com/v0/item/${id}.json`))
@@ -70,7 +74,12 @@ function fetchJSON(url) {
     https.get(url, (resp) => {
       let data = '';
       resp.on('data', chunk => data += chunk);
-      resp.on('end', () => resolve(JSON.parse(data)));
+      resp.on('end', () => {
+        try { resolve(JSON.parse(data)); } catch (e) { resolve(null); }
+      });
+    }).on('error', (err) => {
+      console.error('fetchJSON error:', err.message);
+      resolve(null);
     });
   });
 }
@@ -80,8 +89,8 @@ function parseArxivXML(xml) {
   const papers = [];
   const entries = xml.split('<entry>');
   for (let i = 1; i < entries.length; i++) {
-    const title = entries[i].match(/<title>(.*?)<\/title>/)?.[1] || '';
-    const summary = entries[i].match(/<summary>(.*?)<\/summary>/)?.[1] || '';
+    const title = entries[i].match(/<title>([\s\S]*?)<\/title>/)?.[1] || '';
+    const summary = entries[i].match(/<summary>([\s\S]*?)<\/summary>/)?.[1] || '';
     const categories = entries[i].match(/<category term="(.*?)"/g) || [];
     papers.push({
       title: title.replace(/<!\[CDATA\[|\]\]>/g, ''),

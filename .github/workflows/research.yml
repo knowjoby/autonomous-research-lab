@@ -36,13 +36,17 @@ jobs:
           cache: 'npm'
 
       - name: Install dependencies
-        run: npm install
+        run: |
+          npm ci || npm install
+          echo "✅ Dependencies installed"
 
       - name: Create directories
         run: |
           mkdir -p content/topics
           mkdir -p content/hypotheses
           mkdir -p content/evidence
+          mkdir -p content/validation
+          mkdir -p content/reports
           mkdir -p site/content
           echo "✅ Directories created"
 
@@ -58,12 +62,29 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         continue-on-error: true
 
-      - name: Phase 3 - Evidence Collection (Placeholder)
-        run: |
-          echo '{"status":"placeholder"}' > content/evidence/today.json
+      - name: Phase 3 - Evidence Collection
+        run: node scripts/evidence/collector.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         continue-on-error: true
 
-      - name: Phase 4 - Site Generation
+      - name: Phase 4 - Cross Validation
+        run: node scripts/validation/cross-validate.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true
+
+      - name: Phase 5 - Synthesis
+        run: node scripts/synthesis/report-generator.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true
+
+      - name: Phase 6 - Knowledge Graph
+        run: node scripts/knowledge/graph-builder.js
+        continue-on-error: true
+
+      - name: Phase 7 - Site Generation
         run: node scripts/publish/site-generator.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -75,18 +96,16 @@ jobs:
             const date = new Date().toISOString().split('T')[0];
             const research = [];
             
-            // Try to load today's hypothesis
             try {
+              const reportPath = \`./content/reports/\${date}/report.json\`;
               const hypPath = \`./content/hypotheses/\${date}/hypothesis.json\`;
-              if (fs.existsSync(hypPath)) {
-                const hyp = JSON.parse(fs.readFileSync(hypPath, 'utf8'));
-                research.push({
-                  ...hyp,
-                  generated_at: hyp.generated_at || new Date().toISOString()
-                });
+              const source = fs.existsSync(reportPath) ? reportPath : hypPath;
+              if (fs.existsSync(source)) {
+                const item = JSON.parse(fs.readFileSync(source, 'utf8'));
+                research.push({ ...item, generated_at: item.generated_at || new Date().toISOString() });
               }
             } catch (e) {
-              console.log('No hypothesis found for today');
+              console.log('No research content found for today');
             }
             
             // Create latest.json
@@ -119,5 +138,4 @@ jobs:
           publish_dir: ./site
           publish_branch: gh-pages
           keep_files: true
-
 

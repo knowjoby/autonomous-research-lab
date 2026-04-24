@@ -46,7 +46,7 @@ async function generateHypothesis() {
   const sources = JSON.parse(fs.readFileSync(sourcesPath, 'utf8'));
   
   // Call LLM via GitHub Models
-  const response = await fetch('https://models.github.ai/inference/chat/completions', {
+  const response = await fetch('https://models.inference.ai.azure.com/chat/completions', {
     method: 'POST',
     headers: {
       'Authorization': `Bearer ${process.env.GITHUB_TOKEN}`,
@@ -64,9 +64,14 @@ async function generateHypothesis() {
     })
   });
 
+  if (!response.ok) {
+    console.error(`LLM API error: ${response.status} ${response.statusText}`);
+    return;
+  }
+
   const data = await response.json();
   let hypothesis;
-  
+
   try {
     hypothesis = JSON.parse(data.choices[0].message.content);
     hypothesis.id = `HYP-${Date.now()}`;
