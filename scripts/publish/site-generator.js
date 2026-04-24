@@ -135,15 +135,13 @@ function generateSite() {
   
   fs.writeFileSync('./site/index.html', html);
   
-  // Create content directory symlink or copy
-  try {
-    fs.symlinkSync('../content', './site/content', 'dir');
-  } catch (e) {
-    // Symlink might fail, copy instead
-    if (!fs.existsSync('./site/content')) {
-      fs.mkdirSync('./site/content');
-    }
-  }
+  // Create content loader (avoids symlink cross-platform issues)
+  const contentLoader = `// Auto-generated content loader
+if (typeof window !== 'undefined') {
+  window.contentPath = './content';
+}`;
+  fs.mkdirSync('./site/content', { recursive: true });
+  fs.writeFileSync('./site/content/loader.js', contentLoader);
   
   console.log('✅ Site generated at ./site/index.html');
 }

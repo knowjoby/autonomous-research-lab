@@ -2,7 +2,23 @@
 const fs = require('fs');
 const fetch = require('node-fetch'); // We'll add this via package.json
 
-const CONFIG = JSON.parse(fs.readFileSync('./config/settings.json', 'utf8'));
+// Configuration validation
+let CONFIG;
+try {
+  CONFIG = JSON.parse(fs.readFileSync('./config/settings.json', 'utf8'));
+  if (!CONFIG.llm || !CONFIG.llm.primary_model) {
+    throw new Error('Missing required config fields: llm.primary_model');
+  }
+} catch (e) {
+  console.error('Config validation error:', e.message);
+  process.exit(1);
+}
+
+const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+if (!GITHUB_TOKEN) {
+  console.error('Error: GITHUB_TOKEN not set in environment');
+  process.exit(1);
+}
 
 const HYPOTHESIS_PROMPT = `
 You are a research scientist. Based on the provided sources, identify ONE significant research opportunity.

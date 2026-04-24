@@ -2,11 +2,32 @@
 const fs = require('fs');
 const https = require('https');
 
+// Configuration validation
+const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+if (!GITHUB_TOKEN) {
+  console.error('Error: GITHUB_TOKEN not set in environment');
+  process.exit(1);
+}
+
+// Rate limiting
+let lastRequestTime = 0;
+const MIN_REQUEST_INTERVAL = 100; // ms between requests
+
+async function rateLimitedFetch() {
+  const now = Date.now();
+  const timeSinceLastRequest = now - lastRequestTime;
+  if (timeSinceLastRequest < MIN_REQUEST_INTERVAL) {
+    await new Promise(resolve => setTimeout(resolve, MIN_REQUEST_INTERVAL - timeSinceLastRequest));
+  }
+  lastRequestTime = Date.now();
+}
+
 async function searchGithub(searchTerms) {
   // Search GitHub for relevant repositories
+  await rateLimitedFetch();
   const query = searchTerms.join('+');
   const url = `https://api.github.com/search/repositories?q=${query}&sort=stars&order=desc`;
-  
+
   return new Promise((resolve) => {
     https.get(url, {
       headers: {
@@ -30,6 +51,9 @@ async function searchGithub(searchTerms) {
           resolve([]);
         }
       });
+    }).on('error', (err) => {
+      console.error('GitHub search error:', err.message);
+      resolve([]);
     });
   });
 }
