@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Google plans to invest up to $40B in Anthropic",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "score": 520
-    },
-    {
       "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
       "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "score": 24
+      "score": 289
+    },
+    {
+      "title": "Google plans to invest up to $40B in Anthropic",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+      "score": 644
+    },
+    {
+      "title": "How to Implement an FPS Counter",
+      "url": "https://vplesko.com/posts/how_to_implement_an_fps_counter.html",
+      "score": 58
     },
     {
       "title": "A 3D Body from Eight Questions – No Photo, No GPU",
       "url": "https://clad.you/blog/posts/questionnaire-mlp/",
-      "score": 33
+      "score": 88
     },
     {
-      "title": "Paraloid B-72",
-      "url": "https://en.wikipedia.org/wiki/Paraloid_B-72",
-      "score": 150
+      "title": "Lambda Calculus Benchmark for AI",
+      "url": "https://victortaelin.github.io/lambench/",
+      "score": 15
+    },
+    {
+      "title": "1-Bit Hokusai's \"The Great Wave\"",
+      "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
+      "score": 11
+    },
+    {
+      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+      "url": "https://github.com/nex-crm/wuphf",
+      "score": 112
+    },
+    {
+      "title": "Plain text has been around for decades and it’s here to stay",
+      "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
+      "score": 141
     },
     {
       "title": "Humpback whales are forming super-groups",
       "url": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
-      "score": 84
-    },
-    {
-      "title": "Turbo Vision 2.0 – a modern port",
-      "url": "https://github.com/magiblot/tvision",
-      "score": 85
-    },
-    {
-      "title": "My audio interface has SSH enabled by default",
-      "url": "https://hhh.hn/rodecaster-duo-fw/",
-      "score": 221
+      "score": 142
     },
     {
       "title": "Replace IBM Quantum back end with /dev/urandom",
       "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
-      "score": 123
-    },
-    {
-      "title": "\"Plain text has been around for decades and it's here to stay.\" – Unsung",
-      "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
-      "score": 63
-    },
-    {
-      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
-      "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "score": 409
-    },
-    {
-      "title": "Iliad fragment found in Roman-era mummy",
-      "url": "https://www.thehistoryblog.com/archives/75877",
-      "score": 159
-    },
-    {
-      "title": "(Blender) Cosmology with Geometry Nodes",
-      "url": "https://www.blender.org/user-stories/cosmology-with-geometry-nodes/",
-      "score": 37
-    },
-    {
-      "title": "The Classic American Diner",
-      "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
-      "score": 202
-    },
-    {
-      "title": "Education must go beyond the mere production of words",
-      "url": "https://www.ncregister.com/commentaries/schnell-repairing-the-ruins",
-      "score": 51
-    },
-    {
-      "title": "There Will Be a Scientific Theory of Deep Learning",
-      "url": "https://arxiv.org/abs/2604.21691",
       "score": 204
     },
     {
-      "title": "Firefox Has Integrated Brave's Adblock Engine",
-      "url": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
-      "score": 166
+      "title": "A Man Who Invented the Future",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/the-man-who-invented-the-future",
+      "score": 16
     },
     {
-      "title": "A disabled kea parrot is the alpha male of his circus",
-      "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(26)00259-9",
-      "score": 27
-    },
-    {
-      "title": "Work with the garage door up (2024)",
-      "url": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
-      "score": 152
-    },
-    {
-      "title": "PCR Is a (Surprisingly) Near-Optimal Technology",
-      "url": "https://nikomc.com/2026/04/22/pcr/",
-      "score": 3
-    },
-    {
-      "title": "MacBook Neo and how the iPad should be",
-      "url": "https://craigmod.com/essays/ipad_neo/",
-      "score": 253
-    },
-    {
-      "title": "Email could have been X.400 times better",
-      "url": "https://buttondown.com/blog/x400-vs-smtp-email",
-      "score": 163
-    },
-    {
-      "title": "Show HN: I've built a nice home server OS",
-      "url": "https://lightwhale.asklandd.dk/",
-      "score": 106
-    },
-    {
-      "title": "Reverse-engineering infrared-based electronic shelf labels",
-      "url": "https://www.furrtek.org/?a=esl",
-      "score": 20
-    },
-    {
-      "title": "ENIAC's Architects Wove Stories Through Computing",
-      "url": "https://spectrum.ieee.org/eniac-80th-anniversary-weaving",
-      "score": 7
-    },
-    {
-      "title": "DeepSeek v4",
-      "url": "https://api-docs.deepseek.com/news/news260424",
-      "score": 1878
-    },
-    {
-      "title": "You don't want long-lived keys",
-      "url": "https://argemma.com/blog/long-lived-keys/",
-      "score": 49
+      "title": "Paraloid B-72",
+      "url": "https://en.wikipedia.org/wiki/Paraloid_B-72",
+      "score": 218
     },
     {
       "title": "The mail sent to a video game publisher",
       "url": "https://www.gamefile.news/p/panic-mail-arco-despelote-time-flies-thank-goodness-teeth",
-      "score": 14
+      "score": 70
+    },
+    {
+      "title": "My audio interface has SSH enabled by default",
+      "url": "https://hhh.hn/rodecaster-duo-fw/",
+      "score": 267
+    },
+    {
+      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+      "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+      "score": 458
+    },
+    {
+      "title": "A web-based RDP client built with Go WebAssembly and grdp",
+      "url": "https://github.com/nakagami/grdpwasm",
+      "score": 13
+    },
+    {
+      "title": "PCR is a surprisingly near-optimal technology",
+      "url": "https://nikomc.com/2026/04/22/pcr/",
+      "score": 51
+    },
+    {
+      "title": "Iliad fragment found in Roman-era mummy",
+      "url": "https://www.thehistoryblog.com/archives/75877",
+      "score": 196
     },
     {
       "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
       "url": "https://alash3al.github.io/stash?_v01",
-      "score": 18
+      "score": 83
     },
     {
-      "title": "Diatec, known for its mechanical keyboard brand FILCO, has ceased operations",
-      "url": "https://gigazine.net/gsc_news/en/20260424-filco-diatec/",
-      "score": 112
+      "title": "Cosmology with Geometry Nodes",
+      "url": "https://www.blender.org/user-stories/cosmology-with-geometry-nodes/",
+      "score": 77
     },
     {
-      "title": "Oxford All Souls College General Examination (2025) [pdf]",
-      "url": "https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf",
-      "score": 42
+      "title": "Panipat: The Rise of the Mughals",
+      "url": "https://www.historytoday.com/archive/feature/panipat-rise-mughals",
+      "score": 8
+    },
+    {
+      "title": "There Will Be a Scientific Theory of Deep Learning",
+      "url": "https://arxiv.org/abs/2604.21691",
+      "score": 272
+    },
+    {
+      "title": "Turbo Vision 2.0 – a modern port",
+      "url": "https://github.com/magiblot/tvision",
+      "score": 155
+    },
+    {
+      "title": "Education must go beyond the mere production of words",
+      "url": "https://www.ncregister.com/commentaries/schnell-repairing-the-ruins",
+      "score": 84
+    },
+    {
+      "title": "Email could have been X.400 times better",
+      "url": "https://buttondown.com/blog/x400-vs-smtp-email",
+      "score": 197
+    },
+    {
+      "title": "Martin Galway's music source files from 1980's Commodore 64 games",
+      "url": "https://github.com/MartinGalway/C64_music",
+      "score": 8
+    },
+    {
+      "title": "Work with the garage door up (2024)",
+      "url": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
+      "score": 167
+    },
+    {
+      "title": "DeepSeek v4",
+      "url": "https://api-docs.deepseek.com/news/news260424",
+      "score": 1961
+    },
+    {
+      "title": "The Classic American Diner",
+      "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
+      "score": 235
+    },
+    {
+      "title": "Firefox Has Integrated Brave's Adblock Engine",
+      "url": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
+      "score": 296
     }
   ]
 }
