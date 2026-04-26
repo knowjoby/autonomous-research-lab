@@ -2,29 +2,84 @@
   "papers": [],
   "discussions": [
     {
-      "title": "The West Forgot How to Make Things. Now It's Forgetting How to Code",
-      "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
-      "score": 57
+      "title": "Asahi Linux Progress Linux 7.0",
+      "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
+      "score": 99
+    },
+    {
+      "title": "Statecharts: hierarchical state machines",
+      "url": "https://statecharts.dev/",
+      "score": 85
     },
     {
       "title": "Amateur armed with ChatGPT solves an Erdős problem",
       "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-      "score": 305
+      "score": 472
     },
     {
       "title": "Why has there been so little progress on Alzheimer's disease?",
       "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
-      "score": 197
+      "score": 280
+    },
+    {
+      "title": "The West forgot how to make things, now it’s forgetting how to code",
+      "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
+      "score": 591
+    },
+    {
+      "title": "Show HN: Turning a Gaussian Splat into a videogame",
+      "url": "https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/",
+      "score": 55
     },
     {
       "title": "USB Cheat Sheet (2022)",
       "url": "https://fabiensanglard.net/usbcheat/index.html",
-      "score": 268
+      "score": 375
+    },
+    {
+      "title": "Cheating at Tetris",
+      "url": "https://chalkdustmagazine.com/features/cheating-at-tetris/",
+      "score": 19
     },
     {
       "title": "GnuPG – post-quantum crypto landing in mainline",
       "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
-      "score": 36
+      "score": 93
+    },
+    {
+      "title": "I spent 6 years building my Kanban as I hated how managers run the boards",
+      "url": "https://www.npmjs.com/package/ooko",
+      "score": 48
+    },
+    {
+      "title": "Exposing Floating Point – Bartosz Ciechanowski (2019)",
+      "url": "https://ciechanow.ski/exposing-floating-point/",
+      "score": 43
+    },
+    {
+      "title": "Mahjong: A Visual Guide",
+      "url": "https://themahjong.guide/",
+      "score": 126
+    },
+    {
+      "title": "OpenAI Privacy Filter",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+      "score": 234
+    },
+    {
+      "title": "Flickr: The first and last great photo platform",
+      "url": "https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/",
+      "score": 198
+    },
+    {
+      "title": "The Free Universal Construction Kit",
+      "url": "https://fffff.at/free-universal-construction-kit/",
+      "score": 331
+    },
+    {
+      "title": "The route from Prussian military headquarters to Gary Gygax’s basement",
+      "url": "https://asteriskmag.com/issues/14/shall-we-play-a-game",
+      "score": 40
     },
     {
       "title": "Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)",
@@ -32,119 +87,64 @@
       "score": 1
     },
     {
-      "title": "The route from Prussian military headquarters to Gary Gygax’s basement",
-      "url": "https://asteriskmag.com/issues/14/shall-we-play-a-game",
-      "score": 22
+      "title": "Quirks of Human Anatomy",
+      "url": "https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm",
+      "score": 47
     },
     {
-      "title": "Mahjong: A Visual Guide",
-      "url": "https://themahjong.guide/",
-      "score": 64
-    },
-    {
-      "title": "EU Age Control: The trojan horse for digital IDs",
-      "url": "https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/",
-      "score": 114
-    },
-    {
-      "title": "Flickr: The first and last great photo platform",
-      "url": "https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/",
-      "score": 143
-    },
-    {
-      "title": "OpenAI Privacy Filter",
-      "url": "https://openai.com/index/introducing-openai-privacy-filter/",
-      "score": 190
-    },
-    {
-      "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
-      "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
-      "score": 567
-    },
-    {
-      "title": "The Free Universal Construction Kit",
-      "url": "https://fffff.at/free-universal-construction-kit/",
-      "score": 307
+      "title": "My .config Ship of Theseus",
+      "url": "https://shift1w.com/blog/config-of-theseus/",
+      "score": 9
     },
     {
       "title": "Using coding assistance tools to revive projects you never were going to finish",
       "url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
-      "score": 254
+      "score": 284
+    },
+    {
+      "title": "Eden AI – European Alternative to OpenRouter",
+      "url": "https://www.edenai.co",
+      "score": 84
+    },
+    {
+      "title": "EU Age Control: The trojan horse for digital IDs",
+      "url": "https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/",
+      "score": 228
     },
     {
       "title": "The Joy of Folding Bikes",
       "url": "https://blog.korny.info/2026/04/19/the-joy-of-folding-bikes",
-      "score": 155
-    },
-    {
-      "title": "Reviving BrowserID in 2026",
-      "url": "https://wakamoleguy.com/p/reviving-browserid-in-2026",
-      "score": 21
-    },
-    {
-      "title": "AGPLv3§74 Empowers Users to Thwart Badgeware Like OnlyOffice",
-      "url": "https://sfconservancy.org/blog/2026/apr/16/badgeware-onlyoffice-nextcloud-affero-gpl/",
-      "score": 50
-    },
-    {
-      "title": "America's Geothermal Breakthrough",
-      "url": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html",
-      "score": 106
-    },
-    {
-      "title": "Quirks of Human Anatomy",
-      "url": "https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm",
-      "score": 4
-    },
-    {
-      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
-      "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "score": 574
+      "score": 198
     },
     {
       "title": "The Super Nintendo Cartridges (2024)",
       "url": "https://fabiensanglard.net/snes_carts/",
-      "score": 43
+      "score": 89
     },
     {
-      "title": "Martin Galway's music source files from 1980's Commodore 64 games",
-      "url": "https://github.com/MartinGalway/C64_music",
-      "score": 172
+      "title": "America's Geothermal Breakthrough",
+      "url": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html",
+      "score": 123
     },
     {
       "title": "Math Is Hard – OpenBSD Stories",
       "url": "http://miod.online.fr/software/openbsd/stories/vaxfp.html",
-      "score": 86
+      "score": 131
     },
     {
-      "title": "Per-image PCA characterization of the Kodak image suite (PDF and JSON)",
-      "url": "https://github.com/PearsonZero/kodak-pcd0992-statistical-characterization/tree/main/baseline",
-      "score": 7
-    },
-    {
-      "title": "Rediscovering the Handcart",
-      "url": "https://solar.lowtechmagazine.com/2026/04/rediscovering-the-handcart/",
-      "score": 10
-    },
-    {
-      "title": "Optimizing Datalog for the GPU",
-      "url": "https://dl.acm.org/doi/10.1145/3669940.3707274",
-      "score": 43
+      "title": "Show HN: A free ESG stock screener that publishes its losses and methodology",
+      "url": "https://jumpstartsignal.com/",
+      "score": 6
     },
     {
       "title": "Hokusai and Tesselations",
       "url": "https://dl.ndl.go.jp/pid/1899550/1/11/",
-      "score": 102
-    },
-    {
-      "title": "DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles",
-      "url": "https://www.lmsys.org/blog/2026-04-25-deepseek-v4/",
-      "score": 44
+      "score": 123
     },
     {
       "title": "Simulacrum of Knowledge Work",
       "url": "https://blog.happyfellow.dev/simulacrum-of-knowledge-work/",
-      "score": 139
+      "score": 163
     }
   ]
 }
