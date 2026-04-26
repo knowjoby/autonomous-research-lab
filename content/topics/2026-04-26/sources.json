@@ -2,154 +2,149 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Why has there been so little progress on Alzheimer's disease?",
-      "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
-      "score": 89
-    },
-    {
-      "title": "USB Cheat Sheet (2022)",
-      "url": "https://fabiensanglard.net/usbcheat/index.html",
-      "score": 177
+      "title": "The West Forgot How to Make Things. Now It's Forgetting How to Code",
+      "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
+      "score": 57
     },
     {
       "title": "Amateur armed with ChatGPT solves an Erdős problem",
       "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-      "score": 28
+      "score": 305
     },
     {
-      "title": "The Free Universal Construction Kit",
-      "url": "https://fffff.at/free-universal-construction-kit/",
-      "score": 280
+      "title": "Why has there been so little progress on Alzheimer's disease?",
+      "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+      "score": 197
     },
     {
-      "title": "OpenAI Privacy Filter",
-      "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+      "title": "USB Cheat Sheet (2022)",
+      "url": "https://fabiensanglard.net/usbcheat/index.html",
+      "score": 268
+    },
+    {
+      "title": "GnuPG – post-quantum crypto landing in mainline",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
+      "score": 36
+    },
+    {
+      "title": "Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)",
+      "url": "https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health",
+      "score": 1
+    },
+    {
+      "title": "The route from Prussian military headquarters to Gary Gygax’s basement",
+      "url": "https://asteriskmag.com/issues/14/shall-we-play-a-game",
+      "score": 22
+    },
+    {
+      "title": "Mahjong: A Visual Guide",
+      "url": "https://themahjong.guide/",
+      "score": 64
+    },
+    {
+      "title": "EU Age Control: The trojan horse for digital IDs",
+      "url": "https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/",
       "score": 114
     },
     {
       "title": "Flickr: The first and last great photo platform",
       "url": "https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/",
-      "score": 49
+      "score": 143
+    },
+    {
+      "title": "OpenAI Privacy Filter",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+      "score": 190
     },
     {
       "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
       "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
-      "score": 528
+      "score": 567
+    },
+    {
+      "title": "The Free Universal Construction Kit",
+      "url": "https://fffff.at/free-universal-construction-kit/",
+      "score": 307
     },
     {
       "title": "Using coding assistance tools to revive projects you never were going to finish",
       "url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
-      "score": 192
-    },
-    {
-      "title": "America's Geothermal Breakthrough",
-      "url": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html",
-      "score": 73
+      "score": 254
     },
     {
       "title": "The Joy of Folding Bikes",
       "url": "https://blog.korny.info/2026/04/19/the-joy-of-folding-bikes",
-      "score": 89
+      "score": 155
     },
     {
-      "title": "Math Is Hard – OpenBSD Stories",
-      "url": "http://miod.online.fr/software/openbsd/stories/vaxfp.html",
-      "score": 40
-    },
-    {
-      "title": "Optimizing Datalog for the GPU",
-      "url": "https://dl.acm.org/doi/10.1145/3669940.3707274",
+      "title": "Reviving BrowserID in 2026",
+      "url": "https://wakamoleguy.com/p/reviving-browserid-in-2026",
       "score": 21
+    },
+    {
+      "title": "AGPLv3§74 Empowers Users to Thwart Badgeware Like OnlyOffice",
+      "url": "https://sfconservancy.org/blog/2026/apr/16/badgeware-onlyoffice-nextcloud-affero-gpl/",
+      "score": 50
+    },
+    {
+      "title": "America's Geothermal Breakthrough",
+      "url": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html",
+      "score": 106
+    },
+    {
+      "title": "Quirks of Human Anatomy",
+      "url": "https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm",
+      "score": 4
     },
     {
       "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
       "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "score": 549
+      "score": 574
     },
     {
-      "title": "Simulacrum of Knowledge Work",
-      "url": "https://blog.happyfellow.dev/simulacrum-of-knowledge-work/",
-      "score": 102
-    },
-    {
-      "title": "The Long Reply",
-      "url": "https://ironicsans.ghost.io/the-long-reply/",
-      "score": 11
-    },
-    {
-      "title": "How Hard Is It to Open a File?",
-      "url": "https://blog.sebastianwick.net/posts/how-hard-is-it-to-open-a-file/",
-      "score": 66
-    },
-    {
-      "title": "Mine, an IDE for Coalton and Common Lisp",
-      "url": "https://coalton-lang.github.io/mine/",
-      "score": 75
-    },
-    {
-      "title": "What async promised and what it delivered",
-      "url": "https://causality.blog/essays/what-async-promised/",
-      "score": 167
-    },
-    {
-      "title": "Desmond Morris has died",
-      "url": "https://www.bbc.com/news/articles/c51y797v200o",
-      "score": 109
+      "title": "The Super Nintendo Cartridges (2024)",
+      "url": "https://fabiensanglard.net/snes_carts/",
+      "score": 43
     },
     {
       "title": "Martin Galway's music source files from 1980's Commodore 64 games",
       "url": "https://github.com/MartinGalway/C64_music",
-      "score": 162
+      "score": 172
     },
     {
-      "title": "Her Life Savings Mysteriously Disappeared After a Systems Glitch",
-      "url": "https://www.nytimes.com/2026/04/25/your-money/fidelity-investments-fraud-alert.html",
+      "title": "Math Is Hard – OpenBSD Stories",
+      "url": "http://miod.online.fr/software/openbsd/stories/vaxfp.html",
+      "score": 86
+    },
+    {
+      "title": "Per-image PCA characterization of the Kodak image suite (PDF and JSON)",
+      "url": "https://github.com/PearsonZero/kodak-pcd0992-statistical-characterization/tree/main/baseline",
+      "score": 7
+    },
+    {
+      "title": "Rediscovering the Handcart",
+      "url": "https://solar.lowtechmagazine.com/2026/04/rediscovering-the-handcart/",
+      "score": 10
+    },
+    {
+      "title": "Optimizing Datalog for the GPU",
+      "url": "https://dl.acm.org/doi/10.1145/3669940.3707274",
       "score": 43
     },
     {
-      "title": "Show HN: Kloak, A secret manager that keeps K8s workload away from secrets",
-      "url": "https://getkloak.io/",
-      "score": 45
+      "title": "Hokusai and Tesselations",
+      "url": "https://dl.ndl.go.jp/pid/1899550/1/11/",
+      "score": 102
     },
     {
-      "title": "Lute: A Standalone Runtime for Luau",
-      "url": "https://lute.luau.org/",
-      "score": 63
+      "title": "DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles",
+      "url": "https://www.lmsys.org/blog/2026-04-25-deepseek-v4/",
+      "score": 44
     },
     {
-      "title": "Discret 11, the French TV encryption of the 80s",
-      "url": "https://fabiensanglard.net/discret11/",
-      "score": 149
-    },
-    {
-      "title": "GPT‑5.5 Bio Bug Bounty",
-      "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
-      "score": 132
-    },
-    {
-      "title": "Colorado Adds Open-Source Exemption to Age-Verification Bill",
-      "url": "https://fosstodon.org/@carlrichell/116460505717380644",
-      "score": 55
-    },
-    {
-      "title": "Can you stop beans from making you gassy?",
-      "url": "https://www.seriouseats.com/how-to-reduce-bean-gas-tested-11883862",
-      "score": 111
-    },
-    {
-      "title": "Which one is more important: more parameters or more computation? (2021)",
-      "url": "https://parl.ai/projects/params_vs_compute/",
-      "score": 51
-    },
-    {
-      "title": "A web-based RDP client built with Go WebAssembly and grdp",
-      "url": "https://github.com/nakagami/grdpwasm",
-      "score": 114
-    },
-    {
-      "title": "Agents Aren't Coworkers, Embed Them in Your Software",
-      "url": "https://www.feldera.com/blog/ai-agents-arent-coworkers-embed-them-in-your-software",
-      "score": 37
+      "title": "Simulacrum of Knowledge Work",
+      "url": "https://blog.happyfellow.dev/simulacrum-of-knowledge-work/",
+      "score": 139
     }
   ]
 }
