@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Tim Cook Is Leaving. Good",
-      "url": "https://routerjockey.com/tim-cook-is-leaving-good/",
-      "score": 34
+      "title": "United Wizards of the Coast",
+      "url": "https://unitedwizardsofthecoast.com/news/announcing-united-wizards-coast-cwa",
+      "score": 64
     },
     {
-      "title": "Pgbackrest is no longer being maintained",
-      "url": "https://github.com/pgbackrest/pgbackrest",
-      "score": 200
+      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+      "score": 522
     },
     {
-      "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
-      "url": "https://github.com/dirac-run/dirac",
-      "score": 57
+      "title": "Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards",
+      "url": "https://github.com/Hanqaqa/Easyduino",
+      "score": 67
     },
     {
-      "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
-      "url": "https://github.com/WeebLabs/DSPi",
-      "score": 111
+      "title": "“Why not just use Lean?”",
+      "url": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
+      "score": 194
     },
     {
-      "title": "Men Who Stare at Walls",
-      "url": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
-      "score": 56
+      "title": "Networking changes coming in macOS 27",
+      "url": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
+      "score": 129
     },
     {
-      "title": "The next phase of the Microsoft OpenAI partnership – OpenAI",
-      "url": "https://openai.com/index/next-phase-of-microsoft-partnership/",
-      "score": 15
+      "title": "China blocks Meta's acquisition of AI startup Manus",
+      "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
+      "score": 19
     },
     {
-      "title": "Flipdiscs",
-      "url": "https://flipdisc.io",
-      "score": 385
+      "title": "GitHub is having issues now",
+      "url": "https://www.githubstatus.com",
+      "score": 166
     },
     {
-      "title": "I bought Friendster for $30k – Here's what I'm doing with it",
-      "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
-      "score": 936
+      "title": "Super ZSNES – GPU Powered SNES Emulator",
+      "url": "https://zsnes.com/",
+      "score": 74
+    },
+    {
+      "title": "GitHub Copilot is moving to usage-based billing",
+      "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+      "score": 342
     },
     {
       "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
       "url": "https://app.oravys.com/blog/mercor-breach-2026",
-      "score": 41
+      "score": 333
     },
     {
-      "title": "AI should elevate your thinking, not replace it",
-      "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-      "score": 651
+      "title": "The Quiet Resurgence of RF Engineering",
+      "url": "https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/",
+      "score": 19
     },
     {
-      "title": "Show HN: A terminal spreadsheet editor with Vim keybindings",
-      "url": "https://github.com/garritfra/cell",
-      "score": 24
+      "title": "The woes of sanitizing SVGs",
+      "url": "https://muffin.ink/blog/scratch-svg-sanitization/",
+      "score": 113
     },
     {
-      "title": "FDA Approves First-Ever Gene Therapy for Treatment of Genetic Hearing Loss",
+      "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+      "url": "https://github.com/dirac-run/dirac",
+      "score": 241
+    },
+    {
+      "title": "Magic by Return of Post: How Mail Order Delivered the Occult",
+      "url": "https://publicdomainreview.org/essay/magic-by-return-of-post/",
+      "score": 9
+    },
+    {
+      "title": "Adding a team was the wrong strategic decision",
+      "url": "https://learnings.aleixmorgadas.dev/p/adding-a-team-was-the-wrong-strategic",
+      "score": 42
+    },
+    {
+      "title": "Pgbackrest is no longer being maintained",
+      "url": "https://github.com/pgbackrest/pgbackrest",
+      "score": 358
+    },
+    {
+      "title": "Men who stare at walls",
+      "url": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
+      "score": 282
+    },
+    {
+      "title": "Our principles",
+      "url": "https://openai.com/index/our-principles/",
+      "score": 18
+    },
+    {
+      "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
+      "url": "https://github.com/WeebLabs/DSPi",
+      "score": 212
+    },
+    {
+      "title": "Decoupled DiLoCo: Resilient, Distributed AI Training at Scale",
+      "url": "https://deepmind.google/blog/decoupled-diloco/",
+      "score": 21
+    },
+    {
+      "title": "FDA approves first gene therapy for treatment of genetic hearing loss",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
-      "score": 29
+      "score": 161
     },
     {
-      "title": "TurboQuant: A first-principles walkthrough",
-      "url": "https://arkaung.github.io/interactive-turboquant/",
-      "score": 221
+      "title": "Flipdiscs",
+      "url": "https://flipdisc.io",
+      "score": 498
+    },
+    {
+      "title": "Show HN: Utilyze – an open source GPU monitoring tool more accurate than nvtop",
+      "url": "https://www.systalyze.com/utilyze",
+      "score": 42
     },
     {
       "title": "Quarkdown – Markdown with Superpowers",
       "url": "https://quarkdown.com/",
-      "score": 53
+      "score": 188
     },
     {
-      "title": "Understanding the short circuit in solid-state batteries",
-      "url": "https://www.mpie.de/5151287/short-circuit-solid-state-batteries",
-      "score": 6
+      "title": "US Supreme Court reviews police use of cell location data",
+      "url": "https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html",
+      "score": 136
     },
     {
-      "title": "Self-updating screenshots",
-      "url": "https://interblah.net/self-updating-screenshots",
-      "score": 373
+      "title": "Den stora Älgvandringen – The great moose migration (live)",
+      "url": "https://www.svtplay.se/video/jXv3A5G/den-stora-algvandringen/idag-00-00",
+      "score": 60
     },
     {
-      "title": "The Prompt API",
-      "url": "https://developer.chrome.com/docs/ai/prompt-api",
-      "score": 191
+      "title": "Managing the Unmanaged Switch",
+      "url": "https://watchmysys.com/blog/2026/03/managing-the-unmanaged-switch/",
+      "score": 46
     },
     {
-      "title": "Branimir Lambov from IBM on Cassandra",
-      "url": "https://theconsensus.dev/p/2026/04/26/branimir-lambov-from-ibm-on-cassandra.html",
-      "score": 28
+      "title": "Tendril – a self-extending agent that builds and registers its own tools",
+      "url": "https://github.com/serverless-dna/tendril",
+      "score": 55
     },
     {
-      "title": "Getting my daily news from a dot matrix printer 2024",
-      "url": "https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/",
-      "score": 23
+      "title": "Supreme Court to Hear Arguments in Landmark Roundup Weedkiller Case",
+      "url": "https://www.nytimes.com/2026/04/26/climate/supreme-court-bayer-monsanto-roundup-glyphosate.html",
+      "score": 70
     },
     {
-      "title": "France's Mistral Built a $14B AI Empire by Not Being American",
-      "url": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/",
-      "score": 105
-    },
-    {
-      "title": "It's OK to abandon your side-project (2024)",
-      "url": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
-      "score": 129
-    },
-    {
-      "title": "Electrostatics and High Voltage Links",
-      "url": "http://amasci.com/static/electrostatic1.html",
-      "score": 21
-    },
-    {
-      "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
-      "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
-      "score": 293
-    },
-    {
-      "title": "Microsoft to Stop Sharing Revenue with Main AI Partner OpenAI",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "score": 13
-    },
-    {
-      "title": "Three constraints before I build anything",
-      "url": "https://jordanlord.co.uk/blog/3-constraints/",
-      "score": 263
-    },
-    {
-      "title": "Rust Memory Management: Ownership vs. Reference Counting",
-      "url": "https://slicker.me/rust/ownership_and_borrowing_vs_reference_counting.html",
-      "score": 43
-    },
-    {
-      "title": "A Guide to CubeSat Mission and Bus Design",
-      "url": "https://pressbooks-dev.oer.hawaii.edu/epet302/",
-      "score": 54
-    },
-    {
-      "title": "SWE-bench Verified no longer measures frontier coding capabilities",
-      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
-      "score": 328
-    },
-    {
-      "title": "Box to save memory in Rust",
-      "url": "https://dystroy.org/blog/box-to-save-memory/",
-      "score": 153
-    },
-    {
-      "title": "Show HN: I built a dual crossword puzzle where two crosswords share one grid",
-      "url": "https://forkle.co.uk/",
-      "score": 10
+      "title": "Show HN: A terminal spreadsheet editor with Vim keybindings",
+      "url": "https://github.com/garritfra/cell",
+      "score": 68
     }
   ]
 }
