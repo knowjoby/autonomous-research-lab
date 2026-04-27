@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Tim Cook Is Leaving. Good",
+      "url": "https://routerjockey.com/tim-cook-is-leaving-good/",
+      "score": 34
+    },
+    {
+      "title": "Pgbackrest is no longer being maintained",
+      "url": "https://github.com/pgbackrest/pgbackrest",
+      "score": 200
+    },
+    {
+      "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+      "url": "https://github.com/dirac-run/dirac",
+      "score": 57
+    },
+    {
+      "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
+      "url": "https://github.com/WeebLabs/DSPi",
+      "score": 111
+    },
+    {
+      "title": "Men Who Stare at Walls",
+      "url": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
+      "score": 56
+    },
+    {
+      "title": "The next phase of the Microsoft OpenAI partnership – OpenAI",
+      "url": "https://openai.com/index/next-phase-of-microsoft-partnership/",
+      "score": 15
+    },
+    {
       "title": "Flipdiscs",
       "url": "https://flipdisc.io",
-      "score": 210
+      "score": 385
     },
     {
       "title": "I bought Friendster for $30k – Here's what I'm doing with it",
       "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
-      "score": 749
+      "score": 936
     },
     {
-      "title": "TurboQuant: A first-principles walkthrough",
-      "url": "https://arkaung.github.io/interactive-turboquant/",
-      "score": 129
+      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+      "url": "https://app.oravys.com/blog/mercor-breach-2026",
+      "score": 41
     },
     {
       "title": "AI should elevate your thinking, not replace it",
       "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-      "score": 462
+      "score": 651
+    },
+    {
+      "title": "Show HN: A terminal spreadsheet editor with Vim keybindings",
+      "url": "https://github.com/garritfra/cell",
+      "score": 24
+    },
+    {
+      "title": "FDA Approves First-Ever Gene Therapy for Treatment of Genetic Hearing Loss",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
+      "score": 29
+    },
+    {
+      "title": "TurboQuant: A first-principles walkthrough",
+      "url": "https://arkaung.github.io/interactive-turboquant/",
+      "score": 221
+    },
+    {
+      "title": "Quarkdown – Markdown with Superpowers",
+      "url": "https://quarkdown.com/",
+      "score": 53
+    },
+    {
+      "title": "Understanding the short circuit in solid-state batteries",
+      "url": "https://www.mpie.de/5151287/short-circuit-solid-state-batteries",
+      "score": 6
     },
     {
       "title": "Self-updating screenshots",
       "url": "https://interblah.net/self-updating-screenshots",
-      "score": 266
+      "score": 373
     },
     {
       "title": "The Prompt API",
       "url": "https://developer.chrome.com/docs/ai/prompt-api",
-      "score": 96
+      "score": 191
     },
     {
-      "title": "Three constraints before I build anything",
-      "url": "https://jordanlord.co.uk/blog/3-constraints/",
-      "score": 190
+      "title": "Branimir Lambov from IBM on Cassandra",
+      "url": "https://theconsensus.dev/p/2026/04/26/branimir-lambov-from-ibm-on-cassandra.html",
+      "score": 28
+    },
+    {
+      "title": "Getting my daily news from a dot matrix printer 2024",
+      "url": "https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/",
+      "score": 23
+    },
+    {
+      "title": "France's Mistral Built a $14B AI Empire by Not Being American",
+      "url": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/",
+      "score": 105
+    },
+    {
+      "title": "It's OK to abandon your side-project (2024)",
+      "url": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
+      "score": 129
+    },
+    {
+      "title": "Electrostatics and High Voltage Links",
+      "url": "http://amasci.com/static/electrostatic1.html",
+      "score": 21
     },
     {
       "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
       "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
-      "score": 236
+      "score": 293
     },
     {
-      "title": "When the cheap one is the cool one",
-      "url": "https://arun.is/blog/cheap-cool/",
-      "score": 106
+      "title": "Microsoft to Stop Sharing Revenue with Main AI Partner OpenAI",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+      "score": 13
+    },
+    {
+      "title": "Three constraints before I build anything",
+      "url": "https://jordanlord.co.uk/blog/3-constraints/",
+      "score": 263
+    },
+    {
+      "title": "Rust Memory Management: Ownership vs. Reference Counting",
+      "url": "https://slicker.me/rust/ownership_and_borrowing_vs_reference_counting.html",
+      "score": 43
     },
     {
       "title": "A Guide to CubeSat Mission and Bus Design",
       "url": "https://pressbooks-dev.oer.hawaii.edu/epet302/",
-      "score": 24
-    },
-    {
-      "title": "Box to save memory in Rust",
-      "url": "https://dystroy.org/blog/box-to-save-memory/",
-      "score": 122
-    },
-    {
-      "title": "The Mushroom That Makes People Have the Exact Same Hallucination",
-      "url": "https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/",
-      "score": 20
-    },
-    {
-      "title": "FreeBSD Device Drivers Book",
-      "url": "https://github.com/ebrandi/FDD-book",
-      "score": 80
-    },
-    {
-      "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
-      "url": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
-      "score": 372
-    },
-    {
-      "title": "Mystery Cpuid Bit",
-      "url": "http://www.os2museum.com/wp/mystery-cpuid-bit/",
-      "score": 10
+      "score": 54
     },
     {
       "title": "SWE-bench Verified no longer measures frontier coding capabilities",
       "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
-      "score": 295
+      "score": 328
     },
     {
-      "title": "Revocation of X.509 Certificates",
-      "url": "https://blog.apnic.net/2026/04/24/revocation-of-x-509-certificates/",
-      "score": 34
+      "title": "Box to save memory in Rust",
+      "url": "https://dystroy.org/blog/box-to-save-memory/",
+      "score": 153
     },
     {
-      "title": "The Military Rockets That Launched the Space Age (2023)",
-      "url": "https://airandspace.si.edu/stories/editorial/military-rockets-launched-space-age",
-      "score": 8
-    },
-    {
-      "title": "Butterflies are in decline across North America, a look at the Western Monarch",
-      "url": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
-      "score": 203
-    },
-    {
-      "title": "Quirks of Human Anatomy",
-      "url": "https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm",
-      "score": 130
-    },
-    {
-      "title": "Chernobyl wildlife forty years on",
-      "url": "https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on",
-      "score": 98
-    },
-    {
-      "title": "Running Bare-Metal Rust Alongside ESP-IDF on the ESP32-S3's Second Core",
-      "url": "https://tingouw.com/blog/embedded/esp32/run_rust_on_app_core",
-      "score": 66
-    },
-    {
-      "title": "EvanFlow – A TDD driven feedback loop for Claude Code",
-      "url": "https://github.com/evanklem/evanflow",
-      "score": 62
-    },
-    {
-      "title": "Magic: The Gathering took me from N2 to Japanese fluency",
-      "url": "https://www.tokyodev.com/articles/how-magic-the-gathering-took-me-from-n2-to-japanese-fluency",
-      "score": 126
-    },
-    {
-      "title": "An AI agent deleted our production database. The agent's confession is below",
-      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
-      "score": 646
-    },
-    {
-      "title": "Clay PCB Tutorial",
-      "url": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
-      "score": 220
-    },
-    {
-      "title": "Show HN: Free textbook on engineering thermodynamics",
-      "url": "https://thermodynamicsbook.com/",
-      "score": 138
-    },
-    {
-      "title": "MoQ Boy",
-      "url": "https://moq.dev/blog/moq-boy/",
-      "score": 59
-    },
-    {
-      "title": "The Visible Zorker: Zork 1",
-      "url": "https://eblong.com/infocom/visi/zork1/",
-      "score": 127
-    },
-    {
-      "title": "Lessons from building multiplayer browsers",
-      "url": "https://www.alejandro.pe/writing/sail-muddy-lessons",
-      "score": 28
+      "title": "Show HN: I built a dual crossword puzzle where two crosswords share one grid",
+      "url": "https://forkle.co.uk/",
+      "score": 10
     }
   ]
 }
