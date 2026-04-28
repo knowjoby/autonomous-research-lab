@@ -2,149 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "GTFOBins",
-      "url": "https://gtfobins.org/",
-      "score": 100
+      "title": "DOOM running in ChatGPT and Claude",
+      "url": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
+      "score": 34
+    },
+    {
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "url": "https://github.com/localsend/localsend",
+      "score": 642
+    },
+    {
+      "title": "Interview with OpenAI and AWS CEOs about Bedrock Managed Agents",
+      "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+      "score": 12
+    },
+    {
+      "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "score": 272
+    },
+    {
+      "title": "Claude.ai unavailable and elevated errors on the API",
+      "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
+      "score": 151
+    },
+    {
+      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
+      "url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
+      "score": 95
+    },
+    {
+      "title": "Patch applies fake diffs from commit messages",
+      "url": "https://samizdat.dev/phantom-patch/",
+      "score": 13
+    },
+    {
+      "title": "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
+      "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
+      "score": 146
+    },
+    {
+      "title": "I have officially retired from Emacs",
+      "url": "https://nullprogram.com/blog/2026/04/26/",
+      "score": 118
+    },
+    {
+      "title": "Show HN: Live Sun and Moon Dashboard with NASA Footage",
+      "url": "https://www.lumara-space.app/",
+      "score": 132
+    },
+    {
+      "title": "Infisical (YC W23) Is Hiring Full Stack Software Engineers (Remote)",
+      "url": "https://jobs.ashbyhq.com/infisical/782b9da8-20e1-48b2-919e-6c5430c58628",
+      "score": 1
+    },
+    {
+      "title": "Laguna XS.2 and M.1",
+      "url": "https://poolside.ai/blog/laguna-a-deeper-dive",
+      "score": 70
+    },
+    {
+      "title": "Who owns the code Claude Code wrote?",
+      "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
+      "score": 167
+    },
+    {
+      "title": "C, Just In Time!",
+      "url": "https://dyne.org/cjit/",
+      "score": 9
+    },
+    {
+      "title": "Warp is now Open-Source",
+      "url": "https://github.com/warpdotdev/warp",
+      "score": 34
+    },
+    {
+      "title": "Things C++26 define_static_array can't do",
+      "url": "https://quuxplusone.github.io/blog/2026/04/24/define-static-array/",
+      "score": 27
+    },
+    {
+      "title": "Waymo in Portland",
+      "url": "https://waymo.com/blog/shorts/waymo-in-portland/",
+      "score": 125
+    },
+    {
+      "title": "Bankruptcies increase 11.9 percent",
+      "url": "https://www.uscourts.gov/data-news/judiciary-news/2026/04/23/bankruptcies-increase-119-percent",
+      "score": 99
+    },
+    {
+      "title": "GitHub Actions is the weakest link",
+      "url": "https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html",
+      "score": 152
+    },
+    {
+      "title": "FCC Funding Application Notes Paramount Will Be 49.5% Foreign-Owned Post-Merger",
+      "url": "https://deadline.com/2026/04/paramount-fcc-request-wbd-merger-middle-east-1236873732/",
+      "score": 158
     },
     {
       "title": "Talkie: a 13B vintage language model from 1930",
       "url": "https://talkie-lm.com/introducing-talkie",
-      "score": 326
+      "score": 593
     },
     {
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "score": 865
+      "title": "GitHub Copilot code review will start consuming GitHub Actions minutes",
+      "url": "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/",
+      "score": 189
     },
     {
-      "title": "Is my blue your blue?",
-      "url": "https://ismy.blue/",
-      "score": 500
+      "title": "ASML became the chokepoint for cutting-edge chips",
+      "url": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
+      "score": 282
     },
     {
-      "title": "Pgrx: Build Postgres Extensions with Rust",
-      "url": "https://github.com/pgcentralfoundation/pgrx",
-      "score": 66
+      "title": "Deep under Antarctic ice, a long-predicted cosmic whisper breaks through",
+      "url": "https://phys.org/news/2026-04-deep-antarctic-ice-cosmic-strange.html",
+      "score": 94
+    },
+    {
+      "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+      "score": 221
+    },
+    {
+      "title": "A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all",
+      "url": "https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files",
+      "score": 25
     },
     {
       "title": "Can You Find the Comet?",
       "url": "https://apod.nasa.gov/apod/ap260427.html",
-      "score": 13
+      "score": 126
     },
     {
-      "title": "Mo RAM, Mo Problems (2025)",
-      "url": "https://fabiensanglard.net/curse/",
-      "score": 119
+      "title": "Anthropic Joins the Blender Development Fund as Corporate Patron",
+      "url": "https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/",
+      "score": 207
     },
     {
-      "title": "High Performance Git",
-      "url": "https://gitperf.com/",
-      "score": 113
+      "title": "UAE Leaves OPEC and OPEC+",
+      "url": "https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/",
+      "score": 294
     },
     {
-      "title": "First G-SHOCK with a heart rate monitor, also featuring Smartphone Link",
-      "url": "https://gshock.casio.com/intl/products/g-lide/gbx-h5600/",
-      "score": 24
-    },
-    {
-      "title": "Three men are facing charges in Toronto SMS Blaster arrests",
-      "url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
-      "score": 152
-    },
-    {
-      "title": "How I leared what a decoupling capacitor is for, the hard way",
-      "url": "https://nbelakovski.substack.com/p/how-i-learned-what-a-decoupling-capacitor",
-      "score": 88
-    },
-    {
-      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "url": "https://app.oravys.com/blog/mercor-breach-2026",
-      "score": 515
-    },
-    {
-      "title": "WASM is not quite a stack machine",
-      "url": "https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/",
-      "score": 14
-    },
-    {
-      "title": "Men who stare at walls",
-      "url": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
-      "score": 562
-    },
-    {
-      "title": "The quiet resurgence of RF engineering",
-      "url": "https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/",
-      "score": 188
-    },
-    {
-      "title": "LingBot-Map: Streaming 3D reconstruction with geometric context transformer",
-      "url": "https://technology.robbyant.com/lingbot-map",
-      "score": 23
-    },
-    {
-      "title": "Easyduino: Open Source PCB Devboards for KiCad",
-      "url": "https://github.com/Hanqaqa/Easyduino",
-      "score": 204
-    },
-    {
-      "title": "Meetings are forcing functions",
-      "url": "https://www.mooreds.com/wordpress/archives/3734",
-      "score": 112
-    },
-    {
-      "title": "Networking changes coming in macOS 27",
-      "url": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
-      "score": 226
-    },
-    {
-      "title": "The woes of sanitizing SVGs",
-      "url": "https://muffin.ink/blog/scratch-svg-sanitization/",
-      "score": 214
-    },
-    {
-      "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
-      "url": "https://github.com/WeebLabs/DSPi",
-      "score": 287
-    },
-    {
-      "title": "Integrated by Design",
-      "url": "https://vivianvoss.net/blog/integrated-by-design-launch",
-      "score": 92
-    },
-    {
-      "title": "FDA approves first gene therapy for treatment of genetic hearing loss",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
-      "score": 239
-    },
-    {
-      "title": "Lessons from building multiplayer browsers",
-      "url": "https://www.alejandro.pe/writing/sail-muddy-lessons",
-      "score": 44
-    },
-    {
-      "title": "Radar Laboratory – Interactive Radar Phenomenology",
-      "url": "https://radarlaboratory.com/",
-      "score": 52
-    },
-    {
-      "title": "Pgbackrest is no longer being maintained",
-      "url": "https://github.com/pgbackrest/pgbackrest",
-      "score": 417
-    },
-    {
-      "title": "Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar",
-      "url": "https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar",
-      "score": 98
-    },
-    {
-      "title": "BYD Seal 08 debuts with Blade Battery 2.0: 1,000km range, 5-min charging, 684hp",
-      "url": "https://electrek.co/2026/04/27/byd-seal-08-blade-battery-2-1000km-range-beijing-auto-show/",
-      "score": 16
-    },
-    {
-      "title": "GitHub Copilot is moving to usage-based billing",
-      "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
-      "score": 637
+      "title": "PyWry: Cross-Platform Rendering Engine in Python",
+      "url": "https://deeleeramone.github.io/PyWry/",
+      "score": 29
     }
   ]
 }
