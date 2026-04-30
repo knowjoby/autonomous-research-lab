@@ -2,79 +2,129 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Craig Venter has died",
-      "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
-      "score": 67
+      "title": "Where the goblins came from",
+      "url": "https://openai.com/index/where-the-goblins-came-from/",
+      "score": 507
+    },
+    {
+      "title": "Noctua releases official 3D CAD models for its cooling fans",
+      "url": "https://www.noctua.at/en/3d-cad-models",
+      "score": 174
     },
     {
       "title": "Zed 1.0",
       "url": "https://zed.dev/blog/zed-1-0",
-      "score": 1576
+      "score": 1802
+    },
+    {
+      "title": "The Zig project's rationale for their anti-AI contribution policy",
+      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+      "score": 221
+    },
+    {
+      "title": "Craig Venter has died",
+      "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+      "score": 216
+    },
+    {
+      "title": "Scott Aaronson on quantum: \"Will you heed my warnings NOW?\"",
+      "url": "https://scottaaronson.blog/?p=9718",
+      "score": 50
+    },
+    {
+      "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+      "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+      "score": 120
     },
     {
       "title": "Copy Fail",
       "url": "https://copy.fail/",
-      "score": 639
+      "score": 900
     },
     {
-      "title": "Joby Kicks Off NYC Electric Air Taxi Demos with Historic JFK Flight",
-      "url": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
-      "score": 17
+      "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
+      "url": "https://burrito.bio/essays/biology-is-a-burrito",
+      "score": 80
+    },
+    {
+      "title": "Functional programmers need to take a look at Zig",
+      "url": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
+      "score": 99
     },
     {
       "title": "Cursor Camp",
       "url": "https://neal.fun/cursor-camp/",
-      "score": 686
+      "score": 890
     },
     {
-      "title": "OpenTrafficMap",
-      "url": "https://opentrafficmap.org/",
-      "score": 161
+      "title": "London to Calcutta by Bus (2022)",
+      "url": "https://www.amusingplanet.com/2022/08/london-to-calcutta-by-bus.html",
+      "score": 45
     },
     {
-      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
-      "url": "https://github.com/anthropics/claude-code/issues/53262",
-      "score": 999
+      "title": "The Silent Frequency That Makes Old Buildings Feel Haunted",
+      "url": "https://scienceblog.com/the-silent-frequency-that-makes-old-buildings-feel-haunted/",
+      "score": 14
     },
     {
       "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
       "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
-      "score": 260
+      "score": 330
     },
     {
-      "title": "Vera: a programming language designed for machines to write",
-      "url": "https://github.com/aallan/vera",
-      "score": 59
+      "title": "OpenTrafficMap",
+      "url": "https://opentrafficmap.org/",
+      "score": 241
     },
     {
-      "title": "Consequences of passing too few register parameters to a C function",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271",
-      "score": 19
+      "title": "Monad Tutorials Timeline",
+      "url": "https://wiki.haskell.org/Monad_tutorials_timeline",
+      "score": 26
+    },
+    {
+      "title": "Creating a Color Palette from an Image",
+      "url": "https://amandahinton.com/blog/creating-a-color-palette-from-an-image",
+      "score": 65
+    },
+    {
+      "title": "Mike: open-source legal AI",
+      "url": "https://mikeoss.com/",
+      "score": 81
+    },
+    {
+      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+      "url": "https://github.com/anthropics/claude-code/issues/53262",
+      "score": 1105
+    },
+    {
+      "title": "Joby kicks off NYC electric air taxi demos with historic JFK flight",
+      "url": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
+      "score": 46
     },
     {
       "title": "Why I still reach for Lisp and Scheme instead of Haskell",
       "url": "https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html",
-      "score": 171
+      "score": 219
     },
     {
       "title": "Laws of UX",
       "url": "https://lawsofux.com/",
-      "score": 200
+      "score": 260
     },
     {
-      "title": "DRAM Crunch: Lessons for System Design",
-      "url": "https://www.eetimes.com/what-the-dram-crunch-teaches-us-about-system-design/",
-      "score": 36
-    },
-    {
-      "title": "Claude.ai and API unavailable [fixed]",
-      "url": "https://status.claude.com/incidents/2gf1jpyty350",
-      "score": 93
+      "title": "A 25-Year-Fight over a 2-Second Sample",
+      "url": "https://www.plagiarismtoday.com/2026/04/20/a-25-year-fight-over-a-2-second-sample/",
+      "score": 3
     },
     {
       "title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
       "url": "https://github.com/GliaX/Stethoscope",
-      "score": 210
+      "score": 246
+    },
+    {
+      "title": "A grounded conceptual model for ownership types in Rust",
+      "url": "https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/",
+      "score": 31
     },
     {
       "title": "Gooseworks (YC W23) Is Hiring a Founding Growth Engineer",
@@ -82,74 +132,24 @@
       "score": 1
     },
     {
-      "title": "I benchmarked Claude Code's caveman plugin against \"be brief.\"",
-      "url": "https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words",
-      "score": 68
-    },
-    {
-      "title": "A Grounded Conceptual Model for Ownership Types in Rust",
-      "url": "https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/",
-      "score": 6
-    },
-    {
-      "title": "Ramp's Sheets AI Exfiltrates Financials",
-      "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
-      "score": 112
-    },
-    {
-      "title": "Creating a Color Palette from an Image",
-      "url": "https://amandahinton.com/blog/creating-a-color-palette-from-an-image",
-      "score": 8
-    },
-    {
-      "title": "We need a federation of forges",
-      "url": "https://blog.tangled.org/federation/",
-      "score": 525
-    },
-    {
-      "title": "Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years",
-      "url": "https://jivx.com/kyoto-bloom",
-      "score": 261
-    },
-    {
-      "title": "Postgres's lateral joins allow for quite the good eDSL",
-      "url": "https://bensimms.moe/postgres-lateral-makes-quite-a-good-dsl/",
-      "score": 64
-    },
-    {
-      "title": "The Lingua Franca of LaTeX (2019)",
-      "url": "https://increment.com/open-source/the-lingua-franca-of-latex/",
-      "score": 16
-    },
-    {
-      "title": "Online age verification is the hill to die on",
-      "url": "https://x.com/GlennMeder/status/2049088498163216560",
-      "score": 788
+      "title": "Consequences of passing too few register parameters to a C function",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271",
+      "score": 56
     },
     {
       "title": "How to Build the Future: Demis Hassabis [video]",
       "url": "https://www.youtube.com/watch?v=JNyuX1zoOgU",
-      "score": 92
+      "score": 116
     },
     {
-      "title": "Mike: open-source legal AI",
-      "url": "https://mikeoss.com/",
-      "score": 13
+      "title": "We need a federation of forges",
+      "url": "https://blog.tangled.org/federation/",
+      "score": 564
     },
     {
-      "title": "I accidentally made law enforcement shut down their fake honeypot",
-      "url": "https://lina.sh/blog/ddos-honeypot",
-      "score": 65
-    },
-    {
-      "title": "Ghostty is leaving GitHub",
-      "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 3363
-    },
-    {
-      "title": "Virtualisation on Apple Silicon Macs is different",
-      "url": "https://eclecticlight.co/2026/04/29/virtualisation-on-apple-silicon-macs-is-different/",
-      "score": 78
+      "title": "Ramp's Sheets AI Exfiltrates Financials",
+      "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
+      "score": 127
     }
   ]
 }
