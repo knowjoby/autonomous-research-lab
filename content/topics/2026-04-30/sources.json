@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Belgium stops decommissioning nuclear power plants",
+      "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
+      "score": 175
+    },
+    {
+      "title": "Meta in row after workers who saw smart glasses users having sex lose jobs",
+      "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
+      "score": 56
+    },
+    {
+      "title": "I aggregated 28 US Government auction sites into one search",
+      "url": "https://bidprowl.com",
+      "score": 57
+    },
+    {
+      "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
+      "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
+      "score": 162
+    },
+    {
+      "title": "Mozilla's Opposition to Chrome's Prompt API",
+      "url": "https://github.com/mozilla/standards-positions/issues/1213",
+      "score": 282
+    },
+    {
       "title": "Where the goblins came from",
       "url": "https://openai.com/index/where-the-goblins-came-from/",
-      "score": 507
+      "score": 812
     },
     {
       "title": "Noctua releases official 3D CAD models for its cooling fans",
       "url": "https://www.noctua.at/en/3d-cad-models",
-      "score": 174
+      "score": 366
     },
     {
       "title": "Zed 1.0",
       "url": "https://zed.dev/blog/zed-1-0",
-      "score": 1802
+      "score": 1972
     },
     {
       "title": "The Zig project's rationale for their anti-AI contribution policy",
       "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-      "score": 221
+      "score": 433
     },
     {
-      "title": "Craig Venter has died",
-      "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
-      "score": 216
-    },
-    {
-      "title": "Scott Aaronson on quantum: \"Will you heed my warnings NOW?\"",
-      "url": "https://scottaaronson.blog/?p=9718",
-      "score": 50
-    },
-    {
-      "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
-      "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
-      "score": 120
+      "title": "My Stratum-0 Atomic Clock",
+      "url": "https://coverclock.blogspot.com/2017/05/my-stratum-0-atomic-clock_9.html",
+      "score": 15
     },
     {
       "title": "Copy Fail",
       "url": "https://copy.fail/",
-      "score": 900
+      "score": 1158
     },
     {
-      "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
-      "url": "https://burrito.bio/essays/biology-is-a-burrito",
-      "score": 80
+      "title": "GCC 16 has been released",
+      "url": "https://gcc.gnu.org/gcc-16/changes.html",
+      "score": 114
     },
     {
-      "title": "Functional programmers need to take a look at Zig",
-      "url": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
-      "score": 99
+      "title": "A Primer on Bézier Curves – So What Makes a Bézier Curve?",
+      "url": "https://pomax.github.io/bezierinfo/",
+      "score": 36
+    },
+    {
+      "title": "Craig Venter has died",
+      "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+      "score": 270
+    },
+    {
+      "title": "\"Parse, don't validate\" through the years with C++",
+      "url": "https://derekrodriguez.dev/parse-dont-validate-through-the-years-with-c-/",
+      "score": 50
     },
     {
       "title": "Cursor Camp",
       "url": "https://neal.fun/cursor-camp/",
-      "score": 890
+      "score": 1051
+    },
+    {
+      "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
+      "url": "https://datacenter.fm/",
+      "score": 66
+    },
+    {
+      "title": "U.S. Debt Tops 100% of GDP",
+      "url": "https://www.wsj.com/economy/u-s-debt-tops-100-of-gdp-81c013d7",
+      "score": 61
+    },
+    {
+      "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
+      "url": "https://burrito.bio/essays/biology-is-a-burrito",
+      "score": 150
+    },
+    {
+      "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+      "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+      "score": 170
     },
     {
       "title": "London to Calcutta by Bus (2022)",
       "url": "https://www.amusingplanet.com/2022/08/london-to-calcutta-by-bus.html",
-      "score": 45
-    },
-    {
-      "title": "The Silent Frequency That Makes Old Buildings Feel Haunted",
-      "url": "https://scienceblog.com/the-silent-frequency-that-makes-old-buildings-feel-haunted/",
-      "score": 14
-    },
-    {
-      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
-      "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
-      "score": 330
+      "score": 89
     },
     {
       "title": "OpenTrafficMap",
       "url": "https://opentrafficmap.org/",
-      "score": 241
+      "score": 316
+    },
+    {
+      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
+      "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
+      "score": 372
     },
     {
       "title": "Monad Tutorials Timeline",
       "url": "https://wiki.haskell.org/Monad_tutorials_timeline",
-      "score": 26
-    },
-    {
-      "title": "Creating a Color Palette from an Image",
-      "url": "https://amandahinton.com/blog/creating-a-color-palette-from-an-image",
-      "score": 65
+      "score": 62
     },
     {
       "title": "Mike: open-source legal AI",
       "url": "https://mikeoss.com/",
-      "score": 81
-    },
-    {
-      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
-      "url": "https://github.com/anthropics/claude-code/issues/53262",
-      "score": 1105
-    },
-    {
-      "title": "Joby kicks off NYC electric air taxi demos with historic JFK flight",
-      "url": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
-      "score": 46
-    },
-    {
-      "title": "Why I still reach for Lisp and Scheme instead of Haskell",
-      "url": "https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html",
-      "score": 219
-    },
-    {
-      "title": "Laws of UX",
-      "url": "https://lawsofux.com/",
-      "score": 260
-    },
-    {
-      "title": "A 25-Year-Fight over a 2-Second Sample",
-      "url": "https://www.plagiarismtoday.com/2026/04/20/a-25-year-fight-over-a-2-second-sample/",
-      "score": 3
+      "score": 145
     },
     {
       "title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
       "url": "https://github.com/GliaX/Stethoscope",
-      "score": 246
+      "score": 283
     },
     {
-      "title": "A grounded conceptual model for ownership types in Rust",
-      "url": "https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/",
-      "score": 31
+      "title": "Laws of UX",
+      "url": "https://lawsofux.com/",
+      "score": 309
     },
     {
-      "title": "Gooseworks (YC W23) Is Hiring a Founding Growth Engineer",
-      "url": "https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer",
-      "score": 1
+      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+      "url": "https://github.com/anthropics/claude-code/issues/53262",
+      "score": 1184
     },
     {
-      "title": "Consequences of passing too few register parameters to a C function",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271",
-      "score": 56
+      "title": "Why I still reach for Lisp and Scheme instead of Haskell",
+      "url": "https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html",
+      "score": 251
     },
     {
-      "title": "How to Build the Future: Demis Hassabis [video]",
-      "url": "https://www.youtube.com/watch?v=JNyuX1zoOgU",
-      "score": 116
-    },
-    {
-      "title": "We need a federation of forges",
-      "url": "https://blog.tangled.org/federation/",
-      "score": 564
-    },
-    {
-      "title": "Ramp's Sheets AI Exfiltrates Financials",
-      "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
-      "score": 127
+      "title": "Joby kicks off NYC electric air taxi demos with historic JFK flight",
+      "url": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
+      "score": 72
     }
   ]
 }
