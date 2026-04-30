@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Belgium stops decommissioning nuclear power plants",
-      "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "score": 175
+      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+      "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+      "score": 231
     },
     {
-      "title": "Meta in row after workers who saw smart glasses users having sex lose jobs",
-      "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
-      "score": 56
+      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "score": 186
+    },
+    {
+      "title": "I built a Game Boy emulator in F#",
+      "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+      "score": 87
+    },
+    {
+      "title": "CopyFail Was Not Disclosed to Distros",
+      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "score": 149
+    },
+    {
+      "title": "Belgium stops decommissioning nuclear power plants",
+      "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
+      "score": 620
+    },
+    {
+      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+      "url": "https://twitter.com/theo/status/2049645973350363168",
+      "score": 558
+    },
+    {
+      "title": "How an Oil Refinery Works",
+      "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+      "score": 218
+    },
+    {
+      "title": "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",
+      "url": "https://honker.dev/",
+      "score": 100
+    },
+    {
+      "title": "You can beat the binary search",
+      "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
+      "score": 158
     },
     {
       "title": "I aggregated 28 US Government auction sites into one search",
       "url": "https://bidprowl.com",
-      "score": 57
+      "score": 187
+    },
+    {
+      "title": "Spain's parliament will act against massive IP blockages by LaLiga",
+      "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
+      "score": 277
+    },
+    {
+      "title": "10Gb/s Ethernet: what I did to get it working in my home",
+      "url": "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did",
+      "score": 56
+    },
+    {
+      "title": "Mozilla's opposition to Chrome's Prompt API",
+      "url": "https://github.com/mozilla/standards-positions/issues/1213",
+      "score": 465
+    },
+    {
+      "title": "A 1960s art school experiment that redefined creativity",
+      "url": "https://thereader.mitpress.mit.edu/the-1960s-art-school-experiment-that-redefined-creativity/",
+      "score": 44
+    },
+    {
+      "title": "Recovering files from beyond the grave using PhotoRec",
+      "url": "https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/",
+      "score": 13
+    },
+    {
+      "title": "Full-Text Search with DuckDB",
+      "url": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
+      "score": 6
     },
     {
       "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
       "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
-      "score": 162
-    },
-    {
-      "title": "Mozilla's Opposition to Chrome's Prompt API",
-      "url": "https://github.com/mozilla/standards-positions/issues/1213",
-      "score": 282
-    },
-    {
-      "title": "Where the goblins came from",
-      "url": "https://openai.com/index/where-the-goblins-came-from/",
-      "score": 812
-    },
-    {
-      "title": "Noctua releases official 3D CAD models for its cooling fans",
-      "url": "https://www.noctua.at/en/3d-cad-models",
-      "score": 366
-    },
-    {
-      "title": "Zed 1.0",
-      "url": "https://zed.dev/blog/zed-1-0",
-      "score": 1972
+      "score": 244
     },
     {
       "title": "The Zig project's rationale for their anti-AI contribution policy",
       "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-      "score": 433
+      "score": 597
     },
     {
-      "title": "My Stratum-0 Atomic Clock",
-      "url": "https://coverclock.blogspot.com/2017/05/my-stratum-0-atomic-clock_9.html",
-      "score": 15
+      "title": "Noctua releases official 3D CAD models for its cooling fans",
+      "url": "https://www.noctua.at/en/3d-cad-models",
+      "score": 459
     },
     {
-      "title": "Copy Fail",
-      "url": "https://copy.fail/",
-      "score": 1158
+      "title": "Where the goblins came from",
+      "url": "https://openai.com/index/where-the-goblins-came-from/",
+      "score": 980
     },
     {
-      "title": "GCC 16 has been released",
-      "url": "https://gcc.gnu.org/gcc-16/changes.html",
-      "score": 114
+      "title": "How Semiconductors Were Made in America",
+      "url": "https://www.siliconimist.com/p/semiconductors-made-in-america",
+      "score": 13
+    },
+    {
+      "title": "A statement from members of the Toki Pona community",
+      "url": "https://tokipona.net/wile-pona/",
+      "score": 5
+    },
+    {
+      "title": "The Science Behind Honey's Eternal Shelf Life (2013)",
+      "url": "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/",
+      "score": 49
     },
     {
       "title": "A Primer on Bézier Curves – So What Makes a Bézier Curve?",
       "url": "https://pomax.github.io/bezierinfo/",
-      "score": 36
+      "score": 103
+    },
+    {
+      "title": "Kubereboot/Kured: Kubernetes Reboot Daemon",
+      "url": "https://github.com/kubereboot/kured",
+      "score": 10
+    },
+    {
+      "title": "Show HN: TRiP – a complete transformer engine in C built from scratch just by me",
+      "url": "https://github.com/carlovalenti/TRiP",
+      "score": 17
+    },
+    {
+      "title": "My Stratum-0 Atomic Clock",
+      "url": "https://coverclock.blogspot.com/2017/05/my-stratum-0-atomic-clock_9.html",
+      "score": 62
+    },
+    {
+      "title": "What can we gain by losing infinity?",
+      "url": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
+      "score": 82
     },
     {
       "title": "Craig Venter has died",
       "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
-      "score": 270
+      "score": 320
     },
     {
-      "title": "\"Parse, don't validate\" through the years with C++",
-      "url": "https://derekrodriguez.dev/parse-dont-validate-through-the-years-with-c-/",
-      "score": 50
-    },
-    {
-      "title": "Cursor Camp",
-      "url": "https://neal.fun/cursor-camp/",
-      "score": 1051
-    },
-    {
-      "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
-      "url": "https://datacenter.fm/",
-      "score": 66
-    },
-    {
-      "title": "U.S. Debt Tops 100% of GDP",
-      "url": "https://www.wsj.com/economy/u-s-debt-tops-100-of-gdp-81c013d7",
-      "score": 61
-    },
-    {
-      "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
-      "url": "https://burrito.bio/essays/biology-is-a-burrito",
-      "score": 150
-    },
-    {
-      "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
-      "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
-      "score": 170
-    },
-    {
-      "title": "London to Calcutta by Bus (2022)",
-      "url": "https://www.amusingplanet.com/2022/08/london-to-calcutta-by-bus.html",
-      "score": 89
-    },
-    {
-      "title": "OpenTrafficMap",
-      "url": "https://opentrafficmap.org/",
-      "score": 316
-    },
-    {
-      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
-      "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
-      "score": 372
-    },
-    {
-      "title": "Monad Tutorials Timeline",
-      "url": "https://wiki.haskell.org/Monad_tutorials_timeline",
-      "score": 62
-    },
-    {
-      "title": "Mike: open-source legal AI",
-      "url": "https://mikeoss.com/",
-      "score": 145
-    },
-    {
-      "title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
-      "url": "https://github.com/GliaX/Stethoscope",
-      "score": 283
-    },
-    {
-      "title": "Laws of UX",
-      "url": "https://lawsofux.com/",
-      "score": 309
-    },
-    {
-      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
-      "url": "https://github.com/anthropics/claude-code/issues/53262",
-      "score": 1184
-    },
-    {
-      "title": "Why I still reach for Lisp and Scheme instead of Haskell",
-      "url": "https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html",
-      "score": 251
-    },
-    {
-      "title": "Joby kicks off NYC electric air taxi demos with historic JFK flight",
-      "url": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
-      "score": 72
+      "title": "Largest Digital Human Rights Conference Suddenly Canceled",
+      "url": "https://www.404media.co/rightscon-human-rights-conference-suddenly-postponed/",
+      "score": 56
     }
   ]
 }
