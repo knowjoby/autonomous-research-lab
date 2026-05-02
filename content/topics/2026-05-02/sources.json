@@ -2,144 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "NetHack 5.0.0",
+      "url": "https://nethack.org/v500/release.html",
+      "score": 138
+    },
+    {
+      "title": "Videolan Dav2d",
+      "url": "https://code.videolan.org/videolan/dav2d",
+      "score": 62
+    },
+    {
+      "title": "Uber wants to turn its drivers into a sensor grid for self-driving companies",
+      "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
+      "score": 80
+    },
+    {
+      "title": "Inventions for battery reuse and recycling increase more than 7-fold in last 10y",
+      "url": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
+      "score": 66
+    },
+    {
+      "title": "Flue is a TypeScript framework for building the next generation of agents",
+      "url": "https://flueframework.com/",
+      "score": 17
+    },
+    {
+      "title": "California to begin ticketing driverless cars that violate traffic laws",
+      "url": "https://www.bbc.com/news/articles/clypjx3rg2go",
+      "score": 61
+    },
+    {
+      "title": "Unsigned Sizes: A Five Year Mistake",
+      "url": "https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/",
+      "score": 6
+    },
+    {
+      "title": "Barman – Backup and Recovery Manager for PostgreSQL",
+      "url": "https://github.com/EnterpriseDB/barman",
+      "score": 99
+    },
+    {
       "title": "How fast is a macOS VM, and how small could it be?",
       "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
-      "score": 75
+      "score": 193
     },
     {
       "title": "Why does it take so long to release black fan versions?",
       "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
-      "score": 364
+      "score": 611
+    },
+    {
+      "title": "Roblox shares plummet 18% as child safety measures weigh on bookings",
+      "url": "https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html",
+      "score": 59
+    },
+    {
+      "title": "Refusal in Language Models Is Mediated by a Single Direction",
+      "url": "https://arxiv.org/abs/2406.11717",
+      "score": 60
     },
     {
       "title": "Why are there both TMP and TEMP environment variables? (2015)",
       "url": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
-      "score": 76
-    },
-    {
-      "title": "The Century-Long Pause in Fundamental Physics",
-      "url": "https://danieltan.weblog.lol/2026/05/the-century-long-pause-in-fundamental-physics",
-      "score": 14
-    },
-    {
-      "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
-      "url": "https://github.com/bruin-data/dac",
-      "score": 42
+      "score": 165
     },
     {
       "title": "Open Design: Use Your Coding Agent as a Design Engine",
       "url": "https://github.com/nexu-io/open-design",
-      "score": 8
+      "score": 131
     },
     {
       "title": "Dotcl: Common Lisp Implementation on .NET",
       "url": "https://github.com/dotcl/dotcl",
-      "score": 53
+      "score": 128
     },
     {
-      "title": "Show HN: Piruetas – A self-hosted diary app I built for my girlfriend",
-      "url": "https://piruet.app",
-      "score": 30
+      "title": "America's Expanding Domestic Surveillance",
+      "url": "https://www.wsj.com/articles/americas-expanding-domestic-surveillance-08b73187",
+      "score": 113
+    },
+    {
+      "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
+      "url": "https://arxiv.org/abs/2509.00462",
+      "score": 300
     },
     {
       "title": "Ti-84 Evo",
       "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "score": 483
-    },
-    {
-      "title": "Show HN: Browser-based light pollution simulator using real photometric data",
-      "url": "https://iesna.eu/?wasm=skyglow_demo",
-      "score": 22
-    },
-    {
-      "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
-      "url": "https://mljar.com/",
-      "score": 24
-    },
-    {
-      "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
-      "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
-      "score": 22
-    },
-    {
-      "title": "Artemis II Photo Timeline",
-      "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
-      "score": 243
-    },
-    {
-      "title": "New research suggests people can communicate and practice skills while dreaming",
-      "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "score": 369
-    },
-    {
-      "title": "Bitmap and tilemap generation from a single example",
-      "url": "https://github.com/mxgmn/WaveFunctionCollapse",
-      "score": 42
-    },
-    {
-      "title": "Show HN: Large Scale Article Extract of Newspapers 1730s-1960s",
-      "url": "https://snewpapers.com/",
-      "score": 18
-    },
-    {
-      "title": "To Restore an Island Paradise, Add Fungi",
-      "url": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
-      "score": 83
+      "score": 547
     },
     {
       "title": "Show HN: Pollen – distributed WASM runtime, no control plane, single binary",
       "url": "https://github.com/sambigeara/pollen",
-      "score": 12
+      "score": 77
     },
     {
-      "title": "CollectWise (YC F24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer",
-      "score": 1
+      "title": "Also-RANS: Asymmetric Numeral Systems for Entropy Coding",
+      "url": "https://fergusfinn.com/blog/understanding-rans/",
+      "score": 6
     },
     {
-      "title": "Ask.com has closed",
-      "url": "https://www.ask.com/",
-      "score": 312
-    },
-    {
-      "title": "GameStop Preparing Offer for eBay",
-      "url": "https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de",
-      "score": 24
-    },
-    {
-      "title": "SFO Gate Explorer",
-      "url": "https://www.flysfo.com/passengers/services/gate-explorer",
+      "title": "Do_not_track",
+      "url": "https://donottrack.sh/",
       "score": 5
     },
     {
-      "title": "LFM2-24B-A2B: Scaling Up the LFM2 Architecture",
-      "url": "https://www.liquid.ai/blog/lfm2-24b-a2b",
-      "score": 50
+      "title": "Zugzwang",
+      "url": "https://en.wikipedia.org/wiki/Zugzwang",
+      "score": 70
+    },
+    {
+      "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
+      "url": "https://github.com/bruin-data/dac",
+      "score": 81
+    },
+    {
+      "title": "Welcome to Hell Developer",
+      "url": "https://noahclements.com/Wahoo-Bolt-Hidden-Debug-Mode/",
+      "score": 3
+    },
+    {
+      "title": "Artemis II Photo Timeline",
+      "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
+      "score": 313
+    },
+    {
+      "title": "New research suggests people can communicate and practice skills while dreaming",
+      "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+      "score": 423
     },
     {
       "title": "DeepSeek V4–almost on the frontier, a fraction of the price",
       "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
-      "score": 203
+      "score": 403
     },
     {
-      "title": "A report on burnout in open source software communities (2025) [pdf]",
-      "url": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
-      "score": 100
+      "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
+      "url": "https://mljar.com/",
+      "score": 57
     },
     {
-      "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
-      "url": "https://github.com/microsoft/lib0xc",
-      "score": 156
+      "title": "To Restore an Island Paradise, Add Fungi",
+      "url": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
+      "score": 125
     },
     {
-      "title": "An unknown Sega Saturn project has come to light after 29 years",
-      "url": "https://32bits.substack.com/p/under-the-microscope-pyramid-unreleased",
-      "score": 5
-    },
-    {
-      "title": "Show HN: Stop playing my matchstick puzzles, start building your own in seconds",
-      "url": "https://mathstick.github.io",
-      "score": 20
+      "title": "SFO Gate Explorer",
+      "url": "https://www.flysfo.com/passengers/services/gate-explorer",
+      "score": 33
     }
   ]
 }
