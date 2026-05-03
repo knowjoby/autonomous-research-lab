@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-      "url": "https://acai.sh/blog/specsmaxxing",
-      "score": 36
+      "title": "Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web",
+      "url": "https://github.com/bring-shrubbery/ml-sharp-web",
+      "score": 52
     },
     {
-      "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
+      "title": "A couple million lines of Haskell: Production engineering at Mercury",
       "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
-      "score": 170
+      "score": 299
     },
     {
-      "title": "This Month in Ladybird - April 2026",
+      "title": "This Month in Ladybird – April 2026",
       "url": "https://ladybird.org/newsletter/2026-04-30/",
-      "score": 285
-    },
-    {
-      "title": "The IBM Granite 4.1 family of models",
-      "url": "https://research.ibm.com/blog/granite-4-1-ai-foundation-models",
-      "score": 67
-    },
-    {
-      "title": "Windows quality update: Progress we've made since March",
-      "url": "https://blogs.windows.com/windows-insider/2026/05/01/windows-quality-update-progress-weve-made-since-march/",
-      "score": 34
+      "score": 389
     },
     {
       "title": "Dav2d",
       "url": "https://code.videolan.org/videolan/dav2d",
-      "score": 451
+      "score": 518
     },
     {
       "title": "Six Years Perfecting Maps on WatchOS",
       "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
-      "score": 267
+      "score": 348
     },
     {
-      "title": "Neanderthals ran 'fat factories' 125,000 years ago (2025)",
-      "url": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
-      "score": 173
+      "title": "Windows quality update: Progress we've made since March",
+      "url": "https://blogs.windows.com/windows-insider/2026/05/01/windows-quality-update-progress-weve-made-since-march/",
+      "score": 79
+    },
+    {
+      "title": "Group averages obscure how an individual's brain controls behavior: study",
+      "url": "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html",
+      "score": 30
+    },
+    {
+      "title": "Utilyze measures how efficiently your GPU is doing useful work",
+      "url": "https://github.com/systalyze/utilyze",
+      "score": 12
     },
     {
       "title": "Do_not_track",
       "url": "https://donottrack.sh/",
-      "score": 293
+      "score": 394
     },
     {
-      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
-      "url": "https://github.com/microsoft/vscode/pull/310226",
-      "score": 1108
+      "title": "Unverified Evaluations in Dusk's PLONK",
+      "url": "https://osec.io/blog/2026-04-30-unverified-evaluations-dusk-plonk/",
+      "score": 28
     },
     {
-      "title": "Inventions for battery reuse and recycling increase seven-fold in last decade",
-      "url": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
-      "score": 193
+      "title": "Neanderthals ran 'fat factories' 125,000 years ago (2025)",
+      "url": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
+      "score": 223
     },
     {
-      "title": "San Francisco streets with confusingly similar names",
-      "url": "https://j-nelson.net/san-francisco-streets-with-similar-names/",
-      "score": 20
+      "title": "Investors pile into clean energy as Iran war drives push for energy security",
+      "url": "https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a",
+      "score": 48
     },
     {
       "title": "Care homes and hotels in Japan shut as expansion strategy unravels",
       "url": "https://www.newsonjapan.com/article/149075.php",
+      "score": 58
+    },
+    {
+      "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+      "url": "https://acai.sh/blog/specsmaxxing",
+      "score": 160
+    },
+    {
+      "title": "Inventions for battery reuse and recycling increase seven-fold in last decade",
+      "url": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
+      "score": 207
+    },
+    {
+      "title": "Systemd-manager-TUI: A TUI application for managing systemd services",
+      "url": "https://github.com/Matheus-git/systemd-manager-tui",
       "score": 30
     },
     {
-      "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
-      "url": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
-      "score": 97
-    },
-    {
-      "title": "Maryland to ban A.I.-driven price increases in grocery stores",
-      "url": "https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html",
-      "score": 139
+      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+      "url": "https://github.com/microsoft/vscode/pull/310226",
+      "score": 1290
     },
     {
       "title": "The agent harness belongs outside the sandbox",
       "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
-      "score": 94
+      "score": 119
     },
     {
       "title": "A more efficient implementation of Shor's algorithm",
       "url": "https://lwn.net/Articles/1066156/",
-      "score": 70
+      "score": 92
+    },
+    {
+      "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
+      "url": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
+      "score": 115
+    },
+    {
+      "title": "Benchmarking a Bug Scanner",
+      "url": "https://blog.detail.dev/posts/bug-scanner/",
+      "score": 5
     },
     {
       "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
       "url": "https://hnup.date/hn-sota",
-      "score": 95
+      "score": 126
     },
     {
-      "title": "Because It Doesn't Have To",
+      "title": "Because it doesn't have to",
       "url": "https://blog.computationalcomplexity.org/2026/04/because-it-doesnt-have-to.html",
-      "score": 44
-    },
-    {
-      "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-      "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-      "score": 242
-    },
-    {
-      "title": "Simple and correct snapshot isolation",
-      "url": "https://remy.wang/blog/si.html",
-      "score": 20
-    },
-    {
-      "title": "A physics engine with incremental rollback for multiplayer games",
-      "url": "https://easel.games/blog/2026-rollback-physics",
-      "score": 80
+      "score": 59
     },
     {
       "title": "How fast is a macOS VM, and how small could it be?",
       "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
-      "score": 244
+      "score": 252
     },
     {
-      "title": "AI, Intimacy, and the Data You Never Meant to Share",
-      "url": "https://fshot.org/techzone/the-algorithm-knows.php",
-      "score": 16
+      "title": "A physics engine with incremental rollback for multiplayer games",
+      "url": "https://easel.games/blog/2026-rollback-physics",
+      "score": 100
     },
     {
-      "title": "When Dawkins met Claude – Could this AI be conscious?",
-      "url": "https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/",
-      "score": 27
-    },
-    {
-      "title": "A network smuggling Starlink tech into Iran to beat internet blackout",
-      "url": "https://www.bbc.com/news/articles/cvgzk91leweo",
-      "score": 160
-    },
-    {
-      "title": "Open source does not imply open community",
-      "url": "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/",
-      "score": 144
-    },
-    {
-      "title": "NetHack 5.0.0",
-      "url": "https://nethack.org/v500/release.html",
-      "score": 438
+      "title": "Maryland to ban A.I.-driven price increases in grocery stores",
+      "url": "https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html",
+      "score": 185
     },
     {
       "title": "The USB Situation",
       "url": "https://randsinrepose.com/archives/the-usb-situation/",
-      "score": 122
+      "score": 137
     },
     {
-      "title": "Little magazines are back",
-      "url": "https://wsjfreeexpression.substack.com/p/little-magazines-are-back",
-      "score": 87
+      "title": "DeepSeek V4 – almost on the frontier",
+      "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
+      "score": 561
+    },
+    {
+      "title": "Barman – Backup and Recovery Manager for PostgreSQL",
+      "url": "https://github.com/EnterpriseDB/barman",
+      "score": 164
+    },
+    {
+      "title": "Windows API is Successful Cross-Platform API (2024)",
+      "url": "https://retrocoding.net/windows-api-is-successful-cross-platform-api",
+      "score": 89
     }
   ]
 }
