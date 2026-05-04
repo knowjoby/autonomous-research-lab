@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Talking to 35 Strangers at the Gym",
+      "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+      "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
+      "score": 223
+    },
+    {
+      "title": "Securing a DoD Contractor: Finding a Multi-Tenant Authorization Vulnerability",
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "score": 87
+    },
+    {
+      "title": "Stop big tech from making users behave in ways they don't want to",
+      "url": "https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to",
+      "score": 117
+    },
+    {
+      "title": "I am worried about Bun",
+      "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
+      "score": 184
+    },
+    {
+      "title": "Talking to strangers at the gym",
       "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "score": 219
+      "score": 795
     },
     {
       "title": "GameStop makes $55.5B takeover offer for eBay",
       "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-      "score": 322
+      "score": 528
+    },
+    {
+      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+      "url": "https://www.nber.org/papers/w35117",
+      "score": 112
+    },
+    {
+      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+      "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+      "score": 98
+    },
+    {
+      "title": "Redis array: short story of a long development process",
+      "url": "https://antirez.com/news/164",
+      "score": 163
+    },
+    {
+      "title": "How Monero's proof of work works",
+      "url": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
+      "score": 162
+    },
+    {
+      "title": "UK Fuel Price Intelligence",
+      "url": "https://www.fuelinsight.co.uk",
+      "score": 108
+    },
+    {
+      "title": "Heat pump sales rise across Europe",
+      "url": "https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/",
+      "score": 86
+    },
+    {
+      "title": "Pomiferous: The most extensive apples (pommes) database",
+      "url": "https://pomiferous.com/",
+      "score": 53
+    },
+    {
+      "title": "1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'",
+      "url": "https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/",
+      "score": 52
+    },
+    {
+      "title": "Show HN: nfsdiag - a NFS diagnostic application",
+      "url": "https://github.com/lsferreira42/nfsdiag",
+      "score": 6
+    },
+    {
+      "title": "Let's Talk about LLMs",
+      "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
+      "score": 17
+    },
+    {
+      "title": "Sierra Raises $950M at $15B Valuation",
+      "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+      "score": 38
+    },
+    {
+      "title": "Offenders sentenced up to 10 years for spying on TSMC",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/04/28/2003856358",
+      "score": 37
+    },
+    {
+      "title": "Trillions in Retirement Dollars Flow into Opaque Trusts",
+      "url": "https://www.bloomberg.com/news/features/2026-05-03/trillions-in-us-retirement-dollars-flow-into-opaque-trusts-that-rival-etfs",
+      "score": 61
     },
     {
       "title": "Newton's law of gravity passes its biggest test",
       "url": "https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever",
-      "score": 30
+      "score": 96
     },
     {
-      "title": "PyInfra 3.8.0 Is Out",
-      "url": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
-      "score": 33
+      "title": "'Kitten Space Agency', the Spiritual Successor to 'Kerbal Space Program' (2025)",
+      "url": "https://www.space.com/entertainment/space-games/kitten-space-agency-is-the-spiritual-successor-to-kerbal-space-program-and-they-have-an-ex-spacex-engineer-on-the-team-interview",
+      "score": 53
     },
     {
-      "title": "Someone allegedly used a hairdryer to rig Polymarket weather bets",
-      "url": "https://www.engadget.com/big-tech/someone-allegedly-used-a-hairdryer-to-rig-polymarket-weather-bets-155312411.html",
-      "score": 26
+      "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
+      "url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
+      "score": 72
     },
     {
-      "title": "Trademark violation: Fake Notepad++ for Mac",
-      "url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
-      "score": 335
+      "title": "Alberta voter list leak is a potential public safety disaster",
+      "url": "https://globalnews.ca/news/11828244/alberta-voter-list-leak-public-safety-disaster/",
+      "score": 79
     },
     {
-      "title": "World's biggest RC A380 [video]",
-      "url": "https://www.youtube.com/watch?v=wr9YLGbhxng",
-      "score": 62
+      "title": "DAG Workflow Engine",
+      "url": "https://github.com/vivekg13186/Daisy-DAG",
+      "score": 49
+    },
+    {
+      "title": "DHS demanded Google surrender data on a Canadian over anti-ICE posts",
+      "url": "https://www.wired.com/story/dhs-demanded-google-surrender-data-on-canadians-activity-location-over-anti-ice-posts/",
+      "score": 8
     },
     {
       "title": "Using “underdrawings” for accurate text and numbers",
       "url": "https://samcollins.blog/underdrawings/",
-      "score": 299
+      "score": 340
+    },
+    {
+      "title": "Days without GitHub incidents",
+      "url": "https://www.dayswithoutgithubincident.com/",
+      "score": 287
     },
     {
       "title": "Why are neural networks and cryptographic ciphers so similar? (2025)",
       "url": "https://reiner.org/neural-net-ciphers",
-      "score": 44
+      "score": 99
     },
     {
       "title": "Texico: Learn the principles of programming without even touching a computer",
       "url": "https://www3.nhk.or.jp/nhkworld/en/shows/texico/",
-      "score": 105
+      "score": 163
     },
     {
       "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
       "url": "https://partyon.xyz/@nullagent/116499715071759135",
-      "score": 416
-    },
-    {
-      "title": "The Road to a Billion-Token Context",
-      "url": "https://cacm.acm.org/news/the-road-to-a-billion-token-context/",
-      "score": 40
-    },
-    {
-      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
-      "url": "https://github.com/aattaran/deepclaude",
-      "score": 543
-    },
-    {
-      "title": "Discovering hard disk physical geometry through microbenchmarking (2019)",
-      "url": "https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/",
-      "score": 128
-    },
-    {
-      "title": "A treasure trove of fossils rewrites the story of early life",
-      "url": "https://www.quantamagazine.org/a-treasure-trove-of-cambrian-fossils-rewrites-the-story-of-early-life-20260501/",
-      "score": 64
-    },
-    {
-      "title": "Southwest Headquarters Tour",
-      "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
-      "score": 281
-    },
-    {
-      "title": "Let's Buy Spirit Air",
-      "url": "https://letsbuyspiritair.com/",
-      "score": 433
-    },
-    {
-      "title": "US–Indian space mission maps extreme subsidence in Mexico City",
-      "url": "https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html",
-      "score": 178
-    },
-    {
-      "title": "Why Almost Everyone Loses–Except a Few Sharks–On Prediction Markets",
-      "url": "https://www.wsj.com/finance/investing/polymarket-kalshi-betting-profits-prediction-markets-eb23ac11",
-      "score": 18
-    },
-    {
-      "title": "Tar Files Created on macOS Display Errors When Extracting on Linux (2024)",
-      "url": "https://aruljohn.com/blog/macos-created-tar-files-linux-errors/",
-      "score": 128
-    },
-    {
-      "title": "Fun with polynomials and linear algebra; or, slight abstract nonsense",
-      "url": "https://guille.site/posts/abstract-nonsense/",
-      "score": 30
-    },
-    {
-      "title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
-      "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
-      "score": 438
-    },
-    {
-      "title": "K3sup – bootstrap K3s over SSH in < 60s",
-      "url": "https://github.com/alexellis/k3sup",
-      "score": 73
-    },
-    {
-      "title": "Bad Connection: Global telecom exploitation by covert surveillance actors",
-      "url": "https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/",
-      "score": 174
-    },
-    {
-      "title": "A desktop made for one",
-      "url": "https://isene.org/2026/05/Audience-of-One.html",
-      "score": 387
-    },
-    {
-      "title": "Introduction to Atom",
-      "url": "https://validator.w3.org/feed/docs/atom.html",
-      "score": 111
-    },
-    {
-      "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
-      "url": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
-      "score": 468
-    },
-    {
-      "title": "Mercedes-Benz commits to bringing back physical buttons",
-      "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
-      "score": 766
-    },
-    {
-      "title": "Text-to-CAD",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "score": 141
-    },
-    {
-      "title": "The 'Hidden' Costs of Great Abstractions",
-      "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
-      "score": 196
+      "score": 451
     }
   ]
 }
