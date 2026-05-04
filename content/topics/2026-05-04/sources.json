@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Humanoid Robot Actuators",
-      "url": "https://www.firgelli.com/pages/humanoid-robot-actuators",
-      "score": 112
+      "title": "Talking to 35 Strangers at the Gym",
+      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+      "score": 219
+    },
+    {
+      "title": "GameStop makes $55.5B takeover offer for eBay",
+      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+      "score": 322
+    },
+    {
+      "title": "Newton's law of gravity passes its biggest test",
+      "url": "https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever",
+      "score": 30
+    },
+    {
+      "title": "PyInfra 3.8.0 Is Out",
+      "url": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
+      "score": 33
+    },
+    {
+      "title": "Someone allegedly used a hairdryer to rig Polymarket weather bets",
+      "url": "https://www.engadget.com/big-tech/someone-allegedly-used-a-hairdryer-to-rig-polymarket-weather-bets-155312411.html",
+      "score": 26
+    },
+    {
+      "title": "Trademark violation: Fake Notepad++ for Mac",
+      "url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
+      "score": 335
+    },
+    {
+      "title": "World's biggest RC A380 [video]",
+      "url": "https://www.youtube.com/watch?v=wr9YLGbhxng",
+      "score": 62
     },
     {
       "title": "Using “underdrawings” for accurate text and numbers",
       "url": "https://samcollins.blog/underdrawings/",
-      "score": 191
+      "score": 299
     },
     {
-      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
-      "url": "https://partyon.xyz/@nullagent/116499715071759135",
-      "score": 354
-    },
-    {
-      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
-      "url": "https://github.com/aattaran/deepclaude",
-      "score": 416
-    },
-    {
-      "title": "Discovering hard disk physical geometry through microbenchmarking (2019)",
-      "url": "https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/",
-      "score": 73
-    },
-    {
-      "title": "The 'Hidden' Costs of Great Abstractions",
-      "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
-      "score": 155
-    },
-    {
-      "title": "A desktop made for one",
-      "url": "https://isene.org/2026/05/Audience-of-One.html",
-      "score": 331
-    },
-    {
-      "title": "A treasure trove of fossils rewrites the story of early life",
-      "url": "https://www.quantamagazine.org/a-treasure-trove-of-cambrian-fossils-rewrites-the-story-of-early-life-20260501/",
-      "score": 22
-    },
-    {
-      "title": "Southwest Headquarters Tour",
-      "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
-      "score": 243
+      "title": "Why are neural networks and cryptographic ciphers so similar? (2025)",
+      "url": "https://reiner.org/neural-net-ciphers",
+      "score": 44
     },
     {
       "title": "Texico: Learn the principles of programming without even touching a computer",
       "url": "https://www3.nhk.or.jp/nhkworld/en/shows/texico/",
-      "score": 14
+      "score": 105
     },
     {
-      "title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
-      "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
-      "score": 384
+      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+      "url": "https://partyon.xyz/@nullagent/116499715071759135",
+      "score": 416
     },
     {
-      "title": "Tar Files Created on macOS Display Errors When Extracting on Linux (2024)",
-      "url": "https://aruljohn.com/blog/macos-created-tar-files-linux-errors/",
-      "score": 96
+      "title": "The Road to a Billion-Token Context",
+      "url": "https://cacm.acm.org/news/the-road-to-a-billion-token-context/",
+      "score": 40
     },
     {
-      "title": "US–Indian space mission maps extreme subsidence in Mexico City",
-      "url": "https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html",
-      "score": 148
+      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
+      "url": "https://github.com/aattaran/deepclaude",
+      "score": 543
     },
     {
-      "title": "K3sup – bootstrap K3s over SSH in < 60s",
-      "url": "https://github.com/alexellis/k3sup",
-      "score": 48
+      "title": "Discovering hard disk physical geometry through microbenchmarking (2019)",
+      "url": "https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/",
+      "score": 128
     },
     {
-      "title": "Denuvo has been cracked in all single-player games it previously protected",
-      "url": "https://www.tomshardware.com/video-games/pc-gaming/denuvo-has-been-bypassed-in-all-single-player-games-it-previously-protected-2k-games-and-denuvo-reportedly-retaliate-with-mandatory-14-day-online-checks",
-      "score": 321
+      "title": "A treasure trove of fossils rewrites the story of early life",
+      "url": "https://www.quantamagazine.org/a-treasure-trove-of-cambrian-fossils-rewrites-the-story-of-early-life-20260501/",
+      "score": 64
     },
     {
-      "title": "Introduction to Atom",
-      "url": "https://validator.w3.org/feed/docs/atom.html",
-      "score": 89
-    },
-    {
-      "title": "Bad Connection: Global telecom exploitation by covert surveillance actors",
-      "url": "https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/",
-      "score": 143
-    },
-    {
-      "title": "Stitch together lots of little HTML pages with navigations for interactions",
-      "url": "https://blog.jim-nielsen.com/2026/small-html-pages/",
-      "score": 34
-    },
-    {
-      "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
-      "url": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
-      "score": 376
-    },
-    {
-      "title": "Mercedes-Benz commits to bringing back physical buttons",
-      "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
-      "score": 686
-    },
-    {
-      "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
-      "url": "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility",
-      "score": 209
-    },
-    {
-      "title": "Text-to-CAD",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "score": 111
-    },
-    {
-      "title": "Why TUIs are back",
-      "url": "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/",
-      "score": 324
-    },
-    {
-      "title": "I recreated the Apple Lisa computer inside an FPGA [video]",
-      "url": "https://www.youtube.com/watch?v=8jNQDcpHc68",
-      "score": 99
-    },
-    {
-      "title": "Fun with polynomials and linear algebra; or, slight abstract nonsense",
-      "url": "https://guille.site/posts/abstract-nonsense/",
-      "score": 10
-    },
-    {
-      "title": "Show HN: Ableton Live MCP",
-      "url": "https://github.com/bschoepke/ableton-live-mcp",
-      "score": 82
-    },
-    {
-      "title": "Roger Sweet, Creator of the He-Man Action Figure, Dies at 91",
-      "url": "https://www.nytimes.com/2026/04/29/arts/roger-sweet-dead-he-man.html",
-      "score": 44
-    },
-    {
-      "title": "Security through obscurity is not bad",
-      "url": "https://mobeigi.com/blog/security/security-through-obscurity-is-not-bad/",
-      "score": 154
+      "title": "Southwest Headquarters Tour",
+      "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
+      "score": 281
     },
     {
       "title": "Let's Buy Spirit Air",
       "url": "https://letsbuyspiritair.com/",
-      "score": 317
+      "score": 433
     },
     {
-      "title": "What is Z-Angle Memory and why is Intel developing it?",
-      "url": "https://www.hpcwire.com/2026/02/05/what-is-z-angle-memory-and-why-is-intel-developing-it/",
-      "score": 108
+      "title": "US–Indian space mission maps extreme subsidence in Mexico City",
+      "url": "https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html",
+      "score": 178
+    },
+    {
+      "title": "Why Almost Everyone Loses–Except a Few Sharks–On Prediction Markets",
+      "url": "https://www.wsj.com/finance/investing/polymarket-kalshi-betting-profits-prediction-markets-eb23ac11",
+      "score": 18
+    },
+    {
+      "title": "Tar Files Created on macOS Display Errors When Extracting on Linux (2024)",
+      "url": "https://aruljohn.com/blog/macos-created-tar-files-linux-errors/",
+      "score": 128
+    },
+    {
+      "title": "Fun with polynomials and linear algebra; or, slight abstract nonsense",
+      "url": "https://guille.site/posts/abstract-nonsense/",
+      "score": 30
+    },
+    {
+      "title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+      "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+      "score": 438
+    },
+    {
+      "title": "K3sup – bootstrap K3s over SSH in < 60s",
+      "url": "https://github.com/alexellis/k3sup",
+      "score": 73
+    },
+    {
+      "title": "Bad Connection: Global telecom exploitation by covert surveillance actors",
+      "url": "https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/",
+      "score": 174
+    },
+    {
+      "title": "A desktop made for one",
+      "url": "https://isene.org/2026/05/Audience-of-One.html",
+      "score": 387
+    },
+    {
+      "title": "Introduction to Atom",
+      "url": "https://validator.w3.org/feed/docs/atom.html",
+      "score": 111
+    },
+    {
+      "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
+      "url": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
+      "score": 468
+    },
+    {
+      "title": "Mercedes-Benz commits to bringing back physical buttons",
+      "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
+      "score": 766
+    },
+    {
+      "title": "Text-to-CAD",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "score": 141
+    },
+    {
+      "title": "The 'Hidden' Costs of Great Abstractions",
+      "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
+      "score": 196
     }
   ]
 }
