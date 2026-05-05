@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
+      "url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
+      "score": 105
+    },
+    {
+      "title": "AI Product Graveyard",
+      "url": "https://tooldirectory.ai/ai-graveyard",
+      "score": 70
+    },
+    {
       "title": "Async Rust never left the MVP state",
       "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
-      "score": 39
+      "score": 287
     },
     {
-      "title": "Train Your Own LLM from Scratch",
-      "url": "https://github.com/angelos-p/llm-from-scratch",
-      "score": 180
-    },
-    {
-      "title": "Hand Drawn QR Codes",
-      "url": "https://sethmlarson.dev/hand-drawn-qr-codes",
-      "score": 66
+      "title": "Should I Run Plain Docker Compose in Production in 2026?",
+      "url": "https://distr.sh/blog/running-docker-in-production/",
+      "score": 150
     },
     {
       "title": "Bun is being ported from Zig to Rust",
       "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-      "score": 452
+      "score": 618
+    },
+    {
+      "title": "Empty Screenings – Finds AMC movie screenings with few or no tickets sold",
+      "url": "https://walzr.com/empty-screenings",
+      "score": 206
     },
     {
       "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
       "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
-      "score": 13
+      "score": 128
     },
     {
-      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
-      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
-      "score": 85
+      "title": "Hand Drawn QR Codes (2025)",
+      "url": "https://sethmlarson.dev/hand-drawn-qr-codes",
+      "score": 152
+    },
+    {
+      "title": "When everyone has AI and the company still learns nothing",
+      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+      "score": 104
+    },
+    {
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+      "score": 503
+    },
+    {
+      "title": "Show HN: I built a new word game, Wordtrak",
+      "url": "https://wordtrak.com/blog/2026-05-05-I-built-a-new-word-game",
+      "score": 16
     },
     {
       "title": "How OpenAI delivers low-latency voice AI at scale",
       "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-      "score": 390
+      "score": 438
     },
     {
-      "title": "The Car That Watches You Back: The Advertising Infrastructure of Modern Cars",
-      "url": "https://nobodyaskedforthis.lol/posts/connected-car/",
-      "score": 85
+      "title": "sRGB profile comparison",
+      "url": "https://ninedegreesbelow.com/photography/srgb-profile-comparison.html",
+      "score": 17
     },
     {
       "title": "Farewell to a Giant of Botany",
       "url": "https://nautil.us/farewell-to-a-giant-of-botany-1280409",
-      "score": 16
+      "score": 57
     },
     {
-      "title": "About 10% of AMC movie showings sell zero tickets. This site finds them",
-      "url": "https://walzr.com/empty-screenings",
-      "score": 126
+      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+      "score": 133
+    },
+    {
+      "title": "Docker 29 has changed its default image store for new installs",
+      "url": "https://docs.docker.com/engine/storage/containerd",
+      "score": 5
+    },
+    {
+      "title": "Train Your Own LLM from Scratch",
+      "url": "https://github.com/angelos-p/llm-from-scratch",
+      "score": 327
     },
     {
       "title": "Agent Skills",
       "url": "https://addyosmani.com/blog/agent-skills/",
-      "score": 233
+      "score": 302
     },
     {
-      "title": "Gaps in national food production, worldwide",
-      "url": "https://www.nature.com/articles/s43016-025-01173-4",
-      "score": 53
+      "title": "Richard Dawkins and the Claude Delusion",
+      "url": "https://flux.community/matthew-sheffield/2026/05/richard-dawkins-and-the-claude-delusion/",
+      "score": 12
     },
     {
-      "title": "pgxbackup: Continuity Support for pgBackRest",
-      "url": "https://thebuild.com/blog/2026/05/01/pgxbackup-continuity-support-for-pgbackrest/",
-      "score": 40
+      "title": "Mouse Pointer as a Mere Mortal",
+      "url": "https://unsung.aresluna.org/mouse-pointer-as-a-mere-mortal/",
+      "score": 49
     },
     {
-      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
-      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
-      "score": 194
+      "title": "Why I Created phpc.tv",
+      "url": "https://afilina.com/why-phpc-tv",
+      "score": 39
     },
     {
-      "title": "When Networking Doesn't Work",
-      "url": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
-      "score": 59
+      "title": "The Frog for Whom the Bell Tolls",
+      "url": "https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls",
+      "score": 26
     },
     {
       "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
       "url": "https://www.nber.org/papers/w35117",
-      "score": 274
+      "score": 319
     },
     {
-      "title": "Kids bypass age verification with fake moustaches",
-      "url": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/",
-      "score": 70
-    },
-    {
-      "title": "Redis array: short story of a long development process",
-      "url": "https://antirez.com/news/164",
-      "score": 274
-    },
-    {
-      "title": "2-D Mathematical Curves",
-      "url": "https://www.2dcurves.com/",
-      "score": 20
+      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "score": 204
     },
     {
       "title": "Biscuit",
       "url": "https://github.com/yattsu/biscuit",
-      "score": 25
+      "score": 77
+    },
+    {
+      "title": "2-D Mathematical Curves",
+      "url": "https://www.2dcurves.com/",
+      "score": 57
+    },
+    {
+      "title": "Redis array: short story of a long development process",
+      "url": "https://antirez.com/news/164",
+      "score": 297
+    },
+    {
+      "title": "Setting up server monitoring for a Rails app on Hatchbox",
+      "url": "https://blog.appsignal.com/2026/04/30/setting-up-server-monitoring-for-a-rails-app-on-hatchbox.html",
+      "score": 12
+    },
+    {
+      "title": "Kids bypass age verification with fake moustaches",
+      "url": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/",
+      "score": 175
     },
     {
       "title": "Talking to strangers at the gym",
       "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "score": 1322
-    },
-    {
-      "title": "Testing macOS on the Apple Network Server 2.0 ROMs",
-      "url": "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html",
-      "score": 85
-    },
-    {
-      "title": "1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'",
-      "url": "https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/",
-      "score": 164
-    },
-    {
-      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
-      "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
-      "score": 518
-    },
-    {
-      "title": "Y Combinator's Stake in OpenAI (0.6%?)",
-      "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
-      "score": 299
-    },
-    {
-      "title": "I am worried about Bun",
-      "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
-      "score": 477
-    },
-    {
-      "title": "How Monero’s proof of work works",
-      "url": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
-      "score": 279
-    },
-    {
-      "title": "PyInfra 3.8.0",
-      "url": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
-      "score": 268
-    },
-    {
-      "title": "What I'm Hearing About Cognitive Debt (So Far)",
-      "url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
-      "score": 188
-    },
-    {
-      "title": "Formatting a 25M-line codebase overnight",
-      "url": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
-      "score": 163
+      "score": 1416
     }
   ]
 }
