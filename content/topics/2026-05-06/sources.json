@@ -2,149 +2,149 @@
   "papers": [],
   "discussions": [
     {
-      "title": ".de TLD offline due to DNSSEC?",
-      "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-      "score": 545
+      "title": "Show HN: Red Squares – GitHub outages as contributions",
+      "url": "https://red-squares.cian.lol/",
+      "score": 461
     },
     {
-      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-      "score": 466
+      "title": "The bottleneck was never the code",
+      "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
+      "score": 153
     },
     {
-      "title": "Write some software, give it away for free",
-      "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
-      "score": 146
+      "title": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
+      "url": "https://catstret.ch/202605/srss-hipster202510/",
+      "score": 64
+    },
+    {
+      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "score": 461
     },
     {
       "title": "StarFighter 16-Inch",
       "url": "https://us.starlabs.systems/pages/starfighter",
-      "score": 16
+      "score": 482
     },
     {
-      "title": "Three Inverse Laws of AI",
-      "url": "https://susam.net/inverse-laws-of-robotics.html",
-      "score": 373
+      "title": "CARA 2.0 – “I Built a Better Robot Dog”",
+      "url": "https://www.aaedmusa.com/projects/cara2",
+      "score": 278
+    },
+    {
+      "title": "Reverse-engineering the 1998 Ultima Online demo server",
+      "url": "https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html",
+      "score": 128
+    },
+    {
+      "title": "Knitting bullshit",
+      "url": "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/",
+      "score": 215
+    },
+    {
+      "title": "The Thinking Plant's Man (2025)",
+      "url": "https://www.sciencehistory.org/stories/magazine/the-thinking-plants-man/",
+      "score": 8
+    },
+    {
+      "title": "Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Toolkit",
+      "url": "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer",
+      "score": 1
+    },
+    {
+      "title": "Batteries Not Included, or Required, for These Smart Home Sensors",
+      "url": "https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors",
+      "score": 101
+    },
+    {
+      "title": "DNSSEC disruption affecting .de domains – Resolved",
+      "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
+      "score": 704
+    },
+    {
+      "title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
+      "url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
+      "score": 145
+    },
+    {
+      "title": "Wolfenstein 3D for Gameboy Color on custom cartridge (2016)",
+      "url": "https://www.happydaze.se/wolf/",
+      "score": 57
+    },
+    {
+      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+      "score": 614
+    },
+    {
+      "title": "Virtual violin produces realistic sounds",
+      "url": "https://news.mit.edu/2026/mit-engineers-virtual-violin-produces-realistic-sounds-0429",
+      "score": 37
+    },
+    {
+      "title": "YouTube, your RSS feeds are broken",
+      "url": "https://openrss.org/blog/youtube-your-feeds-are-broken",
+      "score": 213
+    },
+    {
+      "title": "Multi-stroke text effect in CSS",
+      "url": "https://yuanchuan.dev/multi-stroke-text-effect-in-css",
+      "score": 144
+    },
+    {
+      "title": "Write some software, give it away for free",
+      "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+      "score": 310
     },
     {
       "title": "Computer Use is 45x more expensive than structured APIs",
       "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-      "score": 327
+      "score": 431
     },
     {
-      "title": "Telus Uses AI to Alter Call-Agent Accents",
-      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
-      "score": 12
+      "title": "Three Inverse Laws of AI",
+      "url": "https://susam.net/inverse-laws-of-robotics.html",
+      "score": 485
     },
     {
       "title": "EEVblog: The 555 Timer is 55 years old [video]",
       "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
-      "score": 238
+      "score": 307
     },
     {
-      "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
-      "url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
-      "score": 17
-    },
-    {
-      "title": "Why most product tours get skipped",
-      "url": "https://productonboarding.com/articles/why-product-tours-get-skipped",
-      "score": 78
-    },
-    {
-      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
-      "url": "https://paletteinspiration.com/",
-      "score": 120
-    },
-    {
-      "title": "Agents for financial services and insurance",
-      "url": "https://www.anthropic.com/news/finance-agents",
-      "score": 208
-    },
-    {
-      "title": "Simulating Cells Fighting to the Death",
-      "url": "https://jamiesimon.io/blog/cell-fight/",
-      "score": 12
-    },
-    {
-      "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
-      "url": "https://arxiv.org/abs/2604.26752",
-      "score": 120
-    },
-    {
-      "title": "I'm scared about biological computing",
-      "url": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
-      "score": 152
+      "title": "Telus Uses AI to Alter Call-Agent Accents",
+      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+      "score": 196
     },
     {
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
       "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "score": 1270
+      "score": 1526
+    },
+    {
+      "title": "Make some art with your phone sensors",
+      "url": "https://tautme.github.io/phone-sensors/sensor-etch.html",
+      "score": 74
     },
     {
       "title": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
       "url": "https://twitter.com/brian_armstrong/status/2051616759145185723",
-      "score": 277
+      "score": 424
     },
     {
-      "title": "I completed 100 Days of Java over 5 years and mapped the journey as a graph",
-      "url": "https://mohibulsblog.netlify.app/java/100daysofjava/graph/",
-      "score": 30
+      "title": "Why most product tours get skipped",
+      "url": "https://productonboarding.com/articles/why-product-tours-get-skipped",
+      "score": 184
     },
     {
-      "title": "When everyone has AI and the company still learns nothing",
-      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
-      "score": 320
+      "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
+      "url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
+      "score": 87
     },
     {
-      "title": "Should I run plain Docker Compose in production in 2026?",
-      "url": "https://distr.sh/blog/running-docker-in-production/",
-      "score": 362
-    },
-    {
-      "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
-      "url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
-      "score": 278
-    },
-    {
-      "title": "Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement",
-      "url": "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/",
-      "score": 274
-    },
-    {
-      "title": "Researchers print structural colour with an inkjet printer",
-      "url": "https://physicsworld.com/a/researchers-print-structural-colour-with-an-inkjet-printer/",
-      "score": 56
-    },
-    {
-      "title": "Proliferate (YC S25) Is Hiring- 200k for junior engineers",
-      "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
-      "score": 1
-    },
-    {
-      "title": "IBM didn't want Microsoft to use the Tab key to move between dialog fields",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298",
-      "score": 306
-    },
-    {
-      "title": "Urban Birds Are Rising Earlier Because of Traffic Noise (2013)",
-      "url": "https://www.audubon.org/news/urban-birds-are-rising-earlier-because-traffic-noise",
-      "score": 31
-    },
-    {
-      "title": "Underwater robot tracks sperm whale conversations in real time",
-      "url": "https://www.reuters.com/business/environment/underwater-robot-tracks-sperm-whale-conversations-real-time-2026-05-01/",
-      "score": 56
-    },
-    {
-      "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
-      "url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
-      "score": 383
-    },
-    {
-      "title": "The extended predicative Mahlo universe in Martin-Löf type theory (2023)",
-      "url": "https://academic.oup.com/logcom/article/34/6/1032/7158523",
-      "score": 25
+      "title": "I'm scared about biological computing",
+      "url": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
+      "score": 254
     }
   ]
 }
