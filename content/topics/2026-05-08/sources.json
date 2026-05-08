@@ -4,152 +4,152 @@
     {
       "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
       "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "score": 284
+      "score": 562
     },
     {
       "title": "Maybe you shouldn't install new software for a bit",
       "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
-      "score": 176
+      "score": 425
+    },
+    {
+      "title": "Cloudflare to cut about 20% workforce",
+      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+      "score": 612
     },
     {
       "title": "Dirtyfrag: Universal Linux LPE",
       "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "score": 449
+      "score": 591
     },
     {
-      "title": "The map that keeps Burning Man honest",
-      "url": "https://www.not-ship.com/burning-man-moop/",
-      "score": 544
-    },
-    {
-      "title": "The Disappearance of the Public Bench",
-      "url": "https://placesjournal.org/article/the-disappearance-of-the-public-bench/",
-      "score": 50
-    },
-    {
-      "title": "Agents need control flow, not more prompts",
-      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-      "score": 347
-    },
-    {
-      "title": "Researchers discover advanced language processing in the unconscious human brain",
-      "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
-      "score": 52
-    },
-    {
-      "title": "Building for the Future",
-      "url": "https://blog.cloudflare.com/building-for-the-future/",
-      "score": 284
-    },
-    {
-      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-      "score": 207
-    },
-    {
-      "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
-      "url": "https://github.com/robertdfrench/ifuncd-up",
-      "score": 23
-    },
-    {
-      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-      "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "score": 247
-    },
-    {
-      "title": "DeepSeek 4 Flash local inference engine for Metal",
-      "url": "https://github.com/antirez/ds4",
-      "score": 306
-    },
-    {
-      "title": "Komai: a fine Matrix chat app you can get to love",
-      "url": "https://etke.cc/blog/introducing-komai",
-      "score": 18
-    },
-    {
-      "title": "Nonprofit hospitals spend billions on consultants with no clear effect",
-      "url": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
-      "score": 77
-    },
-    {
-      "title": "AI slop is killing online communities",
-      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-      "score": 472
-    },
-    {
-      "title": "The Traveling Salesdog Problem",
-      "url": "https://www.wespiser.com/posts/2026-05-04-traveling-salesdog.html",
-      "score": 15
-    },
-    {
-      "title": "Brazil's Pix payment system faces pressure from Visa and Mastercard",
-      "url": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
-      "score": 103
-    },
-    {
-      "title": "I want to live like Costco people",
-      "url": "https://tastecooking.com/i-want-to-live-like-costco-people/",
-      "score": 250
-    },
-    {
-      "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
-      "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
-      "score": 56
-    },
-    {
-      "title": "Creating for a niche",
-      "url": "https://www.davesnider.com/posts/working-in-a-niche",
-      "score": 34
+      "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+      "url": "https://github.com/graemeg/blaise",
+      "score": 33
     },
     {
       "title": "Pinocchio is weirder than you remembered",
       "url": "https://storica.club/blog/pinocchio-in-italian/",
-      "score": 3
+      "score": 118
     },
     {
-      "title": "Principles for agent-native CLIs",
-      "url": "https://twitter.com/trevin/status/2051316002730991795",
-      "score": 68
+      "title": "The map that keeps Burning Man honest",
+      "url": "https://www.not-ship.com/burning-man-moop/",
+      "score": 624
     },
     {
-      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
-      "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
-      "score": 483
+      "title": "Agents need control flow, not more prompts",
+      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+      "score": 439
+    },
+    {
+      "title": "A polynomial autoencoder beats PCA on transformer embeddings",
+      "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
+      "score": 17
+    },
+    {
+      "title": "Inventing Cyrillic",
+      "url": "https://www.historytoday.com/archive/history-matters/inventing-cyrillic",
+      "score": 19
+    },
+    {
+      "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
+      "url": "https://github.com/robertdfrench/ifuncd-up",
+      "score": 69
     },
     {
       "title": "Gambling ads on social media reach more than twice as many men as women: study",
       "url": "https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women",
-      "score": 10
+      "score": 57
     },
     {
-      "title": "Rolling the Root Key",
-      "url": "https://blog.apnic.net/2026/05/05/rolling-the-root-key/",
-      "score": 24
+      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "score": 256
     },
     {
-      "title": "Tools in the Grass: Raising the next generation of crafts person",
-      "url": "https://www.popularwoodworking.com/editors-blog/tools-in-the-grass/",
-      "score": 32
+      "title": "Plasticity and language in the anaesthetized human hippocampus",
+      "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
+      "score": 96
     },
     {
-      "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
-      "url": "https://ratex.lites.dev/",
-      "score": 161
+      "title": "How to make SSE token streams resumable, cancellable, and multi-device",
+      "url": "https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/",
+      "score": 20
     },
     {
-      "title": "PySimpleGUI 6",
-      "url": "https://github.com/PySimpleGUI/PySimpleGUI",
-      "score": 92
+      "title": "Los Alamos and the long path to detecting neutrinos",
+      "url": "https://www.lanl.gov/media/publications/1663/from-ghost-particle-to-cosmic-messenger",
+      "score": 28
     },
     {
-      "title": "The Self-Cancelling Subscription",
-      "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "score": 284
+    },
+    {
+      "title": "DeepSeek 4 Flash local inference engine for Metal",
+      "url": "https://github.com/antirez/ds4",
+      "score": 361
+    },
+    {
+      "title": "Digging into Drama at the Document Foundation",
+      "url": "https://lwn.net/Articles/1066418/",
+      "score": 14
+    },
+    {
+      "title": "Brazil's Pix payment system faces pressure from Visa and Mastercard",
+      "url": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
+      "score": 169
+    },
+    {
+      "title": "AI slop is killing online communities",
+      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+      "score": 603
+    },
+    {
+      "title": "Singapore introduces caning for boys who bully others at school",
+      "url": "https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies",
       "score": 154
     },
     {
-      "title": "Show HN: TRUST – Coding Rust like it's 1989",
-      "url": "https://github.com/wojtczyk/trust",
-      "score": 126
+      "title": "Hardening Firefox with Claude Mythos Preview",
+      "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+      "score": 164
+    },
+    {
+      "title": "Nonprofit hospitals spend billions on consultants with no clear effect",
+      "url": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
+      "score": 134
+    },
+    {
+      "title": "Mojo 1.0 Beta",
+      "url": "https://mojolang.org/",
+      "score": 73
+    },
+    {
+      "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+      "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+      "score": 82
+    },
+    {
+      "title": "I want to live like Costco people",
+      "url": "https://tastecooking.com/i-want-to-live-like-costco-people/",
+      "score": 283
+    },
+    {
+      "title": "Programming Still Sucks",
+      "url": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
+      "score": 594
+    },
+    {
+      "title": "Creating for a niche",
+      "url": "https://www.davesnider.com/posts/working-in-a-niche",
+      "score": 60
+    },
+    {
+      "title": "US will start revoking passports for parents who owe child support",
+      "url": "https://apnews.com/article/passports-unpaid-child-support-penalty-state-department-42d90cfa8a06ee349bb9145f668919b6",
+      "score": 43
     }
   ]
 }
