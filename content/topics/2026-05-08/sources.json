@@ -2,149 +2,144 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Poland is now among the 20 largest economies. How it happened",
-      "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-      "score": 196
+      "title": "Google Cloud Fraud Defence is just WEI repackaged",
+      "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
+      "score": 442
+    },
+    {
+      "title": "AI Is Breaking Two Vulnerability Cultures",
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "score": 43
+    },
+    {
+      "title": "Cartoon Network Flash Games",
+      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+      "score": 150
+    },
+    {
+      "title": "Serving a website on a Raspberry Pi Zero running in RAM",
+      "url": "https://btxx.org/posts/memory/",
+      "score": 136
     },
     {
       "title": "An Introduction to Meshtastic",
       "url": "https://meshtastic.org/docs/introduction/",
-      "score": 62
+      "score": 290
     },
     {
-      "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
-      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "score": 786
+      "title": "A web page that shows you everything the browser told it without asking",
+      "url": "https://sinceyouarrived.world/taken",
+      "score": 358
     },
     {
-      "title": "Cloudflare to cut about 20% workforce",
+      "title": "PC Engine CPU",
+      "url": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
+      "score": 89
+    },
+    {
+      "title": "Bjarne Stroustrup: How do I deal with memory leaks? (2022)",
+      "url": "https://www.stroustrup.com/bs_faq2.html#memory-leaks",
+      "score": 37
+    },
+    {
+      "title": "Apple, Intel have reached preliminary chip-making deal",
+      "url": "https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/",
+      "score": 99
+    },
+    {
+      "title": "David Attenborough's 100th Birthday",
+      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+      "score": 132
+    },
+    {
+      "title": "Poland is now among the 20 largest economies",
+      "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
+      "score": 751
+    },
+    {
+      "title": "Mojo 1.0 Beta",
+      "url": "https://mojolang.org/",
+      "score": 180
+    },
+    {
+      "title": "Cloudflare to cut about 20% of its workforce",
       "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "score": 962
+      "score": 1203
+    },
+    {
+      "title": "Show HN: Git for AI Agents",
+      "url": "https://github.com/regent-vcs/re_gent",
+      "score": 65
+    },
+    {
+      "title": "Canvas online again as ShinyHunters threatens to leak schools’ data",
+      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+      "score": 876
     },
     {
       "title": "US Government releases first batch of UAP documents and videos",
       "url": "https://www.war.gov/UFO/",
-      "score": 16
+      "score": 144
+    },
+    {
+      "title": "Podman rootless containers and the Copy Fail exploit",
+      "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
+      "score": 85
     },
     {
       "title": "Maybe you shouldn't install new software for a bit",
       "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
-      "score": 648
-    },
-    {
-      "title": "ClojureScript Gets Async/Await",
-      "url": "https://clojurescript.org/news/2026-05-07-release",
-      "score": 145
+      "score": 774
     },
     {
       "title": "GeoJSON",
       "url": "https://geojson.org/",
-      "score": 45
+      "score": 125
+    },
+    {
+      "title": "Google Broke reCAPTCHA for De-Googled Android Users",
+      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "score": 15
     },
     {
       "title": "Dirtyfrag: Universal Linux LPE",
       "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "score": 699
+      "score": 760
     },
     {
-      "title": "Dithering with CSS",
-      "url": "https://ikesau.co/blog/dithering-with-css/",
-      "score": 62
+      "title": "ClojureScript Gets Async/Await",
+      "url": "https://clojurescript.org/news/2026-05-07-release",
+      "score": 249
+    },
+    {
+      "title": "The surprisingly complex journey to text-selectable client-side generated PDFs",
+      "url": "https://sdocs.dev/blogs/journey-to-pdf-generation",
+      "score": 60
+    },
+    {
+      "title": "Defeating Works by Design's Unpickable Lock [video]",
+      "url": "https://www.youtube.com/watch?v=rMi1dIqMwNw",
+      "score": 10
     },
     {
       "title": "The map that keeps Burning Man honest",
       "url": "https://www.not-ship.com/burning-man-moop/",
-      "score": 688
+      "score": 741
     },
     {
-      "title": "Nintendo announces price increases for Nintendo Switch 2",
-      "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
-      "score": 142
+      "title": "The Disappearance of the Public Bench",
+      "url": "https://placesjournal.org/article/the-disappearance-of-the-public-bench/",
+      "score": 109
     },
     {
       "title": "Pinocchio is weirder than you remembered",
       "url": "https://storica.club/blog/pinocchio-in-italian/",
-      "score": 216
-    },
-    {
-      "title": "Hackers breach JDownloader website to serve malware-laced downloads",
-      "url": "https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/",
-      "score": 30
+      "score": 276
     },
     {
       "title": "Agents need control flow, not more prompts",
       "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-      "score": 512
-    },
-    {
-      "title": "A polynomial autoencoder beats PCA on transformer embeddings",
-      "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
-      "score": 63
-    },
-    {
-      "title": "Brazil's Pix payment system faces pressure from Visa and Mastercard",
-      "url": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
-      "score": 273
-    },
-    {
-      "title": "DeepSeek 4 Flash local inference engine for Metal",
-      "url": "https://github.com/antirez/ds4",
-      "score": 433
-    },
-    {
-      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-      "score": 321
-    },
-    {
-      "title": "Singapore introduces caning for boys who bully others at school",
-      "url": "https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies",
-      "score": 247
-    },
-    {
-      "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
-      "url": "https://github.com/graemeg/blaise",
-      "score": 71
-    },
-    {
-      "title": "QBE – Compiler Back End",
-      "url": "https://c9x.me/compile/",
-      "score": 21
-    },
-    {
-      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-      "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "score": 308
-    },
-    {
-      "title": "Hardening Firefox with Claude Mythos Preview",
-      "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
-      "score": 252
-    },
-    {
-      "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
-      "url": "https://github.com/robertdfrench/ifuncd-up",
-      "score": 107
-    },
-    {
-      "title": "GPT-5.5 Price Increase: What It Costs",
-      "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
-      "score": 102
-    },
-    {
-      "title": "Plasticity and language in the anaesthetized human hippocampus",
-      "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
-      "score": 124
-    },
-    {
-      "title": "AI slop is killing online communities",
-      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-      "score": 735
-    },
-    {
-      "title": "How to make SSE token streams resumable, cancellable, and multi-device",
-      "url": "https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/",
-      "score": 53
+      "score": 561
     }
   ]
 }
