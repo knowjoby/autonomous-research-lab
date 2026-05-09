@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "A recent experience with ChatGPT 5.5 Pro",
-      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "score": 209
+      "title": "Internet Archive Switzerland",
+      "url": "https://internetarchive.ch/",
+      "score": 66
     },
     {
-      "title": "Mythos 'Discovered' a CVE in Its Training Data and That's Still Worrying",
-      "url": "https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying",
-      "score": 16
+      "title": "Forking the Web",
+      "url": "https://dillo-browser.org/lab/web-fork/",
+      "score": 30
+    },
+    {
+      "title": "A recent experience with ChatGPT 5.5 Pro",
+      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "score": 416
     },
     {
       "title": "Google broke reCAPTCHA for de-googled Android users",
       "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "score": 926
+      "score": 1166
     },
     {
       "title": "Using Claude Code: The unreasonable effectiveness of HTML",
       "url": "https://twitter.com/trq212/status/2052809885763747935",
-      "score": 94
+      "score": 218
     },
     {
       "title": "OpenAI’s WebRTC problem",
       "url": "https://moq.dev/blog/webrtc-is-the-problem/",
-      "score": 269
+      "score": 361
     },
     {
-      "title": "Mythical Man Month",
-      "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
-      "score": 126
-    },
-    {
-      "title": "EU calls VPNs \"a loophole that needs closing\" in age verification push",
-      "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
-      "score": 111
-    },
-    {
-      "title": "What causes lightning? The answer keeps getting more interesting",
-      "url": "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/",
-      "score": 33
-    },
-    {
-      "title": "All my clients wanted a carousel, now it's an AI chatbot",
-      "url": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
-      "score": 4
-    },
-    {
-      "title": "AI is breaking two vulnerability cultures",
-      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-      "score": 315
-    },
-    {
-      "title": "David Attenborough's 100th Birthday",
-      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-      "score": 589
-    },
-    {
-      "title": "AWS North Virginia data center outage – recovery to take hours",
-      "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
-      "score": 205
-    },
-    {
-      "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
-      "url": "https://www.wiisfi.com/",
-      "score": 202
-    },
-    {
-      "title": "The React2Shell Story",
-      "url": "https://lachlan.nz/blog/the-react2shell-story/",
-      "score": 125
-    },
-    {
-      "title": "Cartoon Network Flash Games",
-      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
-      "score": 330
-    },
-    {
-      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-      "url": "https://ze3tar.github.io/post-zcrx.html",
-      "score": 176
-    },
-    {
-      "title": "An Introduction to Meshtastic",
-      "url": "https://meshtastic.org/docs/introduction/",
-      "score": 431
-    },
-    {
-      "title": "Bitter Lessons from the ISSpresso",
-      "url": "https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso",
-      "score": 85
-    },
-    {
-      "title": "Can LLMs model real-world systems in TLA+?",
-      "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
-      "score": 74
-    },
-    {
-      "title": "Teaching Claude Why",
-      "url": "https://www.anthropic.com/research/teaching-claude-why",
-      "score": 151
-    },
-    {
-      "title": "Light without electricity? Glowing algae could make it possible",
-      "url": "https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible",
-      "score": 70
-    },
-    {
-      "title": "The Soul of Maintaining a New Machine",
-      "url": "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3",
-      "score": 43
+      "title": "Making Julia as Fast as C++ (2019)",
+      "url": "https://flow.byu.edu/posts/julia-c++",
+      "score": 29
     },
     {
       "title": "America's carpet capital: an empire and its toxic legacy",
       "url": "https://apnews.com/projects/pfas-forever-stained/",
-      "score": 3
+      "score": 54
+    },
+    {
+      "title": "Mythical Man Month",
+      "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
+      "score": 203
+    },
+    {
+      "title": "How LEDs are made (2014)",
+      "url": "https://learn.sparkfun.com/tutorials/how-leds-are-made/all",
+      "score": 7
+    },
+    {
+      "title": "Killswitch: Per-function short-circuit mitigation primitive",
+      "url": "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/",
+      "score": 21
+    },
+    {
+      "title": "David Attenborough's 100th Birthday",
+      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+      "score": 706
+    },
+    {
+      "title": "Reviving the IBM Selectric Composer Fonts (2023)",
+      "url": "https://www.kutilek.de/selectric/",
+      "score": 14
+    },
+    {
+      "title": "LLMs Corrupt Your Documents When You Delegate",
+      "url": "https://arxiv.org/abs/2604.15597",
+      "score": 23
+    },
+    {
+      "title": "What causes lightning? The answer keeps getting more interesting",
+      "url": "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/",
+      "score": 96
+    },
+    {
+      "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
+      "url": "https://www.wiisfi.com/",
+      "score": 282
+    },
+    {
+      "title": "AI is breaking two vulnerability cultures",
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "score": 358
+    },
+    {
+      "title": "AWS North Virginia data center outage – resolved",
+      "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
+      "score": 234
+    },
+    {
+      "title": "Cartoon Network Flash Games",
+      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+      "score": 360
+    },
+    {
+      "title": "An Introduction to Meshtastic",
+      "url": "https://meshtastic.org/docs/introduction/",
+      "score": 464
+    },
+    {
+      "title": "The React2Shell Story",
+      "url": "https://lachlan.nz/blog/the-react2shell-story/",
+      "score": 163
+    },
+    {
+      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+      "url": "https://ze3tar.github.io/post-zcrx.html",
+      "score": 194
+    },
+    {
+      "title": "Teaching Claude Why",
+      "url": "https://www.anthropic.com/research/teaching-claude-why",
+      "score": 191
+    },
+    {
+      "title": "Can LLMs model real-world systems in TLA+?",
+      "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+      "score": 98
     },
     {
       "title": "Serving a website on a Raspberry Pi Zero running in RAM",
       "url": "https://btxx.org/posts/memory/",
-      "score": 215
+      "score": 228
     },
     {
-      "title": "PortalVR Motion – use any VR content in 2D with 3D tracked Joy-Cons",
-      "url": "https://portalvr.io/motion",
-      "score": 13
+      "title": "Light without electricity? Glowing algae could make it possible",
+      "url": "https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible",
+      "score": 84
     },
     {
-      "title": "Mojo 1.0 Beta",
-      "url": "https://mojolang.org/",
-      "score": 337
-    },
-    {
-      "title": "All means are fair except solving the problem",
-      "url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
-      "score": 52
-    },
-    {
-      "title": "Mux (YC W16) Is Hiring",
-      "url": "https://www.mux.com/jobs",
-      "score": 1
+      "title": "Roadside Attraction",
+      "url": "https://theoffingmag.com/essay/roadside-attraction/",
+      "score": 28
     },
     {
       "title": "US Government releases first batch of UAP documents and videos",
       "url": "https://www.war.gov/UFO/",
-      "score": 286
+      "score": 308
     },
     {
-      "title": "When is your birthday? The math behind hash collisions",
-      "url": "https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html",
-      "score": 41
+      "title": "The soul of maintaining a new machine",
+      "url": "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3",
+      "score": 67
+    },
+    {
+      "title": "All means are fair except solving the problem",
+      "url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
+      "score": 68
     }
   ]
 }
