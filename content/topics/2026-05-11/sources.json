@@ -2,149 +2,149 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Killed by Apple",
-      "url": "https://killedbyapple.theden.sh/",
-      "score": 42
+      "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+      "url": "https://nvlabs.github.io/cuda-oxide/index.html",
+      "score": 266
+    },
+    {
+      "title": "Nullsoft, 1997-2004 (2004)",
+      "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
+      "score": 137
     },
     {
       "title": "Ratty – A terminal emulator with inline 3D graphics",
       "url": "https://ratty-term.org/",
-      "score": 306
-    },
-    {
-      "title": "Hardware Attestation as Monopoly Enabler",
-      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "score": 1864
-    },
-    {
-      "title": "Driver accused of DUI tracks missing laptop to Illinois State trooper's house",
-      "url": "https://abc7chicago.com/post/top-cop-driver-accused-dui-tracks-missing-laptop-illinois-state-police-trooper-kevin-bradleys-house/19060850/",
-      "score": 199
-    },
-    {
-      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
-      "score": 23
-    },
-    {
-      "title": "Local AI needs to be the norm",
-      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "score": 1483
-    },
-    {
-      "title": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
-      "url": "https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/",
-      "score": 72
+      "score": 522
     },
     {
       "title": "Gmail registration now requires scanning a QR code and sending a text message",
       "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-      "score": 151
+      "score": 415
+    },
+    {
+      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+      "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+      "score": 176
+    },
+    {
+      "title": "Show HN: TikTok but for Scientific Papers",
+      "url": "https://andreaturchet.github.io/website/index.html",
+      "score": 68
+    },
+    {
+      "title": "Interfaze: A new model architecture built for high accuracy at scale",
+      "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
+      "score": 47
+    },
+    {
+      "title": "AMÁLIA and the future of European Portuguese LLMs",
+      "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
+      "score": 86
+    },
+    {
+      "title": "Counting Fast in Erlang with:counters and:atomics",
+      "url": "https://andrealeopardi.com/posts/erlang-counters-and-atomics/",
+      "score": 12
+    },
+    {
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "url": "https://bild.ai/jobs",
+      "score": 1
+    },
+    {
+      "title": "The Boston Library Where You Still Can Borrow a Giant Puppet",
+      "url": "https://binj.news/2026/05/06/the-boston-library-where-you-still-can-borrow-a-giant-puppet/",
+      "score": 17
     },
     {
       "title": "I'm going back to writing code by hand",
       "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
-      "score": 645
+      "score": 852
+    },
+    {
+      "title": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
+      "url": "https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/",
+      "score": 134
     },
     {
       "title": "Building a web server in aarch64 assembly to give my life (a lack of) meaning",
       "url": "https://imtomt.github.io/ymawky/",
-      "score": 16
+      "score": 75
+    },
+    {
+      "title": "Software engineering may no longer be a lifetime career",
+      "url": "https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/",
+      "score": 213
     },
     {
       "title": "Running local models on an M4 with 24GB memory",
       "url": "https://jola.dev/posts/running-local-models-on-m4",
-      "score": 442
+      "score": 519
+    },
+    {
+      "title": "Holding Community Space",
+      "url": "https://supernuclear.substack.com/p/building-a-space-people-never-want",
+      "score": 20
     },
     {
       "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
       "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-      "score": 254
+      "score": 311
+    },
+    {
+      "title": "Hardware Attestation as Monopoly Enabler",
+      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+      "score": 2021
     },
     {
       "title": "Guitar tuner that uses phone accelerometer",
       "url": "https://tautme.github.io/phone-sensors/accel-tuner.html",
-      "score": 90
-    },
-    {
-      "title": "Classification of Amino Acids",
-      "url": "https://www.khanacademy.org/test-prep/mcat/chemical-processes/amino-acids-peptides-proteins-5d/v/classification-amino-acids",
-      "score": 35
+      "score": 133
     },
     {
       "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
       "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-      "score": 257
+      "score": 327
     },
     {
       "title": "Obsidian plugin was abused to deploy a remote access trojan",
       "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
-      "score": 285
+      "score": 339
     },
     {
-      "title": "Incident Report: CVE-2024-YIKES",
-      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-      "score": 628
+      "title": "Local AI needs to be the norm",
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "score": 1696
     },
     {
-      "title": "Mythos Finds a Curl Vulnerability",
-      "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
-      "score": 380
-    },
-    {
-      "title": "The OpenAI Deployment Company",
-      "url": "https://openai.com/index/openai-launches-the-deployment-company/",
-      "score": 7
-    },
-    {
-      "title": "ICE to Develop Own Smart Glasses to 'Supplement' Its Facial Recognition App",
-      "url": "https://www.404media.co/ice-plans-to-develop-own-smart-glasses-to-supplement-its-facial-recognition-app/",
-      "score": 8
-    },
-    {
-      "title": "All Those A.I. Note Takers? They're Making Lawyers Nervous",
-      "url": "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html",
-      "score": 99
-    },
-    {
-      "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
-      "url": "https://matt.might.net/articles/implementing-a-programming-language/",
-      "score": 80
-    },
-    {
-      "title": "The Adventure Family Tree",
-      "url": "https://mipmip.org/advfamily/advfamily.html",
-      "score": 30
-    },
-    {
-      "title": "European Money Pours into Palantir",
-      "url": "https://english.elpais.com/economy-and-business/branded/2026-04-11/european-money-pours-into-palantir-over-100-asset-managers-and-banks-boost-their-investments-in-the-controversial-tech-company.html",
-      "score": 52
+      "title": "Should you leave red herrings about yourself online?",
+      "url": "https://blog.alcazarsec.com/posts/should-you-leave-red-herrings-about-yourself-online",
+      "score": 36
     },
     {
       "title": "Bliss (Photograph)",
       "url": "https://en.wikipedia.org/wiki/Bliss_(photograph)",
-      "score": 56
+      "score": 99
     },
     {
-      "title": "First tunnel element of the Fehmarnbelt Tunnel immersed",
-      "url": "https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/",
-      "score": 131
+      "title": "Mythos Finds a Curl Vulnerability",
+      "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
+      "score": 547
     },
     {
-      "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
-      "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
-      "score": 125
+      "title": "Microsoft Israel chief leaves amid ethical controversy",
+      "url": "https://en.globes.co.il/en/article-microsoft-israel-chief-leaves-amid-ethical-controversy-1001542602",
+      "score": 86
     },
     {
-      "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
-      "url": "https://github.com/adamjgmiller/adamsreview",
-      "score": 58
+      "title": "A.I. note takers are making lawyers nervous",
+      "url": "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html",
+      "score": 193
     },
     {
       "title": "Guy Goma's Accidental BBC Interview Lives on After 20 Years",
       "url": "https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html",
-      "score": 150
+      "score": 166
     }
   ]
 }
