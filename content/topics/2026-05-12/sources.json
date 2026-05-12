@@ -1,0 +1,155 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "Postmortem: TanStack npm supply-chain compromise",
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "score": 570
+    },
+    {
+      "title": "Claude Platform on AWS",
+      "url": "https://claude.com/blog/claude-platform-on-aws",
+      "score": 19
+    },
+    {
+      "title": "If AI writes your code, why use Python?",
+      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "score": 200
+    },
+    {
+      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+      "score": 250
+    },
+    {
+      "title": "Show HN: A modern Music Player Daemon based on Rockbox firmware",
+      "url": "https://github.com/tsirysndr/rockbox-zig",
+      "score": 21
+    },
+    {
+      "title": "Library for fast mapping of Java records to native memory",
+      "url": "https://github.com/mamba-studio/TypedMemory",
+      "score": 111
+    },
+    {
+      "title": "I let AI build a tool to help me figure out what was waking me up at night",
+      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+      "score": 79
+    },
+    {
+      "title": "Ratty – A terminal emulator with inline 3D graphics",
+      "url": "https://ratty-term.org/",
+      "score": 616
+    },
+    {
+      "title": "Nullsoft, 1997-2004 (2004)",
+      "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
+      "score": 232
+    },
+    {
+      "title": "GitLab announces workforce reduction and end of their CREDIT values",
+      "url": "https://about.gitlab.com/blog/gitlab-act-2/",
+      "score": 347
+    },
+    {
+      "title": "Gmail registration now requires scanning a QR code and sending a text message",
+      "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+      "score": 575
+    },
+    {
+      "title": "Fake building: Claude wrote 3k lines instead of import pywikibot",
+      "url": "https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/",
+      "score": 3
+    },
+    {
+      "title": "Griffin PowerMate driver for modern macOS",
+      "url": "https://github.com/jameslockman/Griffin-PowerMate-Driver",
+      "score": 48
+    },
+    {
+      "title": "Google says criminal hackers used AI to find a major software flaw",
+      "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+      "score": 123
+    },
+    {
+      "title": "A lost ancient script reveals how writing as we know it began",
+      "url": "https://www.newscientist.com/article/2524042-a-lost-ancient-script-reveals-how-writing-as-we-know-it-really-began/",
+      "score": 5
+    },
+    {
+      "title": "Interaction Models",
+      "url": "https://thinkingmachines.ai/blog/interaction-models/",
+      "score": 105
+    },
+    {
+      "title": "Silverback Imfura took a chance, and ended up alone",
+      "url": "https://gorillafund.org/mountain-gorillas/silverback-imfura-took-a-chance-and-ended-up-alone/",
+      "score": 38
+    },
+    {
+      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+      "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+      "score": 220
+    },
+    {
+      "title": "Interfaze: A new model architecture built for high accuracy at scale",
+      "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
+      "score": 115
+    },
+    {
+      "title": "The rise and fall of snake oil",
+      "url": "https://www.historytoday.com/archive/history-matters/rise-and-fall-snake-oil",
+      "score": 32
+    },
+    {
+      "title": "AMÁLIA and the future of European Portuguese LLMs",
+      "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
+      "score": 119
+    },
+    {
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "url": "https://bild.ai/jobs",
+      "score": 1
+    },
+    {
+      "title": "Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
+      "url": "https://github.com/ab-613/opengravity",
+      "score": 55
+    },
+    {
+      "title": "Abstract Machines for Logic Programs",
+      "url": "https://chrisistyping.bearblog.dev/abstract-machines-for-logic-programs/",
+      "score": 19
+    },
+    {
+      "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+      "url": "https://nvlabs.github.io/cuda-oxide/index.html",
+      "score": 368
+    },
+    {
+      "title": "Building a web server in aarch64 assembly to give my life (a lack of) meaning",
+      "url": "https://imtomt.github.io/ymawky/",
+      "score": 106
+    },
+    {
+      "title": "The Boston library where you still can borrow a giant puppet",
+      "url": "https://binj.news/2026/05/06/the-boston-library-where-you-still-can-borrow-a-giant-puppet/",
+      "score": 55
+    },
+    {
+      "title": "Hardware Attestation as Monopoly Enabler",
+      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+      "score": 2089
+    },
+    {
+      "title": "They Live (1988) inspired Adblocker",
+      "url": "https://github.com/davmlaw/they_live_adblocker",
+      "score": 4
+    },
+    {
+      "title": "Show HN: E2a – Open-source email gateway for AI agents",
+      "url": "https://github.com/Mnexa-AI/e2a",
+      "score": 24
+    }
+  ]
+}
