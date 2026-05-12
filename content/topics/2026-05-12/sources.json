@@ -2,54 +2,104 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Learning Software Architecture",
-      "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
-      "score": 287
+      "title": "Googlebook",
+      "url": "https://googlebook.google/",
+      "score": 273
+    },
+    {
+      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+      "score": 92
+    },
+    {
+      "title": "The Future of Obsidian Plugins",
+      "url": "https://obsidian.md/blog/future-of-plugins/",
+      "score": 172
+    },
+    {
+      "title": "Why senior developers fail to communicate their expertise",
+      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+      "score": 177
     },
     {
       "title": "Rendering the Sky, Sunsets, and Planets",
       "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-      "score": 39
+      "score": 325
+    },
+    {
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "score": 50
+    },
+    {
+      "title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
+      "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
+      "score": 32
+    },
+    {
+      "title": "Quack: The DuckDB Client-Server Protocol",
+      "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
+      "score": 36
+    },
+    {
+      "title": "Instructure pays ransom to Canvas hackers",
+      "url": "https://www.insidehighered.com/news/tech-innovation/administrative-tech/2026/05/11/instructure-pays-ransom-canvas-hackers",
+      "score": 163
+    },
+    {
+      "title": "Bambu Lab is abusing the open source social contract",
+      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+      "score": 829
+    },
+    {
+      "title": "Learning Software Architecture",
+      "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
+      "score": 453
+    },
+    {
+      "title": "When life gives you lemons, write better error messages",
+      "url": "https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f",
+      "score": 62
+    },
+    {
+      "title": "Show HN: Agentic interface for mainframes and COBOL",
+      "url": "https://www.hypercubic.ai/hopper",
+      "score": 27
+    },
+    {
+      "title": "The Rise of the Bullshittery",
+      "url": "https://xn--gckvb8fzb.com/the-rise-of-the-bullshittery/",
+      "score": 8
     },
     {
       "title": "Screenshots of Old Desktop OSes",
       "url": "http://www.typewritten.org/Media/",
-      "score": 414
+      "score": 585
     },
     {
-      "title": "Profiling.sampling – Statistical Profiler",
-      "url": "https://docs.python.org/3.15/library/profiling.sampling.html#module-profiling.sampling",
-      "score": 30
+      "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+      "url": "https://github.com/statewright/statewright",
+      "score": 22
     },
     {
-      "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
-      "url": "https://www.bbc.com/news/articles/c202pgxx89lo",
-      "score": 64
+      "title": "We accidentally recreated old Facebook",
+      "url": "https://amrshawky.com/posts/we-accidentally-recreated-fb/",
+      "score": 6
+    },
+    {
+      "title": "The Moth Story Map",
+      "url": "https://themoth.org/dispatches/story-map",
+      "score": 13
     },
     {
       "title": "Postmortem: TanStack NPM supply-chain compromise",
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "score": 938
+      "score": 1037
     },
     {
-      "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
-      "url": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html",
-      "score": 239
-    },
-    {
-      "title": "Chasing Chicago's movable bridges (2014)",
-      "url": "https://aresluna.org/seesaws-for-giants/",
-      "score": 32
-    },
-    {
-      "title": "They Live (1988) inspired Adblocker",
-      "url": "https://github.com/davmlaw/they_live_adblocker",
-      "score": 401
-    },
-    {
-      "title": "If AI writes your code, why use Python?",
-      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-      "score": 668
+      "title": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
+      "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
+      "score": 90
     },
     {
       "title": "Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship",
@@ -57,99 +107,44 @@
       "score": 1
     },
     {
+      "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+      "url": "https://voker.ai",
+      "score": 29
+    },
+    {
+      "title": "Testing UPS Output Waveforms",
+      "url": "https://www.lttlabs.com/articles/2026/05/12/ups-exploration",
+      "score": 27
+    },
+    {
+      "title": "The Real Story of Troy",
+      "url": "https://storica.club/blog/troy-was-real/",
+      "score": 31
+    },
+    {
+      "title": "They Live (1988) inspired Adblocker",
+      "url": "https://github.com/davmlaw/they_live_adblocker",
+      "score": 509
+    },
+    {
       "title": "The Surprisingly Long Life of the Vacuum Tube",
       "url": "https://www.construction-physics.com/p/the-surprisingly-long-life-of-the",
-      "score": 6
+      "score": 46
     },
     {
-      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-      "score": 388
+      "title": "If AI writes your code, why use Python?",
+      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "score": 815
     },
     {
-      "title": "A HN post with negative points – how?",
-      "url": "https://news.ycombinator.com/item?id=48104663",
-      "score": 61
+      "title": "Profiling.sampling – Statistical Profiler",
+      "url": "https://docs.python.org/3.15/library/profiling.sampling.html#module-profiling.sampling",
+      "score": 77
     },
     {
-      "title": "Through the looking glass of benchmark hacking",
-      "url": "https://poolside.ai/blog/through-the-looking-glass",
-      "score": 3
-    },
-    {
-      "title": "Coursera and Udemy are now one company",
-      "url": "https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/",
-      "score": 92
-    },
-    {
-      "title": "Extremely Low Frequencies",
-      "url": "https://computer.rip/2026-05-09-extremely-low-frequencies.html",
-      "score": 132
-    },
-    {
-      "title": "UnDUNE II",
-      "url": "https://liquidream.itch.io/undune2",
-      "score": 41
-    },
-    {
-      "title": "Claude Platform on AWS",
-      "url": "https://claude.com/blog/claude-platform-on-aws",
-      "score": 183
-    },
-    {
-      "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
-      "score": 228
-    },
-    {
-      "title": "Software Internals Book Club",
-      "url": "https://eatonphil.com/bookclub.html",
-      "score": 141
-    },
-    {
-      "title": "Rtwatch: Watch videos with friends using WebRTC",
-      "url": "https://github.com/pion/rtwatch",
-      "score": 60
-    },
-    {
-      "title": "Google says criminal hackers used AI to find a major software flaw",
-      "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
-      "score": 214
-    },
-    {
-      "title": "I hate soldering",
-      "url": "https://user8.bearblog.dev/rant/",
-      "score": 172
-    },
-    {
-      "title": "Remembering Planet Source Code: Sharing Code Before GitHub Made It Easy",
-      "url": "https://www.pietschsoft.com/post/2026/05/05/remembering-planet-source-code-sharing-code-before-github-made-it-easy",
-      "score": 36
-    },
-    {
-      "title": "Optimize for change not application performance",
-      "url": "https://www.echooff.dev/blog/developer-experience-is-a-performance-feature",
-      "score": 33
-    },
-    {
-      "title": "Nullsoft, 1997-2004 (2004)",
-      "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
-      "score": 305
-    },
-    {
-      "title": "Boriel BASIC",
-      "url": "https://zxbasic.readthedocs.io/en/docs/",
-      "score": 57
-    },
-    {
-      "title": "Interaction Models",
-      "url": "https://thinkingmachines.ai/blog/interaction-models/",
-      "score": 270
-    },
-    {
-      "title": "Unitree GD01: China's $537k rideable transformer robot is now in production",
-      "url": "https://gagadget.com/en/709729-unitree-gd01-chinas-537k-rideable-transformer-robot-is-now-in-production/",
-      "score": 72
+      "title": "eBay Rejects GameStop's $56B Takeover as Not Credible",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible",
+      "score": 188
     }
   ]
 }
