@@ -1,0 +1,150 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+      "score": 202
+    },
+    {
+      "title": "Googlebook",
+      "url": "https://googlebook.google/",
+      "score": 633
+    },
+    {
+      "title": "My graduation cap runs Rust",
+      "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
+      "score": 74
+    },
+    {
+      "title": "Starship V3",
+      "url": "https://www.spacex.com/updates#starship-v3",
+      "score": 56
+    },
+    {
+      "title": "Kraftwerk's radical 1976 track",
+      "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
+      "score": 75
+    },
+    {
+      "title": "How to make your text look futuristic (2016)",
+      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
+      "score": 227
+    },
+    {
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "score": 297
+    },
+    {
+      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+      "score": 243
+    },
+    {
+      "title": "Why senior developers fail to communicate their expertise",
+      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+      "score": 395
+    },
+    {
+      "title": "Tell NYT, Atlantic, USA Today to keep Wayback Machine",
+      "url": "https://www.savethearchive.com/newsleaders/",
+      "score": 178
+    },
+    {
+      "title": "Fc, a lossless compressor for floating-point streams",
+      "url": "https://github.com/xtellect/fc",
+      "score": 26
+    },
+    {
+      "title": "Rendering the Sky, Sunsets, and Planets",
+      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+      "score": 418
+    },
+    {
+      "title": "Quack: The DuckDB Client-Server Protocol",
+      "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
+      "score": 205
+    },
+    {
+      "title": "Traceway: MIT-licensed observability stack you can self-host in ~90s",
+      "url": "https://github.com/tracewayapp/traceway",
+      "score": 17
+    },
+    {
+      "title": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
+      "url": "https://blog.cloudflare.com/quic-death-spiral-fix/",
+      "score": 20
+    },
+    {
+      "title": "Lanzaboote – NixOS Secure Boot",
+      "url": "https://x86.lol/generic/2022/11/26/lanzaboote.html",
+      "score": 52
+    },
+    {
+      "title": "Reimagining the mouse pointer for the AI era",
+      "url": "https://deepmind.google/blog/ai-pointer/",
+      "score": 155
+    },
+    {
+      "title": "The Future of Obsidian Plugins",
+      "url": "https://obsidian.md/blog/future-of-plugins/",
+      "score": 319
+    },
+    {
+      "title": "Foucault's Order of Things Explained with Trading Cards [video]",
+      "url": "https://www.youtube.com/watch?v=1TbHYjGvS68",
+      "score": 24
+    },
+    {
+      "title": "Referer Reality",
+      "url": "https://www.robinsloan.com/lab/referer/",
+      "score": 4
+    },
+    {
+      "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+      "url": "https://voker.ai",
+      "score": 42
+    },
+    {
+      "title": "Show HN: Agentic interface for mainframes and COBOL",
+      "url": "https://www.hypercubic.ai/hopper",
+      "score": 59
+    },
+    {
+      "title": "Bambu Lab is abusing the open source social contract",
+      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+      "score": 1121
+    },
+    {
+      "title": "EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant",
+      "url": "https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant",
+      "score": 111
+    },
+    {
+      "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+      "url": "https://github.com/statewright/statewright",
+      "score": 80
+    },
+    {
+      "title": "When life gives you lemons, write better error messages",
+      "url": "https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f",
+      "score": 117
+    },
+    {
+      "title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
+      "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
+      "score": 61
+    },
+    {
+      "title": "Scrcpy v4.0",
+      "url": "https://github.com/Genymobile/scrcpy/releases/tag/v4.0",
+      "score": 39
+    },
+    {
+      "title": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
+      "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
+      "score": 298
+    }
+  ]
+}
