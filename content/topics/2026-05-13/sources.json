@@ -2,149 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "European governments: 3.000 tracking sites, 1.000 phpMyAdmins, and 99% poorly",
+      "url": "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/",
+      "score": 92
+    },
+    {
+      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
+      "url": "https://arxiv.org/abs/2605.08419",
+      "score": 147
+    },
+    {
       "title": "Restore full BambuNetwork support for Bambu Lab printers",
       "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "score": 202
+      "score": 402
+    },
+    {
+      "title": "The vi family",
+      "url": "https://lpar.ATH0.com/posts/2026/05/the-vi-family/",
+      "score": 142
     },
     {
       "title": "Googlebook",
       "url": "https://googlebook.google/",
-      "score": 633
-    },
-    {
-      "title": "My graduation cap runs Rust",
-      "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
-      "score": 74
-    },
-    {
-      "title": "Starship V3",
-      "url": "https://www.spacex.com/updates#starship-v3",
-      "score": 56
-    },
-    {
-      "title": "Kraftwerk's radical 1976 track",
-      "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
-      "score": 75
-    },
-    {
-      "title": "How to make your text look futuristic (2016)",
-      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-      "score": 227
+      "score": 759
     },
     {
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "url": "https://github.com/cactus-compute/needle",
-      "score": 297
+      "score": 439
+    },
+    {
+      "title": "How to make your text look futuristic (2016)",
+      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
+      "score": 326
+    },
+    {
+      "title": "Kraftwerk's radical 1976 track",
+      "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
+      "score": 149
     },
     {
       "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
       "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-      "score": 243
+      "score": 309
     },
     {
       "title": "Why senior developers fail to communicate their expertise",
       "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "score": 395
-    },
-    {
-      "title": "Tell NYT, Atlantic, USA Today to keep Wayback Machine",
-      "url": "https://www.savethearchive.com/newsleaders/",
-      "score": 178
-    },
-    {
-      "title": "Fc, a lossless compressor for floating-point streams",
-      "url": "https://github.com/xtellect/fc",
-      "score": 26
-    },
-    {
-      "title": "Rendering the Sky, Sunsets, and Planets",
-      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-      "score": 418
-    },
-    {
-      "title": "Quack: The DuckDB Client-Server Protocol",
-      "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
-      "score": 205
+      "score": 545
     },
     {
       "title": "Traceway: MIT-licensed observability stack you can self-host in ~90s",
       "url": "https://github.com/tracewayapp/traceway",
+      "score": 93
+    },
+    {
+      "title": "My graduation cap runs Rust",
+      "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
+      "score": 149
+    },
+    {
+      "title": "Rendering the Sky, Sunsets, and Planets",
+      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+      "score": 472
+    },
+    {
+      "title": "What if there was no BASIC in EndBASIC? – by Julio Merino",
+      "url": "https://blogsystem5.substack.com/p/no-basic-in-endbasic",
+      "score": 16
+    },
+    {
+      "title": "\"I applied to be pope\"",
+      "url": "https://www.thestandard.com.hk/world/article/331886/I-applied-to-be-pope-Losing-grip-on-reality-while-using-ChatGPT",
+      "score": 8
+    },
+    {
+      "title": "Up in Smoke",
+      "url": "https://thebaffler.com/odds-and-ends/the-profession-that-does-not-exist-symposium",
       "score": 17
-    },
-    {
-      "title": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
-      "url": "https://blog.cloudflare.com/quic-death-spiral-fix/",
-      "score": 20
-    },
-    {
-      "title": "Lanzaboote – NixOS Secure Boot",
-      "url": "https://x86.lol/generic/2022/11/26/lanzaboote.html",
-      "score": 52
-    },
-    {
-      "title": "Reimagining the mouse pointer for the AI era",
-      "url": "https://deepmind.google/blog/ai-pointer/",
-      "score": 155
-    },
-    {
-      "title": "The Future of Obsidian Plugins",
-      "url": "https://obsidian.md/blog/future-of-plugins/",
-      "score": 319
-    },
-    {
-      "title": "Foucault's Order of Things Explained with Trading Cards [video]",
-      "url": "https://www.youtube.com/watch?v=1TbHYjGvS68",
-      "score": 24
-    },
-    {
-      "title": "Referer Reality",
-      "url": "https://www.robinsloan.com/lab/referer/",
-      "score": 4
-    },
-    {
-      "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
-      "url": "https://voker.ai",
-      "score": 42
-    },
-    {
-      "title": "Show HN: Agentic interface for mainframes and COBOL",
-      "url": "https://www.hypercubic.ai/hopper",
-      "score": 59
-    },
-    {
-      "title": "Bambu Lab is abusing the open source social contract",
-      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-      "score": 1121
-    },
-    {
-      "title": "EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant",
-      "url": "https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant",
-      "score": 111
-    },
-    {
-      "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
-      "url": "https://github.com/statewright/statewright",
-      "score": 80
-    },
-    {
-      "title": "When life gives you lemons, write better error messages",
-      "url": "https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f",
-      "score": 117
-    },
-    {
-      "title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
-      "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
-      "score": 61
     },
     {
       "title": "Scrcpy v4.0",
       "url": "https://github.com/Genymobile/scrcpy/releases/tag/v4.0",
+      "score": 168
+    },
+    {
+      "title": "Quack: The DuckDB Client-Server Protocol",
+      "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
+      "score": 275
+    },
+    {
+      "title": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
+      "url": "https://blog.cloudflare.com/quic-death-spiral-fix/",
+      "score": 83
+    },
+    {
+      "title": "Referer Reality",
+      "url": "https://www.robinsloan.com/lab/referer/",
       "score": 39
     },
     {
-      "title": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
-      "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
-      "score": 298
+      "title": "The Future of Obsidian Plugins",
+      "url": "https://obsidian.md/blog/future-of-plugins/",
+      "score": 369
+    },
+    {
+      "title": "Fc, a lossless compressor for floating-point streams",
+      "url": "https://github.com/xtellect/fc",
+      "score": 64
+    },
+    {
+      "title": "Tell NYT, Atlantic, USA Today to keep Wayback Machine",
+      "url": "https://www.savethearchive.com/newsleaders/",
+      "score": 321
+    },
+    {
+      "title": "Reimagining the mouse pointer for the AI era",
+      "url": "https://deepmind.google/blog/ai-pointer/",
+      "score": 192
+    },
+    {
+      "title": "I made rust's cargo copy but for CPP",
+      "url": "https://github.com/user-with-username/crow",
+      "score": 10
+    },
+    {
+      "title": "As researchers age, they produce less disruptive work",
+      "url": "https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650",
+      "score": 65
+    },
+    {
+      "title": "Starship V3",
+      "url": "https://www.spacex.com/updates#starship-v3",
+      "score": 211
+    },
+    {
+      "title": "Bambu Lab is abusing the open source social contract",
+      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+      "score": 1242
+    },
+    {
+      "title": "Lanzaboote – NixOS Secure Boot",
+      "url": "https://x86.lol/generic/2022/11/26/lanzaboote.html",
+      "score": 86
+    },
+    {
+      "title": "Show HN: Agentic interface for mainframes and COBOL",
+      "url": "https://www.hypercubic.ai/hopper",
+      "score": 70
     }
   ]
 }
