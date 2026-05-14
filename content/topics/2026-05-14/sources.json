@@ -2,149 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought",
-      "url": "https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought",
-      "score": 77
+      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+      "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+      "score": 248
+    },
+    {
+      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "score": 323
+    },
+    {
+      "title": "New Nginx Exploit",
+      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+      "score": 145
+    },
+    {
+      "title": "First public macOS kernel memory corruption exploit on Apple M5",
+      "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+      "score": 31
+    },
+    {
+      "title": "The AI Zombification of Universities",
+      "url": "https://www.thenewcritic.com/p/the-great-zombification",
+      "score": 22
+    },
+    {
+      "title": "The Power of a Free Popsicle (2018)",
+      "url": "https://www.gsb.stanford.edu/insights/power-free-popsicle",
+      "score": 18
+    },
+    {
+      "title": "A message from President Kornbluth about funding and the talent pipeline",
+      "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
+      "score": 497
+    },
+    {
+      "title": "HDD Firmware Hacking",
+      "url": "https://icode4.coffee/?p=1465",
+      "score": 56
     },
     {
       "title": "Computer Hobby Movement in Canada",
       "url": "https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada",
+      "score": 151
+    },
+    {
+      "title": "AI is making me dumb",
+      "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+      "score": 197
+    },
+    {
+      "title": "Terranox AI (YC W26) Is Hiring a Founding AI/ML Engineer and Summer AI/ML Intern",
+      "url": "https://www.workatastartup.com/companies/terranox-ai",
+      "score": 1
+    },
+    {
+      "title": "Fossils show millipede and centipede ancestors evolved legs underwater",
+      "url": "https://phys.org/news/2026-05-ancient-sea-fossils-millipede-centipede.html",
+      "score": 52
+    },
+    {
+      "title": "Int a = 5; a = a++ + ++a; a =? (2011)",
+      "url": "https://gynvael.coldwind.pl/?id=372",
       "score": 29
+    },
+    {
+      "title": "Understanding the Linux Kernel: The Linux Kernel Startup",
+      "url": "https://internals-for-interns.com/posts/linux-kernel-startup/",
+      "score": 22
+    },
+    {
+      "title": "You Don't Align an AI, You Align with It",
+      "url": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
+      "score": 21
+    },
+    {
+      "title": "Germany's Sovereign Tech Fund Backs KDE with €1.3M",
+      "url": "https://www.theregister.com/oses/2026/05/14/kde-bags-13m-as-europe-realizes-it-might-need-an-os-of-its-own/5240562",
+      "score": 24
+    },
+    {
+      "title": "German intelligence offices snub Palantir software",
+      "url": "https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897",
+      "score": 27
+    },
+    {
+      "title": "The conflation of money and things",
+      "url": "https://lithub.com/is-it-even-real-on-the-conflation-of-money-and-things/",
+      "score": 47
+    },
+    {
+      "title": "What's in a GGUF, besides the weights – and what's still missing?",
+      "url": "https://nobodywho.ooo/posts/whats-in-a-gguf/",
+      "score": 25
+    },
+    {
+      "title": "EditLens: Quantifying the extent of AI editing in text (2025)",
+      "url": "https://arxiv.org/abs/2510.03154",
+      "score": 24
+    },
+    {
+      "title": "London's Smallest Public Sculptures",
+      "url": "https://lookup.london/londons-smallest-public-sculptures/",
+      "score": 7
+    },
+    {
+      "title": "60fps Video on a CGA? – The GlyphBlaster",
+      "url": "https://martypc.blogspot.com/2026/05/60fps-video-on-cga-glyphblaster.html",
+      "score": 46
     },
     {
       "title": "Show HN: Running the second public ODoH relay",
       "url": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
-      "score": 63
+      "score": 103
     },
     {
-      "title": "The European Union backs Italy's right to make Meta pay for news",
-      "url": "https://www.niemanlab.org/2026/05/the-eu-backs-italys-right-to-make-meta-pay-for-news/",
-      "score": 29
+      "title": "Rewrite Bun in Rust has been merged",
+      "url": "https://github.com/oven-sh/bun/pull/30412",
+      "score": 293
     },
     {
-      "title": "Claude for Small Business",
-      "url": "https://www.anthropic.com/news/claude-for-small-business",
-      "score": 383
-    },
-    {
-      "title": "The Tree House: A voyage to the source of a backyard dream",
-      "url": "https://www.laphamsquarterly.org/roundtable/tree-house",
-      "score": 24
-    },
-    {
-      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-      "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-      "score": 843
-    },
-    {
-      "title": "Scorched Earth 2000 – Web",
-      "url": "http://www.scorch2000.com/web/",
-      "score": 313
+      "title": "DIY open-source ultrasound hardware on the rp2040/rp2350",
+      "url": "http://un0rick.cc/pic0rick",
+      "score": 6
     },
     {
       "title": "Myths about /dev/urandom (2014)",
       "url": "https://www.2uo.de/myths-about-urandom/",
-      "score": 29
+      "score": 76
     },
     {
       "title": "Leaving the Physical World",
       "url": "https://www.eff.org/pages/leaving-physical-world",
-      "score": 82
+      "score": 165
     },
     {
-      "title": "Setting up a free *.city.state.us locality domain (2025)",
-      "url": "https://fredchan.org/blog/locality-domains-guide/",
-      "score": 586
+      "title": "The Tree House: A voyage to the source of a backyard dream",
+      "url": "https://www.laphamsquarterly.org/roundtable/tree-house",
+      "score": 60
     },
     {
-      "title": "Saying Goodbye to one line of APL",
-      "url": "https://homewithinnowhere.com/posts/2026-05-10-one-line.html#fnref1",
-      "score": 25
+      "title": "USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought",
+      "url": "https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought",
+      "score": 223
     },
     {
       "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
       "url": "https://github.com/DrCatHicks/learning-opportunities",
-      "score": 121
-    },
-    {
-      "title": "Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO",
-      "url": "https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo-52c1cc4d",
-      "score": 26
-    },
-    {
-      "title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
-      "url": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
-      "score": 270
-    },
-    {
-      "title": "The Siri for Families Apple Will Never Build",
-      "url": "https://taoofmac.com/space/blog/2026/05/14/1220",
-      "score": 38
-    },
-    {
-      "title": "Technical Dimensions of Live Feedback in Programming Systems",
-      "url": "https://joshuahhh.com/dims-of-feedback/",
-      "score": 31
-    },
-    {
-      "title": "A History of IDEs at Google",
-      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
-      "score": 406
-    },
-    {
-      "title": "The Emacsification of Software",
-      "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
-      "score": 345
-    },
-    {
-      "title": "Swift bricks to be installed on all new buildings in Scotland",
-      "url": "https://www.theguardian.com/environment/2026/jan/28/swift-bricks-to-be-installed-in-all-new-buildings-in-scotland-after-holyrood-backs-ruling",
-      "score": 39
-    },
-    {
-      "title": "Pipes, Forks, and Zombies",
-      "url": "https://cs61.seas.harvard.edu/wiki/2017/Shell3/",
-      "score": 8
-    },
-    {
-      "title": "The Whole Anthropic Kerfuffle",
-      "url": "https://twitter.com/josevalim/status/2054887621336174799",
-      "score": 44
-    },
-    {
-      "title": "Chess puzzle I found in my dad's old book",
-      "url": "https://ardoedo.it/kempelen/",
-      "score": 195
-    },
-    {
-      "title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
-      "url": "https://classic7.lol/",
-      "score": 114
-    },
-    {
-      "title": "Avoiding and reducing microplastic false positives from dry glove contact",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c",
-      "score": 75
-    },
-    {
-      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "url": "https://github.com/cactus-compute/needle",
-      "score": 694
-    },
-    {
-      "title": "Show HN: Nibble",
-      "url": "https://github.com/glouw/nibble",
-      "score": 73
-    },
-    {
-      "title": "Extraordinary Ordinals",
-      "url": "https://text.marvinborner.de/2026-04-09-17.html",
-      "score": 33
-    },
-    {
-      "title": "The US is winning the AI race where it matters most: commercialization",
-      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-      "score": 220
+      "score": 203
     }
   ]
 }
