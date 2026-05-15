@@ -1,0 +1,155 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "Mullvad exit IPs are surprisingly identifying",
+      "url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+      "score": 62
+    },
+    {
+      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+      "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+      "score": 667
+    },
+    {
+      "title": "A few words on DS4",
+      "url": "https://antirez.com/news/165",
+      "score": 191
+    },
+    {
+      "title": "First public macOS kernel memory corruption exploit on Apple M5",
+      "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+      "score": 286
+    },
+    {
+      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "score": 503
+    },
+    {
+      "title": "New Nginx Exploit",
+      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+      "score": 310
+    },
+    {
+      "title": "Codex is now in the ChatGPT mobile app",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+      "score": 211
+    },
+    {
+      "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
+      "url": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
+      "score": 70
+    },
+    {
+      "title": "RISC-V Router",
+      "url": "https://router.start9.com/",
+      "score": 86
+    },
+    {
+      "title": "More than sixty percent of the United States is experiencing drought conditions",
+      "url": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html",
+      "score": 118
+    },
+    {
+      "title": "OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
+      "url": "https://www.openvehicles.com/home",
+      "score": 45
+    },
+    {
+      "title": "Porting 3D Movie Maker to Linux",
+      "url": "https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/",
+      "score": 88
+    },
+    {
+      "title": "UFerris a Versatile Learner Board for Rust Embedded Beginners",
+      "url": "https://www.theembeddedrustacean.com/uferris",
+      "score": 10
+    },
+    {
+      "title": "New arXiv policy: 1-year ban for hallucinated references",
+      "url": "https://twitter.com/tdietterich/status/2055000956144935055",
+      "score": 339
+    },
+    {
+      "title": "HDD Firmware Hacking",
+      "url": "https://icode4.coffee/?p=1465",
+      "score": 141
+    },
+    {
+      "title": "Show HN: GridTravel- A community based travel app for users to share routes",
+      "url": "https://www.gridtravel.app",
+      "score": 26
+    },
+    {
+      "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+      "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+      "score": 139
+    },
+    {
+      "title": "Rewrite Bun in Rust has been merged",
+      "url": "https://github.com/oven-sh/bun/pull/30412",
+      "score": 523
+    },
+    {
+      "title": "Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware",
+      "url": "https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate",
+      "score": 1
+    },
+    {
+      "title": "Computer Hobby Movement in Canada",
+      "url": "https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada",
+      "score": 191
+    },
+    {
+      "title": "What's in a GGUF, besides the weights – and what's still missing?",
+      "url": "https://nobodywho.ooo/posts/whats-in-a-gguf/",
+      "score": 108
+    },
+    {
+      "title": "Gyroflow: Video stabilization using gyroscope data",
+      "url": "https://github.com/gyroflow/gyroflow",
+      "score": 3
+    },
+    {
+      "title": "Velonus – Open-source AppSec scanner that deduplicates SAST noise",
+      "url": "https://github.com/AliAmmar15/Velonus",
+      "score": 5
+    },
+    {
+      "title": "The Power of a Free Popsicle (2018)",
+      "url": "https://www.gsb.stanford.edu/insights/power-free-popsicle",
+      "score": 76
+    },
+    {
+      "title": "A message from President Kornbluth about funding and the talent pipeline",
+      "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
+      "score": 585
+    },
+    {
+      "title": "Int a = 5; a = a++ + ++a; a =? (2011)",
+      "url": "https://gynvael.coldwind.pl/?id=372",
+      "score": 110
+    },
+    {
+      "title": "Amazonbot is finally respecting robots.txt",
+      "url": "https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/",
+      "score": 145
+    },
+    {
+      "title": "Fossils show millipede and centipede ancestors evolved legs underwater",
+      "url": "https://phys.org/news/2026-05-ancient-sea-fossils-millipede-centipede.html",
+      "score": 77
+    },
+    {
+      "title": "DIY open-source ultrasound hardware on the rp2040/rp2350",
+      "url": "http://un0rick.cc/pic0rick",
+      "score": 70
+    },
+    {
+      "title": "Have a Coherent AI Policy",
+      "url": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
+      "score": 55
+    }
+  ]
+}
