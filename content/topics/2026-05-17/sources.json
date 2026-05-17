@@ -1,0 +1,155 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "url": "https://crates.io/crates/zerostack/1.0.0",
+      "score": 192
+    },
+    {
+      "title": "Hosting a website on an 8-bit microcontroller",
+      "url": "https://maurycyz.com/projects/mcusite/",
+      "score": 24
+    },
+    {
+      "title": "A nicer voltmeter clock",
+      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+      "score": 79
+    },
+    {
+      "title": "Unknowable Math Can Help Hide Secrets",
+      "url": "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
+      "score": 16
+    },
+    {
+      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "score": 89
+    },
+    {
+      "title": "Self-Distillation Enables Continual Learning [PDF]",
+      "url": "https://arxiv.org/abs/2601.19897",
+      "score": 7
+    },
+    {
+      "title": "MCP Hello Page",
+      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+      "score": 58
+    },
+    {
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "url": "https://nvlabs.github.io/Sana/WM/",
+      "score": 309
+    },
+    {
+      "title": "Moving away from Tailwind, and learning to structure my CSS",
+      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+      "score": 451
+    },
+    {
+      "title": "A molecule with half-Möbius topology",
+      "url": "https://www.science.org/doi/10.1126/science.aea3321",
+      "score": 70
+    },
+    {
+      "title": "Stochastic Parrots: Frequently Unasked Questions",
+      "url": "https://medium.com/@emilymenonbender/stochastic-parrots-frequently-unasked-questions-49c2e7d22d11",
+      "score": 36
+    },
+    {
+      "title": "The Third Hard Problem",
+      "url": "https://mmapped.blog/posts/48-the-third-hard-problem",
+      "score": 34
+    },
+    {
+      "title": "Fisker went bankrupt and owners built an open source car company from the ashes",
+      "url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
+      "score": 68
+    },
+    {
+      "title": "Accelerando (2005)",
+      "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
+      "score": 250
+    },
+    {
+      "title": "C++26 Shipped a SIMD Library Nobody Asked For",
+      "url": "https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody",
+      "score": 13
+    },
+    {
+      "title": "Frontier AI has broken the open CTF format",
+      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "score": 342
+    },
+    {
+      "title": "Content-defined chunking added to Bazel",
+      "url": "https://www.buildbuddy.io/blog/content-defined-chunking/",
+      "score": 30
+    },
+    {
+      "title": "We've made the world too complicated",
+      "url": "https://user8.bearblog.dev/the-world-is-too-complicated/",
+      "score": 203
+    },
+    {
+      "title": "δ-mem: Efficient Online Memory for Large Language Models",
+      "url": "https://arxiv.org/abs/2605.12357",
+      "score": 197
+    },
+    {
+      "title": "Halt and Catch Fire",
+      "url": "https://unstack.io/halt-and-catch-fire",
+      "score": 88
+    },
+    {
+      "title": "3D Gaussian Splatting in a Weekend",
+      "url": "https://bfeldman.me/3dgs-weekend/",
+      "score": 55
+    },
+    {
+      "title": "Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol",
+      "url": "https://tangled.org/rocksky.app/rocksky",
+      "score": 60
+    },
+    {
+      "title": "PART Telescopes – Bringing radio astronomy within reach of rural schools",
+      "url": "https://parttelescopes.web.app/",
+      "score": 111
+    },
+    {
+      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
+      "score": 116
+    },
+    {
+      "title": "Fame! A Misunderstanding: A new translation of Albert Camus's complete notebooks",
+      "url": "https://lareviewofbooks.org/article/albert-camus-complete-notebooks-ryan-bloom-existentialism-absurd/",
+      "score": 45
+    },
+    {
+      "title": "Greek Alphabet Cards",
+      "url": "https://labs.randomquark.com/alphabet_cards/",
+      "score": 102
+    },
+    {
+      "title": "Nearly 50 Years Later, WKRP in Cincinnati Becomes a Real Radio Station",
+      "url": "https://www.openculture.com/2026/05/nearly-50-years-later-wkrp-in-cincinnati-becomes-a-real-radio-station.html",
+      "score": 115
+    },
+    {
+      "title": "Futhark by example (2020)",
+      "url": "https://futhark-lang.org/examples.html",
+      "score": 111
+    },
+    {
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "score": 1901
+    },
+    {
+      "title": "Accelerate – Embedded language for high-performance array computations",
+      "url": "https://github.com/AccelerateHS/accelerate",
+      "score": 81
+    }
+  ]
+}
