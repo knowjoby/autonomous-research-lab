@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Native all the way, until you need text",
+      "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+      "score": 84
+    },
+    {
+      "title": "I don't think AI will make your processes go faster",
+      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+      "score": 47
+    },
+    {
+      "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+      "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+      "score": 35
+    },
+    {
+      "title": "Apple Silicon costs more than OpenRouter",
+      "url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
+      "score": 48
+    },
+    {
       "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
       "url": "https://crates.io/crates/zerostack/1.0.0",
-      "score": 356
+      "score": 460
+    },
+    {
+      "title": "Prolog Basics Explained with Pokémon",
+      "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
+      "score": 54
     },
     {
       "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
       "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
-      "score": 98
-    },
-    {
-      "title": "Colossus: The Forbin Project",
-      "url": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
-      "score": 89
-    },
-    {
-      "title": "Hosting a website on an 8-bit microcontroller",
-      "url": "https://maurycyz.com/projects/mcusite/",
-      "score": 113
+      "score": 359
     },
     {
       "title": "A nicer voltmeter clock",
       "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
-      "score": 161
+      "score": 238
     },
     {
-      "title": "C++26 Shipped a SIMD Library Nobody Asked For",
-      "url": "https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody",
-      "score": 112
+      "title": "Colossus: The Forbin Project",
+      "url": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
+      "score": 137
+    },
+    {
+      "title": "Hosting a website on an 8-bit microcontroller",
+      "url": "https://maurycyz.com/projects/mcusite/",
+      "score": 164
     },
     {
       "title": "Moving away from Tailwind, and learning to structure my CSS",
       "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-      "score": 522
+      "score": 588
     },
     {
       "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
       "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
-      "score": 163
+      "score": 232
+    },
+    {
+      "title": "Playing Atari ST Music on the Amiga with Zero CPU",
+      "url": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
+      "score": 71
     },
     {
       "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
       "url": "https://nvlabs.github.io/Sana/WM/",
-      "score": 331
+      "score": 361
+    },
+    {
+      "title": "Mado: Fast Markdown linter written in Rust",
+      "url": "https://github.com/akiomik/mado",
+      "score": 13
+    },
+    {
+      "title": "How Diamonds Are Made",
+      "url": "https://diamond.jaydip.me/",
+      "score": 18
     },
     {
       "title": "Twilight of the Velocipede: Typesetting Races Before the Age of Linotype",
       "url": "https://publicdomainreview.org/essay/twilight-of-the-velocipede/",
-      "score": 7
-    },
-    {
-      "title": "Illusions of Understanding in the Sciences",
-      "url": "https://link.springer.com/article/10.1007/s42113-026-00271-1",
-      "score": 35
-    },
-    {
-      "title": "Citroën metropolis concept car (2010)",
-      "url": "https://www.citroenet.org.uk/prototypes/metropolis/metropolis1.html",
-      "score": 20
-    },
-    {
-      "title": "Unknowable Math Can Help Hide Secrets",
-      "url": "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
-      "score": 49
-    },
-    {
-      "title": "The Third Hard Problem",
-      "url": "https://mmapped.blog/posts/48-the-third-hard-problem",
-      "score": 68
-    },
-    {
-      "title": "Why did Clovis toolmakers choose difficult quartz crystal?",
-      "url": "https://phys.org/news/2026-04-clovis-toolmakers-difficult-quartz-crystal.html",
-      "score": 20
+      "score": 29
     },
     {
       "title": "We've made the world too complicated",
       "url": "https://user8.bearblog.dev/the-world-is-too-complicated/",
-      "score": 284
+      "score": 335
     },
     {
-      "title": "MCP Hello Page",
-      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
-      "score": 87
+      "title": "Illusions of understanding in the sciences",
+      "url": "https://link.springer.com/article/10.1007/s42113-026-00271-1",
+      "score": 61
+    },
+    {
+      "title": "The Third Hard Problem",
+      "url": "https://mmapped.blog/posts/48-the-third-hard-problem",
+      "score": 106
     },
     {
       "title": "Accelerando (2005)",
       "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
-      "score": 280
+      "score": 308
+    },
+    {
+      "title": "Roman Letters",
+      "url": "https://romanletters.org/",
+      "score": 50
+    },
+    {
+      "title": "Why did Clovis toolmakers choose difficult quartz crystal?",
+      "url": "https://phys.org/news/2026-04-clovis-toolmakers-difficult-quartz-crystal.html",
+      "score": 33
     },
     {
       "title": "Frontier AI has broken the open CTF format",
       "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
-      "score": 373
-    },
-    {
-      "title": "δ-mem: Efficient Online Memory for Large Language Models",
-      "url": "https://arxiv.org/abs/2605.12357",
-      "score": 210
-    },
-    {
-      "title": "A molecule with half-Möbius topology",
-      "url": "https://www.science.org/doi/10.1126/science.aea3321",
-      "score": 88
-    },
-    {
-      "title": "Tesla Solar Roof is on life support as it pivot to panels",
-      "url": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/",
-      "score": 66
+      "score": 392
     },
     {
       "title": "Halt and Catch Fire",
       "url": "https://unstack.io/halt-and-catch-fire",
-      "score": 127
+      "score": 162
     },
     {
-      "title": "Self-Distillation Enables Continual Learning [pdf]",
-      "url": "https://arxiv.org/abs/2601.19897",
-      "score": 54
+      "title": "MCP Hello Page",
+      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+      "score": 114
     },
     {
-      "title": "3D Gaussian Splatting in a Weekend",
-      "url": "https://bfeldman.me/3dgs-weekend/",
-      "score": 84
+      "title": "δ-mem: Efficient Online Memory for Large Language Models",
+      "url": "https://arxiv.org/abs/2605.12357",
+      "score": 226
     },
     {
-      "title": "Grafana Labs internal source code accessed",
-      "url": "https://twitter.com/grafana/status/2055827123236171827",
-      "score": 44
+      "title": "Unknowable Math Can Help Hide Secrets",
+      "url": "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
+      "score": 59
     },
     {
-      "title": "Ten Signs of Fascism. America has all of them",
-      "url": "https://rutgerbregman.substack.com/p/10-signs-of-fascism-america-has-all",
-      "score": 5
+      "title": "A molecule with half-Möbius topology",
+      "url": "https://www.science.org/doi/10.1126/science.aea3321",
+      "score": 102
     },
     {
-      "title": "Content-defined chunking added to Bazel",
-      "url": "https://www.buildbuddy.io/blog/content-defined-chunking/",
-      "score": 49
-    },
-    {
-      "title": "Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol",
-      "url": "https://tangled.org/rocksky.app/rocksky",
-      "score": 73
-    },
-    {
-      "title": "Greek Alphabet Cards",
-      "url": "https://labs.randomquark.com/alphabet_cards/",
-      "score": 120
+      "title": "C++26 Shipped a SIMD Library Nobody Asked For",
+      "url": "https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody",
+      "score": 159
     }
   ]
 }
