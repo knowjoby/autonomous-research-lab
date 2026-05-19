@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Click (2016)",
-      "url": "https://clickclickclick.click/",
-      "score": 222
-    },
-    {
-      "title": "Peter Salus has died",
-      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
-      "score": 15
-    },
-    {
       "title": "The last six months in LLMs in five minutes",
       "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-      "score": 29
+      "score": 423
+    },
+    {
+      "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+      "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+      "score": 86
+    },
+    {
+      "title": "Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone",
+      "url": "https://www.kv4p.com/",
+      "score": 92
+    },
+    {
+      "title": "Click (2016)",
+      "url": "https://clickclickclick.click/",
+      "score": 299
+    },
+    {
+      "title": "Peter Neumann has died",
+      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
+      "score": 98
+    },
+    {
+      "title": "The lasting influence of Netscape Time",
+      "url": "https://thehistoryoftheweb.com/the-lasting-influence-of-netscape-time/",
+      "score": 23
+    },
+    {
+      "title": "Polypad",
+      "url": "https://polypad.amplify.com/",
+      "score": 50
+    },
+    {
+      "title": "PyTorch Landscape",
+      "url": "https://pytorch.landscape2.io",
+      "score": 41
     },
     {
       "title": "Anthropic acquires Stainless",
       "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "score": 381
+      "score": 452
     },
     {
-      "title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
-      "url": "https://nicholas.carlini.com/writing/2025/regex-chess.html",
-      "score": 36
+      "title": "Cursor Introduces Composer 2.5",
+      "url": "https://cursor.com/blog/composer-2-5",
+      "score": 144
+    },
+    {
+      "title": "I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
+      "url": "https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314",
+      "score": 7
     },
     {
       "title": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
       "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
-      "score": 134
+      "score": 223
     },
     {
-      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-      "url": "https://archestra.ai/blog/only-responsible-ai",
-      "score": 433
+      "title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
+      "url": "https://nicholas.carlini.com/writing/2025/regex-chess.html",
+      "score": 120
     },
     {
-      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
-      "url": "https://hyperpolyglot.org/lisp",
-      "score": 138
-    },
-    {
-      "title": "The Quiet Renovation at Bitwarden",
-      "url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
-      "score": 560
+      "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
+      "url": "https://github.com/2b2tplace/1m_release",
+      "score": 143
     },
     {
       "title": "We let AIs run radio stations",
       "url": "https://andonlabs.com/blog/andon-fm",
-      "score": 192
+      "score": 261
     },
     {
-      "title": "Anyone on the Internet Can Ring Your Doorbell",
-      "url": "https://www.abgeo.dev/blog/anyone-can-ring-your-doorbell",
-      "score": 6
+      "title": "Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust",
+      "url": "https://github.com/harmont-dev/hsrs",
+      "score": 29
+    },
+    {
+      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+      "url": "https://hyperpolyglot.org/lisp",
+      "score": 157
     },
     {
       "title": "Show HN: Number Gacha, a gacha game distilled to its essence",
       "url": "https://isabisabel.com/gacha/",
-      "score": 73
+      "score": 151
     },
     {
-      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
-      "url": "https://github.com/zakirullin/files.md",
-      "score": 567
-    },
-    {
-      "title": "Earth's Radio Bubble: Every signal we've ever sent into space",
-      "url": "https://www.thescientificdrop.com/2026/05/earths-radio-bubble-every-signal-weve.html",
-      "score": 43
-    },
-    {
-      "title": "Project Glasswing: what Mythos showed us",
-      "url": "https://blog.cloudflare.com/cyber-frontier-models/",
-      "score": 296
-    },
-    {
-      "title": "The American Rebellion Against AI Is Gaining Steam",
-      "url": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529",
-      "score": 38
-    },
-    {
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "score": 831
+      "title": "Make ZIP files smaller with ZIP Shrinker",
+      "url": "https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/",
+      "score": 24
     },
     {
       "title": "When can the C++ compiler devirtualize a call?",
       "url": "https://quuxplusone.github.io/blog/2021/02/15/devirtualization/",
-      "score": 22
+      "score": 61
     },
     {
-      "title": "Agora-1: The Multi-Agent World Model",
-      "url": "https://odyssey.ml/introducing-agora-1",
-      "score": 87
+      "title": "Peter Salus has died",
+      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
+      "score": 132
+    },
+    {
+      "title": "AI eats the world (Spring 26) [pdf]",
+      "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+      "score": 225
+    },
+    {
+      "title": "LLMCap – A proxy that hard-stops LLM API calls when you hit a dollar cap",
+      "url": "https://www.llmcap.io/",
+      "score": 18
+    },
+    {
+      "title": "Anyone on the Internet Can Ring Your Doorbell",
+      "url": "https://www.abgeo.dev/blog/anyone-can-ring-your-doorbell",
+      "score": 100
+    },
+    {
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "score": 952
     },
     {
       "title": "Two computers, one monitor, zero fiddling (2025)",
       "url": "https://alexplescan.com/posts/2025/08/16/kvm/",
-      "score": 180
-    },
-    {
-      "title": "The FBI Wants to Buy Nationwide Access to License Plate Readers",
-      "url": "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/",
-      "score": 244
-    },
-    {
-      "title": "The Fil-C Optimized Calling Convention",
-      "url": "https://fil-c.org/calling_convention",
-      "score": 116
-    },
-    {
-      "title": "Coding on Paper",
-      "url": "https://wickstrom.tech/2026-05-16-coding-on-paper.html",
-      "score": 49
-    },
-    {
-      "title": "Show HN: InsForge – Open-source Heroku for coding agents",
-      "url": "https://github.com/InsForge/InsForge",
-      "score": 37
-    },
-    {
-      "title": "Loopmaster – Livecoding Music IDE",
-      "url": "https://loopmaster.xyz/",
-      "score": 74
-    },
-    {
-      "title": "Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint",
-      "url": "https://modal.com/blog/truly-serverless-gpus",
-      "score": 74
+      "score": 214
     },
     {
       "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
       "url": "https://arxiv.org/abs/2601.10160",
-      "score": 27
-    },
-    {
-      "title": "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
-      "score": 280
-    },
-    {
-      "title": "Designing an FPGA Calculator from Scratch",
-      "url": "https://baltazarstudios.com/calculator/",
       "score": 54
     },
     {
-      "title": "Shutterstock to pay $35M over hard-to-cancel subscriptions",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices",
-      "score": 153
+      "title": "Why is it called Kent House?",
+      "url": "https://diamondgeezer.blogspot.com/2026/05/kent-house.html",
+      "score": 31
+    },
+    {
+      "title": "Consider the Sister",
+      "url": "https://www.thesmallbow.com/p/consider-the-sister-2b94",
+      "score": 6
+    },
+    {
+      "title": "Agora-1: The Multi-Agent World Model",
+      "url": "https://odyssey.ml/introducing-agora-1",
+      "score": 108
     }
   ]
 }
