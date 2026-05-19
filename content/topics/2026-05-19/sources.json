@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "OpenBSD 7.9 Released",
-      "url": "https://www.openbsd.org/79.html",
-      "score": 171
+      "title": "Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "score": 164
     },
     {
-      "title": "New accessibility features powered by Apple Intelligence",
-      "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-      "score": 248
+      "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+      "url": "https://virtualosmuseum.org/",
+      "score": 380
     },
     {
-      "title": "Gaussian Splat of a Strawberry",
-      "url": "https://superspl.at/scene/84df8849",
-      "score": 277
+      "title": "Google changes its search box",
+      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+      "score": 65
     },
     {
-      "title": "Show HN: I made a 3D pose maker for artists",
-      "url": "https://setpose.com/",
-      "score": 28
-    },
-    {
-      "title": "Andrej Karpathy joins Anthropic",
+      "title": "I’ve joined Anthropic",
       "url": "https://twitter.com/karpathy/status/2056753169888334312",
-      "score": 63
+      "score": 893
     },
     {
-      "title": "Hanoi's humble beer glass and the memory of a nation",
-      "url": "https://sundaylongread.com/2026/05/15/hanois-humble-beer-glass-and-the-memory-of-a-nation/",
-      "score": 35
+      "title": "Apple unveils new accessibility features",
+      "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+      "score": 498
     },
     {
-      "title": "I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
-      "url": "https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314",
-      "score": 171
+      "title": "Show HN: Gaussian Splat of a Strawberry",
+      "url": "https://superspl.at/scene/84df8849",
+      "score": 419
     },
     {
-      "title": "An Apple (II) for Teacher",
-      "url": "https://technicshistory.com/2026/05/19/an-apple-ii-for-teacher/",
-      "score": 25
+      "title": "Disney erased FiveThirtyEight",
+      "url": "https://www.natesilver.net/p/disney-erased-fivethirtyeight",
+      "score": 65
+    },
+    {
+      "title": "Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities",
+      "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
+      "score": 75
+    },
+    {
+      "title": "Era: From Nature publication to catalyzing Computational Discovery",
+      "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/",
+      "score": 5
+    },
+    {
+      "title": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
+      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+      "score": 8
+    },
+    {
+      "title": "The Silver Swan",
+      "url": "https://thebowesmuseum.org.uk/collections/the-silver-swan/",
+      "score": 9
+    },
+    {
+      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "url": "https://github.com/antoinezambelli/forge",
+      "score": 12
+    },
+    {
+      "title": "Show HN: Haystack – Review the PRs that need human attention",
+      "url": "https://haystackeditor.com/",
+      "score": 17
+    },
+    {
+      "title": "Show HN: Superlog (YC P26) – Observability that installs itself and fixes bugs",
+      "url": "https://superlog.sh/",
+      "score": 34
+    },
+    {
+      "title": "Gemini Omni",
+      "url": "https://deepmind.google/models/gemini-omni/",
+      "score": 100
     },
     {
       "title": "CISA Admin Leaked AWS GovCloud Keys on GitHub",
       "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-      "score": 104
+      "score": 310
     },
     {
-      "title": "Peter Neumann has died",
-      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
-      "score": 242
+      "title": "Andrej Karpathy Joins Anthropic",
+      "url": "https://www.thevccorner.com/p/breaking-andrej-karpathy-joins-anthropic",
+      "score": 5
     },
     {
-      "title": "Polypad",
-      "url": "https://polypad.amplify.com/",
-      "score": 158
+      "title": "I found ultra-pure quantum crystals in an abandoned mine in the Atacama desert",
+      "url": "https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314",
+      "score": 232
     },
     {
-      "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
-      "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
-      "score": 241
-    },
-    {
-      "title": "Nim-Presto – REST API Framework for Nim Language",
-      "url": "https://github.com/status-im/nim-presto",
-      "score": 38
-    },
-    {
-      "title": "Photo GIMP – A Patch for GIMP 3 for Photoshop Users",
-      "url": "https://github.com/Diolinux/PhotoGIMP",
-      "score": 143
+      "title": "Why is almost everyone right-handed? A new study connects it to bipedalism",
+      "url": "https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk",
+      "score": 40
     },
     {
       "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
       "url": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
-      "score": 11
+      "score": 80
     },
     {
-      "title": "Colonization of Venus",
-      "url": "https://en.wikipedia.org/wiki/Colonization_of_Venus",
-      "score": 73
+      "title": "Hanoi’s humble beer glass and the memory of a nation",
+      "url": "https://sundaylongread.com/2026/05/15/hanois-humble-beer-glass-and-the-memory-of-a-nation/",
+      "score": 93
     },
     {
-      "title": "Click (2016)",
-      "url": "https://clickclickclick.click/",
-      "score": 342
+      "title": "KV Sharing, MHC, and Compressed Attention",
+      "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+      "score": 18
     },
     {
-      "title": "Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone",
-      "url": "https://www.kv4p.com/",
-      "score": 129
-    },
-    {
-      "title": "Cursor Introduces Composer 2.5",
-      "url": "https://cursor.com/blog/composer-2-5",
-      "score": 223
-    },
-    {
-      "title": "U.S. Cybersecurity Agency Leaves Its Digital Keys Out in Public on GitHub",
-      "url": "https://gizmodo.com/the-worst-leak-that-ive-witnessed-u-s-cybersecurity-agency-leaves-its-digital-keys-out-in-public-on-github-2000760330",
-      "score": 52
-    },
-    {
-      "title": "Anthropic acquires Stainless",
-      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "score": 498
-    },
-    {
-      "title": "The lasting influence of Netscape Time",
-      "url": "https://thehistoryoftheweb.com/the-lasting-influence-of-netscape-time/",
-      "score": 76
-    },
-    {
-      "title": "PyTorch Landscape",
-      "url": "https://pytorch.landscape2.io",
-      "score": 68
-    },
-    {
-      "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
-      "url": "https://github.com/2b2tplace/1m_release",
-      "score": 165
+      "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
+      "url": "http://www.csl.sri.com/users/neumann/psos.pdf",
+      "score": 103
     },
     {
       "title": "The last six months in LLMs in five minutes",
       "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-      "score": 592
+      "score": 684
     },
     {
-      "title": "We let AIs run radio stations",
-      "url": "https://andonlabs.com/blog/andon-fm",
-      "score": 320
+      "title": "OpenBSD 7.9",
+      "url": "https://www.openbsd.org/79.html",
+      "score": 313
     },
     {
-      "title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
-      "url": "https://nicholas.carlini.com/writing/2025/regex-chess.html",
-      "score": 159
+      "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+      "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+      "score": 324
     },
     {
-      "title": "Show HN: Number Gacha, a gacha game distilled to its essence",
-      "url": "https://isabisabel.com/gacha/",
-      "score": 207
+      "title": "Peter Neumann has died",
+      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
+      "score": 294
     },
     {
-      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
-      "url": "https://hyperpolyglot.org/lisp",
-      "score": 174
+      "title": "Show HN: I made a 3D pose maker for artists",
+      "url": "https://setpose.com/",
+      "score": 62
     },
     {
-      "title": "Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust",
-      "url": "https://github.com/harmont-dev/hsrs",
-      "score": 49
+      "title": "Minnesota becomes first state to ban prediction markets",
+      "url": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
+      "score": 11
+    },
+    {
+      "title": "An Apple (II) for Teacher",
+      "url": "https://technicshistory.com/2026/05/19/an-apple-ii-for-teacher/",
+      "score": 47
     }
   ]
 }
