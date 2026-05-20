@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Railway Blocked by Google Cloud",
-      "url": "https://status.railway.com/?date=20260519",
-      "score": 245
+      "title": "FiveThirtyEight articles on the Internet Archive",
+      "url": "https://fivethirtyeightindex.com/",
+      "score": 194
     },
     {
       "title": "Gemini 3.5 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "score": 628
-    },
-    {
-      "title": "Ben Welsh made an index of all FiveThirtyEight articles on the Internet Archive",
-      "url": "https://fivethirtyeightindex.com/",
-      "score": 33
+      "score": 773
     },
     {
       "title": "I’ve built a virtual museum with nearly every operating system you can think of",
       "url": "https://virtualosmuseum.org/",
-      "score": 628
+      "score": 770
+    },
+    {
+      "title": "Infomaniak transitions to a foundation model to protect user data privacy",
+      "url": "https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/",
+      "score": 63
     },
     {
       "title": "Google changes its search box",
       "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-      "score": 407
+      "score": 537
+    },
+    {
+      "title": "Japan is gripped by mass allergies. A 1950s project is to blame",
+      "url": "https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan",
+      "score": 83
     },
     {
       "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
       "url": "https://github.com/wiltodelta/remove-ai-watermarks",
-      "score": 146
-    },
-    {
-      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-      "url": "https://openai.com/index/advancing-content-provenance/",
-      "score": 216
+      "score": 275
     },
     {
       "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
       "url": "https://github.com/antoinezambelli/forge",
-      "score": 316
-    },
-    {
-      "title": "The Mercury logic programming system",
-      "url": "https://github.com/Mercury-Language/mercury",
-      "score": 37
-    },
-    {
-      "title": "Mistral AI acquires Emmi AI",
-      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
-      "score": 184
+      "score": 470
     },
     {
       "title": "Apple unveils new accessibility features",
       "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-      "score": 620
+      "score": 672
     },
     {
-      "title": "GitHub is investigating unauthorized access to their internal repositories",
-      "url": "https://twitter.com/github/status/2056884788179726685",
-      "score": 194
+      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+      "url": "https://openai.com/index/advancing-content-provenance/",
+      "score": 277
     },
     {
-      "title": "Minnesota becomes first state to ban prediction markets",
-      "url": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
-      "score": 523
+      "title": "Everything in C is undefined behavior",
+      "url": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
+      "score": 164
     },
     {
-      "title": "I’ve joined Anthropic",
-      "url": "https://twitter.com/karpathy/status/2056753169888334312",
-      "score": 1211
+      "title": "Mistral AI acquires Emmi AI",
+      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+      "score": 259
     },
     {
-      "title": "Growing Neural Cellular Automata",
-      "url": "https://distill.pub/2020/growing-ca/",
-      "score": 80
+      "title": "RISC-V and Floating-Point",
+      "url": "https://fprox.substack.com/p/risc-v-and-floating-point",
+      "score": 19
+    },
+    {
+      "title": "CopyFail: From Pod to Host",
+      "url": "https://xint.io/blog/copy-fail-pod-to-host",
+      "score": 13
     },
     {
       "title": "Gemini CLI will stop working from June 18, 2026",
       "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
-      "score": 86
+      "score": 207
+    },
+    {
+      "title": "Nostalgic Kits Central (2024)",
+      "url": "https://www.nostalgickitscentral.com/",
+      "score": 22
+    },
+    {
+      "title": "In 1979 engineer Hugh Padgham discovered \"gated reverb\" – by accident",
+      "url": "https://producelikeapro.com/blog/how-one-recording-mistake-created-a-musical-phenomenon-in-the-80s/",
+      "score": 43
+    },
+    {
+      "title": "Testing MiniMax M2.7 via API on three real ML and coding workflows",
+      "url": "https://andlukyane.com//blog/minimax-m27-workflows",
+      "score": 21
+    },
+    {
+      "title": "Enabling Resizable Bar on RTX 3080 Vbios via GitHub",
+      "url": "https://github.com/danindiana/rtx3080-rebar-vbios/tree/master",
+      "score": 3
+    },
+    {
+      "title": "GitHub is investigating unauthorized access to their internal repositories",
+      "url": "https://twitter.com/github/status/2056884788179726685",
+      "score": 427
+    },
+    {
+      "title": "Minnesota becomes first state to ban prediction markets",
+      "url": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
+      "score": 649
+    },
+    {
+      "title": "The Mercury logic programming system",
+      "url": "https://github.com/Mercury-Language/mercury",
+      "score": 61
+    },
+    {
+      "title": "Skills in Web, iOS, and Android",
+      "url": "https://x.ai/news/grok-skills",
+      "score": 26
+    },
+    {
+      "title": "Growing Neural Cellular Automata",
+      "url": "https://distill.pub/2020/growing-ca/",
+      "score": 110
+    },
+    {
+      "title": "I’ve joined Anthropic",
+      "url": "https://twitter.com/karpathy/status/2056753169888334312",
+      "score": 1314
     },
     {
       "title": "Lisp in Web-Based Applications (2001)",
       "url": "https://sep.turbifycdn.com/ty/cdn/paulgraham/bbnexcerpts.txt",
-      "score": 51
+      "score": 78
     },
     {
-      "title": "Museum of Imaginary Musical Instruments",
-      "url": "https://imaginaryinstruments.org/",
-      "score": 11
+      "title": "Incident Report: Railway Blocked by Google Cloud (Resolved)",
+      "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
+      "score": 474
     },
     {
-      "title": "CISA Admin Leaked AWS GovCloud Keys on GitHub",
-      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-      "score": 416
+      "title": "There's no earthly way of knowing which direction we are going",
+      "url": "https://kottke.org/26/05/theres-no-earthly-way-of-knowing-which-direction-we-are-going",
+      "score": 50
     },
     {
-      "title": "Tool mapping 90 companies in the photonics and CPO supply chain",
-      "url": "https://leonardo-boquillon.com/photonic-cop-supply-chain",
-      "score": 31
-    },
-    {
-      "title": "The two oldest printing presses",
-      "url": "https://museumplantinmoretus.be/en/worlds-two-oldest-printing-presses",
-      "score": 24
+      "title": "HTML-in-Canvas Demos",
+      "url": "https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md",
+      "score": 39
     },
     {
       "title": "Why is almost everyone right-handed? A new study connects it to bipedalism",
       "url": "https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk",
-      "score": 103
-    },
-    {
-      "title": "Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities",
-      "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
-      "score": 114
-    },
-    {
-      "title": "Disney erased FiveThirtyEight",
-      "url": "https://www.natesilver.net/p/disney-erased-fivethirtyeight",
-      "score": 351
-    },
-    {
-      "title": "The TTY Demystified (2008)",
-      "url": "https://www.linusakesson.net/programming/tty/index.php",
-      "score": 48
-    },
-    {
-      "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
-      "url": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
-      "score": 120
-    },
-    {
-      "title": "Unusual uses of OEIS sequences on GitHub",
-      "url": "https://www.jeremykun.com/shortform/2026-04-13-0700/",
-      "score": 19
-    },
-    {
-      "title": "Dumb ways for an open source project to die",
-      "url": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html",
-      "score": 159
-    },
-    {
-      "title": "Hanoi’s humble beer glass and the memory of a nation",
-      "url": "https://sundaylongread.com/2026/05/15/hanois-humble-beer-glass-and-the-memory-of-a-nation/",
-      "score": 132
-    },
-    {
-      "title": "Gemini Omni",
-      "url": "https://deepmind.google/models/gemini-omni/",
-      "score": 282
+      "score": 128
     }
   ]
 }
