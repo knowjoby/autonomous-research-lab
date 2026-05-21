@@ -2,154 +2,149 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Flipper One – we need your help",
+      "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
+      "score": 528
+    },
+    {
+      "title": "Google's Antigravity Bait and Switch",
+      "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
+      "score": 142
+    },
+    {
+      "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
+      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+      "score": 404
+    },
+    {
+      "title": "Python 3.15: features that didn't make the headlines",
+      "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
+      "score": 163
+    },
+    {
+      "title": "Michael Keating has died",
+      "url": "https://www.bigfinish.com/news/v/michael-keating-1947-2026",
+      "score": 15
+    },
+    {
+      "title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
+      "url": "https://spectrum.ieee.org/trinity-nuclear-test",
+      "score": 101
+    },
+    {
+      "title": "FatGid: FreeBSD 14.x kernel local privilege escalation",
+      "url": "https://fatgid.io/",
+      "score": 36
+    },
+    {
+      "title": "Who Wins and Who Loses in Prediction Markets? Evidence from Polymarket",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103",
+      "score": 35
+    },
+    {
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "score": 1153
+      "score": 1303
     },
     {
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "score": 830
-    },
-    {
-      "title": "Vivaldi 8.0",
-      "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
-      "score": 114
-    },
-    {
-      "title": "Haskell Foundation 2026 Update",
-      "url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
-      "score": 113
-    },
-    {
-      "title": "Show HN: I reverse engineered Apple's video wallpapers",
-      "url": "https://github.com/kageroumado/phosphene",
-      "score": 276
+      "title": "AI is just unauthorised plagiarism at a bigger scale",
+      "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+      "score": 417
     },
     {
       "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
       "url": "https://github.com/helvesec/rmux",
-      "score": 3
+      "score": 127
     },
     {
-      "title": "New features in GCC 16: Improved error messages and SARIF output",
-      "url": "https://developers.redhat.com/articles/2026/04/28/gcc-16-improved-error-messages-sarif-output",
-      "score": 78
+      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "score": 966
     },
     {
-      "title": "The Letter S, by Donald Knuth (1980) [pdf]",
-      "url": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
-      "score": 164
-    },
-    {
-      "title": "Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)",
-      "url": "https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer",
+      "title": "Cekura (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
       "score": 1
     },
     {
-      "title": "DOS Zone",
-      "url": "https://dos.zone/",
-      "score": 256
+      "title": "IBM invented semiconductor manufacturing automation",
+      "url": "https://spectrum.ieee.org/semiconductor-fabrication",
+      "score": 36
+    },
+    {
+      "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+      "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+      "score": 12
+    },
+    {
+      "title": "A Bipartisan Amendment Would End Police License Plate Tracking Nationwide",
+      "url": "https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/",
+      "score": 70
+    },
+    {
+      "title": "Magic the Gathering format: Fun 40 (2025)",
+      "url": "https://fabiensanglard.net/mtg/fun//index.html",
+      "score": 29
+    },
+    {
+      "title": "The Palomar Lights",
+      "url": "https://comics.phillyharper.com/",
+      "score": 15
+    },
+    {
+      "title": "What Do Gödel's Incompleteness Theorems Mean?",
+      "url": "https://www.quantamagazine.org/what-do-godels-incompleteness-theorems-truly-mean-20260518/",
+      "score": 58
+    },
+    {
+      "title": "Get your passwords out of Bitwarden while you still can",
+      "url": "https://www.osnews.com/story/145029/get-your-passwords-out-of-bitwarden-while-you-still-can/",
+      "score": 39
+    },
+    {
+      "title": "Shunning AI is the human choice",
+      "url": "https://www.thehandbasket.co/p/hating-ai-is-good-actually",
+      "score": 268
+    },
+    {
+      "title": "Show HN: I reverse engineered Apple's video wallpapers",
+      "url": "https://github.com/kageroumado/phosphene",
+      "score": 360
     },
     {
       "title": "Flipper One Tech Specs",
       "url": "https://docs.flipper.net/one/general/tech-specs",
-      "score": 371
+      "score": 475
     },
     {
-      "title": "Anthropic is expanding to Colossus2. Will use GB200",
-      "url": "https://twitter.com/nottombrown/status/2057194829986300375",
-      "score": 199
+      "title": "The Letter S, by Donald Knuth (1980) [pdf]",
+      "url": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
+      "score": 234
+    },
+    {
+      "title": "Haskell Foundation 2026 Update",
+      "url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
+      "score": 156
+    },
+    {
+      "title": "No Slop Grenade",
+      "url": "https://noslopgrenade.com/",
+      "score": 208
+    },
+    {
+      "title": "DOS Zone",
+      "url": "https://dos.zone/",
+      "score": 311
     },
     {
       "title": "All the bugs they found",
       "url": "https://andreapivetta.com/posts/all-the-bugs-they-found.html",
-      "score": 22
+      "score": 72
     },
     {
-      "title": "How fast is N tokens per second really?",
-      "url": "https://mikeveerman.github.io/tokenspeed/",
-      "score": 412
-    },
-    {
-      "title": "Simulating Infinity in Conway's Game of Life with Modern C++",
-      "url": "https://ryanjk5.github.io/posts/GOLDE/",
-      "score": 32
-    },
-    {
-      "title": "Archaeologists find Egyptian mummy buried with the 'Iliad'",
-      "url": "https://www.openculture.com/2026/05/archaeologists-discover-ancient-egyptian-mummy-buried-with-pages-from-homers-iliad.html",
-      "score": 136
-    },
-    {
-      "title": "What is a Demand Coop",
-      "url": "https://cahootzcoops.com/blog/what-is-a-demand-coop",
-      "score": 61
-    },
-    {
-      "title": "OpenAI Is Preparing to File for an IPO Soon",
-      "url": "https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5",
-      "score": 86
-    },
-    {
-      "title": "Your Most Improbable Life",
-      "url": "https://kevinkelly.substack.com/p/your-most-improbable-life",
-      "score": 105
-    },
-    {
-      "title": "Saying goodbye to asm.js",
-      "url": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html",
-      "score": 376
-    },
-    {
-      "title": "Reviving old scanners with an in-browser Linux VM bridged to WebUSB over USB/IP",
-      "url": "https://yes-we-scan.app/details",
-      "score": 74
-    },
-    {
-      "title": "Numexpr: Fast numerical array expression evaluator for Python, NumPy, Pandas",
-      "url": "https://github.com/pydata/numexpr",
-      "score": 4
-    },
-    {
-      "title": "Show HN: I made a tactical map-based WWII submarine simulator (public beta)",
-      "url": "https://silentshark.app/alpha/",
-      "score": 39
-    },
-    {
-      "title": "The Interview That Ships to Production: replacing whiteboards with pull requests",
-      "url": "https://www.angellist.com/blog/the-interview-that-ships-to-production",
-      "score": 23
-    },
-    {
-      "title": "Recreate famous water profiles using supermarket bottled water",
-      "url": "https://www.waterdictionary.net",
-      "score": 43
-    },
-    {
-      "title": "Google’s AI is being manipulated. The search giant is quietly fighting back",
-      "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
-      "score": 312
-    },
-    {
-      "title": "Intuit to lay off over 3k employees to refocus on AI",
-      "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
-      "score": 190
-    },
-    {
-      "title": "A Markdown-based test suite",
-      "url": "https://blogsystem5.substack.com/p/markdown-based-test-suite",
-      "score": 40
-    },
-    {
-      "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
-      "url": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
-      "score": 174
-    },
-    {
-      "title": "The famous O3 \"GeoGuessr\" prompt did not work",
-      "url": "https://www.seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/",
-      "score": 10
+      "title": "New features in GCC 16: Improved error messages and SARIF output",
+      "url": "https://developers.redhat.com/articles/2026/04/28/gcc-16-improved-error-messages-sarif-output",
+      "score": 116
     }
   ]
 }
