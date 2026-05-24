@@ -4,152 +4,152 @@
     {
       "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
       "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-      "score": 73
+      "score": 216
+    },
+    {
+      "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
+      "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
+      "score": 112
     },
     {
       "title": "Scammers are abusing an internal Microsoft account to send spam links",
       "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-      "score": 52
+      "score": 129
     },
     {
       "title": "Wake up! 16b",
       "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
-      "score": 77
+      "score": 194
     },
     {
-      "title": "Time to talk about my writerdeck",
-      "url": "https://veronicaexplains.net/my-first-writerdeck/",
-      "score": 314
+      "title": "Alexander Grothendieck Revolutionized 20th-Century Mathematics",
+      "url": "https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/",
+      "score": 49
+    },
+    {
+      "title": "Converting an Integer to a Decimal String in Under Two Nanoseconds",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/spe.70079",
+      "score": 16
+    },
+    {
+      "title": "The C64 Dead Test Font",
+      "url": "https://www.masswerk.at/nowgobang/2026/c64-dead-test-font",
+      "score": 33
     },
     {
       "title": "Green card seekers must leave U.S. to apply, Trump administration says",
       "url": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
-      "score": 653
+      "score": 843
+    },
+    {
+      "title": "Time to talk about my writerdeck",
+      "url": "https://veronicaexplains.net/my-first-writerdeck/",
+      "score": 365
+    },
+    {
+      "title": "Amazon Web Services – Four Years and Out",
+      "url": "https://www.adventuresinoss.com/aws-four-years/",
+      "score": 185
     },
     {
       "title": "On The <dl> (2021)",
       "url": "https://benmyers.dev/blog/on-the-dl/",
-      "score": 366
-    },
-    {
-      "title": "My I3-Emacs Integration",
-      "url": "https://khz.ac/software/i3-integration.html",
-      "score": 39
+      "score": 387
     },
     {
       "title": "My two-part desk setup (2025)",
       "url": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
-      "score": 237
+      "score": 276
+    },
+    {
+      "title": "Neoclassical C++: segmented iterators revisited",
+      "url": "https://boostedcpp.net/2026/05/18/neoclassical-c-segmented-iterators-revisited-1/",
+      "score": 24
     },
     {
       "title": "Sales and Dungeons: Thermal printer TTRPG utility",
       "url": "https://sales-and-dungeons.app/",
-      "score": 60
+      "score": 87
     },
     {
       "title": "Judson's Last Ride",
       "url": "https://www.realclearpolitics.com/articles/2026/05/22/judsons_last_ride_154150.html",
-      "score": 56
-    },
-    {
-      "title": "Byrne's Euclid",
-      "url": "https://www.c82.net/euclid/",
-      "score": 26
-    },
-    {
-      "title": "SpaceX launches Starship v3 rocket",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-v3-megarocket-first-test-flight",
-      "score": 374
-    },
-    {
-      "title": "Hengefinder: Finding when the sun aligns with your street",
-      "url": "https://victoriaritvo.com/blog/hengefinder/",
-      "score": 117
-    },
-    {
-      "title": "New map reveals lost roads of the Roman Empire",
-      "url": "https://www.scientificamerican.com/article/new-high-resolution-map-transforms-what-we-know-about-roman-roads-and-the-roman-empire/",
-      "score": 51
+      "score": 94
     },
     {
       "title": "The Art of Money Getting",
       "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
-      "score": 214
+      "score": 275
     },
     {
-      "title": ".NET (OK, C#) finally gets union types",
-      "url": "https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/",
-      "score": 154
+      "title": "My I3-Emacs Integration",
+      "url": "https://khz.ac/software/i3-integration.html",
+      "score": 62
     },
     {
-      "title": "Show HN: Anyone interested in a tool helps to explore C++ ASTs",
-      "url": "https://uvic-aurora.github.io/acav-manual/index.html",
-      "score": 20
+      "title": "Hengefinder: Finding when the sun aligns with your street",
+      "url": "https://victoriaritvo.com/blog/hengefinder/",
+      "score": 139
     },
     {
-      "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
-      "url": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
-      "score": 88
+      "title": "Schlitz Is Gone, but First It's Getting One Last Hurrah",
+      "url": "https://www.milwaukeemag.com/schlitz-is-gone/",
+      "score": 28
     },
     {
-      "title": "80386 microcode disassembled",
-      "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
-      "score": 225
+      "title": "Buildcraft Is a Compiler Problem",
+      "url": "https://mitander.xyz/posts/buildcraft-is-a-compiler-problem/",
+      "score": 16
     },
     {
-      "title": "Toxic chemical leak at a manufacturing facility in Orange County",
-      "url": "https://www.bbc.com/news/articles/c3w2l249j8go",
-      "score": 129
-    },
-    {
-      "title": "Revised^7 Report on Scheme, Large: Procedural Fascicle Draft is now public",
-      "url": "https://r7rs.org/large/fascicles/proc/",
-      "score": 10
-    },
-    {
-      "title": "PHP's Oddities",
-      "url": "https://flowtwo.io/post/php%27s-oddities",
-      "score": 102
+      "title": "Key, in sight [Creative uses of keyboard shortcuts and macros]",
+      "url": "https://aresluna.org/key-in-sight/",
+      "score": 3
     },
     {
       "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
       "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
-      "score": 21
+      "score": 78
+    },
+    {
+      "title": "Byrne's Euclid",
+      "url": "https://www.c82.net/euclid/",
+      "score": 44
+    },
+    {
+      "title": "80386 microcode disassembled",
+      "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+      "score": 247
+    },
+    {
+      "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
+      "url": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
+      "score": 102
+    },
+    {
+      "title": ".NET (OK, C#) finally gets union types",
+      "url": "https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/",
+      "score": 189
+    },
+    {
+      "title": "New map reveals lost roads of the Roman Empire",
+      "url": "https://www.scientificamerican.com/article/new-high-resolution-map-transforms-what-we-know-about-roman-roads-and-the-roman-empire/",
+      "score": 75
     },
     {
       "title": "Kindle loyalists scramble as Amazon turns page on old e-readers",
       "url": "https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/",
-      "score": 126
-    },
-    {
-      "title": "ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies",
-      "url": "https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning",
-      "score": 100
+      "score": 159
     },
     {
       "title": "-​-dangerously-skip-reading-code",
       "url": "https://olano.dev/blog/dangerously-skip/",
-      "score": 104
+      "score": 141
     },
     {
-      "title": "Making deep learning go brrrr from first principles (2022)",
-      "url": "https://horace.io/brrr_intro.html",
-      "score": 155
-    },
-    {
-      "title": "Show HN: Twixt – transform one word into another in four moves",
-      "url": "https://twixt.games/",
-      "score": 6
-    },
-    {
-      "title": "sp.h: Fixing C by giving it a high quality, ultra portable standard library",
-      "url": "https://spader.zone/sp/",
-      "score": 195
-    },
-    {
-      "title": "API proposed by Chrome: Declarative partial updates",
-      "url": "https://developer.chrome.com/blog/declarative-partial-updates",
-      "score": 7
+      "title": "Show HN: Anyone interested in a tool helps to explore C++ ASTs",
+      "url": "https://uvic-aurora.github.io/acav-manual/index.html",
+      "score": 38
     }
   ]
 }
