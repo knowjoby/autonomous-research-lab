@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "I'm Tired of Talking to AI",
+      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+      "score": 1175
+    },
+    {
+      "title": "Mini Micro Fantasy Computer",
+      "url": "https://miniscript.org/MiniMicro/index.html#about",
+      "score": 159
+    },
+    {
+      "title": "Corporations can vote in some Delaware elections, judge says",
+      "url": "https://news.bloomberglaw.com/esg/corporations-have-the-right-to-vote-in-delaware-town-judge-says",
+      "score": 47
+    },
+    {
+      "title": "Matrix Multiplications on GPUs Run Faster When Given \"Predictable\" Data",
+      "url": "https://www.thonking.ai/p/strangely-matrix-multiplications",
+      "score": 71
+    },
+    {
+      "title": "XLIDE: VBA without excel",
+      "url": "https://github.com/WilliamSmithEdward/xlide_vscode",
+      "score": 41
+    },
+    {
+      "title": "All of human cooking compressed into 2 megabytes",
+      "url": "https://arxiv.org/abs/2605.22391",
+      "score": 195
+    },
+    {
+      "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
+      "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
+      "score": 158
+    },
+    {
       "title": "The Melancholy of Slaying Monsters",
       "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
-      "score": 80
+      "score": 208
+    },
+    {
+      "title": "My new obsession: A horse-racing board game of pure luck",
+      "url": "https://alexanderbjoy.com/horse-race-board-game/",
+      "score": 12
+    },
+    {
+      "title": "The VibeSec Reckoning",
+      "url": "https://martinfowler.com/articles/vibesec-reckoning.html",
+      "score": 28
     },
     {
       "title": "Cloudflare Flagship",
       "url": "https://developers.cloudflare.com/flagship/",
-      "score": 215
-    },
-    {
-      "title": "What Gets Kept",
-      "url": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
-      "score": 27
-    },
-    {
-      "title": "That Methyl Methacrylate Tank",
-      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
-      "score": 328
-    },
-    {
-      "title": "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
-      "url": "https://badhost.org/",
-      "score": 45
-    },
-    {
-      "title": "Cate v1.0 is out: The Infinite canvas workspace for developers",
-      "url": "https://github.com/0-AI-UG/cate",
-      "score": 50
-    },
-    {
-      "title": "The worst job interview I ever had",
-      "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
-      "score": 294
-    },
-    {
-      "title": "A few interesting modern pixel fonts",
-      "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-      "score": 354
+      "score": 307
     },
     {
       "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
       "url": "https://arps18.github.io/posts/claude-code-mastery/",
-      "score": 50
+      "score": 200
+    },
+    {
+      "title": "Raft Consensus with a Minority of Nodes",
+      "url": "https://padhye.org/raft-minority/",
+      "score": 88
+    },
+    {
+      "title": "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
+      "url": "https://badhost.org/",
+      "score": 103
+    },
+    {
+      "title": "Declassified CIA Cartography Maps from the 1980s",
+      "url": "https://brilliantmaps.com/cia-maps-1980s/",
+      "score": 26
+    },
+    {
+      "title": "Phloto for My Photo Flow",
+      "url": "https://cceckman.com/writing/phloto/",
+      "score": 5
+    },
+    {
+      "title": "Private Equity Bought America's Essential Services",
+      "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
+      "score": 240
+    },
+    {
+      "title": "That Methyl Methacrylate Tank",
+      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+      "score": 383
+    },
+    {
+      "title": "The worst job interview I ever had",
+      "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
+      "score": 498
+    },
+    {
+      "title": "We are Poles, so, of course, we print in Latin",
+      "url": "https://www.ustc.ac.uk/news/we-are-poles-so-of-course-we-print-in-latin",
+      "score": 84
+    },
+    {
+      "title": "What Is a Direct Attach Copper (DAC) Cable",
+      "url": "https://www.servethehome.com/what-is-a-direct-attach-copper-dac-cable/",
+      "score": 60
+    },
+    {
+      "title": "Atomically precise mechanosynthesis of carbon structures on hydrogenated Silicon",
+      "url": "https://arxiv.org/abs/2605.27250",
+      "score": 6
+    },
+    {
+      "title": "A few interesting modern pixel fonts",
+      "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+      "score": 394
     },
     {
       "title": "I built a Git-tracked book production pipeline",
       "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
-      "score": 238
+      "score": 273
     },
     {
-      "title": "Seeking a Language in Mathematics 1523-1571",
-      "url": "https://tyndale.org/journals/reformj01/bmarsden.html",
-      "score": 5
-    },
-    {
-      "title": "Show HN: Posthorn, self-hosted mail without the mail server",
-      "url": "https://github.com/craigmccaskill/posthorn",
-      "score": 26
-    },
-    {
-      "title": "A history of obituaries in American newspapers",
-      "url": "https://blogs.loc.gov/headlinesandheroes/2026/05/mourn-not-a-history-of-obituaries-in-american-newspapers/",
-      "score": 20
-    },
-    {
-      "title": "Unicode 18.0.0 Beta",
-      "url": "https://www.unicode.org/versions/Unicode18.0.0/",
-      "score": 15
-    },
-    {
-      "title": "A portentous reunion",
-      "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
-      "score": 103
-    },
-    {
-      "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
-      "url": "https://www.minicor.com/",
-      "score": 88
-    },
-    {
-      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
-      "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
-      "score": 918
-    },
-    {
-      "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
-      "url": "https://github.com/logannye/rosalind",
-      "score": 155
-    },
-    {
-      "title": "C array types are weird",
-      "url": "https://anselmschueler.com/blogposts/2025-c-pointers/",
-      "score": 85
-    },
-    {
-      "title": "Nvidia Vera CPU Benchmarks: Olympus Cores Delivering Great Performance",
-      "url": "https://www.phoronix.com/review/nvidia-vera-benchmarks",
-      "score": 17
-    },
-    {
-      "title": "Tunecat: Simple Internet Radio",
-      "url": "https://codeberg.org/lindenii/tunecat/",
-      "score": 51
-    },
-    {
-      "title": "IBM Confidential: System/360 File Organization [video]",
-      "url": "https://www.youtube.com/watch?v=zokKqP0plrM",
-      "score": 42
+      "title": "Go: Support for Generic Methods",
+      "url": "https://github.com/golang/go/issues/77273",
+      "score": 91
     },
     {
       "title": "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation",
       "url": "https://tsduck.io/",
-      "score": 31
+      "score": 59
     },
     {
-      "title": "What I've Learned (So Far) Building Online Mini Games with Elixir and Swift",
-      "url": "https://calvinflegal.com/2026/05/24/what-ive-learned-so-far-building-online-mini-games-with-elixir-and-swift.html",
-      "score": 50
+      "title": "Italy region: +200% tax on datacenters built in green/agricultural areas",
+      "url": "https://en.ilsole24ore.com/art/lombardy-introduces-increased-charges-of-up-to-200-per-cent-for-data-centre-construction-in-green-and-agricultural-areas-AI6Jp4ID",
+      "score": 89
     },
     {
-      "title": "Dropbox CEO Drew Houston to step down",
-      "url": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
-      "score": 347
+      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+      "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+      "score": 1036
     },
     {
-      "title": "The Steinwinter Supercargo",
-      "url": "https://www.thedrive.com/article/12603/the-forgotten-steinwinter-supercargo-is-unlike-anything-on-the-road-today",
-      "score": 70
+      "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
+      "url": "https://www.minicor.com/",
+      "score": 98
     },
     {
-      "title": "The Forgotten Art of the LAN Party (2023)",
-      "url": "https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/",
-      "score": 126
-    },
-    {
-      "title": "What color is your function? (2015)",
-      "url": "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
-      "score": 123
-    },
-    {
-      "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
-      "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
-      "score": 284
-    },
-    {
-      "title": "The Structural Barriers to AI Lawyers",
-      "url": "https://www.diffuseai.pub/p/the-structural-barriers-to-ai-lawyers",
-      "score": 45
+      "title": "C array types are weird",
+      "url": "https://anselmschueler.com/blogposts/2025-c-pointers/",
+      "score": 117
     }
   ]
 }
