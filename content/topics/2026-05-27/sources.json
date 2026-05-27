@@ -1,0 +1,155 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "Cloudflare Flagship",
+      "url": "https://developers.cloudflare.com/flagship/",
+      "score": 101
+    },
+    {
+      "title": "Chemistry behind the Garden Grove chemical tank",
+      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+      "score": 265
+    },
+    {
+      "title": "Where does next-token prediction leave us?",
+      "url": "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/",
+      "score": 31
+    },
+    {
+      "title": "A few interesting modern pixel fonts",
+      "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+      "score": 275
+    },
+    {
+      "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
+      "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
+      "score": 179
+    },
+    {
+      "title": "The Forgotten Art of the LAN Party (2023)",
+      "url": "https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/",
+      "score": 36
+    },
+    {
+      "title": "A portentous reunion",
+      "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
+      "score": 65
+    },
+    {
+      "title": "Erin Brockovich made a map to track data centers around the country",
+      "url": "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/",
+      "score": 147
+    },
+    {
+      "title": "Stripe is friendly to “friendly fraud”",
+      "url": "https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/",
+      "score": 149
+    },
+    {
+      "title": "Tunecat: Simple Internet Radio",
+      "url": "https://codeberg.org/lindenii/tunecat/",
+      "score": 11
+    },
+    {
+      "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
+      "url": "https://www.minicor.com/",
+      "score": 81
+    },
+    {
+      "title": "Big tech's anti-labor playbook has come for Wikipedia",
+      "url": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
+      "score": 347
+    },
+    {
+      "title": "Gear Commit: Dev gadget box personalized from GitHub activity",
+      "url": "https://gearcommit.nanocorp.app/",
+      "score": 4
+    },
+    {
+      "title": "From Rust to Ruby",
+      "url": "https://xlii.space/eng/from-rust-to-ruby/",
+      "score": 37
+    },
+    {
+      "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
+      "url": "https://github.com/logannye/rosalind",
+      "score": 137
+    },
+    {
+      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+      "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+      "score": 813
+    },
+    {
+      "title": "C array types are weird",
+      "url": "https://anselmschueler.com/blogposts/2025-c-pointers/",
+      "score": 65
+    },
+    {
+      "title": "Dropbox CEO Drew Houston to step down",
+      "url": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
+      "score": 311
+    },
+    {
+      "title": "The Steinwinter Supercargo",
+      "url": "https://www.thedrive.com/article/12603/the-forgotten-steinwinter-supercargo-is-unlike-anything-on-the-road-today",
+      "score": 50
+    },
+    {
+      "title": "Sonny Rollins, Jazz's Saxophone Colossus and Greatest Improvisor, Dead at 95",
+      "url": "https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/",
+      "score": 61
+    },
+    {
+      "title": "Use boring languages with LLMs",
+      "url": "https://jry.io/writing/use-boring-languages-with-llms/",
+      "score": 188
+    },
+    {
+      "title": "Liverpool and Manchester Railway",
+      "url": "https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway",
+      "score": 16
+    },
+    {
+      "title": "The real cost of owning a home",
+      "url": "https://ericturner.dev/posts/cost-of-home-ownership/",
+      "score": 312
+    },
+    {
+      "title": "Sage Care (YC S24) Is Hiring Software Engineers",
+      "url": "https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer",
+      "score": 1
+    },
+    {
+      "title": "C64 Basic: Game Map Overhead “Camera View”",
+      "url": "https://retrogamecoders.com/overhead-camera-view/",
+      "score": 78
+    },
+    {
+      "title": "What I've Learned (So Far) Building Online Mini Games with Elixir and Swift",
+      "url": "https://calvinflegal.com/2026/05/24/what-ive-learned-so-far-building-online-mini-games-with-elixir-and-swift.html",
+      "score": 10
+    },
+    {
+      "title": "The Ballad of TIGIT",
+      "url": "https://www.owlposting.com/p/the-ballad-of-tigit",
+      "score": 97
+    },
+    {
+      "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+      "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+      "score": 258
+    },
+    {
+      "title": "What color is your function? (2015)",
+      "url": "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
+      "score": 99
+    },
+    {
+      "title": "Opaque Types in Python",
+      "url": "https://blog.glyph.im/2026/05/opaque-types-in-python.html",
+      "score": 114
+    }
+  ]
+}
