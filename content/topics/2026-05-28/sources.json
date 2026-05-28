@@ -2,89 +2,114 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
+      "url": "https://lenz.io/research/llm-disagreement",
+      "score": 392
+    },
+    {
+      "title": "Indoor Wi-Fi Roaming with OpenWRT",
+      "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
+      "score": 46
+    },
+    {
       "title": "YouTube to automatically label AI-generated videos",
       "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "score": 874
+      "score": 1138
     },
     {
-      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
-      "score": 69
+      "title": "EU fines Temu €200M for allowing sale of illegal products",
+      "url": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
+      "score": 79
     },
     {
-      "title": "I analysed 20 years of my chats",
-      "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
-      "score": 124
+      "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
+      "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
+      "score": 216
     },
     {
-      "title": "Hallucinate – Massively Multiplayer Online Rave",
-      "url": "https://hallucinate.site",
-      "score": 206
+      "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
+      "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+      "score": 279
     },
     {
       "title": "I think Anthropic and OpenAI have found product-market fit",
       "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "score": 872
+      "score": 1017
+    },
+    {
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "url": "https://llmgame.scalex.dev",
+      "score": 13
+    },
+    {
+      "title": "Hallucinate – Massively Multiplayer Online Rave",
+      "url": "https://hallucinate.site",
+      "score": 324
+    },
+    {
+      "title": "Creusot helps you prove your Rust code is correct",
+      "url": "https://github.com/creusot-rs/creusot/tree/master",
+      "score": 23
     },
     {
       "title": "SimCity 3k in 4k (2025)",
       "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
-      "score": 368
+      "score": 438
+    },
+    {
+      "title": "Ruby vs. Java vs. TypeScript: my experience on building a Cowork DOCX plugin",
+      "url": "https://tanin.nanakorn.com/ruby-java-typescrip-claude-docx-plugin/",
+      "score": 42
     },
     {
       "title": "What Apple and Google are doing to push notifications",
       "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
-      "score": 284
+      "score": 368
     },
     {
       "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
       "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
-      "score": 199
+      "score": 287
+    },
+    {
+      "title": "Libwce: The entropy layer of a wavelet codec, on its own",
+      "url": "https://yogthos.net/posts/2026-05-24-libwce.html",
+      "score": 26
     },
     {
       "title": "The Ask",
       "url": "https://randsinrepose.com/archives/the-ask/",
-      "score": 74
+      "score": 117
+    },
+    {
+      "title": "Seeing Around Corners Using Smartphone-Grade Lidar",
+      "url": "https://spectrum.ieee.org/smartphone-grade-lidar",
+      "score": 51
+    },
+    {
+      "title": "More Whimsical OEIS Sequences",
+      "url": "https://www.jeremykun.com/shortform/2026-05-22-1528/",
+      "score": 35
+    },
+    {
+      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+      "score": 134
+    },
+    {
+      "title": "Boston and Bermuda",
+      "url": "https://askthepilot.com/boston-and-bermuda/",
+      "score": 6
     },
     {
       "title": "Rust (and Slint) on a Jailbroken Kindle",
       "url": "https://sverre.me/blog/rust-on-kindle/",
-      "score": 162
-    },
-    {
-      "title": "The Problem with the Ferrari Luce EV Offers a Lesson for Every Leader",
-      "url": "https://www.inc.com/connor-jewiss/the-problem-with-the-ferrari-luce-ev-offers-a-lesson-for-every-leader/91351070",
-      "score": 6
+      "score": 210
     },
     {
       "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
       "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "score": 868
-    },
-    {
-      "title": "AI Datacenters Were Built for GPUs. What Happens When You Remove the GPUs?",
-      "url": "https://almartis.xyz/gpu-free-datacenter.html",
-      "score": 31
-    },
-    {
-      "title": "A New Typst Template for Pandoc (2025)",
-      "url": "https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/",
-      "score": 76
-    },
-    {
-      "title": "Rapira (Рапира) – Soviet programming language interpreter",
-      "url": "https://github.com/begoon/rapira",
-      "score": 8
-    },
-    {
-      "title": "FBI Arrests CIA Official with $40M in Gold Bars in His Home",
-      "url": "https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html",
-      "score": 329
-    },
-    {
-      "title": "Biff is a command line datetime Swiss army knife",
-      "url": "https://github.com/BurntSushi/biff",
-      "score": 26
+      "score": 988
     },
     {
       "title": "RamAIn (YC W26) Is Hiring",
@@ -92,64 +117,39 @@
       "score": 1
     },
     {
-      "title": "Warm up your MacBook (2019)",
-      "url": "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/",
-      "score": 82
+      "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
+      "url": "https://arxiv.org/abs/2510.04950",
+      "score": 114
     },
     {
-      "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
-      "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
-      "score": 302
+      "title": "I analysed 20 years of my chats",
+      "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
+      "score": 229
+    },
+    {
+      "title": "Rapira (Рапира) – Soviet programming language interpreter",
+      "url": "https://github.com/begoon/rapira",
+      "score": 77
+    },
+    {
+      "title": "Warm up your MacBook (2019)",
+      "url": "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/",
+      "score": 116
     },
     {
       "title": "Go: Support for Generic Methods",
       "url": "https://github.com/golang/go/issues/77273",
-      "score": 248
+      "score": 280
     },
     {
-      "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
-      "url": "https://arxiv.org/abs/2510.04950",
-      "score": 72
+      "title": "Biff is a command line datetime Swiss army knife",
+      "url": "https://github.com/BurntSushi/biff",
+      "score": 86
     },
     {
-      "title": "Google employee charged with $1M Polymarket insider trading bet on search term",
-      "url": "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html",
-      "score": 177
-    },
-    {
-      "title": "Can we have the day off?",
-      "url": "https://mlsu.io/posts/day-off/",
-      "score": 1055
-    },
-    {
-      "title": "Stress disrupts hippocampal integration of overlapping events, memory inference",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08",
-      "score": 124
-    },
-    {
-      "title": "My new obsession: A horse-racing board game of pure luck",
-      "url": "https://alexanderbjoy.com/horse-race-board-game/",
-      "score": 78
-    },
-    {
-      "title": "Zero Lines Maze: What the 8-Bit Guy's One-Liner Can Still Teach Us",
-      "url": "https://retrogamecoders.com/zero-lines-maze/",
-      "score": 44
-    },
-    {
-      "title": "Mini Micro Fantasy Computer",
-      "url": "https://miniscript.org/MiniMicro/index.html#about",
-      "score": 255
-    },
-    {
-      "title": "Seeing Around Corners Using Smartphone-Grade Lidar",
-      "url": "https://spectrum.ieee.org/smartphone-grade-lidar",
-      "score": 4
-    },
-    {
-      "title": "Interleaved Deltas",
-      "url": "https://mmapped.blog/posts/51-interleaved-deltas",
-      "score": 65
+      "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
+      "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
+      "score": 327
     }
   ]
 }
