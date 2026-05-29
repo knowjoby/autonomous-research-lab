@@ -2,154 +2,149 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Claude Opus 4.8",
-      "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "score": 1528
+      "title": "I Am Retiring from Tech to Live Offline",
+      "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
+      "score": 144
+    },
+    {
+      "title": "Please Use AI",
+      "url": "https://shawnsmucker.substack.com/p/please-use-ai",
+      "score": 508
+    },
+    {
+      "title": "It Will Never Be the Year of the Linux Desktop",
+      "url": "https://unix.foo/posts/it-will-never-be-the-year-of-the-linux-desktop/",
+      "score": 32
+    },
+    {
+      "title": "Bijou64: A variable-length integer encoding",
+      "url": "https://www.inkandswitch.com/tangents/bijou64/",
+      "score": 7
+    },
+    {
+      "title": "Expertise in the Age of AI",
+      "url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
+      "score": 25
+    },
+    {
+      "title": "The UK Government's Low Value Purchase System Is a Waste of Time",
+      "url": "https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/",
+      "score": 93
+    },
+    {
+      "title": "Tulip mania: when a single flower was worth more than a house (2025)",
+      "url": "https://dutchreview.com/culture/tulip-mania-netherlands/",
+      "score": 82
+    },
+    {
+      "title": "It's hard to justify buying a Framework 12",
+      "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
+      "score": 10
     },
     {
       "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
       "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-      "score": 946
+      "score": 1189
     },
     {
-      "title": "Volkswagen blocks Home Assistant by requiring client assertion",
-      "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
-      "score": 158
+      "title": "Local Git Remotes",
+      "url": "https://cblgh.org/posts/local-git-remotes/",
+      "score": 44
     },
     {
-      "title": "I made a million dollar product from my dorm room (2025)",
-      "url": "https://nick.winans.io/blog/nice-nano/",
-      "score": 399
+      "title": "High Density Living, 2000 Years Ago: Inside the Roman Apartment Building",
+      "url": "https://commonedge.org/high-density-living-2000-years-ago-inside-the-roman-apartment-building/",
+      "score": 41
+    },
+    {
+      "title": "Headway Therapy Patients Forced to Scan Their Faces to Keep Getting Care",
+      "url": "https://www.404media.co/headway-therapy-facial-scan-biometric-data-identity-verification/",
+      "score": 29
+    },
+    {
+      "title": "Cedana (YC S23) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc",
+      "score": 1
     },
     {
       "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
       "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
-      "score": 88
+      "score": 263
     },
     {
-      "title": "Italians and Dutch share the same gestural instinct for teaching",
-      "url": "https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching",
-      "score": 61
+      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+      "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+      "score": 112
     },
     {
-      "title": "Cars collect a startling amount of data about you",
-      "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
-      "score": 326
-    },
-    {
-      "title": "Ten Basic Clouds",
-      "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
-      "score": 115
-    },
-    {
-      "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
-      "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-      "score": 247
-    },
-    {
-      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "url": "https://llmgame.scalex.dev",
-      "score": 322
-    },
-    {
-      "title": "Cache Aware Scheduling Shows Nice Wins for AMD Zen 5 on PostgreSQL, Valkey",
-      "url": "https://www.phoronix.com/review/cache-aware-scheduling-hedt",
-      "score": 12
-    },
-    {
-      "title": "Blue Origin's New Glenn blows up during static fire test",
-      "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
-      "score": 286
-    },
-    {
-      "title": "News about Raspberry Pi 6 and Microcontroller Development",
-      "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
-      "score": 199
-    },
-    {
-      "title": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",
-      "url": "https://coalton-lang.github.io/",
-      "score": 159
-    },
-    {
-      "title": "Garnix (A Nix CI) is shutting down",
-      "url": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
-      "score": 65
-    },
-    {
-      "title": "GitHub bans security researcher who posted zero-day Windows exploits",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
-      "score": 392
-    },
-    {
-      "title": "HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager",
-      "url": "https://github.com/HeidiSQL/HeidiSQL",
-      "score": 19
-    },
-    {
-      "title": "Let's compile Quake like it's 1997",
-      "url": "https://fabiensanglard.net/compile_like_1997/",
-      "score": 27
-    },
-    {
-      "title": "The Permanent Upper Crow",
-      "url": "https://permanent-upper-crow.jasonwu.ink/",
-      "score": 185
-    },
-    {
-      "title": "Phloto for My Photo Flow",
-      "url": "https://cceckman.com/writing/phloto/",
-      "score": 37
-    },
-    {
-      "title": "Indoor Wi-Fi Roaming with OpenWRT",
-      "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
-      "score": 243
-    },
-    {
-      "title": "Building durable workflows on Postgres",
-      "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-      "score": 312
-    },
-    {
-      "title": "Avoid Using \"< [Cdata[ ]]>\" in RSS",
-      "url": "https://waspdev.com/articles/2026-05-11/avoid-using-cdata-in-rss",
-      "score": 16
-    },
-    {
-      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-      "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
-      "score": 77
+      "title": "Blue Origin rocket explodes on launchpad in a setback",
+      "url": "https://www.reuters.com/science/blue-origin-says-it-faced-anomaly-during-hot-fire-test-2026-05-29/",
+      "score": 22
     },
     {
       "title": "Orchestrating AI code review at scale",
       "url": "https://blog.cloudflare.com/ai-code-review/",
-      "score": 3
+      "score": 77
     },
     {
-      "title": "Endive: A JVM native WebAssembly runtime",
-      "url": "https://github.com/bytecodealliance/endive",
-      "score": 90
+      "title": "I made a million dollar product from my dorm room (2025)",
+      "url": "https://nick.winans.io/blog/nice-nano/",
+      "score": 504
     },
     {
-      "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
-      "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
-      "score": 209
+      "title": "Claude Opus 4.8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "score": 1662
     },
     {
-      "title": "What Gets Kept",
-      "url": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
-      "score": 63
+      "title": "Even (very) noisy LLM evaluators are useful for improving AI agents",
+      "url": "https://www.tensorzero.com/blog/even-very-noisy-llm-evaluators-are-useful-for-improving-ai-agents/",
+      "score": 13
     },
     {
-      "title": "Franklin Pierce by David W. Blight",
-      "url": "https://inpursuit.substack.com/p/franklin-pierce-by-david-w-blight",
-      "score": 4
+      "title": "Let's compile Quake like it's 1997",
+      "url": "https://fabiensanglard.net/compile_like_1997/",
+      "score": 124
     },
     {
-      "title": "Various LLM Smells",
-      "url": "https://shvbsle.in/various-llm-smells/",
-      "score": 307
+      "title": "Is AI causing a repeat of Front end's Lost Decade?",
+      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+      "score": 157
+    },
+    {
+      "title": "An Obsessive Focus on UX: Pilot's Pressure-Regulating Kire-Na Highlighter",
+      "url": "https://www.core77.com/posts/143832/An-Obsessive-Focus-on-UX-Pilots-Pressure-Regulating-Kire-Na-Highlighter",
+      "score": 31
+    },
+    {
+      "title": "We should be more tired than the model",
+      "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
+      "score": 76
+    },
+    {
+      "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+      "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+      "score": 308
+    },
+    {
+      "title": "Wterm – Terminal Emulator for the Web",
+      "url": "https://wterm.dev/",
+      "score": 27
+    },
+    {
+      "title": "Show HN: Context-aware Japanese furigana using Sudachi and ModernBERT",
+      "url": "https://www.ezfurigana.com/",
+      "score": 10
+    },
+    {
+      "title": "OpenAI Announces Rosalind Biodefense",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/",
+      "score": 7
+    },
+    {
+      "title": "Is This Sustainable?",
+      "url": "https://jamiehurst.co.uk/2026-05-24_ai-sustainable",
+      "score": 74
     }
   ]
 }
