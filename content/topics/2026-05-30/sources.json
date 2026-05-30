@@ -2,154 +2,149 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Pandoc Templates",
-      "url": "https://pandoc-templates.org/",
-      "score": 166
+      "title": "OpenRouter raises $113M Series B",
+      "url": "https://openrouter.ai/announcements/series-b",
+      "score": 149
     },
     {
-      "title": "Zig: Build System Reworked",
-      "url": "https://ziglang.org/devlog/2026/#2026-05-26",
-      "score": 165
+      "title": "Zig ELF Linker Improvements Devlog",
+      "url": "https://ziglang.org/devlog/2026/#2026-05-30",
+      "score": 72
     },
     {
-      "title": "Proposed new US funding rules: We can cancel any grant at any time",
-      "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
-      "score": 125
+      "title": "Hormuz crisis side effect: a sharp rise in container shipping rates",
+      "url": "https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates",
+      "score": 20
     },
     {
-      "title": "Leo's first encyclical attacks technological messianism",
-      "url": "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism",
-      "score": 37
+      "title": "Voxel Space",
+      "url": "https://s-macke.github.io/VoxelSpace/",
+      "score": 184
     },
     {
-      "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
-      "url": "https://helios.southlondonscientific.com/",
-      "score": 26
+      "title": "Microcode inside the Intel 8087 floating-point chip: register exchange",
+      "url": "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html",
+      "score": 35
     },
     {
       "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
       "url": "https://github.com/kristapsdz/openrsync",
-      "score": 22
+      "score": 242
     },
     {
-      "title": "SQLite is all you need for durable workflows",
-      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "score": 591
+      "title": "Let's talk about EU Sovereignty (2025)",
+      "url": "https://musings.martyn.berlin/lets-talk-about-eu-sovereignty",
+      "score": 19
+    },
+    {
+      "title": "Werner Herzog in conversation with Paul Cronin (2014)",
+      "url": "https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/",
+      "score": 43
+    },
+    {
+      "title": "Pandoc Templates",
+      "url": "https://pandoc-templates.org/",
+      "score": 309
+    },
+    {
+      "title": "Navier-Stokes fluid simulation explained with Godot game engine",
+      "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
+      "score": 128
+    },
+    {
+      "title": "It Takes Two Neurons to Ride a Bicycle",
+      "url": "https://fermatslibrary.com/s/it-takes-two-neurons-to-ride-a-bicycle#email-newsletter",
+      "score": 62
+    },
+    {
+      "title": "Downdetector and Speedtest sold to Accenture for $1.2B",
+      "url": "https://www.theverge.com/tech/889234/downdetector-ookla-speedtest-sold-accenture",
+      "score": 102
+    },
+    {
+      "title": "Searching for Birds",
+      "url": "https://SearchingForBirds.VisualCinnamon.com/",
+      "score": 9
     },
     {
       "title": "IXI's autofocusing lenses are almost ready to replace multifocal glasses",
       "url": "https://www.engadget.com/wearables/ixis-autofocusing-lenses-multifocal-glasses-ces-2026-212608427.html",
-      "score": 18
+      "score": 113
+    },
+    {
+      "title": "Zig: Build System Reworked",
+      "url": "https://ziglang.org/devlog/2026/#2026-05-26",
+      "score": 289
+    },
+    {
+      "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
+      "url": "https://helios.southlondonscientific.com/",
+      "score": 86
     },
     {
       "title": "What Happened to the Locusts?",
       "url": "https://explosion-scratch.github.io/locusts/",
-      "score": 58
+      "score": 158
     },
     {
-      "title": "Danish pension fund excludes SpaceX citing governance and valuation",
-      "url": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
-      "score": 287
+      "title": "SQLite is all you need for durable workflows",
+      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+      "score": 649
     },
     {
-      "title": "Floor and Ceil versus Denormals on CPU and GPU",
-      "url": "https://asawicki.info/news_1802_floor_and_ceil_versus_denormals_on_cpu_and_gpu",
-      "score": 25
+      "title": "Stateless Actors",
+      "url": "https://www.massicotte.org/stateless-actors/",
+      "score": 9
+    },
+    {
+      "title": "Testing the WWI concrete ships and WWII concrete barges",
+      "url": "https://thecretefleet.com/blog/f/testing-the-wwi-concrete-ships-and-wwii-concrete-barges",
+      "score": 33
+    },
+    {
+      "title": "Memory decline after menopause linked to loss of estrogen production in brain",
+      "url": "https://news.northwestern.edu/stories/2026/05/memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain-tissue",
+      "score": 109
     },
     {
       "title": "Notes from the Mistral AI Now Summit",
       "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "score": 402
+      "score": 441
     },
     {
-      "title": "Snowboard Kids 2 is 100% Decompiled",
-      "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
-      "score": 235
-    },
-    {
-      "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
-      "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
-      "score": 179
-    },
-    {
-      "title": "Adding Linux support back for the BASIC (free) version of Vivado",
-      "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001aT5IcKAK/adding-linux-support-back-for-the-basic-free-version-of-vivado?language=en_US",
-      "score": 15
+      "title": "A Probabilistic Algorithm for Repairing All Roads in Lebanon via Papal Visits (2025)",
+      "url": "https://sigbovik.org/2026/proceedings.pdf#%5B%7B%22num%22%3A13%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C72%2C720%2Cnull%5D",
+      "score": 67
     },
     {
       "title": "MCP is dead?",
       "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-      "score": 287
-    },
-    {
-      "title": "The dead economy theory",
-      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-      "score": 1088
-    },
-    {
-      "title": "It's hard to justify buying a Framework 12",
-      "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
-      "score": 326
+      "score": 362
     },
     {
       "title": "Macsurf, \"modern\" web browser for macOS 9",
       "url": "https://github.com/mplsllc/macsurf",
-      "score": 20
+      "score": 95
+    },
+    {
+      "title": "Snowboard Kids 2 is 100% Decompiled",
+      "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
+      "score": 268
     },
     {
       "title": "The Last Technical Interview",
       "url": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
-      "score": 143
+      "score": 214
     },
     {
-      "title": "Shift will clean homes for free to train future robots",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-      "score": 154
+      "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
+      "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
+      "score": 214
     },
     {
-      "title": "A new register allocator for ZJIT",
-      "url": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
-      "score": 48
-    },
-    {
-      "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
-      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
-      "score": 206
-    },
-    {
-      "title": "Is AI causing a repeat of frontend’s lost decade?",
-      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
-      "score": 376
-    },
-    {
-      "title": "Bijou64: A variable-length integer encoding",
-      "url": "https://www.inkandswitch.com/tangents/bijou64/",
-      "score": 240
-    },
-    {
-      "title": "Naphtha shortages in Japan",
-      "url": "https://www.nippon.com/en/japan-data/h02783/",
-      "score": 134
-    },
-    {
-      "title": "What It Takes to Preserve Floppy Disks",
-      "url": "https://spectrum.ieee.org/floppy-disk-data-preservation-archives",
-      "score": 67
-    },
-    {
-      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-      "url": "https://github.com/jmaczan/tiny-vllm",
-      "score": 160
-    },
-    {
-      "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
-      "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
-      "score": 16
-    },
-    {
-      "title": "Understand Anything – Graphs that teach the codebase",
-      "url": "https://understand-anything.com/",
-      "score": 20
+      "title": "The dead economy theory",
+      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+      "score": 1212
     }
   ]
 }
