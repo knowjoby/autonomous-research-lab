@@ -4,152 +4,152 @@
     {
       "title": "SQLite is all you need for durable workflows",
       "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "score": 389
+      "score": 504
     },
     {
-      "title": "The dead economy theory",
-      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-      "score": 739
+      "title": "Algebraic Effects for the Rest of Us",
+      "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
+      "score": 32
     },
     {
       "title": "Snowboard Kids 2 is 100% Decompiled",
       "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
-      "score": 77
+      "score": 180
     },
     {
-      "title": "Naphtha Shortages Having a Growing Impact in Japan",
-      "url": "https://www.nippon.com/en/japan-data/h02783/",
-      "score": 11
+      "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+      "url": "https://www.perryts.com/",
+      "score": 82
     },
     {
       "title": "Notes from the Mistral AI Now Summit",
       "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "score": 314
+      "score": 361
     },
     {
-      "title": "MCP is dead?",
-      "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-      "score": 103
+      "title": "What It Takes to Preserve Floppy Disks",
+      "url": "https://spectrum.ieee.org/floppy-disk-data-preservation-archives",
+      "score": 38
     },
     {
       "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
       "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
-      "score": 91
+      "score": 142
+    },
+    {
+      "title": "A new register allocator for ZJIT",
+      "url": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
+      "score": 29
+    },
+    {
+      "title": "MCP is dead?",
+      "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+      "score": 208
+    },
+    {
+      "title": "Naphtha shortages in Japan",
+      "url": "https://www.nippon.com/en/japan-data/h02783/",
+      "score": 104
     },
     {
       "title": "Shift will clean homes for free to train future robots",
       "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-      "score": 94
+      "score": 135
     },
     {
       "title": "It's hard to justify buying a Framework 12",
       "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
-      "score": 233
+      "score": 285
     },
     {
-      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-      "url": "https://github.com/jmaczan/tiny-vllm",
-      "score": 93
-    },
-    {
-      "title": "You can just say it",
-      "url": "https://noperator.dev/posts/you-can-just-say-it/",
-      "score": 240
-    },
-    {
-      "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
-      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
-      "score": 157
-    },
-    {
-      "title": "Bijou64: A variable-length integer encoding",
-      "url": "https://www.inkandswitch.com/tangents/bijou64/",
-      "score": 209
-    },
-    {
-      "title": "What Is a Dickover?",
-      "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
-      "score": 139
-    },
-    {
-      "title": "WH proposes rules giving political appointees final approval on research grants",
-      "url": "https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/",
-      "score": 29
-    },
-    {
-      "title": "On Rendering Diffs",
-      "url": "https://pierre.computer/writing/on-rendering-diffs",
-      "score": 144
-    },
-    {
-      "title": "Ember.js 7.0",
-      "url": "https://blog.emberjs.com/ember-released-7-0/",
-      "score": 22
+      "title": "The dead economy theory",
+      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+      "score": 953
     },
     {
       "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
       "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
-      "score": 492
-    },
-    {
-      "title": "Is AI causing a repeat of frontend’s lost decade?",
-      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
-      "score": 299
+      "score": 578
     },
     {
       "title": "The Last Technical Interview",
       "url": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
-      "score": 63
+      "score": 107
     },
     {
-      "title": "Let Equals Equal Equals",
-      "url": "https://bennypowers.dev/posts/let-equals-equal-equals/",
-      "score": 3
+      "title": "Ho-scale slot car racing in the Santa Cruz Mountains",
+      "url": "https://stewartraceway.org/",
+      "score": 6
+    },
+    {
+      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+      "url": "https://github.com/jmaczan/tiny-vllm",
+      "score": 138
+    },
+    {
+      "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
+      "url": "https://github.com/secluso/core",
+      "score": 55
+    },
+    {
+      "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+      "score": 183
+    },
+    {
+      "title": "Bijou64: A variable-length integer encoding",
+      "url": "https://www.inkandswitch.com/tangents/bijou64/",
+      "score": 224
+    },
+    {
+      "title": "Is AI causing a repeat of frontend’s lost decade?",
+      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+      "score": 338
+    },
+    {
+      "title": "OpenRCT2 v0.5.1 \"Swamp Castle\" released Last version to support Windows 7",
+      "url": "https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released",
+      "score": 6
+    },
+    {
+      "title": "On Rendering Diffs",
+      "url": "https://pierre.computer/writing/on-rendering-diffs",
+      "score": 169
+    },
+    {
+      "title": "Math-to-Manim",
+      "url": "https://github.com/HarleyCoops/Math-To-Manim",
+      "score": 47
     },
     {
       "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
       "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
-      "score": 109
+      "score": 127
     },
     {
-      "title": "Free full BGP feed. IPv4 and IPv6",
-      "url": "https://lukasz.bromirski.net/post/bgp-w-labie-3/",
-      "score": 27
+      "title": "What Is a Dickover?",
+      "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
+      "score": 312
     },
     {
-      "title": "The California state assembly has passed the 'Protect Our Games Act'",
-      "url": "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill",
-      "score": 197
+      "title": "Ember.js 7.0",
+      "url": "https://blog.emberjs.com/ember-released-7-0/",
+      "score": 64
+    },
+    {
+      "title": "You can just say it",
+      "url": "https://noperator.dev/posts/you-can-just-say-it/",
+      "score": 316
     },
     {
       "title": "GTA 6 Developers Unionize",
       "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
-      "score": 580
+      "score": 671
     },
     {
       "title": "Show HN: TV Explorer. Adding advanced UI to free online TV",
       "url": "https://tvexplorer.live",
-      "score": 112
-    },
-    {
-      "title": "Letter from the Duke of Wellington to the British Foreign Office (1809)",
-      "url": "https://wellsoc.org/society-member-pages/anecdotes-of-wellington/",
-      "score": 52
-    },
-    {
-      "title": "Finding Miscompiles for Fun, Not Profit",
-      "url": "https://newsletter.semianalysis.com/p/finding-miscompiles-for-fun-not-profit",
-      "score": 25
-    },
-    {
-      "title": "CAPTCHAs can still detect AI agents",
-      "url": "https://research.roundtable.ai/captchas-detect-ai/",
-      "score": 66
-    },
-    {
-      "title": "We should be more tired than the model",
-      "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
-      "score": 152
+      "score": 147
     }
   ]
 }
