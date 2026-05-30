@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Pandoc Templates",
+      "url": "https://pandoc-templates.org/",
+      "score": 166
+    },
+    {
+      "title": "Zig: Build System Reworked",
+      "url": "https://ziglang.org/devlog/2026/#2026-05-26",
+      "score": 165
+    },
+    {
+      "title": "Proposed new US funding rules: We can cancel any grant at any time",
+      "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
+      "score": 125
+    },
+    {
+      "title": "Leo's first encyclical attacks technological messianism",
+      "url": "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism",
+      "score": 37
+    },
+    {
+      "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
+      "url": "https://helios.southlondonscientific.com/",
+      "score": 26
+    },
+    {
+      "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
+      "url": "https://github.com/kristapsdz/openrsync",
+      "score": 22
+    },
+    {
       "title": "SQLite is all you need for durable workflows",
       "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "score": 504
+      "score": 591
     },
     {
-      "title": "Algebraic Effects for the Rest of Us",
-      "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
-      "score": 32
+      "title": "IXI's autofocusing lenses are almost ready to replace multifocal glasses",
+      "url": "https://www.engadget.com/wearables/ixis-autofocusing-lenses-multifocal-glasses-ces-2026-212608427.html",
+      "score": 18
     },
     {
-      "title": "Snowboard Kids 2 is 100% Decompiled",
-      "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
-      "score": 180
+      "title": "What Happened to the Locusts?",
+      "url": "https://explosion-scratch.github.io/locusts/",
+      "score": 58
     },
     {
-      "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
-      "url": "https://www.perryts.com/",
-      "score": 82
+      "title": "Danish pension fund excludes SpaceX citing governance and valuation",
+      "url": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
+      "score": 287
+    },
+    {
+      "title": "Floor and Ceil versus Denormals on CPU and GPU",
+      "url": "https://asawicki.info/news_1802_floor_and_ceil_versus_denormals_on_cpu_and_gpu",
+      "score": 25
     },
     {
       "title": "Notes from the Mistral AI Now Summit",
       "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "score": 361
+      "score": 402
     },
     {
-      "title": "What It Takes to Preserve Floppy Disks",
-      "url": "https://spectrum.ieee.org/floppy-disk-data-preservation-archives",
-      "score": 38
+      "title": "Snowboard Kids 2 is 100% Decompiled",
+      "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
+      "score": 235
     },
     {
       "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
       "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
-      "score": 142
+      "score": 179
     },
     {
-      "title": "A new register allocator for ZJIT",
-      "url": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
-      "score": 29
+      "title": "Adding Linux support back for the BASIC (free) version of Vivado",
+      "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001aT5IcKAK/adding-linux-support-back-for-the-basic-free-version-of-vivado?language=en_US",
+      "score": 15
     },
     {
       "title": "MCP is dead?",
       "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-      "score": 208
-    },
-    {
-      "title": "Naphtha shortages in Japan",
-      "url": "https://www.nippon.com/en/japan-data/h02783/",
-      "score": 104
-    },
-    {
-      "title": "Shift will clean homes for free to train future robots",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-      "score": 135
-    },
-    {
-      "title": "It's hard to justify buying a Framework 12",
-      "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
-      "score": 285
+      "score": 287
     },
     {
       "title": "The dead economy theory",
       "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-      "score": 953
+      "score": 1088
     },
     {
-      "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
-      "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
-      "score": 578
+      "title": "It's hard to justify buying a Framework 12",
+      "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
+      "score": 326
+    },
+    {
+      "title": "Macsurf, \"modern\" web browser for macOS 9",
+      "url": "https://github.com/mplsllc/macsurf",
+      "score": 20
     },
     {
       "title": "The Last Technical Interview",
       "url": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
-      "score": 107
+      "score": 143
     },
     {
-      "title": "Ho-scale slot car racing in the Santa Cruz Mountains",
-      "url": "https://stewartraceway.org/",
-      "score": 6
+      "title": "Shift will clean homes for free to train future robots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "score": 154
     },
     {
-      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-      "url": "https://github.com/jmaczan/tiny-vllm",
-      "score": 138
-    },
-    {
-      "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
-      "url": "https://github.com/secluso/core",
-      "score": 55
+      "title": "A new register allocator for ZJIT",
+      "url": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
+      "score": 48
     },
     {
       "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
       "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
-      "score": 183
-    },
-    {
-      "title": "Bijou64: A variable-length integer encoding",
-      "url": "https://www.inkandswitch.com/tangents/bijou64/",
-      "score": 224
+      "score": 206
     },
     {
       "title": "Is AI causing a repeat of frontend’s lost decade?",
       "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
-      "score": 338
+      "score": 376
     },
     {
-      "title": "OpenRCT2 v0.5.1 \"Swamp Castle\" released Last version to support Windows 7",
-      "url": "https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released",
-      "score": 6
+      "title": "Bijou64: A variable-length integer encoding",
+      "url": "https://www.inkandswitch.com/tangents/bijou64/",
+      "score": 240
     },
     {
-      "title": "On Rendering Diffs",
-      "url": "https://pierre.computer/writing/on-rendering-diffs",
-      "score": 169
+      "title": "Naphtha shortages in Japan",
+      "url": "https://www.nippon.com/en/japan-data/h02783/",
+      "score": 134
     },
     {
-      "title": "Math-to-Manim",
-      "url": "https://github.com/HarleyCoops/Math-To-Manim",
-      "score": 47
+      "title": "What It Takes to Preserve Floppy Disks",
+      "url": "https://spectrum.ieee.org/floppy-disk-data-preservation-archives",
+      "score": 67
     },
     {
-      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-      "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
-      "score": 127
+      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+      "url": "https://github.com/jmaczan/tiny-vllm",
+      "score": 160
     },
     {
-      "title": "What Is a Dickover?",
-      "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
-      "score": 312
+      "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
+      "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
+      "score": 16
     },
     {
-      "title": "Ember.js 7.0",
-      "url": "https://blog.emberjs.com/ember-released-7-0/",
-      "score": 64
-    },
-    {
-      "title": "You can just say it",
-      "url": "https://noperator.dev/posts/you-can-just-say-it/",
-      "score": 316
-    },
-    {
-      "title": "GTA 6 Developers Unionize",
-      "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
-      "score": 671
-    },
-    {
-      "title": "Show HN: TV Explorer. Adding advanced UI to free online TV",
-      "url": "https://tvexplorer.live",
-      "score": 147
+      "title": "Understand Anything – Graphs that teach the codebase",
+      "url": "https://understand-anything.com/",
+      "score": 20
     }
   ]
 }
