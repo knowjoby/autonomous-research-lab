@@ -2,84 +2,129 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Dav2d",
-      "url": "https://jbkempf.com/blog/2026/dav2d/",
-      "score": 148
+      "title": "Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%",
+      "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
+      "score": 258
     },
     {
-      "title": "The Website Specification",
-      "url": "https://specification.website/",
-      "score": 271
+      "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+      "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+      "score": 291
+    },
+    {
+      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+      "url": "https://prismml.com/news/bonsai-image-4b",
+      "score": 145
+    },
+    {
+      "title": "Dav2d",
+      "url": "https://jbkempf.com/blog/2026/dav2d/",
+      "score": 331
+    },
+    {
+      "title": "The Speed of Prototyping in the Age of AI",
+      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+      "score": 44
+    },
+    {
+      "title": "Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock",
+      "url": "https://lwn.net/Articles/104185/",
+      "score": 16
+    },
+    {
+      "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+      "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
+      "score": 131
+    },
+    {
+      "title": "Restartable Sequences",
+      "url": "https://justine.lol/rseq/",
+      "score": 108
     },
     {
       "title": "London's Free Roof Terraces",
       "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-      "score": 145
+      "score": 223
+    },
+    {
+      "title": "Codex just found a \"workaround\" of not having sudo on my PC",
+      "url": "https://twitter.com/i/status/2060746160558543217",
+      "score": 16
+    },
+    {
+      "title": "The Website Specification",
+      "url": "https://specification.website/",
+      "score": 369
+    },
+    {
+      "title": "Deflock hits 100k ALPRs Mapped in USA",
+      "url": "https://deflock.org/",
+      "score": 63
+    },
+    {
+      "title": "Having your insulin pump die while you're on vacation",
+      "url": "https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/",
+      "score": 79
+    },
+    {
+      "title": "Daily pill can double survival time for deadliest cancer, trial shows",
+      "url": "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial",
+      "score": 98
+    },
+    {
+      "title": "Avoiding Death on the Yellow Brick Road",
+      "url": "https://www.a16z.news/p/avoiding-death-on-the-yellow-brick",
+      "score": 15
+    },
+    {
+      "title": "Linux/M68k",
+      "url": "http://www.linux-m68k.org/",
+      "score": 8
     },
     {
       "title": "Backpressure is all you need",
       "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
-      "score": 32
+      "score": 79
+    },
+    {
+      "title": "FROST: Fingerprinting Remotely using OPFS-based SSD Timing [pdf]",
+      "url": "https://hannesweissteiner.com/pdfs/frost.pdf",
+      "score": 25
     },
     {
       "title": "Security Envelope Pattern collection – S.E.C.R.E.T",
       "url": "https://secret-archive.org/",
-      "score": 40
+      "score": 75
     },
     {
-      "title": "Domain expertise has always been the real moat",
-      "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-      "score": 700
+      "title": "I put a datacenter GPU in my gaming PC",
+      "url": "https://blog.tymscar.com/posts/v100localllm/",
+      "score": 196
     },
     {
-      "title": "What it's like to have your insulin pump die while you're on vacation",
-      "url": "https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/",
-      "score": 20
+      "title": "Websites have a new way to spy on visitors: analyzing their SSD activity",
+      "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
+      "score": 28
     },
     {
       "title": "Shantell Sans (2023)",
       "url": "https://shantellsans.com/process",
-      "score": 306
-    },
-    {
-      "title": "One year of Roto, a compiled scripting language for Rust",
-      "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
-      "score": 66
-    },
-    {
-      "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
-      "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
-      "score": 112
-    },
-    {
-      "title": "Avian Visitors",
-      "url": "https://theodore.net/projects/AvianVisitors/",
-      "score": 72
-    },
-    {
-      "title": "I found a seashell in the middle of the desert",
-      "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert",
-      "score": 362
+      "score": 372
     },
     {
       "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
       "url": "https://av2.aomedia.org",
-      "score": 263
+      "score": 329
     },
     {
-      "title": "Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal",
-      "url": "https://github.com/marekkowalczyk/breathe-cli",
-      "score": 71
+      "title": "You weren't meant to have a boss (2008)",
+      "url": "https://paulgraham.com/boss.html",
+      "score": 80
     },
     {
-      "title": "A pictorial introduction to differential geometry (2017)",
-      "url": "https://arxiv.org/abs/1709.08492",
-      "score": 76
-    },
-    {
-      "title": "Accenture to acquire Ookla",
-      "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
-      "score": 304
+      "title": "Chibil: A C compiler targeting .NET IL",
+      "url": "https://github.com/MichalStrehovsky/chibil",
+      "score": 37
     },
     {
       "title": "Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]",
@@ -87,69 +132,24 @@
       "score": 1
     },
     {
-      "title": "Associative learning turns DEET from aversive to appetitive in Aedes aegypti",
-      "url": "https://journals.biologists.com/jeb/article/229/10/jeb251935/371741/Associative-learning-switches-DEET-valence-from",
-      "score": 48
+      "title": "Show HN: Atomic Editor – Obsidian-style live preview for CodeMirror 6",
+      "url": "https://kenforthewin.github.io/atomic-editor/",
+      "score": 34
     },
     {
-      "title": "Racket v9.2",
-      "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
-      "score": 174
+      "title": "Steam Deck sells out in North America within 24 hours of price hike",
+      "url": "https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/",
+      "score": 6
     },
     {
-      "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
-      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-      "score": 924
+      "title": "One year of Roto, a compiled scripting language for Rust",
+      "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
+      "score": 101
     },
     {
-      "title": "Mechanical Pencil: An illustrated celebration of the engineering around us",
-      "url": "https://mechanical-pencil.com/",
-      "score": 119
-    },
-    {
-      "title": "United Airlines 767 Returns to Newark After Bluetooth Name Sparks Alert",
-      "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
-      "score": 17
-    },
-    {
-      "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
-      "url": "https://github.com/kristapsdz/openrsync",
-      "score": 440
-    },
-    {
-      "title": "Voxel Space (2017)",
-      "url": "https://s-macke.github.io/VoxelSpace/",
-      "score": 293
-    },
-    {
-      "title": "Zig ELF Linker Improvements Devlog",
-      "url": "https://ziglang.org/devlog/2026/#2026-05-30",
-      "score": 217
-    },
-    {
-      "title": "Mysteries of the Griffin iMate",
-      "url": "https://www.projectgus.com/2023/04/griffin-imate/",
-      "score": 25
-    },
-    {
-      "title": "Pandoc Templates",
-      "url": "https://pandoc-templates.org/",
-      "score": 418
-    },
-    {
-      "title": "Ahoy, DECmate II the little PDP-8 that could",
-      "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
-      "score": 41
-    },
-    {
-      "title": "Human brains are misaligned, hallucinative, stochastic parrots",
-      "url": "https://substack.com/@samuelfitoussi/p-191268395",
-      "score": 5
-    },
-    {
-      "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
-      "url": "https://github.com/wolfSSL/wolfCOSE",
-      "score": 100
+      "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
+      "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
+      "score": 151
     }
   ]
 }
