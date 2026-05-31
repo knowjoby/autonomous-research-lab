@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Microsoft degrades functionality of perpetually-licensed offline products",
-      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-      "score": 537
+      "title": "The Website Specification",
+      "url": "https://specification.website/",
+      "score": 88
     },
     {
       "title": "Domain expertise has always been the real moat",
       "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-      "score": 337
+      "score": 553
+    },
+    {
+      "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
+      "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
+      "score": 74
+    },
+    {
+      "title": "Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal",
+      "url": "https://github.com/marekkowalczyk/breathe-cli",
+      "score": 13
     },
     {
       "title": "Shantell Sans (2023)",
       "url": "https://shantellsans.com/process",
-      "score": 125
+      "score": 225
     },
     {
-      "title": "Racket v9.2 is now available",
-      "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
-      "score": 50
+      "title": "Avian Visitors",
+      "url": "https://theodore.net/projects/AvianVisitors/",
+      "score": 26
+    },
+    {
+      "title": "Ahoy, DECmate II the little PDP-8 that could",
+      "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
+      "score": 31
+    },
+    {
+      "title": "Associative learning turns DEET from aversive to appetitive in Aedes aegypti",
+      "url": "https://journals.biologists.com/jeb/article/229/10/jeb251935/371741/Associative-learning-switches-DEET-valence-from",
+      "score": 30
+    },
+    {
+      "title": "Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]",
+      "url": "https://hi.telli.com/join-us",
+      "score": 1
     },
     {
       "title": "I found a seashell in the middle of the desert",
-      "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
-      "score": 248
+      "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert",
+      "score": 314
     },
     {
-      "title": "Accenture to acquire Ookla",
-      "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
-      "score": 255
+      "title": "One year of Roto, a compiled scripting language for Rust",
+      "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
+      "score": 16
+    },
+    {
+      "title": "A pictorial introduction to differential geometry (2017)",
+      "url": "https://arxiv.org/abs/1709.08492",
+      "score": 25
     },
     {
       "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
       "url": "https://av2.aomedia.org",
-      "score": 58
-    },
-    {
-      "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
-      "url": "https://github.com/wolfSSL/wolfCOSE",
-      "score": 71
-    },
-    {
-      "title": "Jef Raskin, the Visionary Behind the Mac (2013)",
-      "url": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/",
-      "score": 80
-    },
-    {
-      "title": "Cheese Paper: a text editor specifically designed for writing",
-      "url": "https://brie.gay/cheese-paper/",
-      "score": 66
-    },
-    {
-      "title": "Voxel Space (2017)",
-      "url": "https://s-macke.github.io/VoxelSpace/",
-      "score": 256
-    },
-    {
-      "title": "Zig ELF Linker Improvements Devlog",
-      "url": "https://ziglang.org/devlog/2026/#2026-05-30",
       "score": 179
     },
     {
-      "title": "Parallel Reconstruction of Lawful TLS Wiretapping",
-      "url": "https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/",
-      "score": 65
+      "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
+      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+      "score": 825
+    },
+    {
+      "title": "Accenture to acquire Ookla",
+      "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
+      "score": 278
+    },
+    {
+      "title": "Racket v9.2",
+      "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
+      "score": 105
+    },
+    {
+      "title": "Mechanical Pencil: An illustrated celebration of the engineering around us",
+      "url": "https://mechanical-pencil.com/",
+      "score": 64
+    },
+    {
+      "title": "Please Do Not Vibe Fuck Up This Software",
+      "url": "https://github.com/RsyncProject/rsync/issues/929",
+      "score": 154
     },
     {
       "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
       "url": "https://github.com/kristapsdz/openrsync",
-      "score": 329
+      "score": 387
+    },
+    {
+      "title": "Voxel Space (2017)",
+      "url": "https://s-macke.github.io/VoxelSpace/",
+      "score": 282
+    },
+    {
+      "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
+      "url": "https://github.com/wolfSSL/wolfCOSE",
+      "score": 89
+    },
+    {
+      "title": "Zig ELF Linker Improvements Devlog",
+      "url": "https://ziglang.org/devlog/2026/#2026-05-30",
+      "score": 201
+    },
+    {
+      "title": "Jef Raskin, the Visionary Behind the Mac (2013)",
+      "url": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/",
+      "score": 100
+    },
+    {
+      "title": "Cheese Paper: a text editor specifically designed for writing",
+      "url": "https://brie.gay/cheese-paper/",
+      "score": 102
+    },
+    {
+      "title": "Parallel Reconstruction of Lawful TLS Wiretapping",
+      "url": "https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/",
+      "score": 93
     },
     {
       "title": "OpenRouter raises $113M Series B",
       "url": "https://openrouter.ai/announcements/series-b",
-      "score": 373
-    },
-    {
-      "title": "Gustav Klimt and Egon Schiele in Conversation (2018)",
-      "url": "https://www.theparisreview.org/blog/2018/01/31/the-drawings-of-klimt-and-schiele/",
-      "score": 25
-    },
-    {
-      "title": "Show HN: 500 years of Joseon court omens as an observability dashboard",
-      "url": "https://ajin.im/is/building/omen.ops/",
-      "score": 87
-    },
-    {
-      "title": "Dusklight – GC Twilight Princess Decompiled",
-      "url": "https://twilitrealm.dev/",
-      "score": 75
-    },
-    {
-      "title": "Microcode inside the Intel 8087 floating-point chip: register exchange",
-      "url": "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html",
-      "score": 93
-    },
-    {
-      "title": "Design Engineering Magazine",
-      "url": "https://interfaces.dev/",
-      "score": 68
+      "score": 413
     },
     {
       "title": "Pandoc Templates",
       "url": "https://pandoc-templates.org/",
-      "score": 368
+      "score": 391
     },
     {
-      "title": "90% of the T Distribution",
-      "url": "https://entropicthoughts.com/ninety-percent-of-the-t-distribution",
-      "score": 33
+      "title": "Show HN: 500 years of Joseon court omens as an observability dashboard",
+      "url": "https://ajin.im/is/building/omen.ops/",
+      "score": 117
     },
     {
-      "title": "Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM",
-      "url": "https://arxiv.org/abs/2605.29135",
-      "score": 26
+      "title": "Show HN: Komi-learn – continuous memory and self-improvement for coding agents",
+      "url": "https://github.com/kurikomi-labs/komi-learn",
+      "score": 12
     },
     {
-      "title": "Zig: Build System Reworked",
-      "url": "https://ziglang.org/devlog/2026/#2026-05-26",
-      "score": 327
-    },
-    {
-      "title": "Show HN: Open Envelope – an open schema for defining AI agent teams",
-      "url": "https://openenvelope.org/docs/schema/",
-      "score": 36
-    },
-    {
-      "title": "Navier-Stokes fluid simulation explained with Godot game engine",
-      "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
-      "score": 194
-    },
-    {
-      "title": "Leo's first encyclical attacks technological messianism",
-      "url": "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism",
-      "score": 194
-    },
-    {
-      "title": "Werner Herzog in conversation with Paul Cronin (2014)",
-      "url": "https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/",
-      "score": 78
-    },
-    {
-      "title": "It takes two neurons to ride a bicycle (2004)",
-      "url": "https://fermatslibrary.com/s/it-takes-two-neurons-to-ride-a-bicycle#email-newsletter",
-      "score": 101
-    },
-    {
-      "title": "IXI's autofocusing lenses are almost ready to replace multifocal glasses",
-      "url": "https://www.engadget.com/wearables/ixis-autofocusing-lenses-multifocal-glasses-ces-2026-212608427.html",
-      "score": 171
+      "title": "Microcode inside the Intel 8087 floating-point chip: register exchange",
+      "url": "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html",
+      "score": 113
     }
   ]
 }
