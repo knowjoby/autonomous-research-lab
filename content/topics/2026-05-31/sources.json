@@ -2,44 +2,84 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Dav2d",
+      "url": "https://jbkempf.com/blog/2026/dav2d/",
+      "score": 148
+    },
+    {
       "title": "The Website Specification",
       "url": "https://specification.website/",
-      "score": 88
+      "score": 271
+    },
+    {
+      "title": "London's Free Roof Terraces",
+      "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
+      "score": 145
+    },
+    {
+      "title": "Backpressure is all you need",
+      "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
+      "score": 32
+    },
+    {
+      "title": "Security Envelope Pattern collection – S.E.C.R.E.T",
+      "url": "https://secret-archive.org/",
+      "score": 40
     },
     {
       "title": "Domain expertise has always been the real moat",
       "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-      "score": 553
+      "score": 700
     },
     {
-      "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
-      "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
-      "score": 74
-    },
-    {
-      "title": "Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal",
-      "url": "https://github.com/marekkowalczyk/breathe-cli",
-      "score": 13
+      "title": "What it's like to have your insulin pump die while you're on vacation",
+      "url": "https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/",
+      "score": 20
     },
     {
       "title": "Shantell Sans (2023)",
       "url": "https://shantellsans.com/process",
-      "score": 225
+      "score": 306
+    },
+    {
+      "title": "One year of Roto, a compiled scripting language for Rust",
+      "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
+      "score": 66
+    },
+    {
+      "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
+      "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
+      "score": 112
     },
     {
       "title": "Avian Visitors",
       "url": "https://theodore.net/projects/AvianVisitors/",
-      "score": 26
+      "score": 72
     },
     {
-      "title": "Ahoy, DECmate II the little PDP-8 that could",
-      "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
-      "score": 31
+      "title": "I found a seashell in the middle of the desert",
+      "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert",
+      "score": 362
     },
     {
-      "title": "Associative learning turns DEET from aversive to appetitive in Aedes aegypti",
-      "url": "https://journals.biologists.com/jeb/article/229/10/jeb251935/371741/Associative-learning-switches-DEET-valence-from",
-      "score": 30
+      "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
+      "url": "https://av2.aomedia.org",
+      "score": 263
+    },
+    {
+      "title": "Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal",
+      "url": "https://github.com/marekkowalczyk/breathe-cli",
+      "score": 71
+    },
+    {
+      "title": "A pictorial introduction to differential geometry (2017)",
+      "url": "https://arxiv.org/abs/1709.08492",
+      "score": 76
+    },
+    {
+      "title": "Accenture to acquire Ookla",
+      "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
+      "score": 304
     },
     {
       "title": "Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]",
@@ -47,109 +87,69 @@
       "score": 1
     },
     {
-      "title": "I found a seashell in the middle of the desert",
-      "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert",
-      "score": 314
-    },
-    {
-      "title": "One year of Roto, a compiled scripting language for Rust",
-      "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
-      "score": 16
-    },
-    {
-      "title": "A pictorial introduction to differential geometry (2017)",
-      "url": "https://arxiv.org/abs/1709.08492",
-      "score": 25
-    },
-    {
-      "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
-      "url": "https://av2.aomedia.org",
-      "score": 179
-    },
-    {
-      "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
-      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-      "score": 825
-    },
-    {
-      "title": "Accenture to acquire Ookla",
-      "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
-      "score": 278
+      "title": "Associative learning turns DEET from aversive to appetitive in Aedes aegypti",
+      "url": "https://journals.biologists.com/jeb/article/229/10/jeb251935/371741/Associative-learning-switches-DEET-valence-from",
+      "score": 48
     },
     {
       "title": "Racket v9.2",
       "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
-      "score": 105
+      "score": 174
+    },
+    {
+      "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
+      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+      "score": 924
     },
     {
       "title": "Mechanical Pencil: An illustrated celebration of the engineering around us",
       "url": "https://mechanical-pencil.com/",
-      "score": 64
+      "score": 119
     },
     {
-      "title": "Please Do Not Vibe Fuck Up This Software",
-      "url": "https://github.com/RsyncProject/rsync/issues/929",
-      "score": 154
+      "title": "United Airlines 767 Returns to Newark After Bluetooth Name Sparks Alert",
+      "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
+      "score": 17
     },
     {
       "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
       "url": "https://github.com/kristapsdz/openrsync",
-      "score": 387
+      "score": 440
     },
     {
       "title": "Voxel Space (2017)",
       "url": "https://s-macke.github.io/VoxelSpace/",
-      "score": 282
-    },
-    {
-      "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
-      "url": "https://github.com/wolfSSL/wolfCOSE",
-      "score": 89
+      "score": 293
     },
     {
       "title": "Zig ELF Linker Improvements Devlog",
       "url": "https://ziglang.org/devlog/2026/#2026-05-30",
-      "score": 201
+      "score": 217
     },
     {
-      "title": "Jef Raskin, the Visionary Behind the Mac (2013)",
-      "url": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/",
-      "score": 100
-    },
-    {
-      "title": "Cheese Paper: a text editor specifically designed for writing",
-      "url": "https://brie.gay/cheese-paper/",
-      "score": 102
-    },
-    {
-      "title": "Parallel Reconstruction of Lawful TLS Wiretapping",
-      "url": "https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/",
-      "score": 93
-    },
-    {
-      "title": "OpenRouter raises $113M Series B",
-      "url": "https://openrouter.ai/announcements/series-b",
-      "score": 413
+      "title": "Mysteries of the Griffin iMate",
+      "url": "https://www.projectgus.com/2023/04/griffin-imate/",
+      "score": 25
     },
     {
       "title": "Pandoc Templates",
       "url": "https://pandoc-templates.org/",
-      "score": 391
+      "score": 418
     },
     {
-      "title": "Show HN: 500 years of Joseon court omens as an observability dashboard",
-      "url": "https://ajin.im/is/building/omen.ops/",
-      "score": 117
+      "title": "Ahoy, DECmate II the little PDP-8 that could",
+      "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
+      "score": 41
     },
     {
-      "title": "Show HN: Komi-learn – continuous memory and self-improvement for coding agents",
-      "url": "https://github.com/kurikomi-labs/komi-learn",
-      "score": 12
+      "title": "Human brains are misaligned, hallucinative, stochastic parrots",
+      "url": "https://substack.com/@samuelfitoussi/p-191268395",
+      "score": 5
     },
     {
-      "title": "Microcode inside the Intel 8087 floating-point chip: register exchange",
-      "url": "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html",
-      "score": 113
+      "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
+      "url": "https://github.com/wolfSSL/wolfCOSE",
+      "score": 100
     }
   ]
 }
