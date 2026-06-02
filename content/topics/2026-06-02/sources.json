@@ -2,74 +2,114 @@
   "papers": [],
   "discussions": [
     {
-      "title": "A walking tour of surveillance infrastructure in Seattle",
+      "title": "MAI-Code-1-Flash",
+      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+      "score": 208
+    },
+    {
+      "title": "Gmail thinks I'm stupid, so I left",
+      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+      "score": 243
+    },
+    {
+      "title": "MAI-Thinking-1",
+      "url": "https://microsoft.ai/news/introducing-mai-thinking-1/",
+      "score": 77
+    },
+    {
+      "title": "Open Repair Data Standard – Open Repair Alliance",
+      "url": "https://openrepair.org/open-data/open-standard/",
+      "score": 29
+    },
+    {
+      "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
       "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
-      "score": 110
+      "score": 333
     },
     {
-      "title": "Fidonet: Technology, Use, Tools, and History (1993)",
-      "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
-      "score": 68
+      "title": "GitHub Copilot App",
+      "url": "https://github.com/features/preview/github-app",
+      "score": 67
     },
     {
-      "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+      "title": "Trump signs downsized AI order after weeks of reversals",
+      "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+      "score": 108
+    },
+    {
+      "title": "The advertising cartel coming to your web browser",
+      "url": "https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/",
+      "score": 48
+    },
+    {
+      "title": "HP re-releases classic computer science calculator: The HP-16C",
+      "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
+      "score": 33
+    },
+    {
+      "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
       "url": "https://blog.adafruit.com/",
-      "score": 405
+      "score": 534
+    },
+    {
+      "title": "QBE – Compiler Backend – 1.3",
+      "url": "https://c9x.me/compile/release/qbe-1.3.html",
+      "score": 47
+    },
+    {
+      "title": "Bringing Up DeepSeek-V4-Flash on AMD MI300X",
+      "url": "https://fergusfinn.com/blog/deepseek-v4-flash-mi300x/",
+      "score": 48
+    },
+    {
+      "title": "How we index images for RAG",
+      "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
+      "score": 29
     },
     {
       "title": "Why Janet? (2023)",
       "url": "https://ianthehenry.com/posts/why-janet/",
-      "score": 326
+      "score": 401
     },
     {
-      "title": "Apple rejected my dictation app for using the accessibility API",
-      "url": "https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/",
-      "score": 212
+      "title": "Expanding Project Glasswing",
+      "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "score": 134
     },
     {
-      "title": "You Don't Love Systemd Timers Enough",
-      "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
-      "score": 189
-    },
-    {
-      "title": "The newest Instagram “exploit” is the goofiest I've seen",
-      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-      "score": 2050
-    },
-    {
-      "title": "Americans don't know how to fight AI so they're fighting data centers",
-      "url": "https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash",
-      "score": 54
-    },
-    {
-      "title": "Meta repeatedly snubs EU body over Facebook and Instagram user bans",
-      "url": "https://www.bbc.com/news/articles/c152yvwjwkko",
-      "score": 56
-    },
-    {
-      "title": "CSS-Native Parallax Effect",
-      "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
-      "score": 90
+      "title": "Fidonet: Technology, Use, Tools, and History (1993)",
+      "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
+      "score": 126
     },
     {
       "title": "Preparing for KDE Plasma's Last X11-Supported Release",
       "url": "https://blog.davidedmundson.co.uk/blog/596/",
-      "score": 51
+      "score": 106
     },
     {
-      "title": "Reviving Teletext for Ham Radio",
-      "url": "https://spectrum.ieee.org/reviving-teletext-for-ham-radio",
-      "score": 26
+      "title": "Made a Tool to Streams Changes from Microsoft SQL Server to Apache Kafka",
+      "url": "https://github.com/Niyko/Athena",
+      "score": 6
     },
     {
-      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "score": 575
+      "title": "BQN: What Is a Primitive?",
+      "url": "https://mlochbaum.github.io/BQN/commentary/primitive.html",
+      "score": 21
     },
     {
-      "title": "Muxcard, a dyi credit card size computer",
-      "url": "https://github.com/krauseler/muxcard",
-      "score": 194
+      "title": "Microsoft announces Scout, an autonomous AI agent built on OpenClaw",
+      "url": "https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html",
+      "score": 44
+    },
+    {
+      "title": "Love systemd timers",
+      "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+      "score": 294
+    },
+    {
+      "title": "Uber caps employee AI spending after blowing through budget in four months",
+      "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+      "score": 13
     },
     {
       "title": "Great Question (YC W21) Is Hiring Applied AI Interns",
@@ -77,79 +117,34 @@
       "score": 1
     },
     {
+      "title": "CT scans of BYD car parts",
+      "url": "https://www.lumafield.com/scan-of-the-month/byd",
+      "score": 6
+    },
+    {
+      "title": "Rethinking search as code generation",
+      "url": "https://research.perplexity.ai/articles/rethinking-search-as-code-generation",
+      "score": 56
+    },
+    {
+      "title": "Three Ways to Get Paid (2018)",
+      "url": "https://jasonzweig.com/three-ways-to-get-paid/",
+      "score": 181
+    },
+    {
+      "title": "Age verification for social media, the beginning of the end for a free internet?",
+      "url": "https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet",
+      "score": 372
+    },
+    {
       "title": "Stop Ruining It",
       "url": "https://seths.blog/2026/06/stop-ruining-it/",
-      "score": 115
+      "score": 221
     },
     {
-      "title": "Show HN: Eyeball",
-      "url": "https://eyeball.rory.codes/",
-      "score": 112
-    },
-    {
-      "title": "PCMFlowG722 wideband (HD voice) codec for ESP32",
-      "url": "https://github.com/tanakamasayuki/PCMFlowG722",
-      "score": 10
-    },
-    {
-      "title": "Webcam head tracking, webcam to control in‑game FOV",
-      "url": "https://www.openfov.com/",
-      "score": 60
-    },
-    {
-      "title": "Why Custom Attributes in .NET Give Me Nightmares",
-      "url": "https://blog.washi.dev/posts/custom-attributes-and-why-they-suck/",
-      "score": 38
-    },
-    {
-      "title": "macOS needs its grid back",
-      "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
-      "score": 347
-    },
-    {
-      "title": "CQL: Categorical Databases",
-      "url": "https://categoricaldata.net/",
-      "score": 78
-    },
-    {
-      "title": "Chipotlai Max",
-      "url": "https://github.com/cyberpapiii/chipotlai-max",
-      "score": 325
-    },
-    {
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-      "score": 339
-    },
-    {
-      "title": "Strace-ui, Bonsai_term, and the TUI renaissance",
-      "url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
-      "score": 116
-    },
-    {
-      "title": "Debug Project",
-      "url": "https://debug.com/",
-      "score": 261
-    },
-    {
-      "title": "Expanding Project Glasswing",
-      "url": "https://www.anthropic.com/news/expanding-project-glasswing",
-      "score": 68
-    },
-    {
-      "title": "AI Agent Guidelines for CS336 at Stanford",
-      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "score": 472
-    },
-    {
-      "title": "Should you normalize RGB values by 255 or 256?",
-      "url": "https://30fps.net/pages/255-vs-256-division/",
-      "score": 301
-    },
-    {
-      "title": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra",
-      "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
-      "score": 262
+      "title": "Show HN: RePlaya – self-hosted browser session replay with live tailing",
+      "url": "https://github.com/s2-streamstore/replaya",
+      "score": 21
     }
   ]
 }
