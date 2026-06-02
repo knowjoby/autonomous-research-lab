@@ -2,139 +2,139 @@
   "papers": [],
   "discussions": [
     {
-      "title": "macOS needs its grid back",
-      "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
-      "score": 90
+      "title": "Why Janet?",
+      "url": "https://ianthehenry.com/posts/why-janet/",
+      "score": 63
     },
     {
       "title": "The newest Instagram “exploit” is the goofiest I've seen",
       "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-      "score": 1443
+      "score": 1825
     },
     {
       "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
       "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "score": 139
+      "score": 379
     },
     {
-      "title": "How is Groq raising more money?",
-      "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
-      "score": 44
+      "title": "Muxcard, a dyi credit card size computer",
+      "url": "https://github.com/krauseler/muxcard",
+      "score": 45
     },
     {
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-      "score": 172
+      "title": "macOS needs its grid back",
+      "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+      "score": 264
+    },
+    {
+      "title": "CQL: Categorical Databases",
+      "url": "https://categoricaldata.net/",
+      "score": 38
     },
     {
       "title": "Chipotlai Max",
       "url": "https://github.com/cyberpapiii/chipotlai-max",
-      "score": 92
+      "score": 233
     },
     {
-      "title": "Fooling around with encrypted reasoning blobs",
-      "url": "https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/",
-      "score": 21
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+      "score": 274
     },
     {
-      "title": "Debug Project",
-      "url": "https://debug.com/",
-      "score": 168
-    },
-    {
-      "title": "U.S. Midterms Have a Cyber Problem, but It's Not at the Ballot Box",
-      "url": "https://blog.checkpoint.com/exposure-management/the-2026-u-s-midterms-have-a-cyber-problem-but-its-not-at-the-ballot-box/",
-      "score": 26
-    },
-    {
-      "title": "Crystal Nights (2008)",
-      "url": "https://www.gregegan.net/MISC/CRYSTAL/Crystal.html",
-      "score": 21
-    },
-    {
-      "title": "Squillions: How Money Laundering Won",
-      "url": "https://www.lrb.co.uk/the-paper/v48/n09/john-lanchester/squillions",
-      "score": 32
+      "title": "How is Groq raising more money?",
+      "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
+      "score": 110
     },
     {
       "title": "AI Agent Guidelines for CS336 at Stanford",
       "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "score": 349
+      "score": 418
     },
     {
-      "title": "KL Zero: KL divergence intuition game",
-      "url": "https://klzero.sarna.dev",
-      "score": 5
+      "title": "Debug Project",
+      "url": "https://debug.com/",
+      "score": 226
     },
     {
       "title": "CS336: Language Modeling from Scratch",
       "url": "https://cs336.stanford.edu/",
-      "score": 383
+      "score": 466
+    },
+    {
+      "title": "Strace-ui, Bonsai_term, and the TUI renaissance",
+      "url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
+      "score": 51
+    },
+    {
+      "title": "First benchmark results from the Snapdragon 8cx Gen 3-powered Radxa Dragon Q8B",
+      "url": "https://bret.dk/radxa-dragon-q8b-a-laptop-cosplaying-as-an-sbc/",
+      "score": 7
+    },
+    {
+      "title": "Fooling around with encrypted reasoning blobs",
+      "url": "https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/",
+      "score": 91
     },
     {
       "title": "Should you normalize RGB values by 255 or 256?",
       "url": "https://30fps.net/pages/255-vs-256-division/",
+      "score": 267
+    },
+    {
+      "title": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra",
+      "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
+      "score": 217
+    },
+    {
+      "title": "What appear to be biochemical processes may be a natural feature of geology",
+      "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
+      "score": 238
+    },
+    {
+      "title": "Crystal Nights (2008)",
+      "url": "https://www.gregegan.net/MISC/CRYSTAL/Crystal.html",
+      "score": 45
+    },
+    {
+      "title": "Not Every Byte Gets a Vote",
+      "url": "https://mitander.xyz/posts/not-every-byte-gets-a-vote/",
+      "score": 5
+    },
+    {
+      "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
+      "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+      "score": 195
+    },
+    {
+      "title": "I made my phone slow on purpose",
+      "url": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/",
       "score": 209
     },
     {
       "title": "A new way to build chips: Sequentially stacking silicon to extend Moore's Law",
       "url": "https://matse.illinois.edu/news/85775",
-      "score": 30
-    },
-    {
-      "title": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra",
-      "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
-      "score": 171
-    },
-    {
-      "title": "What appear to be biochemical processes may be a natural feature of geology",
-      "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
-      "score": 202
-    },
-    {
-      "title": "Nvidia RTX Spark",
-      "url": "https://www.nvidia.com/en-us/products/rtx-spark/",
-      "score": 353
-    },
-    {
-      "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
-      "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
-      "score": 133
-    },
-    {
-      "title": "Florida sues OpenAI and Sam Altman over AI risks",
-      "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
-      "score": 190
+      "score": 49
     },
     {
       "title": "Age verification for social media, the beginning of the end for a free internet?",
       "url": "https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet",
-      "score": 130
+      "score": 276
     },
     {
-      "title": "Stealing from Biologists to Compile Haskell Faster",
-      "url": "https://www.iankduncan.com/engineering/2026-05-30-stealing-from-biologists-to-compile-haskell-faster/",
-      "score": 99
+      "title": "Florida sues OpenAI and Sam Altman over AI risks",
+      "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+      "score": 230
     },
     {
-      "title": "I made my phone slow on purpose",
-      "url": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/",
-      "score": 174
-    },
-    {
-      "title": "Only 17% of all 64-bit Integers are products of two 32-bit integers",
-      "url": "https://lemire.me/blog/2026/05/22/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers/",
-      "score": 209
-    },
-    {
-      "title": "Book Dedications",
-      "url": "https://walzr.com/dedications",
-      "score": 12
+      "title": "Flipper Zero Zig Template",
+      "url": "https://github.com/NishantJoshi00/flipper-template",
+      "score": 147
     },
     {
       "title": "Windows GOG DOS Games on M-Series Macs",
       "url": "https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/",
-      "score": 142
+      "score": 153
     }
   ]
 }
