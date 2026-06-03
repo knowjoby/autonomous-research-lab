@@ -1,0 +1,155 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+      "url": "https://blog.ammaraskar.com/github-token-stealing/",
+      "score": 89
+    },
+    {
+      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+      "url": "https://github.com/c0dejedi/nbd-vram",
+      "score": 182
+    },
+    {
+      "title": "Agentic Mfw",
+      "url": "https://agenticmotherfucking.website",
+      "score": 32
+    },
+    {
+      "title": "MAI-Code-1-Flash",
+      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+      "score": 418
+    },
+    {
+      "title": "CT scans of BYD car parts",
+      "url": "https://www.lumafield.com/scan-of-the-month/byd",
+      "score": 272
+    },
+    {
+      "title": "The American Missile Crisis",
+      "url": "https://research.contrary.com/report/the-american-missile-crisis",
+      "score": 7
+    },
+    {
+      "title": "HHS is overriding peer review to require changes to research scope, design",
+      "url": "https://www.science.org/content/article/exclusive-hhs-now-weighing-science-nih-grants",
+      "score": 6
+    },
+    {
+      "title": "Capstone – multi-platform, multi-architecture disassembly framework",
+      "url": "https://www.capstone-engine.org/",
+      "score": 17
+    },
+    {
+      "title": "Roku LT Operating System open source distribution",
+      "url": "https://blog.roku.com/developer/roku-lt-os",
+      "score": 28
+    },
+    {
+      "title": "Are blue zones real? Answering that question is harder then ever",
+      "url": "https://www.statnews.com/2026/05/04/are-blue-zones-real-new-scrutiny-longevity-hot-spots/",
+      "score": 41
+    },
+    {
+      "title": "Gmail thinks I'm stupid, so I left",
+      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+      "score": 696
+    },
+    {
+      "title": "My thoughts after using Clojure for about a month",
+      "url": "https://www.acdw.net/clojure/",
+      "score": 139
+    },
+    {
+      "title": "Pluto.jl 1.0 release – reactive notebook for Julia",
+      "url": "https://discourse.julialang.org/t/pluto-1-0-release/137296",
+      "score": 48
+    },
+    {
+      "title": "AI outperforms law professors in Stanford Law study",
+      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+      "score": 129
+    },
+    {
+      "title": "Can A.I. produce writing that we want to read?",
+      "url": "https://www.newyorker.com/news/fault-lines/can-ai-produce-writing-that-we-actually-want-to-read",
+      "score": 10
+    },
+    {
+      "title": "Open Repair Data Standard – Open Repair Alliance",
+      "url": "https://openrepair.org/open-data/open-standard/",
+      "score": 107
+    },
+    {
+      "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
+      "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
+      "score": 383
+    },
+    {
+      "title": "4K years ago, Mohenjo-daro grew more equal over time",
+      "url": "https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/",
+      "score": 59
+    },
+    {
+      "title": "Words of Type",
+      "url": "https://wiki.wordsoftype.com/",
+      "score": 5
+    },
+    {
+      "title": "HP re-releases classic computer science calculator: The HP-16C",
+      "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
+      "score": 137
+    },
+    {
+      "title": "How we index images for RAG",
+      "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
+      "score": 102
+    },
+    {
+      "title": "Loading Sega Games Off a Vinyl Record [video]",
+      "url": "https://www.youtube.com/watch?v=c744iD0_fWU",
+      "score": 19
+    },
+    {
+      "title": "OpenFOV – Webcam head tracking for iRacing",
+      "url": "https://www.openfov.com/",
+      "score": 95
+    },
+    {
+      "title": "Multicore suppport for DOS is real – partly",
+      "url": "https://www.vogons.org/viewtopic.php?t=111336",
+      "score": 68
+    },
+    {
+      "title": "Trump signs downsized AI order after weeks of reversals",
+      "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+      "score": 188
+    },
+    {
+      "title": "NLAB: The worlds smallest electronics lab",
+      "url": "https://getnlab.com/",
+      "score": 4
+    },
+    {
+      "title": "Show HN: Paseo – Beautiful open-source coding agent interface",
+      "url": "https://github.com/getpaseo/paseo",
+      "score": 38
+    },
+    {
+      "title": "Expanding Project Glasswing",
+      "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "score": 163
+    },
+    {
+      "title": "Preparing for KDE Plasma's Last X11-Supported Release",
+      "url": "https://blog.davidedmundson.co.uk/blog/596/",
+      "score": 159
+    },
+    {
+      "title": "Fidonet: Technology, Use, Tools, and History (1993)",
+      "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
+      "score": 154
+    }
+  ]
+}
