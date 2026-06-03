@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
+      "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
+      "score": 60
+    },
+    {
       "title": "1-Click GitHub Token Stealing via a VSCode Bug",
       "url": "https://blog.ammaraskar.com/github-token-stealing/",
-      "score": 89
+      "score": 437
+    },
+    {
+      "title": "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
+      "url": "https://github.com/s-macke/Test-Drive-3-Maps",
+      "score": 112
     },
     {
       "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
       "url": "https://github.com/c0dejedi/nbd-vram",
-      "score": 182
-    },
-    {
-      "title": "Agentic Mfw",
-      "url": "https://agenticmotherfucking.website",
-      "score": 32
-    },
-    {
-      "title": "MAI-Code-1-Flash",
-      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-      "score": 418
-    },
-    {
-      "title": "CT scans of BYD car parts",
-      "url": "https://www.lumafield.com/scan-of-the-month/byd",
-      "score": 272
-    },
-    {
-      "title": "The American Missile Crisis",
-      "url": "https://research.contrary.com/report/the-american-missile-crisis",
-      "score": 7
-    },
-    {
-      "title": "HHS is overriding peer review to require changes to research scope, design",
-      "url": "https://www.science.org/content/article/exclusive-hhs-now-weighing-science-nih-grants",
-      "score": 6
-    },
-    {
-      "title": "Capstone – multi-platform, multi-architecture disassembly framework",
-      "url": "https://www.capstone-engine.org/",
-      "score": 17
-    },
-    {
-      "title": "Roku LT Operating System open source distribution",
-      "url": "https://blog.roku.com/developer/roku-lt-os",
-      "score": 28
-    },
-    {
-      "title": "Are blue zones real? Answering that question is harder then ever",
-      "url": "https://www.statnews.com/2026/05/04/are-blue-zones-real-new-scrutiny-longevity-hot-spots/",
-      "score": 41
-    },
-    {
-      "title": "Gmail thinks I'm stupid, so I left",
-      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-      "score": 696
-    },
-    {
-      "title": "My thoughts after using Clojure for about a month",
-      "url": "https://www.acdw.net/clojure/",
-      "score": 139
-    },
-    {
-      "title": "Pluto.jl 1.0 release – reactive notebook for Julia",
-      "url": "https://discourse.julialang.org/t/pluto-1-0-release/137296",
-      "score": 48
+      "score": 330
     },
     {
       "title": "AI outperforms law professors in Stanford Law study",
       "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-      "score": 129
+      "score": 263
     },
     {
-      "title": "Can A.I. produce writing that we want to read?",
-      "url": "https://www.newyorker.com/news/fault-lines/can-ai-produce-writing-that-we-actually-want-to-read",
-      "score": 10
+      "title": "MAI-Code-1-Flash",
+      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+      "score": 477
     },
     {
-      "title": "Open Repair Data Standard – Open Repair Alliance",
-      "url": "https://openrepair.org/open-data/open-standard/",
-      "score": 107
+      "title": "The Unreasonable Redundancy of Nature's Protein Folds",
+      "url": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
+      "score": 100
     },
     {
-      "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
-      "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
-      "score": 383
+      "title": "It is an amazing time for programmers",
+      "url": "https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers",
+      "score": 72
     },
     {
-      "title": "4K years ago, Mohenjo-daro grew more equal over time",
-      "url": "https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/",
+      "title": "CT scans of BYD car parts",
+      "url": "https://www.lumafield.com/scan-of-the-month/byd",
+      "score": 393
+    },
+    {
+      "title": "Microsoft Doubles Down on Controversial Quantum Computing Claims",
+      "url": "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans",
+      "score": 35
+    },
+    {
+      "title": "Writing Portable ARM64 Assembly (2023)",
+      "url": "https://ariadne.space/2023/04/12/writing-portable-arm-assembly.html",
+      "score": 24
+    },
+    {
+      "title": "DIY Bipedal Robot Used Pneumatic \"Air-Muscles\" Instead of Motors",
+      "url": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
+      "score": 19
+    },
+    {
+      "title": "Pluto.jl 1.0 release – reactive notebook for Julia",
+      "url": "https://discourse.julialang.org/t/pluto-1-0-release/137296",
+      "score": 139
+    },
+    {
+      "title": "My thoughts after using Clojure for about a month",
+      "url": "https://www.acdw.net/clojure/",
+      "score": 227
+    },
+    {
+      "title": "Capstone – multi-platform, multi-architecture disassembly framework",
+      "url": "https://www.capstone-engine.org/",
       "score": 59
+    },
+    {
+      "title": "U of T researchers demonstrate AI worm could target any online device",
+      "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+      "score": 48
+    },
+    {
+      "title": "Roku LT Operating System open source distribution",
+      "url": "https://blog.roku.com/developer/roku-lt-os",
+      "score": 79
+    },
+    {
+      "title": "Jonathan Franzen on Talent, Theatre, and His Next Novel",
+      "url": "https://www.newyorker.com/books/this-week-in-fiction/jonathan-franzen-06-08-26",
+      "score": 8
+    },
+    {
+      "title": "OpenRidingController – DIY horse riding controller for the PC",
+      "url": "https://github.com/Squalius-cephalus/OpenRidingController",
+      "score": 5
     },
     {
       "title": "Words of Type",
       "url": "https://wiki.wordsoftype.com/",
-      "score": 5
+      "score": 71
     },
     {
       "title": "HP re-releases classic computer science calculator: The HP-16C",
       "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
-      "score": 137
+      "score": 177
+    },
+    {
+      "title": "Gmail thinks I'm stupid, so I left",
+      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+      "score": 983
     },
     {
       "title": "How we index images for RAG",
       "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
-      "score": 102
+      "score": 142
     },
     {
-      "title": "Loading Sega Games Off a Vinyl Record [video]",
-      "url": "https://www.youtube.com/watch?v=c744iD0_fWU",
-      "score": 19
+      "title": "Open Repair Data Standard",
+      "url": "https://openrepair.org/open-data/open-standard/",
+      "score": 134
     },
     {
-      "title": "OpenFOV – Webcam head tracking for iRacing",
-      "url": "https://www.openfov.com/",
-      "score": 95
+      "title": "Recovering Eric Graham's 1987 Amiga Juggler raytracer source code",
+      "url": "https://alphapixeldev.com/recovering-eric-grahams-1987-amiga-juggler-raytracer-source-code/",
+      "score": 12
     },
     {
-      "title": "Multicore suppport for DOS is real – partly",
-      "url": "https://www.vogons.org/viewtopic.php?t=111336",
-      "score": 68
+      "title": "4K years ago, Mohenjo-daro grew more equal over time",
+      "url": "https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/",
+      "score": 104
+    },
+    {
+      "title": "Show HN: Phive, a Gomoku-like game to play with friends or solo",
+      "url": "https://phive.app",
+      "score": 10
     },
     {
       "title": "Trump signs downsized AI order after weeks of reversals",
       "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
-      "score": 188
+      "score": 215
     },
     {
-      "title": "NLAB: The worlds smallest electronics lab",
-      "url": "https://getnlab.com/",
-      "score": 4
-    },
-    {
-      "title": "Show HN: Paseo – Beautiful open-source coding agent interface",
-      "url": "https://github.com/getpaseo/paseo",
-      "score": 38
-    },
-    {
-      "title": "Expanding Project Glasswing",
-      "url": "https://www.anthropic.com/news/expanding-project-glasswing",
-      "score": 163
+      "title": "OpenFOV – Webcam head tracking for iRacing",
+      "url": "https://www.openfov.com/",
+      "score": 127
     },
     {
       "title": "Preparing for KDE Plasma's Last X11-Supported Release",
       "url": "https://blog.davidedmundson.co.uk/blog/596/",
-      "score": 159
-    },
-    {
-      "title": "Fidonet: Technology, Use, Tools, and History (1993)",
-      "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
-      "score": 154
+      "score": 194
     }
   ]
 }
