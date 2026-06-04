@@ -4,152 +4,152 @@
     {
       "title": "VoidZero Is Joining Cloudflare",
       "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-      "score": 193
+      "score": 472
     },
     {
-      "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
-      "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
-      "score": 298
+      "title": "Retro-Tech Parenting",
+      "url": "https://havenweb.org/2026/05/28/retro-tech.html",
+      "score": 151
     },
     {
       "title": "Ian's Secure Shoelace Knot",
       "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-      "score": 120
+      "score": 385
+    },
+    {
+      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "url": "https://github.com/huawei-csl/KVarN",
+      "score": 88
+    },
+    {
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "score": 96
     },
     {
       "title": "They’re made out of weights",
       "url": "https://maxleiter.com/blog/weights",
-      "score": 1024
+      "score": 1306
     },
     {
-      "title": "Gaussian Point Splatting",
-      "url": "https://momentsingraphics.de/Siggraph2026.html",
-      "score": 104
-    },
-    {
-      "title": "U.S. Army Corps of Engineers Bay Model",
-      "url": "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model",
-      "score": 88
-    },
-    {
-      "title": "French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56",
-      "url": "https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56",
-      "score": 186
-    },
-    {
-      "title": "Elixir v1.20: Now a gradually typed language",
-      "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-      "score": 872
-    },
-    {
-      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "score": 938
-    },
-    {
-      "title": "Show HN: Prela – Purely Algebraic Relation Combinators",
-      "url": "https://github.com/remysucre/prela",
-      "score": 11
-    },
-    {
-      "title": "In a first, wind and solar generated more power than gas globally in April 2026",
-      "url": "https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/",
-      "score": 23
-    },
-    {
-      "title": "AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools",
-      "url": "https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus",
-      "score": 1
-    },
-    {
-      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
-      "score": 303
-    },
-    {
-      "title": "Under Notre Dame, a 'dig of the century' unearths 1,700 years of history",
-      "url": "https://apnews.com/article/notre-dame-dig-treasures-paris-archaeology-roman-dae41f792c1402faf32a87c154cc9a77",
-      "score": 104
-    },
-    {
-      "title": "Artificial intelligence is not conscious – Ted Chiang",
-      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-      "score": 579
+      "title": "Sum-product, unit distances, and number fields",
+      "url": "https://www.erdosproblems.com/forum/thread/blog:6",
+      "score": 37
     },
     {
       "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
       "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-      "score": 533
+      "score": 661
     },
     {
-      "title": "thunderbolt-ibverbs: We have InfiniBand at home",
-      "url": "https://blog.hellas.ai/blog/thunderbolt-ibverbs/",
-      "score": 78
+      "title": "Making Debian or Fedora persistent live images",
+      "url": "https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html",
+      "score": 26
     },
     {
-      "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
-      "url": "https://burntsushi.net/encephalitis/",
-      "score": 677
+      "title": "Samurai City",
+      "url": "https://worksinprogress.co/issue/samurai-city/",
+      "score": 26
     },
     {
-      "title": "The ways we contain Claude across products",
-      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "score": 172
+      "title": "JLink JTAG Access on the Pinecil",
+      "url": "https://danielmangum.com/posts/jlink-jtag-pinecil/",
+      "score": 7
     },
     {
-      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-      "score": 547
+      "title": "Zettascale (YC S24) Is Hiring Founding FPGA Engineers",
+      "url": "https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect",
+      "score": 1
     },
     {
-      "title": "Learn SQL Once, Use It for 30 Years",
-      "url": "https://fagnerbrack.com/learn-sql-once-use-it-for-30-years-9aceb0bdee03",
-      "score": 172
+      "title": "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call",
+      "url": "https://cost.dev/",
+      "score": 11
     },
     {
-      "title": "Kiki – a tiny homepage construction kit with a small footprint",
-      "url": "https://tomotama.com/kiki",
-      "score": 67
+      "title": "U.S. Army Corps of Engineers Bay Model",
+      "url": "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model",
+      "score": 178
     },
     {
-      "title": "Claude Code and Codex Can Have Real-Time Conversation via Git",
-      "url": "https://medium.com/@Koukyosyumei/claude-code-and-codex-can-have-real-time-conversation-via-git-f95b696c1c05",
-      "score": 79
+      "title": "The desperation of NYTimes",
+      "url": "https://rozumem.xyz/posts/16",
+      "score": 220
     },
     {
-      "title": "DaVinci Resolve 21",
-      "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
-      "score": 499
-    },
-    {
-      "title": "ESP32-S31",
-      "url": "https://www.espressif.com/en/products/socs/esp32-s31",
-      "score": 332
+      "title": "Gaussian Point Splatting",
+      "url": "https://momentsingraphics.de/Siggraph2026.html",
+      "score": 156
     },
     {
       "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
       "url": "https://uruky.com/?il=en",
-      "score": 134
+      "score": 180
     },
     {
-      "title": "A Man Who Reads Books for a Living",
-      "url": "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/",
+      "title": "3D-printed book turns its own G-code into raised lettering",
+      "url": "https://www.designboom.com/design/3d-printed-book-manual-darius-ou-benson-chong/",
+      "score": 55
+    },
+    {
+      "title": "Elixir v1.20: Now a gradually typed language",
+      "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+      "score": 936
+    },
+    {
+      "title": "Wind and solar generated more power than gas globally in April 2026",
+      "url": "https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/",
+      "score": 308
+    },
+    {
+      "title": "AI, Ashby Engineering, and the future",
+      "url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
+      "score": 13
+    },
+    {
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "score": 994
+    },
+    {
+      "title": "Show HN: Prela – Purely Algebraic Relation Combinators",
+      "url": "https://github.com/remysucre/prela",
+      "score": 55
+    },
+    {
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "score": 692
+    },
+    {
+      "title": "French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56",
+      "url": "https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56",
+      "score": 364
+    },
+    {
+      "title": "Sagrada Família Lego set",
+      "url": "https://www.lego.com/en-us/product/sagrada-familia-21065",
       "score": 152
     },
     {
-      "title": "When su replaced login for becoming another Unix login",
-      "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement",
-      "score": 38
+      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+      "score": 356
     },
     {
-      "title": "A Post-Quantum Future for Let's Encrypt",
-      "url": "https://letsencrypt.org/2026/06/03/pq-certs",
-      "score": 294
+      "title": "DNS is for people, not for IT infrastructure",
+      "url": "https://louwrentius.com/dns-is-for-people-not-for-it-infrastructure.html",
+      "score": 35
     },
     {
-      "title": "Meteor Explodes over Massachusetts",
-      "url": "https://www.nbcboston.com/news/local/meteor-explodes-over-massachusetts-what-we-know-and-where-it-landed/3957663/",
-      "score": 139
+      "title": "Under Notre Dame, a 'dig of the century' unearths 1,700 years of history",
+      "url": "https://apnews.com/article/notre-dame-dig-treasures-paris-archaeology-roman-dae41f792c1402faf32a87c154cc9a77",
+      "score": 151
+    },
+    {
+      "title": "Kiki – a tiny homepage construction kit with a small footprint",
+      "url": "https://tomotama.com/kiki",
+      "score": 108
     }
   ]
 }
