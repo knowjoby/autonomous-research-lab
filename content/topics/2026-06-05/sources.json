@@ -1,0 +1,155 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "Meta enables ADB on deprecated Portal devices [video]",
+      "url": "https://fb.watch/HxPu0fSyeH/",
+      "score": 113
+    },
+    {
+      "title": "Do transformers need three projections? Systematic study of QKV variants",
+      "url": "https://arxiv.org/abs/2606.04032",
+      "score": 119
+    },
+    {
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "score": 306
+    },
+    {
+      "title": "Open Code Review – An AI-powered code review CLI tool",
+      "url": "https://github.com/alibaba/open-code-review",
+      "score": 77
+    },
+    {
+      "title": "VoidZero Is Joining Cloudflare",
+      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+      "score": 590
+    },
+    {
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "score": 368
+    },
+    {
+      "title": "I'm skeptical about efforts to revolutionize schooling",
+      "url": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
+      "score": 92
+    },
+    {
+      "title": "Reverse-Engineered Userspace Driver for Asus ZenVision Lid OLED on Linux\"",
+      "url": "https://github.com/tarpediem/zenvision-linux",
+      "score": 32
+    },
+    {
+      "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
+      "url": "https://tiki.li/blog/blqsort",
+      "score": 109
+    },
+    {
+      "title": "Ian's Secure Shoelace Knot",
+      "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+      "score": 530
+    },
+    {
+      "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
+      "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+      "score": 32
+    },
+    {
+      "title": "Queen bees emerge from special wax chambers",
+      "url": "https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06",
+      "score": 54
+    },
+    {
+      "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
+      "score": 177
+    },
+    {
+      "title": "Samurai City",
+      "url": "https://worksinprogress.co/issue/samurai-city/",
+      "score": 120
+    },
+    {
+      "title": "The Causes of Long Covid",
+      "url": "https://www.science.org/content/blog-post/causes-long-covid",
+      "score": 8
+    },
+    {
+      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "url": "https://github.com/huawei-csl/KVarN",
+      "score": 118
+    },
+    {
+      "title": "Retro-Tech Parenting",
+      "url": "https://havenweb.org/2026/05/28/retro-tech.html",
+      "score": 267
+    },
+    {
+      "title": "JLink JTAG Access on the Pinecil",
+      "url": "https://danielmangum.com/posts/jlink-jtag-pinecil/",
+      "score": 45
+    },
+    {
+      "title": "Show HN: Mercek – A Desktop IDE for AWS ECS",
+      "url": "https://www.mercek.dev/",
+      "score": 34
+    },
+    {
+      "title": "Castor: CERN Advanced STORage Manager",
+      "url": "https://castor.web.cern.ch/content/home.html",
+      "score": 44
+    },
+    {
+      "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
+      "url": "https://arxiv.org/abs/2604.24881",
+      "score": 18
+    },
+    {
+      "title": "Making Debian or Fedora persistent live images",
+      "url": "https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html",
+      "score": 66
+    },
+    {
+      "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
+      "url": "https://uruky.com/?il=en",
+      "score": 215
+    },
+    {
+      "title": "CEO to staff: You're not getting a raise. We're spending on AI instead",
+      "url": "https://www.businessinsider.com/teradata-pauses-raises-employee-compensation-ai-budget-2026-6",
+      "score": 7
+    },
+    {
+      "title": "Zettascale (YC S24) Is Hiring Founding FPGA Engineers",
+      "url": "https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect",
+      "score": 1
+    },
+    {
+      "title": "Meta's ships facial recognition on smart glasses",
+      "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
+      "score": 252
+    },
+    {
+      "title": "IPv6 zones in URLs are a mistake",
+      "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+      "score": 98
+    },
+    {
+      "title": "U.S. Army Corps of Engineers Bay Model",
+      "url": "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model",
+      "score": 223
+    },
+    {
+      "title": "Gaussian Point Splatting",
+      "url": "https://momentsingraphics.de/Siggraph2026.html",
+      "score": 180
+    },
+    {
+      "title": "External Clock Generation on RTX 50 Series",
+      "url": "https://www.xtremesystems.us/post/external-clock-generation-on-rtx-50-series",
+      "score": 17
+    }
+  ]
+}
