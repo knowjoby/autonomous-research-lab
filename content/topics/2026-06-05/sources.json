@@ -2,59 +2,99 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
-      "url": "https://mouseless.click",
-      "score": 138
+      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "score": 280
     },
     {
-      "title": "Tracing a powerful GNSS interference source over Europe",
-      "url": "https://arxiv.org/abs/2606.03673",
-      "score": 227
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "url": "https://github.com/microsoft/pg_durable",
+      "score": 191
+    },
+    {
+      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+      "score": 149
+    },
+    {
+      "title": "New method turns ocean water into drinking water, without waste",
+      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+      "score": 90
+    },
+    {
+      "title": "My Agent Skill for Test-Driven Development",
+      "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+      "score": 33
+    },
+    {
+      "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+      "url": "https://mouseless.click",
+      "score": 347
+    },
+    {
+      "title": "Conventional Commits encourages focus on the wrong things",
+      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+      "score": 182
+    },
+    {
+      "title": "Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)",
+      "url": "https://www.githubstatus.com/incidents/2nmfnbknhlnv",
+      "score": 57
+    },
+    {
+      "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+      "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+      "score": 148
+    },
+    {
+      "title": "Transformers Are Inherently Succinct",
+      "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
+      "score": 16
+    },
+    {
+      "title": "I tested every IP KVM in my Homelab",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+      "score": 161
+    },
+    {
+      "title": "Did Claude increase bugs in rsync?",
+      "url": "https://alexispurslane.github.io/rsync-analysis/",
+      "score": 137
     },
     {
       "title": "Cooldown Support for Ruby Bundler",
       "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
-      "score": 24
+      "score": 121
     },
     {
-      "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
-      "url": "https://redis.io/blog/announcing-redis-8-8/",
-      "score": 100
+      "title": "Do the Hardest Thing",
+      "url": "https://justinjackson.ca/hard-thing",
+      "score": 35
     },
     {
-      "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
-      "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
-      "score": 98
+      "title": "Mantine-datatable (and others) compromised – owner account suspended",
+      "url": "https://github.com/icflorescu/mantine-datatable/discussions/813",
+      "score": 46
     },
     {
-      "title": "Changing how we develop Ladybird",
-      "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-      "score": 572
+      "title": "\"Maybe later\" was a feature",
+      "url": "https://arnorhs.dev/posts/2026-06-04/maybe-later-was-a-feature/",
+      "score": 21
     },
     {
-      "title": "C++: The Documentary",
-      "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-      "score": 251
+      "title": "Inside FAISS: Billion-Scale Similarity Search",
+      "url": "https://fremaconsulting.ch/blog/faiss",
+      "score": 14
     },
     {
-      "title": "databow: a Rust CLI to query any database with an ADBC driver",
-      "url": "https://columnar.tech/blog/introducing-databow//",
-      "score": 87
+      "title": "Three of our worst VC stories",
+      "url": "https://twitter.com/eastdakota/status/2062860530360959273",
+      "score": 8
     },
     {
-      "title": "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
-      "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
-      "score": 89
-    },
-    {
-      "title": "Fine-tuning an LLM to write docs like it's 1995",
-      "url": "https://passo.uno/fine-tuning-docs-llm/",
-      "score": 132
-    },
-    {
-      "title": "Meta enables ADB on deprecated Portal devices [video]",
-      "url": "https://fb.watch/HxPu0fSyeH/",
-      "score": 262
+      "title": "Tracing a powerful GNSS interference source over Europe",
+      "url": "https://arxiv.org/abs/2606.03673",
+      "score": 321
     },
     {
       "title": "Nango (YC W23, dev infra) is hiring staff back end engineers",
@@ -62,94 +102,44 @@
       "score": 1
     },
     {
-      "title": "Leap in DNA synthesis slashes time to build new genetic sequences",
-      "url": "https://spectrum.ieee.org/faster-dna-synthesis-sidewinder",
-      "score": 79
+      "title": "Sakana AI's Recursive Self-Improvement (RSI) Lab",
+      "url": "https://sakana.ai/rsi-lab/",
+      "score": 22
     },
     {
-      "title": "Lee Kuan Yew's Singapore Story (2023)",
-      "url": "https://www.historytoday.com/archive/feature/lee-kuan-yews-singapore-story",
-      "score": 69
+      "title": "Dutch gov't will only allow European company to operate DigiD platform",
+      "url": "https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform",
+      "score": 193
     },
     {
-      "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
-      "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
-      "score": 125
+      "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
+      "url": "https://redis.io/blog/announcing-redis-8-8/",
+      "score": 180
     },
     {
-      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "url": "https://github.com/anthropics/defending-code-reference-harness",
-      "score": 476
+      "title": "India's surprise baby bust",
+      "url": "https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world",
+      "score": 58
     },
     {
-      "title": "At the Autograph Show",
-      "url": "https://oldster.substack.com/p/at-the-autograph-show",
-      "score": 19
-    },
-    {
-      "title": "The IsUpMap lets you check the status of over 100 major sites at once",
-      "url": "https://isupmap.com/",
-      "score": 97
-    },
-    {
-      "title": "I'm skeptical about efforts to revolutionize schooling",
-      "url": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
-      "score": 245
+      "title": "C++: The Documentary",
+      "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+      "score": 330
     },
     {
       "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
       "url": "https://github.com/zdk/lowfat",
-      "score": 40
+      "score": 71
     },
     {
-      "title": "Programmers will document for Claude, but not for each other",
-      "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
-      "score": 72
+      "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
+      "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
+      "score": 146
     },
     {
-      "title": "Open Code Review – An AI-powered code review CLI tool",
-      "url": "https://github.com/alibaba/open-code-review",
-      "score": 222
-    },
-    {
-      "title": "Do transformers need three projections? Systematic study of QKV variants",
-      "url": "https://arxiv.org/abs/2606.04032",
-      "score": 192
-    },
-    {
-      "title": "Communication on European Tech Sovereignty, and an EU Open-Source Strategy",
-      "url": "https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy",
-      "score": 69
-    },
-    {
-      "title": "Watching a Z80 from an RP2350",
-      "url": "https://emalliab.wordpress.com/2026/05/26/watching-a-z80-from-an-rp2350/",
-      "score": 38
-    },
-    {
-      "title": "Meta's ships facial recognition on smart glasses",
-      "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
-      "score": 285
-    },
-    {
-      "title": "Ohbin – uv wrapper for installing tools from GitHub",
-      "url": "https://github.com/prostomarkeloff/ohbin",
-      "score": 28
-    },
-    {
-      "title": "Retro-Tech Parenting",
-      "url": "https://havenweb.org/2026/05/28/retro-tech.html",
-      "score": 325
-    },
-    {
-      "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
-      "score": 816
-    },
-    {
-      "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
-      "url": "https://tiki.li/blog/blqsort",
-      "score": 202
+      "title": "Changing how we develop Ladybird",
+      "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+      "score": 751
     }
   ]
 }
