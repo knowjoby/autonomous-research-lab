@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "LLMs are eroding my software engineering career and I don't know what to do",
-      "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-      "score": 165
-    },
-    {
-      "title": "Anthropic, please ship an official Claude Desktop for Linux",
-      "url": "https://github.com/anthropics/claude-code/issues/65697",
+      "title": "Powering up a module from the IBM 604: an electronic calculator from 1948",
+      "url": "https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html",
       "score": 37
     },
     {
-      "title": "Anthropic/OpenAI may be spending more than $1000 for every $100 you pay them",
-      "url": "https://ea.rna.nl/2026/06/07/anthropic-openai-may-be-spending-more-than-1000-for-every-100-you-pay-them/",
+      "title": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
+      "url": "https://github.com/yukiyokotani/office-open-xml-viewer",
       "score": 29
+    },
+    {
+      "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
+      "url": "https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics",
+      "score": 15
+    },
+    {
+      "title": "Cloning a Sennheiser BA2015 battery pack",
+      "url": "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/",
+      "score": 67
+    },
+    {
+      "title": "What is the purpose of the lost+found folder in Linux and Unix? (2014)",
+      "url": "https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix",
+      "score": 38
+    },
+    {
+      "title": "You'll never guess who made the first wireless telephone",
+      "url": "https://signoregalilei.com/2026/05/31/youll-never-guess-who-made-the-first-wireless-telephone/",
+      "score": 11
     },
     {
       "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
       "url": "https://www.ioccc.org/2025/",
-      "score": 253
+      "score": 327
+    },
+    {
+      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "url": "https://github.com/devenjarvis/lathe",
+      "score": 152
+    },
+    {
+      "title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "url": "https://github.com/anthropics/claude-code/issues/65697",
+      "score": 340
+    },
+    {
+      "title": "Backrest – a web UI and orchestrator for restic backup",
+      "url": "https://github.com/garethgeorge/backrest",
+      "score": 35
+    },
+    {
+      "title": "Proliferate (YC S25) is hiring to building open source Codex",
+      "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
+      "score": 1
+    },
+    {
+      "title": "My automated doubt development process",
+      "url": "https://www.alexself.dev/blog/automated-doubt",
+      "score": 5
+    },
+    {
+      "title": "Making Peace with Your Unlived Dreams",
+      "url": "https://nik.art/making-peace-with-your-unlived-dreams/",
+      "score": 6
+    },
+    {
+      "title": "Podman 6: machine usability improvements (2025)",
+      "url": "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/",
+      "score": 65
+    },
+    {
+      "title": "The curious case of low-protein diets",
+      "url": "https://knowablemagazine.org/content/article/living-world/2026/low-protein-diet-animals-live-longer",
+      "score": 18
     },
     {
       "title": "Win16 Memory Management",
       "url": "http://www.os2museum.com/wp/win16-memory-management/",
-      "score": 77
-    },
-    {
-      "title": "Yon – a topos-oriented language with a content-addressed lattice heap",
-      "url": "https://yon-lang.org/",
-      "score": 15
-    },
-    {
-      "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
-      "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
-      "score": 87
-    },
-    {
-      "title": "My Software North Star",
-      "url": "https://kristoff.it/blog/north-star/",
-      "score": 131
-    },
-    {
-      "title": "Valve P2P networking broken for more than 2 months",
-      "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
-      "score": 211
-    },
-    {
-      "title": "9 Mothers (YC P26) Is Hiring",
-      "url": "https://9mothers.com/careers",
-      "score": 1
-    },
-    {
-      "title": "Field of clones: How horse replicas came to dominate polo",
-      "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
-      "score": 114
-    },
-    {
-      "title": "The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)",
-      "url": "https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/",
-      "score": 23
-    },
-    {
-      "title": "Scientists ejected from diabetes conference for distributing journal reprints",
-      "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
-      "score": 202
+      "score": 119
     },
     {
       "title": "Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers",
       "url": "https://kyushu.dev/",
-      "score": 10
+      "score": 63
     },
     {
-      "title": "How Long Does It Take for a QQuickItem to Become Visible?",
-      "url": "https://www.kdab.com/how-long-does-it-take-for-an-item-to-become-visible/",
-      "score": 6
+      "title": "Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122",
+      "score": 168
+    },
+    {
+      "title": "The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)",
+      "url": "https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/",
+      "score": 55
     },
     {
       "title": "Public Domain Image Archive",
       "url": "https://pdimagearchive.org/",
-      "score": 164
+      "score": 221
     },
     {
-      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
-      "url": "https://ntsc.rs/",
-      "score": 365
+      "title": "My Software North Star",
+      "url": "https://kristoff.it/blog/north-star/",
+      "score": 187
+    },
+    {
+      "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
+      "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
+      "score": 126
+    },
+    {
+      "title": "There's no escaping it: an exploration of ANSI codes",
+      "url": "https://blog.safia.rocks/2025/12/22/ansi-codes/",
+      "score": 19
+    },
+    {
+      "title": "sqlite: A CGo-free port of SQLite/SQLite3",
+      "url": "https://gitlab.com/cznic/sqlite",
+      "score": 18
     },
     {
       "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
       "url": "https://arxiv.org/abs/2601.14470",
-      "score": 129
+      "score": 156
     },
     {
       "title": "Symbolica 2.0: Programmable Symbols for Python and Rust",
       "url": "https://symbolica.io/posts/symbolica_2_0_release/",
-      "score": 102
+      "score": 134
     },
     {
-      "title": "Harness engineering: Leveraging Codex in an agent-first world",
-      "url": "https://openai.com/index/harness-engineering/",
-      "score": 240
+      "title": "LLMs are eroding my software engineering career and I don't know what to do",
+      "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+      "score": 664
     },
     {
-      "title": "Biohub releases a world model of protein biology",
-      "url": "https://biohub.org/news/world-model-of-protein-biology/",
-      "score": 105
+      "title": "The gamers taking on the industry to stop it switching off games",
+      "url": "https://www.bbc.com/news/articles/c8e8e7g0r82o",
+      "score": 65
     },
     {
-      "title": "How Liminalism Became the Defining Aesthetic of Our Time",
-      "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
-      "score": 101
+      "title": "Valve P2P networking broken for more than 2 months",
+      "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+      "score": 249
     },
     {
-      "title": "Efficient and Training-Free Single-Image Diffusion Models",
-      "url": "https://arxiv.org/abs/2606.04299",
-      "score": 18
-    },
-    {
-      "title": "Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved",
-      "url": "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06",
-      "score": 100
-    },
-    {
-      "title": "Moving beyond fork() + exec()",
-      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
-      "score": 320
-    },
-    {
-      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
-      "url": "https://twitter.com/lemire/status/2062880075117113739",
-      "score": 302
-    },
-    {
-      "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
-      "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
-      "score": 271
-    },
-    {
-      "title": "Zeroserve: A zero-config web server you can script with eBPF",
-      "url": "https://su3.io/posts/introducing-zeroserve",
-      "score": 251
-    },
-    {
-      "title": "Arithmetic Without Numbers – How LLMs Do Math",
-      "url": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html",
-      "score": 49
-    },
-    {
-      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-      "score": 640
+      "title": "How Long Does It Take for a QQuickItem to Become Visible?",
+      "url": "https://www.kdab.com/how-long-does-it-take-for-an-item-to-become-visible/",
+      "score": 29
     }
   ]
 }
