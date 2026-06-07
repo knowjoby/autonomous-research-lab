@@ -2,149 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "LLMs are eroding my software engineering career and I don't know what to do",
+      "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+      "score": 165
+    },
+    {
+      "title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "url": "https://github.com/anthropics/claude-code/issues/65697",
+      "score": 37
+    },
+    {
+      "title": "Anthropic/OpenAI may be spending more than $1000 for every $100 you pay them",
+      "url": "https://ea.rna.nl/2026/06/07/anthropic-openai-may-be-spending-more-than-1000-for-every-100-you-pay-them/",
+      "score": 29
+    },
+    {
       "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
       "url": "https://www.ioccc.org/2025/",
-      "score": 120
-    },
-    {
-      "title": "I design with Claude more than Figma now",
-      "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
-      "score": 127
-    },
-    {
-      "title": "Valve P2P networking broken for more than 2 months",
-      "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
-      "score": 142
-    },
-    {
-      "title": "Field of clones: How horse replicas came to dominate polo",
-      "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
-      "score": 75
-    },
-    {
-      "title": "My Software North Star",
-      "url": "https://kristoff.it/blog/north-star/",
-      "score": 52
-    },
-    {
-      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-      "url": "https://arxiv.org/abs/2601.14470",
-      "score": 95
-    },
-    {
-      "title": "Symbolica 2.0: Programmable Symbols for Python and Rust",
-      "url": "https://symbolica.io/posts/symbolica_2_0_release/",
-      "score": 77
-    },
-    {
-      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
-      "url": "https://ntsc.rs/",
-      "score": 338
-    },
-    {
-      "title": "Harness engineering: Leveraging Codex in an agent-first world",
-      "url": "https://openai.com/index/harness-engineering/",
-      "score": 188
-    },
-    {
-      "title": "Public Domain Image Archive",
-      "url": "https://pdimagearchive.org/",
-      "score": 103
-    },
-    {
-      "title": "How Liminalism Became the Defining Aesthetic of Our Time",
-      "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
-      "score": 58
-    },
-    {
-      "title": "Biohub releases a world model of protein biology",
-      "url": "https://biohub.org/news/world-model-of-protein-biology/",
-      "score": 65
-    },
-    {
-      "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
-      "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
-      "score": 13
-    },
-    {
-      "title": "Human-Like Neural Nets by Catapulting",
-      "url": "https://gwern.net/llm-catapult",
-      "score": 33
-    },
-    {
-      "title": "Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved",
-      "url": "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06",
-      "score": 81
-    },
-    {
-      "title": "Show HN: Oproxy – inspect and modify network traffic from the browser",
-      "url": "https://github.com/sauravrao637/oproxy",
-      "score": 44
-    },
-    {
-      "title": "Moving beyond fork() + exec()",
-      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
-      "score": 296
+      "score": 253
     },
     {
       "title": "Win16 Memory Management",
       "url": "http://www.os2museum.com/wp/win16-memory-management/",
-      "score": 5
+      "score": 77
     },
     {
-      "title": "Arithmetic Without Numbers – How LLMs Do Math",
-      "url": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html",
-      "score": 17
+      "title": "Yon – a topos-oriented language with a content-addressed lattice heap",
+      "url": "https://yon-lang.org/",
+      "score": 15
+    },
+    {
+      "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
+      "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
+      "score": 87
+    },
+    {
+      "title": "My Software North Star",
+      "url": "https://kristoff.it/blog/north-star/",
+      "score": 131
+    },
+    {
+      "title": "Valve P2P networking broken for more than 2 months",
+      "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+      "score": 211
+    },
+    {
+      "title": "9 Mothers (YC P26) Is Hiring",
+      "url": "https://9mothers.com/careers",
+      "score": 1
+    },
+    {
+      "title": "Field of clones: How horse replicas came to dominate polo",
+      "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
+      "score": 114
+    },
+    {
+      "title": "The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)",
+      "url": "https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/",
+      "score": 23
+    },
+    {
+      "title": "Scientists ejected from diabetes conference for distributing journal reprints",
+      "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
+      "score": 202
+    },
+    {
+      "title": "Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers",
+      "url": "https://kyushu.dev/",
+      "score": 10
+    },
+    {
+      "title": "How Long Does It Take for a QQuickItem to Become Visible?",
+      "url": "https://www.kdab.com/how-long-does-it-take-for-an-item-to-become-visible/",
+      "score": 6
+    },
+    {
+      "title": "Public Domain Image Archive",
+      "url": "https://pdimagearchive.org/",
+      "score": 164
+    },
+    {
+      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "url": "https://ntsc.rs/",
+      "score": 365
+    },
+    {
+      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+      "url": "https://arxiv.org/abs/2601.14470",
+      "score": 129
+    },
+    {
+      "title": "Symbolica 2.0: Programmable Symbols for Python and Rust",
+      "url": "https://symbolica.io/posts/symbolica_2_0_release/",
+      "score": 102
+    },
+    {
+      "title": "Harness engineering: Leveraging Codex in an agent-first world",
+      "url": "https://openai.com/index/harness-engineering/",
+      "score": 240
+    },
+    {
+      "title": "Biohub releases a world model of protein biology",
+      "url": "https://biohub.org/news/world-model-of-protein-biology/",
+      "score": 105
+    },
+    {
+      "title": "How Liminalism Became the Defining Aesthetic of Our Time",
+      "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
+      "score": 101
+    },
+    {
+      "title": "Efficient and Training-Free Single-Image Diffusion Models",
+      "url": "https://arxiv.org/abs/2606.04299",
+      "score": 18
+    },
+    {
+      "title": "Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved",
+      "url": "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06",
+      "score": 100
+    },
+    {
+      "title": "Moving beyond fork() + exec()",
+      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+      "score": 320
     },
     {
       "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
       "url": "https://twitter.com/lemire/status/2062880075117113739",
-      "score": 276
-    },
-    {
-      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-      "score": 573
-    },
-    {
-      "title": "Zeroserve: A zero-config web server you can script with eBPF",
-      "url": "https://su3.io/posts/introducing-zeroserve",
-      "score": 229
-    },
-    {
-      "title": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git",
-      "url": "https://ataraxy-labs.github.io/sem/",
-      "score": 115
+      "score": 302
     },
     {
       "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
       "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
-      "score": 236
+      "score": 271
     },
     {
-      "title": "Motorola effectively bricked its entire line of WiFi routers without explanation",
-      "url": "https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down",
-      "score": 140
+      "title": "Zeroserve: A zero-config web server you can script with eBPF",
+      "url": "https://su3.io/posts/introducing-zeroserve",
+      "score": 251
     },
     {
-      "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
-      "url": "https://pokeemerald.com/",
-      "score": 315
+      "title": "Arithmetic Without Numbers – How LLMs Do Math",
+      "url": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html",
+      "score": 49
     },
     {
-      "title": "Show HN: TakoVM – Isolated model and tool execution used by enterprises",
-      "url": "https://github.com/las7/TakoVM",
-      "score": 19
-    },
-    {
-      "title": "Show HN: Free animated icon library for Vue",
-      "url": "https://respeak-io.github.io/lucide-motion-vue/",
-      "score": 21
-    },
-    {
-      "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
-      "url": "https://uonr.github.io/poincake/",
-      "score": 162
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "score": 640
     }
   ]
 }
