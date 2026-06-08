@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "APC–2 – A professional record cutter for producing original playback discs",
-      "url": "https://teenage.engineering/products/apc-2",
-      "score": 131
+      "title": "The Cypherpunk Library",
+      "url": "https://www.cypherpunkbooks.com",
+      "score": 83
     },
     {
-      "title": "New drug 'functionally cures' many hepatitis B virus infections",
-      "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
-      "score": 45
+      "title": "Dopamine Fracking",
+      "url": "https://igerman.cc/blog/dopamine-fracking/",
+      "score": 341
     },
     {
-      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
-      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
-      "score": 88
-    },
-    {
-      "title": "Building from zero after addiction, prison, and a felony",
-      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
-      "score": 478
-    },
-    {
-      "title": "90210 – running the show without property tax",
-      "url": "https://github.com/Achint08/90210",
-      "score": 16
-    },
-    {
-      "title": "Algorithmic Monocultures in Hiring",
-      "url": "https://algorithmichiring.github.io/",
-      "score": 28
-    },
-    {
-      "title": "1worldflag: A blue dot on a transparent background",
-      "url": "https://1worldflag.com/",
-      "score": 19
-    },
-    {
-      "title": "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
-      "url": "https://github.com/melastmohican/rust-rpico2-embassy-examples",
-      "score": 64
-    },
-    {
-      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-      "score": 135
-    },
-    {
-      "title": "Show HN: I Derived a Pancake",
-      "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
-      "score": 167
+      "title": "OneDrive data now has an expiry date",
+      "url": "https://ms365news.com/blogs/f/your-onedrive-data-now-has-an-expiry-data",
+      "score": 66
     },
     {
       "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
       "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
+      "score": 158
+    },
+    {
+      "title": "APC–2 – A professional record cutter for producing original playback discs",
+      "url": "https://teenage.engineering/products/apc-2",
+      "score": 214
+    },
+    {
+      "title": "Building from zero after addiction, prison, and a felony",
+      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+      "score": 650
+    },
+    {
+      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+      "score": 205
+    },
+    {
+      "title": "A Family Project",
+      "url": "https://bittersoutherner.com/feature/2022/a-family-project",
+      "score": 13
+    },
+    {
+      "title": "Richard Scolyer Has Died",
+      "url": "https://www.bbc.com/news/articles/c14yz5jg476o",
+      "score": 71
+    },
+    {
+      "title": "Replies to comments on my \"LLMs are eroding my career\" post",
+      "url": "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/",
       "score": 6
+    },
+    {
+      "title": "Playing with Vision Embeddings",
+      "url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
+      "score": 60
+    },
+    {
+      "title": "Algorithmic Monocultures in Hiring",
+      "url": "https://algorithmichiring.github.io/",
+      "score": 102
+    },
+    {
+      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+      "score": 281
+    },
+    {
+      "title": "How much of Thermo Fisher's antibody data has been manipulated?",
+      "url": "https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/",
+      "score": 19
+    },
+    {
+      "title": "New drug 'functionally cures' many hepatitis B virus infections",
+      "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
+      "score": 181
+    },
+    {
+      "title": "Spherical Voronoi Diagram",
+      "url": "https://www.jasondavies.com/maps/voronoi/",
+      "score": 16
+    },
+    {
+      "title": "The EU Open Source Strategy",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy",
+      "score": 51
+    },
+    {
+      "title": "Giant Floating Victorian Drydock",
+      "url": "https://mastermariners.org.au/stories-from-the-past/6481-the-world-s-largest-floating-dry-dock-was-towed-across-the-atlantic-to-bermuda-in-1869",
+      "score": 26
     },
     {
       "title": "Making peace with your unlived dreams (2023)",
       "url": "https://nik.art/making-peace-with-your-unlived-dreams/",
-      "score": 181
+      "score": 234
     },
     {
-      "title": "Texas grid flags risks as data centers, crypto sites fail voltage tests",
-      "url": "https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/",
-      "score": 36
+      "title": "Tiny hackable CUDA language model implementation",
+      "url": "https://github.com/markusheimerl/gpt",
+      "score": 31
     },
     {
-      "title": "How's Linear so fast? A technical breakdown",
-      "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
-      "score": 340
+      "title": "Show HN: I Derived a Pancake",
+      "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
+      "score": 243
     },
     {
-      "title": "Tech sell-off widens as South Korea index plunges",
-      "url": "https://www.ft.com/content/2f0f727b-5315-445c-b8f1-6aa65bd7474c",
-      "score": 29
+      "title": "Do agents.md files help coding agents?",
+      "url": "https://twitter.com/rasbt/status/2063649136323252397",
+      "score": 39
     },
     {
-      "title": "7.8 magnitude earthquake shakes part of southern Philippines. Tsunami possible",
-      "url": "https://www.yahoo.com/news/weather-news/articles/as--philippines-earthquake-001322726.html",
-      "score": 58
+      "title": "Age verification tech could put children at greater risk, says think tank",
+      "url": "https://www.computerweekly.com/news/366643835/Age-verification-tech-could-put-children-at-greater-risk-says-think-tank",
+      "score": 34
     },
     {
-      "title": "What is the purpose of the lost+found folder in Linux and Unix? (2014)",
-      "url": "https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix",
-      "score": 158
-    },
-    {
-      "title": "Do we fear the serializable isolation level more than we fear subtle bugs (2024)",
-      "url": "https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609",
-      "score": 66
+      "title": "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
+      "url": "https://github.com/melastmohican/rust-rpico2-embassy-examples",
+      "score": 123
     },
     {
       "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
       "url": "https://github.com/devenjarvis/lathe",
-      "score": 268
+      "score": 324
     },
     {
-      "title": "Powering up a module from the IBM 604: an electronic calculator from 1948",
-      "url": "https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html",
-      "score": 81
+      "title": "What is the purpose of the lost+found folder in Linux and Unix? (2014)",
+      "url": "https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix",
+      "score": 198
     },
     {
-      "title": "Man-Computer Symbiosis J. C. R. Licklider (1960)",
-      "url": "https://groups.csail.mit.edu/medg/people/psz/Licklider.html",
-      "score": 13
+      "title": "How's Linear so fast? A technical breakdown",
+      "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+      "score": 420
     },
     {
       "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
       "url": "https://www.ioccc.org/2025/",
-      "score": 373
+      "score": 396
     },
     {
-      "title": "LLMs are eroding my software engineering career and I don't know what to do",
-      "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-      "score": 843
+      "title": "A discovery about GCC's unidirectional rotation algorithm",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260603-00/?p=112378",
+      "score": 24
     },
     {
-      "title": "My automated doubt development process",
-      "url": "https://www.alexself.dev/blog/automated-doubt",
-      "score": 67
-    },
-    {
-      "title": "Cloning a Sennheiser BA2015 battery pack",
-      "url": "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/",
-      "score": 117
-    },
-    {
-      "title": "Proliferate (YC S25) is hiring to building open source Codex",
-      "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
-      "score": 1
-    },
-    {
-      "title": "Firefox Merges Support for Vulkan Video Decoding",
-      "url": "https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged",
-      "score": 88
-    },
-    {
-      "title": "Splash Is a Colour Format",
-      "url": "https://www.todepond.com/lab/splash/",
-      "score": 56
-    },
-    {
-      "title": "An Ohio Valley 100k-watt FM signal is severed in broad daylight",
-      "url": "https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight",
-      "score": 168
-    },
-    {
-      "title": "Back end is full of hidden workflows",
-      "url": "https://unmeshed.io/blog/your-backend-is-full-of-hidden-workflows",
-      "score": 8
+      "title": "Man-Computer Symbiosis J. C. R. Licklider (1960)",
+      "url": "https://groups.csail.mit.edu/medg/people/psz/Licklider.html",
+      "score": 36
     }
   ]
 }
