@@ -2,154 +2,144 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Show HN: Performative-UI – a react component library of design tropes",
-      "url": "https://vorpus.github.io/performativeUI/",
-      "score": 173
+      "title": "Stop the Apple Music app from launching",
+      "url": "https://lowtechguys.com/musicdecoy/",
+      "score": 433
+    },
+    {
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "score": 52
     },
     {
       "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
       "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-      "score": 22
+      "score": 391
     },
     {
-      "title": "Zig by Example",
-      "url": "https://github.com/boringcollege/zig-by-example",
-      "score": 137
+      "title": "Show HN: Performative-UI – a react component library of design tropes",
+      "url": "https://vorpus.github.io/performativeUI/",
+      "score": 589
     },
     {
-      "title": "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
-      "url": "https://intunedhq.com",
-      "score": 61
+      "title": "Full Reverse Engineering of the TI-84 Plus Operating System",
+      "url": "https://siraben.github.io/ti84p-re/",
+      "score": 85
+    },
+    {
+      "title": "Why are cells small?",
+      "url": "https://burrito.bio/essays/what-limits-a-cells-size",
+      "score": 31
     },
     {
       "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
       "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
-      "score": 231
+      "score": 428
+    },
+    {
+      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+      "score": 214
+    },
+    {
+      "title": "EU-banned pesticides found in rice, tea and spices",
+      "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
+      "score": 76
+    },
+    {
+      "title": "Thunderbird Littering My Home",
+      "url": "https://thefoggiest.dev/2026/06/04/thunderbird-littering-my-home",
+      "score": 49
+    },
+    {
+      "title": "Siri AI",
+      "url": "https://www.apple.com/apple-intelligence/",
+      "score": 140
+    },
+    {
+      "title": "OCaml Onboarding: Introduction to the Dune build system",
+      "url": "https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/",
+      "score": 117
+    },
+    {
+      "title": "Switzerland wil have a referendum to cap population at 10M",
+      "url": "https://www.admin.ch/en/sustainability-initiative",
+      "score": 77
+    },
+    {
+      "title": "Apple WWDC 2026 Livestream",
+      "url": "https://www.apple.com/apple-events/event-stream/",
+      "score": 178
+    },
+    {
+      "title": "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
+      "url": "https://intunedhq.com",
+      "score": 89
+    },
+    {
+      "title": "AI Is Slowing Down",
+      "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+      "score": 207
+    },
+    {
+      "title": "Massachusetts bans sale of precise location data in new privacy rights bill",
+      "url": "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/",
+      "score": 130
+    },
+    {
+      "title": "Using XDG-Compliant Config Files – WxWidgets",
+      "url": "https://wxwidgets.org/blog/2024/01/using-xdg-compliant-config-files/",
+      "score": 14
+    },
+    {
+      "title": "120k Lines of Rust: Inside the Nosdesk Backend",
+      "url": "https://kyle.au/blog/nosdesk-backend-rust",
+      "score": 6
     },
     {
       "title": "The Cypherpunk Library",
       "url": "https://www.cypherpunkbooks.com",
-      "score": 223
+      "score": 311
     },
     {
       "title": "How much of Thermo Fisher's antibody data has been manipulated?",
       "url": "https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/",
-      "score": 251
-    },
-    {
-      "title": "Life is too short for a slow terminal",
-      "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
-      "score": 30
-    },
-    {
-      "title": "Zig Structs of Arrays (2024)",
-      "url": "https://andreashohmann.com/zig-struct-of-arrays/",
-      "score": 81
-    },
-    {
-      "title": "Dopamine Fracking",
-      "url": "https://igerman.cc/blog/dopamine-fracking/",
-      "score": 602
-    },
-    {
-      "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
-      "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
-      "score": 252
-    },
-    {
-      "title": "Building from zero after addiction, prison, and a felony",
-      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
-      "score": 793
-    },
-    {
-      "title": "Spherical Voronoi Diagram",
-      "url": "https://www.jasondavies.com/maps/voronoi/",
-      "score": 88
-    },
-    {
-      "title": "Config Files That Run Code: Supply Chain Security Blindspot",
-      "url": "https://safedep.io/config-files-that-run-code/",
-      "score": 47
-    },
-    {
-      "title": "Italy's Bending Spoons, Owner of AOL and Vimeo, Files for Nasdaq IPO",
-      "url": "https://www.reuters.com/legal/transactional/italys-bending-spoons-files-us-ipo-2026-06-08/",
-      "score": 21
-    },
-    {
-      "title": "I replaced Spotify with a homemade FM radio station",
-      "url": "https://old.reddit.com/r/digitalminimalism/comments/1tes8yu/i_replaced_spotify_with_a_homemade_fm_radio/",
-      "score": 12
-    },
-    {
-      "title": "APC–2 – A professional record cutter for producing original playback discs",
-      "url": "https://teenage.engineering/products/apc-2",
-      "score": 250
-    },
-    {
-      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
-      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
-      "score": 268
-    },
-    {
-      "title": "A Family Project (2022)",
-      "url": "https://bittersoutherner.com/feature/2022/a-family-project",
-      "score": 68
-    },
-    {
-      "title": "Richard Scolyer Has Died",
-      "url": "https://www.bbc.com/news/articles/c14yz5jg476o",
-      "score": 111
-    },
-    {
-      "title": "Playing with Vision Embeddings",
-      "url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
-      "score": 120
-    },
-    {
-      "title": "SoulsOnly.tff – A font for humans not AI and keyboard firmware to type in it",
-      "url": "https://github.com/convictional/souls-only",
-      "score": 7
-    },
-    {
-      "title": "Amazon Cognito now supports multi-Region replication",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/",
-      "score": 10
-    },
-    {
-      "title": "Making peace with your unlived dreams (2023)",
-      "url": "https://nik.art/making-peace-with-your-unlived-dreams/",
-      "score": 280
-    },
-    {
-      "title": "New drug 'functionally cures' many hepatitis B virus infections",
-      "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
-      "score": 244
-    },
-    {
-      "title": "Nvidia partners with LG robotics to build humanoid robots in South Korea",
-      "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
-      "score": 47
-    },
-    {
-      "title": "A modular impact diverting mechanism for football helmets [pdf]",
-      "url": "https://www.sfu.ca/~gwa5/pdf/2020_04.pdf",
-      "score": 14
-    },
-    {
-      "title": "Show HN: I Derived a Pancake",
-      "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
-      "score": 298
-    },
-    {
-      "title": "Tiny hackable CUDA language model implementation",
-      "url": "https://github.com/markusheimerl/gpt",
-      "score": 60
+      "score": 355
     },
     {
       "title": "Are you expected to run five Python type-checkers now?",
       "url": "https://pyrefly.org/blog/too-many-type-checkers/",
-      "score": 66
+      "score": 108
+    },
+    {
+      "title": "Italy's Bending Spoons, owner of AOL and Vimeo, files for Nasdaq IPO",
+      "url": "https://www.reuters.com/legal/transactional/italys-bending-spoons-files-us-ipo-2026-06-08/",
+      "score": 92
+    },
+    {
+      "title": "Life is too short for a slow terminal",
+      "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
+      "score": 82
+    },
+    {
+      "title": "Spanish traders set the standard for GnuCash database design",
+      "url": "https://handson.money/blog/2026-06-06-horse-arse-and-design/",
+      "score": 88
+    },
+    {
+      "title": "Zig by Example",
+      "url": "https://github.com/boringcollege/zig-by-example",
+      "score": 201
+    },
+    {
+      "title": "Zig Structs of Arrays (2024)",
+      "url": "https://andreashohmann.com/zig-struct-of-arrays/",
+      "score": 109
+    },
+    {
+      "title": "Replies to comments on my \"LLMs are eroding my career\" post",
+      "url": "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/",
+      "score": 116
     }
   ]
 }
