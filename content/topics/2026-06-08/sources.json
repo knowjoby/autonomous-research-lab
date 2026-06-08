@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Show HN: Performative-UI – a react component library of design tropes",
+      "url": "https://vorpus.github.io/performativeUI/",
+      "score": 173
+    },
+    {
+      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+      "score": 22
+    },
+    {
+      "title": "Zig by Example",
+      "url": "https://github.com/boringcollege/zig-by-example",
+      "score": 137
+    },
+    {
+      "title": "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
+      "url": "https://intunedhq.com",
+      "score": 61
+    },
+    {
+      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
+      "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
+      "score": 231
+    },
+    {
       "title": "The Cypherpunk Library",
       "url": "https://www.cypherpunkbooks.com",
-      "score": 83
-    },
-    {
-      "title": "Dopamine Fracking",
-      "url": "https://igerman.cc/blog/dopamine-fracking/",
-      "score": 341
-    },
-    {
-      "title": "OneDrive data now has an expiry date",
-      "url": "https://ms365news.com/blogs/f/your-onedrive-data-now-has-an-expiry-data",
-      "score": 66
-    },
-    {
-      "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
-      "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
-      "score": 158
-    },
-    {
-      "title": "APC–2 – A professional record cutter for producing original playback discs",
-      "url": "https://teenage.engineering/products/apc-2",
-      "score": 214
-    },
-    {
-      "title": "Building from zero after addiction, prison, and a felony",
-      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
-      "score": 650
-    },
-    {
-      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
-      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
-      "score": 205
-    },
-    {
-      "title": "A Family Project",
-      "url": "https://bittersoutherner.com/feature/2022/a-family-project",
-      "score": 13
-    },
-    {
-      "title": "Richard Scolyer Has Died",
-      "url": "https://www.bbc.com/news/articles/c14yz5jg476o",
-      "score": 71
-    },
-    {
-      "title": "Replies to comments on my \"LLMs are eroding my career\" post",
-      "url": "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/",
-      "score": 6
-    },
-    {
-      "title": "Playing with Vision Embeddings",
-      "url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
-      "score": 60
-    },
-    {
-      "title": "Algorithmic Monocultures in Hiring",
-      "url": "https://algorithmichiring.github.io/",
-      "score": 102
-    },
-    {
-      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-      "score": 281
+      "score": 223
     },
     {
       "title": "How much of Thermo Fisher's antibody data has been manipulated?",
       "url": "https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/",
-      "score": 19
+      "score": 251
     },
     {
-      "title": "New drug 'functionally cures' many hepatitis B virus infections",
-      "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
-      "score": 181
+      "title": "Life is too short for a slow terminal",
+      "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
+      "score": 30
+    },
+    {
+      "title": "Zig Structs of Arrays (2024)",
+      "url": "https://andreashohmann.com/zig-struct-of-arrays/",
+      "score": 81
+    },
+    {
+      "title": "Dopamine Fracking",
+      "url": "https://igerman.cc/blog/dopamine-fracking/",
+      "score": 602
+    },
+    {
+      "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
+      "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
+      "score": 252
+    },
+    {
+      "title": "Building from zero after addiction, prison, and a felony",
+      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+      "score": 793
     },
     {
       "title": "Spherical Voronoi Diagram",
       "url": "https://www.jasondavies.com/maps/voronoi/",
-      "score": 16
+      "score": 88
     },
     {
-      "title": "The EU Open Source Strategy",
-      "url": "https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy",
-      "score": 51
+      "title": "Config Files That Run Code: Supply Chain Security Blindspot",
+      "url": "https://safedep.io/config-files-that-run-code/",
+      "score": 47
     },
     {
-      "title": "Giant Floating Victorian Drydock",
-      "url": "https://mastermariners.org.au/stories-from-the-past/6481-the-world-s-largest-floating-dry-dock-was-towed-across-the-atlantic-to-bermuda-in-1869",
-      "score": 26
+      "title": "Italy's Bending Spoons, Owner of AOL and Vimeo, Files for Nasdaq IPO",
+      "url": "https://www.reuters.com/legal/transactional/italys-bending-spoons-files-us-ipo-2026-06-08/",
+      "score": 21
+    },
+    {
+      "title": "I replaced Spotify with a homemade FM radio station",
+      "url": "https://old.reddit.com/r/digitalminimalism/comments/1tes8yu/i_replaced_spotify_with_a_homemade_fm_radio/",
+      "score": 12
+    },
+    {
+      "title": "APC–2 – A professional record cutter for producing original playback discs",
+      "url": "https://teenage.engineering/products/apc-2",
+      "score": 250
+    },
+    {
+      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+      "score": 268
+    },
+    {
+      "title": "A Family Project (2022)",
+      "url": "https://bittersoutherner.com/feature/2022/a-family-project",
+      "score": 68
+    },
+    {
+      "title": "Richard Scolyer Has Died",
+      "url": "https://www.bbc.com/news/articles/c14yz5jg476o",
+      "score": 111
+    },
+    {
+      "title": "Playing with Vision Embeddings",
+      "url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
+      "score": 120
+    },
+    {
+      "title": "SoulsOnly.tff – A font for humans not AI and keyboard firmware to type in it",
+      "url": "https://github.com/convictional/souls-only",
+      "score": 7
+    },
+    {
+      "title": "Amazon Cognito now supports multi-Region replication",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/",
+      "score": 10
     },
     {
       "title": "Making peace with your unlived dreams (2023)",
       "url": "https://nik.art/making-peace-with-your-unlived-dreams/",
-      "score": 234
+      "score": 280
     },
     {
-      "title": "Tiny hackable CUDA language model implementation",
-      "url": "https://github.com/markusheimerl/gpt",
-      "score": 31
+      "title": "New drug 'functionally cures' many hepatitis B virus infections",
+      "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
+      "score": 244
+    },
+    {
+      "title": "Nvidia partners with LG robotics to build humanoid robots in South Korea",
+      "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
+      "score": 47
+    },
+    {
+      "title": "A modular impact diverting mechanism for football helmets [pdf]",
+      "url": "https://www.sfu.ca/~gwa5/pdf/2020_04.pdf",
+      "score": 14
     },
     {
       "title": "Show HN: I Derived a Pancake",
       "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
-      "score": 243
+      "score": 298
     },
     {
-      "title": "Do agents.md files help coding agents?",
-      "url": "https://twitter.com/rasbt/status/2063649136323252397",
-      "score": 39
+      "title": "Tiny hackable CUDA language model implementation",
+      "url": "https://github.com/markusheimerl/gpt",
+      "score": 60
     },
     {
-      "title": "Age verification tech could put children at greater risk, says think tank",
-      "url": "https://www.computerweekly.com/news/366643835/Age-verification-tech-could-put-children-at-greater-risk-says-think-tank",
-      "score": 34
-    },
-    {
-      "title": "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
-      "url": "https://github.com/melastmohican/rust-rpico2-embassy-examples",
-      "score": 123
-    },
-    {
-      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-      "url": "https://github.com/devenjarvis/lathe",
-      "score": 324
-    },
-    {
-      "title": "What is the purpose of the lost+found folder in Linux and Unix? (2014)",
-      "url": "https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix",
-      "score": 198
-    },
-    {
-      "title": "How's Linear so fast? A technical breakdown",
-      "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
-      "score": 420
-    },
-    {
-      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
-      "url": "https://www.ioccc.org/2025/",
-      "score": 396
-    },
-    {
-      "title": "A discovery about GCC's unidirectional rotation algorithm",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260603-00/?p=112378",
-      "score": 24
-    },
-    {
-      "title": "Man-Computer Symbiosis J. C. R. Licklider (1960)",
-      "url": "https://groups.csail.mit.edu/medg/people/psz/Licklider.html",
-      "score": 36
+      "title": "Are you expected to run five Python type-checkers now?",
+      "url": "https://pyrefly.org/blog/too-many-type-checkers/",
+      "score": 66
     }
   ]
 }
