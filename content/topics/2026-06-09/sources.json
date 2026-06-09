@@ -2,144 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-      "score": 120
+      "title": "Albania Is Not for Sale: Kushner's $4B Resort Triggers'Flamingo Revolution'",
+      "url": "https://www.yacnews.com/albania-is-not-for-sale-kushners-4-billion-resort-triggers-flamingo-revolution-asset-freeze-and-an-eu-warning/",
+      "score": 165
     },
     {
-      "title": "Forever Young: how one molecule can lock plants in a youthful state.(2025)",
-      "url": "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age",
-      "score": 16
+      "title": "Making Graphics Like it's 1993",
+      "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+      "score": 298
+    },
+    {
+      "title": "WWDC 2026: Apple is Folding",
+      "url": "https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/",
+      "score": 59
+    },
+    {
+      "title": "GentleOS – Classic operating system with a lovely retro GUI",
+      "url": "https://github.com/luke8086/gentleos32",
+      "score": 264
+    },
+    {
+      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "score": 342
+    },
+    {
+      "title": "Cleaning up after AI rockstar developers",
+      "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+      "score": 188
     },
     {
       "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
       "url": "https://opencv.org/opencv-5/",
-      "score": 157
+      "score": 422
+    },
+    {
+      "title": "Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein",
+      "url": "https://qunabu.github.io/Gravity/",
+      "score": 43
+    },
+    {
+      "title": "Forever Young: how one molecule can lock plants in a youthful state (2025)",
+      "url": "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age",
+      "score": 84
+    },
+    {
+      "title": "An introduction to functional analysis for science and engineering",
+      "url": "https://arxiv.org/abs/1904.02539",
+      "score": 65
+    },
+    {
+      "title": "The better the autopilot the worse the pilot",
+      "url": "https://julienreszka.com/blog/the-better-the-autopilot-the-worse-the-pilot/",
+      "score": 51
+    },
+    {
+      "title": "Emerge Career (YC S22) Is Hiring a Founding Growth Marketer",
+      "url": "https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer",
+      "score": 1
+    },
+    {
+      "title": "The iPhone's Last Stand",
+      "url": "https://stratechery.com/2026/the-iphones-last-stand/",
+      "score": 78
     },
     {
       "title": "Apple reveals new AI architecture built around Google Gemini models",
       "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-      "score": 590
+      "score": 666
     },
     {
-      "title": "Eagle Computer: The rise and fall of an early PC clone",
-      "url": "https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/",
-      "score": 4
+      "title": "Adopting the Parallel DWARF linker in dsymutil",
+      "url": "https://jonasdevlieghere.com/post/dsymutil-parallel-linker/",
+      "score": 11
     },
     {
       "title": "Thi.ng – open-source building blocks for computational design and art",
       "url": "https://thi.ng",
-      "score": 37
-    },
-    {
-      "title": "Porting the ThinkPad X61 to Coreboot",
-      "url": "https://blog.aheymans.xyz/post/thinkpad_x61/",
-      "score": 70
-    },
-    {
-      "title": "Siri AI",
-      "url": "https://www.apple.com/apple-intelligence/",
-      "score": 573
-    },
-    {
-      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
-      "score": 558
-    },
-    {
-      "title": "Old'aVista – The most powerful guide to the old Internet",
-      "url": "https://oldavista.com/",
-      "score": 104
-    },
-    {
-      "title": "Show HN: Performative-UI – A react component library of design tropes",
-      "url": "https://vorpus.github.io/performativeUI/",
-      "score": 976
-    },
-    {
-      "title": "EU-banned pesticides found in rice, tea and spices",
-      "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
-      "score": 413
-    },
-    {
-      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-      "score": 568
-    },
-    {
-      "title": "Apple Core AI Framework",
-      "url": "https://developer.apple.com/documentation/coreai/",
-      "score": 298
-    },
-    {
-      "title": "Facebook is paying people overseas promoting Alberta separatism",
-      "url": "https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966",
-      "score": 116
-    },
-    {
-      "title": "Looking Forward to Postgres 19: Query Hints",
-      "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
-      "score": 159
-    },
-    {
-      "title": "Show HN: Gitdot – A better GitHub. Open-source, written in Rust",
-      "url": "https://gitdot.io/",
-      "score": 257
-    },
-    {
-      "title": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
-      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
-      "score": 1
-    },
-    {
-      "title": "H2JVM – A Haskell Library for Writing JVM Bytecode",
-      "url": "https://discourse.haskell.org/t/h2jvm-a-haskell-library-for-writing-jvm-bytecode/14182",
-      "score": 5
-    },
-    {
-      "title": "Passing DBs through continuations",
-      "url": "https://remy.wang/blog/cps.html",
-      "score": 56
-    },
-    {
-      "title": "'They were laughing': Israel's use of rape and sexual abuse in prisons",
-      "url": "https://www.aljazeera.com/news/2026/6/9/they-were-laughing-israels-use-of-rape-and-sexual-abuse-in-prisons",
-      "score": 20
-    },
-    {
-      "title": "FrontierCode",
-      "url": "https://cognition.ai/blog/frontier-code",
-      "score": 189
-    },
-    {
-      "title": "Why are cells small?",
-      "url": "https://burrito.bio/essays/what-limits-a-cells-size",
-      "score": 150
-    },
-    {
-      "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
-      "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
-      "score": 565
-    },
-    {
-      "title": "How much do amd64 microarchitecture levels help in Go?",
-      "url": "https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/",
-      "score": 54
+      "score": 112
     },
     {
       "title": "Job: Head of Stonehenge",
       "url": "https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449",
-      "score": 159
+      "score": 186
     },
     {
-      "title": "I'm building a parallel internet, and it's called The Thinnernet",
-      "url": "https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html",
-      "score": 83
+      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+      "score": 622
     },
     {
-      "title": "AI is slowing down",
-      "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
-      "score": 548
+      "title": "The beauty and simplicity of the good old C-style void* in C++",
+      "url": "https://giodicanio.com/2026/06/05/how-to-declare-a-c-plus-plus-function-that-takes-a-blob-of-memory/",
+      "score": 46
+    },
+    {
+      "title": "Show HN: Performative-UI – A react component library of design tropes",
+      "url": "https://vorpus.github.io/performativeUI/",
+      "score": 1069
+    },
+    {
+      "title": "Siri AI",
+      "url": "https://www.apple.com/apple-intelligence/",
+      "score": 628
+    },
+    {
+      "title": "Corrupting a ZFS File on Purpose",
+      "url": "https://oshogbo.com/blog/90/",
+      "score": 44
+    },
+    {
+      "title": "Eagle Computer: The rise and fall of an early PC clone",
+      "url": "https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/",
+      "score": 31
+    },
+    {
+      "title": "EU-banned pesticides found in rice, tea and spices",
+      "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
+      "score": 474
+    },
+    {
+      "title": "Porting the ThinkPad X61 to Coreboot",
+      "url": "https://blog.aheymans.xyz/post/thinkpad_x61/",
+      "score": 124
+    },
+    {
+      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+      "score": 597
+    },
+    {
+      "title": "H2JVM – A Haskell Library for Writing JVM Bytecode",
+      "url": "https://discourse.haskell.org/t/h2jvm-a-haskell-library-for-writing-jvm-bytecode/14182",
+      "score": 33
+    },
+    {
+      "title": "Old'aVista – The most powerful guide to the old Internet",
+      "url": "https://oldavista.com/",
+      "score": 134
+    },
+    {
+      "title": "Apple Core AI Framework",
+      "url": "https://developer.apple.com/documentation/coreai/",
+      "score": 333
+    },
+    {
+      "title": "Looking Forward to Postgres 19: Query Hints",
+      "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
+      "score": 203
     }
   ]
 }
