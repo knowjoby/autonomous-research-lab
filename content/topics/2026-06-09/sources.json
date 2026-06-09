@@ -2,144 +2,144 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "score": 120
+    },
+    {
+      "title": "Forever Young: how one molecule can lock plants in a youthful state.(2025)",
+      "url": "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age",
+      "score": 16
+    },
+    {
+      "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+      "url": "https://opencv.org/opencv-5/",
+      "score": 157
+    },
+    {
       "title": "Apple reveals new AI architecture built around Google Gemini models",
       "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-      "score": 390
+      "score": 590
+    },
+    {
+      "title": "Eagle Computer: The rise and fall of an early PC clone",
+      "url": "https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/",
+      "score": 4
+    },
+    {
+      "title": "Thi.ng – open-source building blocks for computational design and art",
+      "url": "https://thi.ng",
+      "score": 37
+    },
+    {
+      "title": "Porting the ThinkPad X61 to Coreboot",
+      "url": "https://blog.aheymans.xyz/post/thinkpad_x61/",
+      "score": 70
     },
     {
       "title": "Siri AI",
       "url": "https://www.apple.com/apple-intelligence/",
-      "score": 445
-    },
-    {
-      "title": "Show HN: Performative-UI – A react component library of design tropes",
-      "url": "https://vorpus.github.io/performativeUI/",
-      "score": 822
+      "score": 573
     },
     {
       "title": "xAI is looking more like a datacentre REIT than a frontier lab",
       "url": "https://martinalderson.com/posts/xais-new-rental-business/",
-      "score": 433
-    },
-    {
-      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-      "score": 508
-    },
-    {
-      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
-      "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
-      "score": 574
-    },
-    {
-      "title": "EU-banned pesticides found in rice, tea and spices",
-      "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
-      "score": 262
-    },
-    {
-      "title": "Apple Core AI Framework",
-      "url": "https://developer.apple.com/documentation/coreai/",
-      "score": 213
-    },
-    {
-      "title": "Looking Forward to Postgres 19: Query Hints",
-      "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
-      "score": 72
-    },
-    {
-      "title": "We Think the SpaceX IPO Is Overvalued",
-      "url": "https://www.morningstar.com/stocks/why-we-think-spacex-ipo-is-overvalued?content_id=20768396545",
-      "score": 104
-    },
-    {
-      "title": "Show HN: Gitdot – a better GitHub. Open-source, written in Rust",
-      "url": "https://gitdot.io/",
-      "score": 168
-    },
-    {
-      "title": "Why are cells small?",
-      "url": "https://burrito.bio/essays/what-limits-a-cells-size",
-      "score": 113
-    },
-    {
-      "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
-      "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
-      "score": 445
-    },
-    {
-      "title": "FrontierCode",
-      "url": "https://cognition.ai/blog/frontier-code",
-      "score": 114
-    },
-    {
-      "title": "I'm building a parallel internet, and it's called The Thinnernet",
-      "url": "https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html",
-      "score": 52
-    },
-    {
-      "title": "Confidential submission of draft S-1 to the SEC",
-      "url": "https://openai.com/index/openai-submits-confidential-s-1/",
-      "score": 310
-    },
-    {
-      "title": "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
-      "url": "https://intunedhq.com",
-      "score": 102
-    },
-    {
-      "title": "AI is slowing down",
-      "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
-      "score": 434
-    },
-    {
-      "title": "Passing DBs through continuations",
-      "url": "https://remy.wang/blog/cps.html",
-      "score": 3
-    },
-    {
-      "title": "Games Between Programs: The Ruliology of Competition",
-      "url": "https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/",
-      "score": 13
-    },
-    {
-      "title": "Apple bets cheaper AI will woo small developers",
-      "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
-      "score": 27
-    },
-    {
-      "title": "How much do amd64 microarchitecture levels help in Go?",
-      "url": "https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/",
-      "score": 3
+      "score": 558
     },
     {
       "title": "Old'aVista – The most powerful guide to the old Internet",
       "url": "https://oldavista.com/",
-      "score": 6
+      "score": 104
     },
     {
-      "title": "1worldflag: A blue dot on a transparent background",
-      "url": "https://1worldflag.com/",
-      "score": 176
+      "title": "Show HN: Performative-UI – A react component library of design tropes",
+      "url": "https://vorpus.github.io/performativeUI/",
+      "score": 976
     },
     {
-      "title": "The Grate Cheese Robbery",
-      "url": "https://longreads.com/2026/05/28/the-cheese-theft-food-crime/",
-      "score": 14
+      "title": "EU-banned pesticides found in rice, tea and spices",
+      "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
+      "score": 413
     },
     {
-      "title": "Federal judge blocks H1B visa $100K fee",
-      "url": "https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/",
-      "score": 87
+      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+      "score": 568
     },
     {
-      "title": "OCaml Onboarding: Introduction to the Dune build system",
-      "url": "https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/",
-      "score": 143
+      "title": "Apple Core AI Framework",
+      "url": "https://developer.apple.com/documentation/coreai/",
+      "score": 298
     },
     {
-      "title": "Doing something that’s never been done before (2025)",
-      "url": "https://talglobus.com/p/doing-something-thats-never-been-done-before/",
-      "score": 30
+      "title": "Facebook is paying people overseas promoting Alberta separatism",
+      "url": "https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966",
+      "score": 116
+    },
+    {
+      "title": "Looking Forward to Postgres 19: Query Hints",
+      "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
+      "score": 159
+    },
+    {
+      "title": "Show HN: Gitdot – A better GitHub. Open-source, written in Rust",
+      "url": "https://gitdot.io/",
+      "score": 257
+    },
+    {
+      "title": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
+      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+      "score": 1
+    },
+    {
+      "title": "H2JVM – A Haskell Library for Writing JVM Bytecode",
+      "url": "https://discourse.haskell.org/t/h2jvm-a-haskell-library-for-writing-jvm-bytecode/14182",
+      "score": 5
+    },
+    {
+      "title": "Passing DBs through continuations",
+      "url": "https://remy.wang/blog/cps.html",
+      "score": 56
+    },
+    {
+      "title": "'They were laughing': Israel's use of rape and sexual abuse in prisons",
+      "url": "https://www.aljazeera.com/news/2026/6/9/they-were-laughing-israels-use-of-rape-and-sexual-abuse-in-prisons",
+      "score": 20
+    },
+    {
+      "title": "FrontierCode",
+      "url": "https://cognition.ai/blog/frontier-code",
+      "score": 189
+    },
+    {
+      "title": "Why are cells small?",
+      "url": "https://burrito.bio/essays/what-limits-a-cells-size",
+      "score": 150
+    },
+    {
+      "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
+      "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
+      "score": 565
+    },
+    {
+      "title": "How much do amd64 microarchitecture levels help in Go?",
+      "url": "https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/",
+      "score": 54
+    },
+    {
+      "title": "Job: Head of Stonehenge",
+      "url": "https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449",
+      "score": 159
+    },
+    {
+      "title": "I'm building a parallel internet, and it's called The Thinnernet",
+      "url": "https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html",
+      "score": 83
+    },
+    {
+      "title": "AI is slowing down",
+      "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+      "score": 548
     }
   ]
 }
