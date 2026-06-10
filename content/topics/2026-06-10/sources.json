@@ -4,147 +4,142 @@
     {
       "title": "macOS Container Machines",
       "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
-      "score": 311
+      "score": 759
+    },
+    {
+      "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
+      "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
+      "score": 62
     },
     {
       "title": "Claude Fable 5",
       "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "score": 1872
+      "score": 2238
     },
     {
-      "title": "Rich Sutton on AI creativity and discovery",
-      "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
-      "score": 29
+      "title": "Port React Compiler to Rust",
+      "url": "https://github.com/react/react/pull/36173",
+      "score": 14
     },
     {
       "title": "Upcoming breaking changes for npm v12",
       "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
-      "score": 229
+      "score": 369
+    },
+    {
+      "title": "Rich Sutton on AI creativity and discovery",
+      "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+      "score": 115
     },
     {
       "title": "German ruling declares Google liable for false answers in AI Overviews",
       "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-      "score": 117
+      "score": 545
+    },
+    {
+      "title": "How do you design a $30k electric pickup? Inside Ford's skunkworks",
+      "url": "https://arstechnica.com/cars/2026/05/how-do-you-design-a-30000-electric-pickup-inside-fords-skunkworks/",
+      "score": 46
     },
     {
       "title": "RIP software hackathons. Long live the hardware hackathon",
       "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
-      "score": 84
+      "score": 174
     },
     {
-      "title": "The oldest surviving animated feature film at 100",
-      "url": "https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film",
-      "score": 35
+      "title": "Vibe coding my way to a healthy family: Introducing Gamow Labs",
+      "url": "https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/",
+      "score": 113
     },
     {
       "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
       "url": "https://aarushgupta.io/posts/kan-fpga/",
-      "score": 169
-    },
-    {
-      "title": "More Molly Guards",
-      "url": "https://unsung.aresluna.org/more-molly-guards/",
-      "score": 60
-    },
-    {
-      "title": "If Claude Fable stops helping you, you'll never know",
-      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-      "score": 584
+      "score": 227
     },
     {
       "title": "What it feels like to work with Mythos",
       "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
-      "score": 179
+      "score": 277
     },
     {
-      "title": "CEOs who think AI replaces their employees are just bad CEOs",
-      "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
-      "score": 481
+      "title": "The oldest surviving animated feature film at 100",
+      "url": "https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film",
+      "score": 106
+    },
+    {
+      "title": "Surprise, Pay $1000",
+      "url": "https://forestwalk.ai/blog/surprise-blacksmith-costs/",
+      "score": 160
+    },
+    {
+      "title": "More Molly Guards",
+      "url": "https://unsung.aresluna.org/more-molly-guards/",
+      "score": 124
+    },
+    {
+      "title": "If Claude Fable stops helping you, you'll never know",
+      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+      "score": 816
     },
     {
       "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
       "url": "https://opencv.org/opencv-5/",
-      "score": 709
+      "score": 761
     },
     {
-      "title": "Test-case reducers are underappreciated debugging tools",
-      "url": "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html",
-      "score": 98
-    },
-    {
-      "title": "Exif Smuggling (2025)",
-      "url": "https://github.com/signalblur/exifsmugglingpoc",
-      "score": 65
-    },
-    {
-      "title": "Grit: Rewriting Git in Rust with agents",
-      "url": "https://blog.gitbutler.com/true-grit",
-      "score": 85
-    },
-    {
-      "title": "A giant star may have destroyed itself in one of the rarest explosions",
-      "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
-      "score": 168
-    },
-    {
-      "title": "It's death",
-      "url": "https://jesseduffield.com/ITS-DEATH/",
-      "score": 129
-    },
-    {
-      "title": "Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]",
-      "url": "https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf",
-      "score": 348
+      "title": "Reviving Papers with Code",
+      "url": "https://paperswithcode.co/",
+      "score": 14
     },
     {
       "title": "Lies we tell ourselves about email addresses",
       "url": "https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/",
-      "score": 57
+      "score": 119
     },
     {
-      "title": "Value Numbering",
-      "url": "https://bernsteinbear.com/blog/value-numbering/",
-      "score": 6
+      "title": "I Thought I Knew How Electrolysis Worked [video]",
+      "url": "https://www.youtube.com/watch?v=eq7fR9ISuCw",
+      "score": 23
     },
     {
-      "title": "Experience using AI software to prove Euler sum results [pdf]",
-      "url": "https://www.davidhbailey.com/dhbpapers/Chatbots.pdf",
-      "score": 4
+      "title": "Premature Optimization Is Fun Sometimes",
+      "url": "https://invlpg.com/posts/2025-06-19-premature-optimization.html",
+      "score": 31
+    },
+    {
+      "title": "CEOs who think AI replaces their employees are just bad CEOs",
+      "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
+      "score": 668
+    },
+    {
+      "title": "European sentiments towards the US hit an all-time low",
+      "url": "https://ecfr.eu/publication/home-alone-europeans-are-ready-to-defend-themselves/",
+      "score": 25
+    },
+    {
+      "title": "Grit: Rewriting Git in Rust with agents",
+      "url": "https://blog.gitbutler.com/true-grit",
+      "score": 142
+    },
+    {
+      "title": "Test-case reducers are underappreciated debugging tools",
+      "url": "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html",
+      "score": 121
+    },
+    {
+      "title": "A giant star may have destroyed itself in one of the rarest explosions",
+      "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
+      "score": 188
+    },
+    {
+      "title": "Computer Lessons",
+      "url": "https://technicshistory.com/2026/06/06/computer-lessons/",
+      "score": 12
     },
     {
       "title": "Making Graphics Like it's 1993",
       "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-      "score": 793
-    },
-    {
-      "title": "Show HN: Resonate – Low-latency, high-resolution spectral analysis",
-      "url": "https://alexandrefrancois.org/Resonate/",
-      "score": 30
-    },
-    {
-      "title": "The LD_DEBUG environment variable (2012)",
-      "url": "https://bnikolic.co.uk/blog/linux-ld-debug.html",
-      "score": 64
-    },
-    {
-      "title": "FCC wants to kill burner phones by forcing telecoms to get all customers' IDs",
-      "url": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
-      "score": 473
-    },
-    {
-      "title": "Show HN: Nucleus – A security-hardened, Nix-native container runtime",
-      "url": "https://github.com/sig-id/nucleus",
-      "score": 20
-    },
-    {
-      "title": "WWDC 2026: Apple is Folding",
-      "url": "https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/",
-      "score": 181
-    },
-    {
-      "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
-      "url": "https://arxiv.org/abs/2605.15184",
-      "score": 130
+      "score": 862
     }
   ]
 }
