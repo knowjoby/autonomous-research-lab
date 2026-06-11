@@ -2,149 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "MiMo Code Is Now Released and Open-Source",
+      "title": "Show HN: Homebrew 6.0.0",
+      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+      "score": 601
+    },
+    {
+      "title": "MiMo Code is now released and open-source",
       "url": "https://mimo.xiaomi.com/mimocode",
-      "score": 112
+      "score": 339
     },
     {
-      "title": "Lines of Code Got a Better Publicist",
+      "title": "Petition to Withdraw Canada's Bill C-22",
+      "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
+      "score": 218
+    },
+    {
+      "title": "The RCE that AMD wouldn't fix",
+      "url": "https://mrbruh.com/amd2/",
+      "score": 151
+    },
+    {
+      "title": "Software Is Made Between Commits",
+      "url": "https://zed.dev/blog/introducing-deltadb",
+      "score": 135
+    },
+    {
+      "title": "Emacs appearances in pop culture",
+      "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
+      "score": 156
+    },
+    {
+      "title": "Waymo Premier",
+      "url": "https://waymo.com/blog/2026/06/waymo-premier/",
+      "score": 105
+    },
+    {
+      "title": "Ear Training Practice Exercises",
+      "url": "https://tonedear.com/",
+      "score": 38
+    },
+    {
+      "title": "Lines of code got a better publicist",
       "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
-      "score": 202
+      "score": 313
     },
     {
-      "title": "MapComplete – Contibute to OpenStreetMaps",
-      "url": "https://mapcomplete.org/",
-      "score": 84
+      "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
+      "url": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
+      "score": 147
     },
     {
-      "title": "FPS.cob: A first person shooter in COBOL",
-      "url": "https://github.com/icitry/FPS.cob",
-      "score": 25
-    },
-    {
-      "title": "Nextcloud Hub 26 Spring: Built together, designed for the future",
-      "url": "https://nextcloud.com/blog/nextcloud-hub26-spring/",
-      "score": 61
-    },
-    {
-      "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
-      "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
-      "score": 565
+      "title": "Developer gets Half-Life running at 30 FPS on a Nokia N95",
+      "url": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
+      "score": 131
     },
     {
       "title": "Open Reproduction of DeepSeek-R1",
       "url": "https://github.com/huggingface/open-r1",
-      "score": 73
+      "score": 164
     },
     {
-      "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
-      "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
-      "score": 175
+      "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+      "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+      "score": 641
     },
     {
-      "title": "Queues Don't Fix Overload (2014)",
-      "url": "https://ferd.ca/queues-don-t-fix-overload.html",
-      "score": 15
+      "title": "Solar generates more energy in US than coal for first time",
+      "url": "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal",
+      "score": 311
     },
     {
-      "title": "AI agent runs amok in Fedora and elsewhere",
-      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-      "score": 520
+      "title": "Claude Fable 5: mid-tier results on coding tasks",
+      "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+      "score": 74
     },
     {
-      "title": "Why Thermodynamics Rules Future Orbital Data Centers",
-      "url": "https://spectrum.ieee.org/orbital-data-centers-heat",
+      "title": "Discovery of Cold War-era rare Eastern Bloc computers in a German hangar",
+      "url": "https://computerhistory.org/stories/explorers-of-the-lost-computers/",
+      "score": 62
+    },
+    {
+      "title": "Who Runs the Ransomware Group 'The Gentlemen?'",
+      "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+      "score": 10
+    },
+    {
+      "title": "Building agents without harness engineering",
+      "url": "https://rajitkhanna.com/agents/",
+      "score": 8
+    },
+    {
+      "title": "Fully autonomous drones have killed human soldiers for the first time",
+      "url": "https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time/",
+      "score": 134
+    },
+    {
+      "title": "Pozzo: A Fast Lucky Number Checker",
+      "url": "https://github.com/Robert-Cunningham/pozzo",
+      "score": 6
+    },
+    {
+      "title": "How Terry Tao became an evangelist for AI in math",
+      "url": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
+      "score": 88
+    },
+    {
+      "title": "FPS.cob: A first person shooter in COBOL",
+      "url": "https://github.com/icitry/FPS.cob",
+      "score": 77
+    },
+    {
+      "title": "Show HN: Claw Patrol, a security firewall for agents",
+      "url": "https://github.com/denoland/clawpatrol",
+      "score": 62
+    },
+    {
+      "title": "Programming a GBA Game on an iPhone",
+      "url": "https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html",
+      "score": 26
+    },
+    {
+      "title": "Nextcloud Hub 26 Spring: Built together, designed for the future",
+      "url": "https://nextcloud.com/blog/nextcloud-hub26-spring/",
+      "score": 109
+    },
+    {
+      "title": "Israel's Paid U.S. Influencer Network Exposed – – Imemc News",
+      "url": "https://imemc.org/article/israels-paid-u-s-influencer-network-exposed/",
       "score": 30
     },
     {
-      "title": "Web Browsers on Video Game Consoles",
-      "url": "https://vale.rocks/posts/game-console-browsers",
-      "score": 124
+      "title": "Show HN: I built a Red Flag Warning zone-check tool for the East Bay in 48h",
+      "url": "https://redflag-check.info",
+      "score": 7
     },
     {
-      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "score": 551
+      "title": "SVG-Line: Better Status Bars for Emacs – Charlie Holland's Blog",
+      "url": "https://www.chiply.dev/post-svg-line",
+      "score": 70
     },
     {
-      "title": "πFS",
-      "url": "https://github.com/philipl/pifs",
-      "score": 898
+      "title": "A new era for software testing",
+      "url": "https://antirez.com/news/168",
+      "score": 84
     },
     {
-      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
-      "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
-      "score": 568
-    },
-    {
-      "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
-      "url": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
-      "score": 100
-    },
-    {
-      "title": "Show HN: Open-source API Key server written in Go by Ory",
-      "url": "https://github.com/ory/talos/tree/master",
-      "score": 11
-    },
-    {
-      "title": "Driving in America Is Headlight Hell",
-      "url": "https://www.theatlantic.com/technology/2026/06/car-headlights-too-bright-adaptive-beams/687488/",
-      "score": 43
-    },
-    {
-      "title": "Supporting Exchange and beyond",
-      "url": "https://brendan.abolivier.bzh/exchange-pt-2/",
-      "score": 9
-    },
-    {
-      "title": "Euro-Office: First version of the open-source web office is here",
-      "url": "https://www.heise.de/en/news/Euro-Office-First-version-of-the-open-source-web-office-is-here-11322160.html",
-      "score": 45
-    },
-    {
-      "title": "Linux latency measurements and compositor tuning",
-      "url": "https://farnoy.dev/posts/linux-latency",
-      "score": 100
-    },
-    {
-      "title": "US-Canada border library gets new Quebec-only entrance",
-      "url": "https://www.bbc.com/news/videos/clyrvrde160o",
-      "score": 92
-    },
-    {
-      "title": "Why AI hasn't replaced software engineers, and won't",
-      "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
-      "score": 191
-    },
-    {
-      "title": "Starfish by Peter Watts (1999)",
-      "url": "https://www.rifters.com/real/STARFISH.htm#prelude",
-      "score": 117
-    },
-    {
-      "title": "Reverse engineering the Creative Katana soundbar to control it from Linux",
-      "url": "https://blog.nns.ee/2026/02/20/katana-v2x-re/",
-      "score": 119
-    },
-    {
-      "title": "Sequoyah’s syllabary created a written language for the Cherokee",
-      "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
-      "score": 184
-    },
-    {
-      "title": "PgDog is funded and coming to a database near you",
-      "url": "https://pgdog.dev/blog/our-funding-announcement",
-      "score": 522
-    },
-    {
-      "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
-      "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
-      "score": 266
-    },
-    {
-      "title": "L'Affaire Siloxane",
-      "url": "https://mceglowski.substack.com/p/laffaire-siloxane",
-      "score": 273
+      "title": "Doing nothing at work",
+      "url": "https://www.seangoedecke.com/doing-nothing-at-work/",
+      "score": 263
     }
   ]
 }
