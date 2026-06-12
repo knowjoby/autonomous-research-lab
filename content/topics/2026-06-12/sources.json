@@ -1,0 +1,155 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "score": 176
+    },
+    {
+      "title": "Claude Fable is relentlessly proactive",
+      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+      "score": 172
+    },
+    {
+      "title": "Show HN: Homebrew 6.0.0",
+      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+      "score": 1047
+    },
+    {
+      "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+      "url": "https://fablepool.com",
+      "score": 290
+    },
+    {
+      "title": "If you are asking for human attention, demonstrate human effort",
+      "url": "https://tombedor.dev/human-attention-and-human-effort/",
+      "score": 354
+    },
+    {
+      "title": "MiMo Code is now released and open-source",
+      "url": "https://mimo.xiaomi.com/mimocode",
+      "score": 437
+    },
+    {
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "score": 342
+    },
+    {
+      "title": "Petition to Withdraw Canada's Bill C-22",
+      "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
+      "score": 385
+    },
+    {
+      "title": "A greyscale iPhone setup that works in everyday life",
+      "url": "https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life",
+      "score": 73
+    },
+    {
+      "title": "A jacket that harvests drinking water from the air",
+      "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+      "score": 61
+    },
+    {
+      "title": "Ear Training Practice",
+      "url": "https://tonedear.com/",
+      "score": 179
+    },
+    {
+      "title": "Software is made between commits",
+      "url": "https://zed.dev/blog/introducing-deltadb",
+      "score": 220
+    },
+    {
+      "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
+      "url": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
+      "score": 260
+    },
+    {
+      "title": "The RCE that AMD wouldn't fix",
+      "url": "https://mrbruh.com/amd2/",
+      "score": 240
+    },
+    {
+      "title": "Emacs appearances in pop culture",
+      "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
+      "score": 279
+    },
+    {
+      "title": "Lines of code got a better publicist",
+      "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+      "score": 372
+    },
+    {
+      "title": "Claude Fable 5: mid-tier results on coding tasks",
+      "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+      "score": 256
+    },
+    {
+      "title": "Developer gets Half-Life running at 30 FPS on a Nokia N95",
+      "url": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
+      "score": 232
+    },
+    {
+      "title": "Faking keyword arguments to functions in C++",
+      "url": "https://nibblestew.blogspot.com/2026/06/faking-keyword-arguments-to-functions.html",
+      "score": 17
+    },
+    {
+      "title": "WikiLambda the Ultimate",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-05-22/Recent_research",
+      "score": 6
+    },
+    {
+      "title": "Reading for pleasure is sharply down among schoolkids, report shows",
+      "url": "https://www.nbcnews.com/data-graphics/kids-reading-less-lower-levels-department-education-study-rcna348987",
+      "score": 102
+    },
+    {
+      "title": "Show HN: Boo – Screen-style terminal multiplexer built on libghostty",
+      "url": "https://github.com/coder/boo",
+      "score": 59
+    },
+    {
+      "title": "Making a vintage LLM from scratch",
+      "url": "https://crlf.link/log/entries/260525-1/",
+      "score": 32
+    },
+    {
+      "title": "Waymo Premier",
+      "url": "https://waymo.com/blog/2026/06/waymo-premier/",
+      "score": 168
+    },
+    {
+      "title": "How a new DSL may survive in the era of LLMs",
+      "url": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
+      "score": 21
+    },
+    {
+      "title": "FPS.cob: A first person shooter in COBOL",
+      "url": "https://github.com/icitry/FPS.cob",
+      "score": 109
+    },
+    {
+      "title": "Removing 'um' from a recording is harder than it sounds",
+      "url": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
+      "score": 27
+    },
+    {
+      "title": "Apple didn't revolutionize power supplies; new transistors did (2012)",
+      "url": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
+      "score": 101
+    },
+    {
+      "title": "MTG Bench: Testing how well LLMs can play Magic",
+      "url": "https://mtgautodeck.com/articles/mtg-bench/",
+      "score": 34
+    },
+    {
+      "title": "Open Reproduction of DeepSeek-R1",
+      "url": "https://github.com/huggingface/open-r1",
+      "score": 207
+    }
+  ]
+}
