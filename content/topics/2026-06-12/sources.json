@@ -2,44 +2,99 @@
   "papers": [],
   "discussions": [
     {
-      "title": "WASI 0.3.0 Released",
-      "url": "https://github.com/WebAssembly/WASI/releases/tag/v0.3.0",
-      "score": 66
+      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+      "score": 438
+    },
+    {
+      "title": "I Am Not a Reverse Centaur",
+      "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
+      "score": 137
+    },
+    {
+      "title": "How to setup a local coding agent on macOS",
+      "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+      "score": 100
+    },
+    {
+      "title": "Malware developers added nuclear and biological weapons text to to their spyware",
+      "url": "https://twitter.com/jsrailton/status/2064661778978533571",
+      "score": 152
+    },
+    {
+      "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
+      "url": "https://piwodlaiwo.github.io/pirates/",
+      "score": 80
+    },
+    {
+      "title": "Looking Forward to Postgres 19: It's About Time",
+      "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time",
+      "score": 88
+    },
+    {
+      "title": "Slightly reducing the sloppiness of AI generated front end",
+      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+      "score": 127
+    },
+    {
+      "title": "A PDF that changes based on how its read",
+      "url": "https://sgaud.com/texts/pdf",
+      "score": 79
+    },
+    {
+      "title": "Law Enforcement's \"Warrior\" Problem (2015)",
+      "url": "https://harvardlawreview.org/forum/vol-128/law-enforcements-warrior-problem/",
+      "score": 48
+    },
+    {
+      "title": "A dumpster arrived behind my university's library",
+      "url": "https://yalereview.org/article/sheila-liming-the-end-of-books",
+      "score": 128
+    },
+    {
+      "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
+      "url": "https://bitboard.work/",
+      "score": 19
+    },
+    {
+      "title": "Where Did Earth Get Its Oceans? Maybe It Made Them Itself",
+      "url": "https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/",
+      "score": 75
     },
     {
       "title": "AI agent bankrupted their operator while trying to scan DN42",
       "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-      "score": 1088
+      "score": 1337
+    },
+    {
+      "title": "There Is Life Before Main in Rust",
+      "url": "https://grack.com/blog/2026/06/11/life-before-main/",
+      "score": 42
+    },
+    {
+      "title": "Introduction to UEFI HTTP(s) Boot with QEMU/OVMF",
+      "url": "https://blog.yadutaf.fr/2026/06/12/introduction-to-uefi-https-boot-qemu-ovmf/",
+      "score": 44
     },
     {
       "title": "Maxproof",
       "url": "https://arxiv.org/abs/2606.13473",
-      "score": 74
+      "score": 117
     },
     {
-      "title": "The Future of Email",
-      "url": "https://www.fastmail.com/blog/the-future-of-email/",
-      "score": 132
+      "title": "Cosmodial Sky Atlas",
+      "url": "https://killedbyapixel.github.io/Cosmodial/",
+      "score": 13
     },
     {
-      "title": "If you are asking for human attention, demonstrate human effort",
-      "url": "https://tombedor.dev/human-attention-and-human-effort/",
-      "score": 1152
+      "title": "\"Don't You Just Upload It to ChatGPT?\"",
+      "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
+      "score": 117
     },
     {
       "title": "A Call to Action: Stop the FCC's KYC Regime",
       "url": "https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/",
-      "score": 7
-    },
-    {
-      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
-      "score": 607
-    },
-    {
-      "title": "Claude Fable is relentlessly proactive",
-      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-      "score": 621
+      "score": 278
     },
     {
       "title": "Hazel (YC W24) Is Hiring a Full Stack Engineer",
@@ -47,109 +102,54 @@
       "score": 1
     },
     {
-      "title": "AUR Packages Compromised with Infostealer and Rootkit",
-      "url": "https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577",
-      "score": 150
+      "title": "If you are asking for human attention, demonstrate human effort",
+      "url": "https://tombedor.dev/human-attention-and-human-effort/",
+      "score": 1405
     },
     {
-      "title": "Show HN: Homebrew 6.0.0",
-      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-      "score": 1348
+      "title": "WASI 0.3",
+      "url": "https://bytecodealliance.org/articles/WASI-0.3",
+      "score": 202
     },
     {
-      "title": "How to automate Instagram engagements with computer vision (and get banned)",
-      "url": "https://blog.florianherrengt.com/how-to-automate-instagram-engagements.html",
-      "score": 7
-    },
-    {
-      "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
-      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
-      "score": 207
+      "title": "Show HN: StackScope – I crawled over 40k indie launches to see what they ship",
+      "url": "https://stackscope.dev/",
+      "score": 29
     },
     {
       "title": "How we made hit video game Prince of Persia",
       "url": "https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia",
-      "score": 203
+      "score": 252
     },
     {
-      "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
-      "url": "https://fablepool.com",
-      "score": 464
-    },
-    {
-      "title": "European sunscreens are safer than American",
-      "url": "https://www.ms.now/opinion/msnbc-opinion/sunscreen-united-states-fda-ingredients-rcna153526",
-      "score": 23
-    },
-    {
-      "title": "Vinyl succumbs to Loudness War: more than just collateral damage (2025)",
-      "url": "https://magicvinyldigital.net/2025/04/27/vinyl-succumbs-to-loudness-war-more-than-just-collateral-damage/",
-      "score": 111
-    },
-    {
-      "title": "Ryanair dark UX patterns summer 2026 refresher",
-      "url": "https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/",
-      "score": 152
-    },
-    {
-      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "score": 470
-    },
-    {
-      "title": "MiMo Code is now released and open-source",
-      "url": "https://mimo.xiaomi.com/mimocode",
-      "score": 526
-    },
-    {
-      "title": "Making a vintage LLM from scratch",
-      "url": "https://crlf.link/log/entries/260525-1/",
-      "score": 62
-    },
-    {
-      "title": "David Hockney, Who Restored the Human Form to Art, Dies at 88",
-      "url": "https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html",
-      "score": 72
-    },
-    {
-      "title": "Petition to Withdraw Canada's Bill C-22",
-      "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
-      "score": 469
-    },
-    {
-      "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
-      "url": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
-      "score": 357
-    },
-    {
-      "title": "Claude Fable 5: mid-tier results on coding tasks",
-      "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-      "score": 371
-    },
-    {
-      "title": "Reading for pleasure is sharply down among schoolkids, report shows",
-      "url": "https://www.nbcnews.com/data-graphics/kids-reading-less-lower-levels-department-education-study-rcna348987",
-      "score": 218
+      "title": "New privacy frontier: Europe eyes crackdown on smart glasses",
+      "url": "https://www.politico.com/www.politico.eu/article/new-privacy-frontier-europe-eyes-crackdown-smart-glasses/",
+      "score": 61
     },
     {
       "title": "Encrypted Spaces An architecture for collaborative applications",
       "url": "https://encryptedspaces.org/",
-      "score": 8
+      "score": 49
     },
     {
-      "title": "Ear Training Practice",
-      "url": "https://tonedear.com/",
-      "score": 287
+      "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "score": 355
     },
     {
-      "title": "Software is made between commits",
-      "url": "https://zed.dev/blog/introducing-deltadb",
-      "score": 299
+      "title": "A jacket that harvests drinking water from the air",
+      "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+      "score": 146
     },
     {
-      "title": "Removing 'um' from a recording is harder than it sounds",
-      "url": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
-      "score": 130
+      "title": "Show HN: Script to bulk delete Claude chats from the web UI",
+      "url": "https://github.com/MatteoLeonesi/bulk-delete-claude-chat",
+      "score": 45
+    },
+    {
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "score": 697
     }
   ]
 }
