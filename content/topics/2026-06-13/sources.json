@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "url": "https://github.com/tensorzero/tensorzero",
-      "score": 53
+      "title": "US bans differential privacy in Census data",
+      "url": "https://desfontain.es/blog/banning-noise.html",
+      "score": 458
+    },
+    {
+      "title": "GameBoy Workboy",
+      "url": "https://tcrf.net/Workboy",
+      "score": 48
+    },
+    {
+      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+      "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+      "score": 174
+    },
+    {
+      "title": "Every Frame Perfect",
+      "url": "https://tonsky.me/blog/every-frame-perfect/",
+      "score": 307
+    },
+    {
+      "title": "AI Coding at Home Without Going Broke",
+      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+      "score": 112
+    },
+    {
+      "title": "Appreciating Exif",
+      "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
+      "score": 82
+    },
+    {
+      "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
+      "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
+      "score": 6
+    },
+    {
+      "title": "The adder at the heart of Intel's 8087 floating-point chip",
+      "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+      "score": 40
+    },
+    {
+      "title": "The experience of rendering Arabic typography and its technical debt",
+      "url": "https://lr0.org/blog/p/arabic/",
+      "score": 111
     },
     {
       "title": "A low-carbon computing platform from your retired phones",
       "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
-      "score": 101
+      "score": 191
     },
     {
-      "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
-      "url": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko",
-      "score": 19
+      "title": "GLM 5.2 Is Out",
+      "url": "https://digg.com/tech/ii9xibgn",
+      "score": 135
     },
     {
-      "title": "The state of building user interfaces in Rust",
-      "url": "https://areweguiyet.com/#ecosystem",
-      "score": 58
+      "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
+      "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
+      "score": 129
     },
     {
-      "title": "Leaving Mozilla",
-      "url": "https://blog.unitedheroes.net/5751",
-      "score": 346
+      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "score": 201
     },
     {
-      "title": "Electric motors with no rare earths",
-      "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
-      "score": 559
+      "title": "Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models",
+      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
+      "score": 179
     },
     {
-      "title": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
-      "url": "https://hallucinate.site/gallery",
-      "score": 41
-    },
-    {
-      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
-      "score": 875
-    },
-    {
-      "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
-      "url": "https://www.anthropic.com/news/fable-mythos-access",
-      "score": 2691
-    },
-    {
-      "title": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
-      "url": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500",
-      "score": 87
-    },
-    {
-      "title": "Woman Gets on Route 66. Then She Starts Hearing Music Coming from Her Tires",
-      "url": "https://www.motor1.com/news/798011/route-66-missouri-musical-road/",
-      "score": 15
+      "title": "Show HN: I am building a map of people who lived in the Roman Empire",
+      "url": "https://new.roman-names.com/",
+      "score": 102
     },
     {
       "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
       "url": "https://github.com/Paca-AI/paca",
-      "score": 58
+      "score": 112
     },
     {
-      "title": "Open source AI must win",
-      "url": "https://opensourceaimustwin.com/?share=v2",
-      "score": 1202
+      "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "score": 2993
     },
     {
-      "title": "How to setup a local coding agent on macOS",
-      "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-      "score": 412
+      "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
+      "url": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko",
+      "score": 44
+    },
+    {
+      "title": "The state of building user interfaces in Rust",
+      "url": "https://areweguiyet.com/#ecosystem",
+      "score": 132
+    },
+    {
+      "title": "PwC Report: AI Making Medical Bills Higher",
+      "url": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/",
+      "score": 21
+    },
+    {
+      "title": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
+      "url": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500",
+      "score": 228
+    },
+    {
+      "title": "Trophic memory, deer, and a unique scientific object",
+      "url": "https://thoughtforms.life/trophic-memory-deer-and-a-truly-unique-scientific-object/",
+      "score": 11
+    },
+    {
+      "title": "Shepherd's Dog: A Game by Fable",
+      "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+      "score": 160
     },
     {
       "title": "The computer science degree isn’t dead",
       "url": "https://spectrum.ieee.org/computer-science-degree-isnt-dead",
-      "score": 137
+      "score": 191
     },
     {
-      "title": "There is a shadow hanging over this Fable thing",
-      "url": "https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow",
-      "score": 352
+      "title": "Open source AI must win",
+      "url": "https://opensourceaimustwin.com/?share=v2",
+      "score": 1452
+    },
+    {
+      "title": "Tessera – a consent-gated tunnel that's blind to your traffic",
+      "url": "https://github.com/emmayusufu/tessera",
+      "score": 5
     },
     {
       "title": "Show HN: Putt.day a daily mini golf game",
       "url": "https://putt.day/",
-      "score": 224
+      "score": 276
     },
     {
-      "title": "Malware developers added nuclear and biological weapons text to to their spyware",
-      "url": "https://twitter.com/jsrailton/status/2064661778978533571",
-      "score": 424
+      "title": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
+      "url": "https://hallucinate.site/gallery",
+      "score": 61
     },
     {
-      "title": "Twenty One Zero-Days in FFmpeg",
-      "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
-      "score": 247
+      "title": "Electric motors with no rare earths",
+      "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+      "score": 668
     },
     {
-      "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
-      "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
-      "score": 114
-    },
-    {
-      "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
-      "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
-      "score": 215
-    },
-    {
-      "title": "H.R. 6028 would fundamentally change the U.S. Copyright Office",
-      "url": "https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul",
-      "score": 239
-    },
-    {
-      "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
-      "url": "https://bitboard.work/",
-      "score": 48
-    },
-    {
-      "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
-      "url": "https://piwodlaiwo.github.io/pirates/",
-      "score": 290
-    },
-    {
-      "title": "Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering",
-      "url": "https://github.com/entGriff/ezra",
-      "score": 53
-    },
-    {
-      "title": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
-      "url": "https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/",
-      "score": 301
-    },
-    {
-      "title": "Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case",
-      "url": "https://www.theguardian.com/business/2026/jun/12/sam-bankman-fried-loses-appeal",
-      "score": 14
-    },
-    {
-      "title": "Automating Myself Out of Development",
-      "url": "https://www.thoughtfultechnologist.com/p/automating-myself-out-of-development",
-      "score": 47
-    },
-    {
-      "title": "Slightly reducing the sloppiness of AI generated front end",
-      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
-      "score": 208
-    },
-    {
-      "title": "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
-      "url": "https://tectonic-typesetting.github.io/en-US/",
-      "score": 71
+      "title": "Leaving Mozilla",
+      "url": "https://blog.unitedheroes.net/5751",
+      "score": 435
     }
   ]
 }
