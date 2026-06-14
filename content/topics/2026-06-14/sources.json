@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "The Redistribution of Housing Wealth Caused by Rent Control [pdf]",
-      "url": "https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf",
-      "score": 27
+      "title": "Phoenix LiveView 1.2 Released",
+      "url": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
+      "score": 104
     },
     {
-      "title": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
+      "title": "Honda Civics and the Evil Valet",
       "url": "https://juniperspring.org/posts/honda-evil-valet/",
-      "score": 95
+      "score": 264
     },
     {
-      "title": "Noise infusion banned from statistical products published by Census Bureau",
-      "url": "https://desfontain.es/blog/banning-noise.html",
-      "score": 768
+      "title": "Don't trust large context windows",
+      "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
+      "score": 83
+    },
+    {
+      "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
+      "url": "https://sqltoerdiagram.com/",
+      "score": 107
     },
     {
       "title": "GLM 5.2 Is Out",
       "url": "https://twitter.com/jietang/status/2065784751345287314",
-      "score": 417
+      "score": 569
+    },
+    {
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "url": "https://desfontain.es/blog/banning-noise.html",
+      "score": 821
     },
     {
       "title": "Every Frame Perfect",
       "url": "https://tonsky.me/blog/every-frame-perfect/",
-      "score": 615
+      "score": 705
+    },
+    {
+      "title": "500-year-old monasteries outperform at digital transformation (U. of Zurich)",
+      "url": "https://phys.org/news/2026-05-historic-monasteries-digital-countries.html",
+      "score": 11
+    },
+    {
+      "title": "Tribblix: The retro Illumos distribution",
+      "url": "http://tribblix.org/",
+      "score": 35
     },
     {
       "title": "Treating pancreatic tumours may have revealed cancer's master switch",
       "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
-      "score": 321
+      "score": 360
     },
     {
-      "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
-      "url": "https://blog.pyodide.org/posts/314-release/",
-      "score": 94
+      "title": "Consciousness likely not unique to earthlings, paper says",
+      "url": "https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthlings-paper-says",
+      "score": 33
     },
     {
-      "title": "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
-      "url": "https://github.com/kekcleader/FreeOberon",
-      "score": 41
+      "title": "Beagle: Git, URIs and all the dirty words",
+      "url": "https://replicated.wiki/blog/uris.html",
+      "score": 12
     },
     {
       "title": "Building a serial and VGA \"everything console\"",
       "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
-      "score": 5
+      "score": 30
     },
     {
       "title": "Python 3.14 garbage collection rigamarole",
       "url": "https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html",
-      "score": 15
+      "score": 53
     },
     {
-      "title": "A whale necropolis has been found",
-      "url": "https://www.nature.com/articles/d41586-026-01581-x",
-      "score": 39
+      "title": "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
+      "url": "https://github.com/kekcleader/FreeOberon",
+      "score": 88
     },
     {
-      "title": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
-      "url": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
-      "score": 131
+      "title": "Making Claude a Chemist",
+      "url": "https://www.anthropic.com/research/making-claude-a-chemist",
+      "score": 42
+    },
+    {
+      "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
+      "url": "https://blog.pyodide.org/posts/314-release/",
+      "score": 124
+    },
+    {
+      "title": "Pac-Man, but you're the ghost",
+      "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
+      "score": 88
+    },
+    {
+      "title": "LaserWriter seeds",
+      "url": "https://inventingthefuture.ghost.io/laserwriter-seeds/",
+      "score": 17
+    },
+    {
+      "title": "Weave: Merging based on language structure and not lines",
+      "url": "https://ataraxy-labs.github.io/weave/",
+      "score": 40
     },
     {
       "title": "Codex for open source",
       "url": "https://openai.com/form/codex-for-oss/",
-      "score": 189
+      "score": 228
     },
     {
       "title": "GameBoy Workboy",
       "url": "https://tcrf.net/Workboy",
-      "score": 169
+      "score": 187
     },
     {
       "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
       "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
-      "score": 592
-    },
-    {
-      "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
-      "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
-      "score": 84
-    },
-    {
-      "title": "Apt Encounters of the Third Kind",
-      "url": "https://igor-blue.github.io/2021/03/24/apt1.html",
-      "score": 7
-    },
-    {
-      "title": "4 things to know about the new sunscreen ingredient the FDA approved",
-      "url": "https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol",
-      "score": 58
-    },
-    {
-      "title": "The Field Guide to CSS Grid Lanes",
-      "url": "https://gridlanes.webkit.org/",
-      "score": 7
-    },
-    {
-      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-      "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
-      "score": 258
+      "score": 683
     },
     {
       "title": "A low-carbon computing platform from your retired phones",
       "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
-      "score": 257
+      "score": 289
     },
     {
-      "title": "Appreciating Exif",
-      "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
-      "score": 140
+      "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
+      "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
+      "score": 95
     },
     {
-      "title": "Ancient genome duplications laid the foundations of complex brains",
-      "url": "https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains",
-      "score": 22
+      "title": "Software Architecture Guide (2019)",
+      "url": "https://martinfowler.com/architecture/",
+      "score": 65
     },
     {
-      "title": "Human Routers of Machine Words",
-      "url": "https://borretti.me/article/human-routers-of-machine-words",
-      "score": 42
-    },
-    {
-      "title": "The adder at the heart of Intel's 8087 floating-point chip",
-      "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
-      "score": 99
+      "title": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
+      "url": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
+      "score": 217
     },
     {
       "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
       "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
-      "score": 210
+      "score": 247
     },
     {
-      "title": "The experience of rendering Arabic typography and its technical debt",
-      "url": "https://lr0.org/blog/p/arabic/",
-      "score": 205
+      "title": "Appreciating Exif",
+      "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
+      "score": 159
     },
     {
-      "title": "Resurrecting a soaked, corroded, and damaged Commodore SX‑64 (2025)",
-      "url": "https://jerrylparker.com/blogs/posts/sx-64.html",
-      "score": 22
-    },
-    {
-      "title": "AI coding at home without going broke",
-      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-      "score": 253
-    },
-    {
-      "title": "Orthodox C++ (2016)",
-      "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
-      "score": 91
+      "title": "The adder at the heart of Intel's 8087 floating-point chip",
+      "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+      "score": 112
     }
   ]
 }
