@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Running local models is good now",
-      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-      "score": 306
+      "title": "U.S. pulling ocean sensors a 'shock' for Canadian research as El Niño nears",
+      "url": "https://www.timescolonist.com/local-news/us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nino-nears-12422874",
+      "score": 271
     },
     {
-      "title": "Mechanical Watch (2022)",
-      "url": "https://ciechanow.ski/mechanical-watch/",
-      "score": 456
+      "title": "Running local models is good now",
+      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+      "score": 757
+    },
+    {
+      "title": "Nobody clicks your share buttons",
+      "url": "https://ankursethi.com/links/nobody-clicks-your-share-buttons/",
+      "score": 53
+    },
+    {
+      "title": "Apple is about to make Hide My Email useless",
+      "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+      "score": 150
     },
     {
       "title": "SpaceX to buy Cursor for $60B",
       "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
-      "score": 310
+      "score": 683
     },
     {
-      "title": "SubQ 1.1 Small",
-      "url": "https://subq.ai/subq-1-1-small-technical-report",
-      "score": 53
+      "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+      "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+      "score": 159
     },
     {
-      "title": "Correlated randomness in Slay the Spire 2",
-      "url": "https://tck.mn/blog/correlated-randomness-sts2/",
-      "score": 196
+      "title": "Calvin and Hobbes and the price of integrity",
+      "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
+      "score": 118
     },
     {
-      "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
-      "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
-      "score": 690
+      "title": "Mechanical Watch (2022)",
+      "url": "https://ciechanow.ski/mechanical-watch/",
+      "score": 572
+    },
+    {
+      "title": "GPT‑NL: a sovereign language model for the Netherlands",
+      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "score": 79
     },
     {
       "title": "But yak shaving is fun",
       "url": "https://parksb.github.io/en/article/32.html",
-      "score": 27
+      "score": 154
     },
     {
-      "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
-      "score": 436
+      "title": "Frood, an Alpine Initramfs NAS",
+      "url": "https://words.filippo.io/frood/",
+      "score": 9
+    },
+    {
+      "title": "ASM SHADER TOY – It's shader toy but you code in asm",
+      "url": "https://wegfawefgawefg.github.io/asm-shader-toy/",
+      "score": 13
+    },
+    {
+      "title": "Claude: Elevated errors across many models",
+      "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
+      "score": 168
     },
     {
       "title": "Apple's weird anti-nausea dots cured my car sickness",
       "url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
-      "score": 34
+      "score": 379
     },
     {
-      "title": "An interview with an Apple emoji designer",
-      "url": "https://shadycharacters.co.uk/2026/06/ollie-wagner/",
-      "score": 55
+      "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+      "score": 817
+    },
+    {
+      "title": "Correlated randomness in Slay the Spire 2",
+      "url": "https://tck.mn/blog/correlated-randomness-sts2/",
+      "score": 242
     },
     {
       "title": "Making ast.walk 220x Faster",
       "url": "https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint/",
+      "score": 62
+    },
+    {
+      "title": "Databricks Launches LTAP: A Unified OLAP/OLTP Data Architecture",
+      "url": "https://www.databricks.com/company/newsroom/press-releases/databricks-launches-ltap-first-lake-transactionalanalytical",
       "score": 11
     },
     {
-      "title": "Unicorn – The Ultimate CPU Emulator",
-      "url": "https://www.unicorn-engine.org/",
-      "score": 51
+      "title": "Formal Methods and the Future of Programming",
+      "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/",
+      "score": 47
     },
     {
-      "title": "Getting Creative with Perlin Noise Fields",
-      "url": "https://sighack.com/post/getting-creative-with-perlin-noise-fields",
-      "score": 115
-    },
-    {
-      "title": "Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",
-      "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
-      "score": 429
-    },
-    {
-      "title": "Banned book library in a wi-fi smart light bulb",
-      "url": "https://www.richardosgood.com/posts/banned-book-library/",
-      "score": 526
-    },
-    {
-      "title": "4× RTX Pro 6000 Blackwell on Water, and the One Card That Wouldn't Behave",
-      "url": "https://sabareesh.com/posts/blackwell-waterblock/",
-      "score": 37
-    },
-    {
-      "title": "I hacked into the worst e-bike and fixed it [video]",
-      "url": "https://www.youtube.com/watch?v=hPrtVGimBYs",
-      "score": 153
-    },
-    {
-      "title": "GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz",
-      "url": "https://twitter.com/fguzmanai/status/2065832668172845209",
-      "score": 12
-    },
-    {
-      "title": "Understanding the rationale behind a rule when trying to circumvent it",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415",
-      "score": 88
-    },
-    {
-      "title": "Making espresso with ultrasound",
-      "url": "https://www.unsw.edu.au/newsroom/news/2026/06/New-way-making-espresso",
-      "score": 40
-    },
-    {
-      "title": "A backdoor in a LinkedIn job offer",
-      "url": "https://roman.pt/posts/linkedin-backdoor/",
-      "score": 1473
-    },
-    {
-      "title": "I Fired Google",
-      "url": "https://www.theartofdoingstuff.com/i-fired-google/",
-      "score": 113
-    },
-    {
-      "title": "The history of butterfly swimming",
-      "url": "https://www.swimming.org/sport/history-of-butterfly/",
-      "score": 14
-    },
-    {
-      "title": "Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org",
-      "url": "https://trinket.strivemath.org/",
+      "title": "SubQ 1.1 Small",
+      "url": "https://subq.ai/subq-1-1-small-technical-report",
       "score": 89
     },
     {
-      "title": "Google Chrome update will close the door on ad blockers",
-      "url": "https://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/",
-      "score": 187
+      "title": "Stop Using JWTs",
+      "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
+      "score": 110
     },
     {
       "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
       "url": "https://qwen.ai/blog?id=qwen-robotsuite",
-      "score": 10
+      "score": 83
     },
     {
-      "title": "I Love the Computer",
-      "url": "https://michaelenger.com/blog/i-love-the-computer/",
-      "score": 287
+      "title": "AI is potentially a Dunning-Kruger effect amplifier",
+      "url": "https://twitter.com/i/status/2066825204207091926",
+      "score": 21
     },
     {
-      "title": "Color Photos of Stalin-Era Soviet Union Taken by a US Diplomat",
-      "url": "https://rarehistoricalphotos.com/stalin-era-soviet-union-pictures-martin-manhoff/",
-      "score": 120
+      "title": "Show HN: Sabela – A Reactive Notebook for Haskell",
+      "url": "https://sabela.datahaskell.com/",
+      "score": 14
     },
     {
-      "title": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art",
-      "url": "https://garden-of-flowers.heikkilotvonen.com/",
-      "score": 122
+      "title": "'Ghost jobs' could soon be illegal in New York",
+      "url": "https://www.fastcompany.com/91558427/ghost-jobs-could-soon-be-illegal-in-new-york",
+      "score": 114
     },
     {
-      "title": "'Wow, it really worked ': 70s TV show causing worldwide panic today",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/16/alternative-3-mockumentary-missing-scientists-conspiracy-50-years-later",
-      "score": 69
+      "title": "An interview with an Apple emoji designer",
+      "url": "https://shadycharacters.co.uk/2026/06/ollie-wagner/",
+      "score": 85
+    },
+    {
+      "title": "Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves",
+      "url": "https://voicedraw.com/",
+      "score": 6
+    },
+    {
+      "title": "Getting Creative with Perlin Noise Fields",
+      "url": "https://sighack.com/post/getting-creative-with-perlin-noise-fields",
+      "score": 150
+    },
+    {
+      "title": "Specs Augmented Reality Glasses",
+      "url": "https://newsroom.snap.com/introducing-specs-augmented-reality-glasses",
+      "score": 44
+    },
+    {
+      "title": "Unicorn – The Ultimate CPU Emulator",
+      "url": "https://www.unicorn-engine.org/",
+      "score": 83
     }
   ]
 }
