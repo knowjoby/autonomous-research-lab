@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Want your images back? Sure... That'll be $5!",
-      "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
-      "score": 333
-    },
-    {
       "title": "Epic Games announces Lore version control system",
       "url": "https://lore.org/",
-      "score": 138
+      "score": 718
+    },
+    {
+      "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
+      "url": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
+      "score": 44
+    },
+    {
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "url": "https://github.com/Adam-CAD/CADAM",
+      "score": 97
     },
     {
       "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
       "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-      "score": 475
+      "score": 668
     },
     {
-      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-      "url": "https://wpvip.com/future-of-the-web-2026/",
-      "score": 527
+      "title": "Show HN: An 8-bit live gamecast for baseball",
+      "url": "https://ribbie.tv/watch",
+      "score": 136
+    },
+    {
+      "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
+      "url": "https://browser-use.com/posts/firecracker-browser-infra",
+      "score": 102
     },
     {
       "title": "RFC 10008: The new HTTP Query Method",
       "url": "https://www.rfc-editor.org/info/rfc10008/",
-      "score": 157
+      "score": 265
+    },
+    {
+      "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+      "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+      "score": 180
+    },
+    {
+      "title": "U.S. science is in chaos",
+      "url": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
+      "score": 413
+    },
+    {
+      "title": "The Competitive Moat That AI Can't Replicate",
+      "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
+      "score": 50
+    },
+    {
+      "title": "Want your images back? That'll be $5",
+      "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
+      "score": 538
+    },
+    {
+      "title": "Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access",
+      "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead",
+      "score": 1
+    },
+    {
+      "title": "Why thinking out loud with someone beats thinking alone",
+      "url": "https://www.thesignalist.io/s/the-dialogue-dividend/",
+      "score": 101
     },
     {
       "title": "MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",
       "url": "https://github.com/rxi/microui",
-      "score": 69
-    },
-    {
-      "title": "Why stdx is not on crates.io",
-      "url": "https://kerkour.com/stdx-cratesio",
-      "score": 21
-    },
-    {
-      "title": "Hacker News but for Independent Blogs",
-      "url": "https://bubbles.town/",
-      "score": 311
-    },
-    {
-      "title": "Show HN: High-Res Neural Cellular Automata",
-      "url": "https://cells2pixels.github.io/",
-      "score": 135
-    },
-    {
-      "title": "AI demands more engineering discipline. Not less",
-      "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
-      "score": 56
-    },
-    {
-      "title": "GrapheneOS has been ported to Android 17",
-      "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
-      "score": 916
-    },
-    {
-      "title": "Running local models is good now",
-      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-      "score": 1456
-    },
-    {
-      "title": "Image Compression",
-      "url": "https://www.makingsoftware.com/chapters/image-compression",
-      "score": 50
-    },
-    {
-      "title": "Abandoned and Little-Known Airfields",
-      "url": "https://airfields-freeman.com/",
-      "score": 88
+      "score": 142
     },
     {
       "title": "Show HN: Inkwash, a watercolor sketching app and explanation",
       "url": "https://johnowhitaker.github.io/inkwash/about",
-      "score": 35
+      "score": 115
     },
     {
-      "title": "ICE Appears to Be Buying Immigrants' Tax Identifiers from a Data Broker",
-      "url": "https://www.404media.co/ice-appears-to-be-buying-immigrants-tax-identifiers-from-a-data-broker/",
-      "score": 41
+      "title": "AI chemist improves a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction/",
+      "score": 27
     },
     {
-      "title": "Show HN: Capacitor Alarm Clock",
-      "url": "https://github.com/ArcaEge/capacitor-alarm-clock",
-      "score": 102
+      "title": "TREX: An AI code reviewer that runs your code",
+      "url": "https://www.greptile.com/blog/trex-code-execution",
+      "score": 33
     },
     {
-      "title": "GLM 5.2 Performance Benchmarks",
-      "url": "https://artificialanalysis.ai/models/glm-5-2",
-      "score": 92
+      "title": "The Capitoline Wolf",
+      "url": "https://thehappytraveler.ca/travel-guide-italy/capitoline-wolf-siena-rome-myths/",
+      "score": 9
     },
     {
-      "title": "Map Clustering Is Not My Favorite",
-      "url": "https://blog.greg.technology/2026/06/12/map-clustering-is-not-my-favorite.html",
-      "score": 83
+      "title": "Hacker News but for independent blogs",
+      "url": "https://bubbles.town/",
+      "score": 456
     },
     {
-      "title": "The Rise and (Potential) Fall of Letterboxd",
-      "url": "https://www.statsignificant.com/p/the-rise-and-potential-fall-of-letterboxd",
-      "score": 11
+      "title": "Kirkland Roundabouts",
+      "url": "https://kirklandroundabouts.com",
+      "score": 114
     },
     {
-      "title": "Humiliating IIS servers for fun and jail time",
-      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
-      "score": 323
+      "title": "AI demands more engineering discipline. Not less",
+      "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+      "score": 256
     },
     {
-      "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
-      "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
-      "score": 499
+      "title": "Image Compression",
+      "url": "https://www.makingsoftware.com/chapters/image-compression",
+      "score": 111
     },
     {
-      "title": "Subterranean fungi networks more than 100 quadrillion km in length",
-      "url": "https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study",
-      "score": 137
+      "title": "Show HN: StarScope – Free astronomy dashboard for observers outside the US/UK",
+      "url": "https://starscope.live/feed",
+      "score": 5
     },
     {
-      "title": "Calvin and Hobbes and the price of integrity",
-      "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
-      "score": 507
+      "title": "Why do commercial spaces sit vacant? (2025)",
+      "url": "https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant",
+      "score": 76
     },
     {
-      "title": "Has AI already killed self-help nonfiction books?",
-      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-      "score": 375
+      "title": "Volkswagen started blocking GrapheneOS users",
+      "url": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
+      "score": 322
     },
     {
-      "title": "Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)",
-      "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
-      "score": 13
+      "title": "Seventeen Camels and Where They Can Take You",
+      "url": "https://mathenchant.wordpress.com/2026/06/15/seventeen-camels-and-where-they-can-take-you/",
+      "score": 19
     },
     {
-      "title": "Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload",
-      "url": "https://brevio.pro",
-      "score": 48
+      "title": "The founder's playbook: Building an AI-native startup",
+      "url": "https://claude.com/blog/the-founders-playbook",
+      "score": 178
     },
     {
-      "title": "GPT‑NL: a sovereign language model for the Netherlands",
-      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-      "score": 244
+      "title": "Abandoned and Little-Known Airfields",
+      "url": "https://airfields-freeman.com/",
+      "score": 134
     },
     {
-      "title": "Wolfram Language and Mathematica version 15",
-      "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
-      "score": 203
+      "title": "French physicist and media star loses doctorate after plagiarism investigation",
+      "url": "https://www.science.org/content/article/french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation",
+      "score": 120
     },
     {
-      "title": "Stop Using JWTs",
-      "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
-      "score": 455
+      "title": "Show HN: High-Res Neural Cellular Automata",
+      "url": "https://cells2pixels.github.io/",
+      "score": 170
     }
   ]
 }
