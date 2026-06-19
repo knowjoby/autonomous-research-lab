@@ -4,152 +4,152 @@
     {
       "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
       "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "score": 132
+      "score": 355
     },
     {
       "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
       "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-      "score": 187
-    },
-    {
-      "title": "So You Want to Define a Well-Known URI",
-      "url": "https://mnot.net/blog/2026/well_known_uris",
-      "score": 70
-    },
-    {
-      "title": "Ten years of ClickHouse in open source",
-      "url": "https://clickhouse.com/blog/open-source-10",
-      "score": 33
-    },
-    {
-      "title": "To study how chips work, MIT researchers built their own operating system",
-      "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
-      "score": 188
-    },
-    {
-      "title": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
-      "url": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
-      "score": 95
+      "score": 301
     },
     {
       "title": "Zen and the Art of Machine Learning Research",
       "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
-      "score": 56
+      "score": 145
+    },
+    {
+      "title": "To study how chips work, MIT researchers built their own operating system",
+      "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
+      "score": 272
+    },
+    {
+      "title": "The Productivity J-Curve [pdf] (2018)",
+      "url": "https://ide.mit.edu/sites/default/files/publications/jcurve.pdf",
+      "score": 8
+    },
+    {
+      "title": "Ten years of ClickHouse in open source",
+      "url": "https://clickhouse.com/blog/open-source-10",
+      "score": 152
     },
     {
       "title": "I found 10k GitHub repositories distributing Trojan malware",
       "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-      "score": 798
+      "score": 875
     },
     {
-      "title": "Fable Converted Pylint to Rust",
-      "url": "https://pypi.org/project/prylint/",
-      "score": 46
+      "title": "\"No Feigning Surprise\"",
+      "url": "https://wizardzines.com/comics/surprise/",
+      "score": 36
     },
     {
-      "title": "Zero-Touch OAuth for MCP",
-      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
-      "score": 198
+      "title": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
+      "url": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
+      "score": 143
     },
     {
-      "title": "The Raku Foundation is born",
-      "url": "https://raku.foundation",
-      "score": 28
+      "title": "So You Want to Define a Well-Known URI",
+      "url": "https://mnot.net/blog/2026/well_known_uris",
+      "score": 117
     },
     {
-      "title": "How Japan's railways stayed one while splitting apart",
-      "url": "https://arun.is/blog/jr-logo/",
-      "score": 101
-    },
-    {
-      "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
-      "url": "https://blog.ui.com/article/introducing-enterprise-nas",
-      "score": 343
+      "title": "How many of the 170k English words do you know?",
+      "url": "https://vocabowl-870366514258.us-west1.run.app/",
+      "score": 43
     },
     {
       "title": "The AirPods Effect",
       "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
-      "score": 102
+      "score": 226
     },
     {
-      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
-      "score": 80
+      "title": "Akse3D – open-source 3D modelling anyone can master",
+      "url": "https://akse3d-en.skaperiet.no",
+      "score": 74
+    },
+    {
+      "title": "Zero-Touch OAuth for MCP",
+      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+      "score": 223
+    },
+    {
+      "title": "Show HN: Modeloop – From visual algorithms to microcontroller C code",
+      "url": "https://www.modeloop.app/",
+      "score": 11
+    },
+    {
+      "title": "SMTP Relay with Web Dashboard",
+      "url": "https://github.com/toinbox/simplerelay",
+      "score": 33
+    },
+    {
+      "title": "How Japan's railways stayed one while splitting apart",
+      "url": "https://arun.is/blog/jr-logo/",
+      "score": 132
+    },
+    {
+      "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+      "url": "https://blog.ui.com/article/introducing-enterprise-nas",
+      "score": 378
     },
     {
       "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
       "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
-      "score": 374
-    },
-    {
-      "title": "Building a robotics research setup that lives next to my desk",
-      "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
-      "score": 82
+      "score": 402
     },
     {
       "title": ".gitignore Isn't the only way to ignore files in Git",
       "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
-      "score": 425
+      "score": 476
     },
     {
-      "title": "Show HN: Talos – Open-source WASM interpreter for Lean",
-      "url": "https://github.com/cajal-technologies/talos",
-      "score": 53
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+      "score": 114
+    },
+    {
+      "title": "Norway greenlights first full-scale ship tunnel",
+      "url": "https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel",
+      "score": 75
     },
     {
       "title": "Hospitals and universities repurposing drugs at lower cost",
       "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
-      "score": 310
+      "score": 320
     },
     {
-      "title": "Ice water drowning survival of young patient (2025)",
-      "url": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
-      "score": 148
+      "title": "If your product is Great, it doesn't need to be Good (2010)",
+      "url": "http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html",
+      "score": 119
+    },
+    {
+      "title": "W Social, public institutions and the theater of European digital sovereignty",
+      "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
+      "score": 234
+    },
+    {
+      "title": "Modos Color Monitor Pushes E-Paper Displays Further",
+      "url": "https://spectrum.ieee.org/modos-e-paper-monitor",
+      "score": 316
+    },
+    {
+      "title": "The room the economy can't see",
+      "url": "https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/",
+      "score": 168
     },
     {
       "title": "Cell-based architecture for resilient payment systems",
       "url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
-      "score": 125
+      "score": 137
+    },
+    {
+      "title": "Show HN: Talos – Open-source WASM interpreter for Lean",
+      "url": "https://github.com/cajal-technologies/talos",
+      "score": 69
     },
     {
       "title": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
       "url": "https://www.flexport.com/company/careers/",
       "score": 1
-    },
-    {
-      "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
-      "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
-      "score": 394
-    },
-    {
-      "title": "W Social, public institutions and the theater of European digital sovereignty",
-      "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
-      "score": 216
-    },
-    {
-      "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
-      "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-      "score": 114
-    },
-    {
-      "title": "If your product is Great, it doesn't need to be Good (2010)",
-      "url": "http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html",
-      "score": 86
-    },
-    {
-      "title": "Modos Color Monitor Pushes E-Paper Displays Further",
-      "url": "https://spectrum.ieee.org/modos-e-paper-monitor",
-      "score": 284
-    },
-    {
-      "title": "Show HN: Are You in the Weights?",
-      "url": "https://www.intheweights.com/",
-      "score": 348
-    },
-    {
-      "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
-      "url": "https://tester.army",
-      "score": 120
     }
   ]
 }
