@@ -2,154 +2,149 @@
   "papers": [],
   "discussions": [
     {
-      "title": "CSSQuake",
-      "url": "https://cssquake.com/",
-      "score": 143
+      "title": "Agency stole bestselling author's book, used AI to relaunch as their own",
+      "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
+      "score": 182
     },
     {
-      "title": "I Stored a Website in a Favicon",
-      "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
-      "score": 207
+      "title": "SMPTE Makes Its Standards Freely Accessible",
+      "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+      "score": 88
+    },
+    {
+      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
+      "url": "https://www.lispm.net/apps/uhf-x11/",
+      "score": 59
+    },
+    {
+      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+      "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+      "score": 98
+    },
+    {
+      "title": "CSSQuake",
+      "url": "https://cssquake.com/",
+      "score": 367
+    },
+    {
+      "title": "Show HN: StartupWiki – A Free Alternative to Crunchbase",
+      "url": "https://startupwiki.tech/",
+      "score": 59
+    },
+    {
+      "title": "Show HN: We post-trained a model that pen tests instead of refusing",
+      "url": "https://www.argusred.com/cli",
+      "score": 23
+    },
+    {
+      "title": "Ember, a native iOS Hacker News reader I built around accessibility",
+      "url": "https://github.com/DatanoiseTV/ember-hackernews",
+      "score": 52
+    },
+    {
+      "title": "S‑CURVES a field guide to technology adoption · 1825–2026",
+      "url": "https://escurves.com/",
+      "score": 27
+    },
+    {
+      "title": "The rise of South Korea’s weapons business",
+      "url": "https://www.politico.com/news/magazine/2026/06/20/south-korea-weapons-dealer-trump-00959559",
+      "score": 15
+    },
+    {
+      "title": "Show HN: Microcrad – Micrograd Reimplemented in C",
+      "url": "https://github.com/oraziorillo/microcrad",
+      "score": 36
+    },
+    {
+      "title": "Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios",
+      "url": "https://vawaa.com/",
+      "score": 41
+    },
+    {
+      "title": "The ability to regrow body parts is dormant in mammals, not lost",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm",
+      "score": 57
     },
     {
       "title": "Where to Find the Colors Your Screen Can't Show You",
       "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
-      "score": 250
+      "score": 383
     },
     {
-      "title": "The Cold War's Accidental Whale Observatory",
-      "url": "https://thereader.mitpress.mit.edu/the-cold-wars-accidental-whale-observatory/",
+      "title": "Why has the pointe shoe been so resistant to change?",
+      "url": "https://dancemagazine.com/pointe-shoe-innovation/",
+      "score": 17
+    },
+    {
+      "title": "Web Browsers on PDAS",
+      "url": "https://vale.rocks/posts/pda-browsers",
       "score": 32
     },
     {
       "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
       "url": "https://bootimus.com",
-      "score": 20
+      "score": 88
     },
     {
-      "title": "16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating",
-      "url": "https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating",
-      "score": 51
+      "title": "Temporary Cloudflare Accounts for AI Agents",
+      "url": "https://blog.cloudflare.com/temporary-accounts/",
+      "score": 86
     },
     {
-      "title": "Can you see three trees?",
-      "url": "https://www.not-ship.com/can-you-see-three-trees/",
-      "score": 197
+      "title": "Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs",
+      "url": "https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video",
+      "score": 148
     },
     {
-      "title": "Data Compression Explained (2012)",
-      "url": "https://mattmahoney.net/dc/dce.html",
-      "score": 157
+      "title": "VPN ban update for UK households as government looks at 'age-gate'",
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063",
+      "score": 227
     },
     {
-      "title": "There are no instances in ATProto",
-      "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
-      "score": 477
+      "title": "I Stored a Website in a Favicon",
+      "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+      "score": 269
     },
     {
-      "title": "Lithuanian startup launches open-source network to detect Shahed-type drones",
-      "url": "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones",
-      "score": 34
-    },
-    {
-      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "url": "https://arrowtsx.dev/bigger-models/",
-      "score": 318
+      "title": "Mencius (2016)",
+      "url": "https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/265d73a0-6bfa-45df-92ff-4e7d3f8be4b1/content",
+      "score": 17
     },
     {
       "title": "From PGP to Mythos: a brief history of export controls that didn't stop anyone",
       "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "score": 7
+      "score": 118
     },
     {
-      "title": "The discovery that changed how scientists think about memory",
-      "url": "https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize",
-      "score": 88
+      "title": "Show HN: My Windows XP portfolio with working Game Boy and iPod",
+      "url": "https://mitchivin.com/",
+      "score": 3
     },
     {
-      "title": "Computed goto for efficient dispatch tables",
-      "url": "https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables",
-      "score": 7
+      "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
+      "url": "https://github.com/oven-sh/WebKit/pull/249",
+      "score": 56
     },
     {
-      "title": "Human Judgment as a Specification",
-      "url": "https://blog.brownplt.org/2026/06/09/pick.html",
-      "score": 14
+      "title": "Can you see three trees?",
+      "url": "https://www.not-ship.com/can-you-see-three-trees/",
+      "score": 279
     },
     {
-      "title": "A 1969 camera operators' strike created Upstairs Downstairs multiverse",
-      "url": "https://ironicsans.ghost.io/the-color-strike/",
-      "score": 52
+      "title": "Cargo-Geiger",
+      "url": "https://github.com/geiger-rs/cargo-geiger",
+      "score": 26
     },
     {
-      "title": "LLMs Are Complicated Now",
-      "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
-      "score": 79
+      "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
+      "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/",
+      "score": 127
     },
     {
-      "title": "Surprising economics of load-balanced systems",
-      "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
-      "score": 130
-    },
-    {
-      "title": "How many of the 170k English words do you know?",
-      "url": "https://vocabowl-870366514258.us-west1.run.app/",
-      "score": 424
-    },
-    {
-      "title": "Hyundai buys Boston Dynamics",
-      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-      "score": 878
-    },
-    {
-      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "score": 620
-    },
-    {
-      "title": "Soccer Arcade Games Through the Years",
-      "url": "https://arcadeheroes.com/2026/06/13/world-cup-2026-soccer-arcade/",
-      "score": 33
-    },
-    {
-      "title": "Norway imposes near ban on AI in elementary school",
-      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-      "score": 738
-    },
-    {
-      "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
-      "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
-      "score": 423
-    },
-    {
-      "title": "A Perceptron in Age of Empires II",
-      "url": "https://adewynter.github.io/notes/aoe2-circuits",
-      "score": 98
-    },
-    {
-      "title": "Satellite reveals immense scale of GPS signal tampering",
-      "url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
-      "score": 137
-    },
-    {
-      "title": "Egyptian Fractions (2006)",
-      "url": "https://blog.plover.com/math/egyptian-fractions.html",
-      "score": 100
-    },
-    {
-      "title": "AURpocalypse now: a look at the recent AUR attacks",
-      "url": "https://lwn.net/SubscriberLink/1077619/f7b07c5489fdd43a/",
-      "score": 108
-    },
-    {
-      "title": "Zen and the Art of Machine Learning Research",
-      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
-      "score": 272
-    },
-    {
-      "title": "Building a robotics research setup that lives next to my desk",
-      "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
-      "score": 165
+      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+      "url": "https://arrowtsx.dev/bigger-models/",
+      "score": 453
     }
   ]
 }
