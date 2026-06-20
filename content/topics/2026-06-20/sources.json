@@ -2,149 +2,149 @@
   "papers": [],
   "discussions": [
     {
-      "title": "How to feed a dictator",
-      "url": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
-      "score": 87
+      "title": "I Stored a Website in a Favicon",
+      "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+      "score": 102
     },
     {
-      "title": "Think of the children: How to force real ID for all internet traffic (2023)",
-      "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
-      "score": 141
+      "title": "Data Compression Explained (2012)",
+      "url": "https://mattmahoney.net/dc/dce.html",
+      "score": 111
+    },
+    {
+      "title": "Where to Find the Colors Your Screen Can't Show You",
+      "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+      "score": 87
     },
     {
       "title": "There are no instances in ATProto",
       "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
-      "score": 364
+      "score": 432
     },
     {
-      "title": "Norway imposes near ban on AI in elementary school",
-      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-      "score": 492
+      "title": "Can you see three trees?",
+      "url": "https://www.not-ship.com/can-you-see-three-trees/",
+      "score": 98
     },
     {
-      "title": "Surprising Economics of Load-Balanced Systems",
+      "title": "The discovery that changed how scientists think about memory",
+      "url": "https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize",
+      "score": 49
+    },
+    {
+      "title": "Surprising economics of load-balanced systems",
       "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
-      "score": 54
-    },
-    {
-      "title": "I used sound waves to make espresso",
-      "url": "https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929",
-      "score": 213
+      "score": 106
     },
     {
       "title": "Hyundai buys Boston Dynamics",
       "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-      "score": 698
-    },
-    {
-      "title": "Data Compression Explained",
-      "url": "https://mattmahoney.net/dc/dce.html",
-      "score": 8
-    },
-    {
-      "title": "Aikido Code Audit",
-      "url": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase",
-      "score": 22
-    },
-    {
-      "title": "Digital Printing of Arabic: explaining the problem",
-      "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
-      "score": 29
-    },
-    {
-      "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
-      "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
-      "score": 241
-    },
-    {
-      "title": "Hey, n00b, we didn't hire you to complete tasks",
-      "url": "https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete",
-      "score": 101
-    },
-    {
-      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "score": 548
+      "score": 807
     },
     {
       "title": "How many of the 170k English words do you know?",
       "url": "https://vocabowl-870366514258.us-west1.run.app/",
-      "score": 252
+      "score": 358
     },
     {
-      "title": "Egyptian Fractions",
-      "url": "https://blog.plover.com/math/egyptian-fractions.html",
+      "title": "Norway imposes near ban on AI in elementary school",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "score": 645
+    },
+    {
+      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+      "score": 590
+    },
+    {
+      "title": "Satellite reveals immense scale of GPS signal tampering",
+      "url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
       "score": 70
     },
     {
-      "title": "DuckDB Internals Part 1",
-      "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-      "score": 444
+      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+      "url": "https://arrowtsx.dev/bigger-models/",
+      "score": 122
+    },
+    {
+      "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
+      "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
+      "score": 355
+    },
+    {
+      "title": "Soccer Arcade Games Through the Years",
+      "url": "https://arcadeheroes.com/2026/06/13/world-cup-2026-soccer-arcade/",
+      "score": 13
+    },
+    {
+      "title": "A 1969 camera operators' strike created Upstairs Downstairs multiverse",
+      "url": "https://ironicsans.ghost.io/the-color-strike/",
+      "score": 15
     },
     {
       "title": "A Perceptron in Age of Empires II",
       "url": "https://adewynter.github.io/notes/aoe2-circuits",
-      "score": 32
+      "score": 70
+    },
+    {
+      "title": "Egyptian Fractions (2006)",
+      "url": "https://blog.plover.com/math/egyptian-fractions.html",
+      "score": 93
+    },
+    {
+      "title": "Mental causation is not load-bearing",
+      "url": "https://unstableontology.com/2026/06/07/mental-causation-is-not-load-bearing/",
+      "score": 3
+    },
+    {
+      "title": "AURpocalypse now: a look at the recent AUR attacks",
+      "url": "https://lwn.net/SubscriberLink/1077619/f7b07c5489fdd43a/",
+      "score": 78
+    },
+    {
+      "title": "Designing a backyard deck for my house",
+      "url": "https://blog.cosmin.cloud/posts/diy-deck.html",
+      "score": 12
     },
     {
       "title": "John Jumper to join Anthropic",
       "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
-      "score": 83
+      "score": 124
     },
     {
-      "title": "Telescope Ranchers",
-      "url": "https://kottke.org/26/06/telescope-ranchers",
-      "score": 107
-    },
-    {
-      "title": "Big Banana Car",
-      "url": "https://bigbananacar.com/",
-      "score": 122
-    },
-    {
-      "title": "RhinoCollab a plugin for real-time editing for Rhino 3D",
-      "url": "https://rhinocollab.com",
-      "score": 21
+      "title": "Digital Printing of Arabic: explaining the problem",
+      "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
+      "score": 52
     },
     {
       "title": "Court Records Should Be Free",
       "url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
-      "score": 271
-    },
-    {
-      "title": "Zenzizenzizenzic",
-      "url": "https://en.wikipedia.org/wiki/Zenzizenzizenzic",
-      "score": 80
-    },
-    {
-      "title": "A 1976 university experiment spun up the U.S. wind industry",
-      "url": "https://spectrum.ieee.org/william-heronemus-wind-energy",
-      "score": 75
-    },
-    {
-      "title": "Show HN: Metiq: a real time 3D globe for 100 public datasets",
-      "url": "https://metiq.space",
-      "score": 95
-    },
-    {
-      "title": "Building a robotics research setup that lives next to my desk",
-      "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
-      "score": 122
+      "score": 359
     },
     {
       "title": "Zen and the Art of Machine Learning Research",
       "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
-      "score": 238
+      "score": 256
     },
     {
-      "title": "Ten years of ClickHouse in open source",
-      "url": "https://clickhouse.com/blog/open-source-10",
-      "score": 283
+      "title": "Building a robotics research setup that lives next to my desk",
+      "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
+      "score": 147
     },
     {
-      "title": "To study how chips work, MIT researchers built their own operating system",
-      "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
-      "score": 357
+      "title": "Telescope Ranchers",
+      "url": "https://kottke.org/26/06/telescope-ranchers",
+      "score": 123
+    },
+    {
+      "title": "Big Banana Car",
+      "url": "https://bigbananacar.com/",
+      "score": 149
+    },
+    {
+      "title": "Show HN: Metiq: a real time 3D globe for 100 public datasets",
+      "url": "https://metiq.space",
+      "score": 120
     }
   ]
 }
