@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Never Give Them Your Face",
-      "url": "https://nevergivethemyourface.com/",
-      "score": 518
+      "title": "Steam Machine launches today",
+      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+      "score": 731
     },
     {
-      "title": "Pledging Another $400k to the Zig Software Foundation",
-      "url": "https://mitchellh.com/writing/zig-donation-2026",
-      "score": 467
+      "title": "British Columbia, Time Zones, and Postgres",
+      "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
+      "score": 37
     },
     {
-      "title": "Claude Code's \"extended thinking\" is a summary- not authentic thinking",
-      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
-      "score": 132
-    },
-    {
-      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
-      "url": "https://hustvl.github.io/Moebius/",
-      "score": 80
+      "title": "My Mathematical Regression",
+      "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
+      "score": 115
     },
     {
       "title": "Deno Desktop",
       "url": "https://docs.deno.com/runtime/desktop/",
-      "score": 827
+      "score": 956
+    },
+    {
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "url": "https://hustvl.github.io/Moebius/",
+      "score": 176
+    },
+    {
+      "title": "Show HN: Oak – Git replacement designed for agents",
+      "url": "https://oak.space/oak/oak",
+      "score": 96
+    },
+    {
+      "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
+      "url": "https://github.com/dorukkumkumoglu/optocamzero",
+      "score": 18
+    },
+    {
+      "title": "Blogger defeats photographer's copyright claim",
+      "url": "https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm",
+      "score": 56
     },
     {
       "title": "Codex logging bug may write TBs to local SSDs",
       "url": "https://github.com/openai/codex/issues/28224",
-      "score": 330
+      "score": 419
     },
     {
-      "title": "GLM 5.2 vs. Opus",
-      "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-      "score": 363
+      "title": "Linux and Secure Boot certificate expiration (2025)",
+      "url": "https://lwn.net/Articles/1029767/",
+      "score": 49
     },
     {
-      "title": "Die analysis of the 8087 math coprocessor's fast bit shifter (2020)",
-      "url": "https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html",
-      "score": 33
+      "title": "Prompt Injection as Role Confusion",
+      "url": "https://role-confusion.github.io",
+      "score": 98
     },
     {
       "title": "Nintendo Wii U games running from a 1980's Bernoulli disk [video]",
       "url": "https://www.youtube.com/watch?v=8GZDOpV2OXk",
-      "score": 17
+      "score": 67
     },
     {
-      "title": "Granularity comes at a cost – Game Theory",
-      "url": "https://www.sidhantbansal.com/2026/Granularity-comes-at-a-cost/",
-      "score": 27
+      "title": "Finding the Best Dog Treat with Statistics",
+      "url": "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html",
+      "score": 50
+    },
+    {
+      "title": "Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers",
+      "url": "https://jobs.ashbyhq.com/charge-robotics",
+      "score": 1
+    },
+    {
+      "title": "GLM 5.2 vs. Opus",
+      "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+      "score": 434
+    },
+    {
+      "title": "Canada is looking to build up to 10 new nuclear reactors over the next 15 years",
+      "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
+      "score": 59
+    },
+    {
+      "title": "DisplayMate",
+      "url": "https://www.displaymate.com/",
+      "score": 57
+    },
+    {
+      "title": "Pledging another $400k to the Zig software foundation",
+      "url": "https://mitchellh.com/writing/zig-donation-2026",
+      "score": 640
+    },
+    {
+      "title": "Japanese symbols that speak without words",
+      "url": "https://arun.is/blog/japan-symbols/",
+      "score": 11
+    },
+    {
+      "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+      "url": "https://ipvm.com/reports/police-chiefs-track",
+      "score": 45
+    },
+    {
+      "title": "Canyon HUD helmet for road riding",
+      "url": "https://media-centre.canyon.com/en-INT/266866-new-canyon-heads-up-display-helmet-could-be-a-safety-gamechanger-for-road-riding/",
+      "score": 5
+    },
+    {
+      "title": "The text in Claude Code’s “Extended Thinking” output",
+      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+      "score": 234
+    },
+    {
+      "title": "Die analysis of the 8087 math coprocessor's fast bit shifter (2020)",
+      "url": "https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html",
+      "score": 64
+    },
+    {
+      "title": "Mexican government unveils a prototype for a new homegrown, ultra-affordable EV",
+      "url": "https://gizmodo.com/mexico-just-showed-off-a-new-extremely-cheap-government-backed-ev-2000769080",
+      "score": 136
+    },
+    {
+      "title": "Memory crisis is getting so bad that even retro RAM prices are going to the Moon",
+      "url": "https://www.theregister.com/personal-tech/2026/06/22/the-memory-crisis-is-getting-so-bad-that-even-retro-ram-prices-are-going-to-the-moon/5259627",
+      "score": 33
+    },
+    {
+      "title": "Walt Disney Company is the most successful at monetizing human nostalgia [audio]",
+      "url": "https://www.acquired.fm/episodes/the-walt-disney-company",
+      "score": 23
+    },
+    {
+      "title": "Jobs and Software Is Fucked",
+      "url": "https://urflow.bearblog.dev/jobs-and-software-is-fucked/",
+      "score": 144
     },
     {
       "title": "Help I accidentally a wigglegram",
       "url": "https://lmao.center/blog/wiggle-accidents/",
-      "score": 415
+      "score": 450
     },
     {
-      "title": "Did my old job only exist because of fraud?",
-      "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-      "score": 756
-    },
-    {
-      "title": "DHL Set to Transport Goods on New Wind-Powered Cargo Ships",
-      "url": "https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0",
-      "score": 61
-    },
-    {
-      "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "url": "https://apertvs.ai/",
-      "score": 496
-    },
-    {
-      "title": "Munich 1991: The Roots of the Current AI Boom",
-      "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
-      "score": 174
-    },
-    {
-      "title": "Maria Isabel Sánchez Vegara on Her 100th \"Little People, Big Dreams\" Book",
-      "url": "https://www.amightygirl.com/blog?p=36753",
-      "score": 28
-    },
-    {
-      "title": "Why Drawing Tablet Brands Won't Collaborate on Linux Floss Drivers",
-      "url": "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers",
-      "score": 145
-    },
-    {
-      "title": "There is minimal downside to switching to open models",
-      "url": "https://www.marble.onl/posts/cancel_claude.html",
-      "score": 338
+      "title": "Show HN: Got sick of ads, so I made my own logic puzzle site",
+      "url": "https://puzzlelair.com/",
+      "score": 98
     },
     {
       "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center",
       "url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
-      "score": 51
-    },
-    {
-      "title": "Nvidia Halos",
-      "url": "https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles/",
-      "score": 65
-    },
-    {
-      "title": "Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search",
-      "url": "https://manticoresearch.com/blog/manticore-search-27-1-5/",
-      "score": 30
-    },
-    {
-      "title": "My 1992 view of the problems of computer programming in 1992",
-      "url": "https://blog.plover.com/prog/fortran-i.html",
-      "score": 84
-    },
-    {
-      "title": "Sakana Fugu",
-      "url": "https://sakana.ai/fugu/",
-      "score": 190
-    },
-    {
-      "title": "Memory Safe Inline Assembly",
-      "url": "https://fil-c.org/inlineasm",
-      "score": 161
-    },
-    {
-      "title": "Everything is logarithms",
-      "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
-      "score": 281
-    },
-    {
-      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-      "score": 196
-    },
-    {
-      "title": "Show HN: I rebuilt the only parts of my IDE I use, in Rust, over a weekend",
-      "url": "https://github.com/kyle-ssg/kyde",
-      "score": 18
-    },
-    {
-      "title": "UUID: NewV7() always generates a UUID with 7000 on browsers (Golang)",
-      "url": "https://github.com/golang/go/issues/80084",
-      "score": 27
-    },
-    {
-      "title": "JSON-LD explained for personal websites",
-      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-      "score": 261
-    },
-    {
-      "title": "Rive, Fast and reliable background jobs in Go",
-      "url": "https://github.com/riverqueue/river",
-      "score": 23
+      "score": 86
     }
   ]
 }
