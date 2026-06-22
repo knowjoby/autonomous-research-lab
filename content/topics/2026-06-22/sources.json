@@ -1,0 +1,155 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "url": "https://apertvs.ai/",
+      "score": 256
+    },
+    {
+      "title": "Did my old job only exist because of fraud?",
+      "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+      "score": 306
+    },
+    {
+      "title": "Help I accidentally a wigglegram",
+      "url": "https://lmao.center/blog/wiggle-accidents/",
+      "score": 45
+    },
+    {
+      "title": "Sakana Fugu",
+      "url": "https://sakana.ai/fugu/",
+      "score": 50
+    },
+    {
+      "title": "Memory Safe Inline Assembly",
+      "url": "https://fil-c.org/inlineasm",
+      "score": 46
+    },
+    {
+      "title": "Everything is logarithms",
+      "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+      "score": 144
+    },
+    {
+      "title": "The Flat Curve Society",
+      "url": "https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b",
+      "score": 12
+    },
+    {
+      "title": "There is minimal downside to switching to open models",
+      "url": "https://www.marble.onl/posts/cancel_claude.html",
+      "score": 102
+    },
+    {
+      "title": "1983 Northern Telecom Commodore Phone",
+      "url": "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/",
+      "score": 30
+    },
+    {
+      "title": "How I play video games with spinal muscular atrophy",
+      "url": "https://www.openassistivetech.org/how-i-actually-play-video-games-with-sma-the-tools-i-use-every-day/",
+      "score": 57
+    },
+    {
+      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+      "score": 46
+    },
+    {
+      "title": "JSON-LD explained for personal websites",
+      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+      "score": 184
+    },
+    {
+      "title": "Identity verification on Claude",
+      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "score": 624
+    },
+    {
+      "title": "PowerFox Browser",
+      "url": "https://powerfox.jazzzny.me/",
+      "score": 91
+    },
+    {
+      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+      "url": "https://www.beyondallreason.info",
+      "score": 448
+    },
+    {
+      "title": "Japanese verb conjugation the simple hard way",
+      "url": "https://underreacted.leaflet.pub/3mmevu6woys27",
+      "score": 49
+    },
+    {
+      "title": "Efficient C++ Programming for Modern C++ CPUs, Chapter 4/part 2",
+      "url": "https://6it.dev/blog/infographics-operation-costs-in-cpu-clock-cycles-take-2-80736",
+      "score": 6
+    },
+    {
+      "title": "Show HN: HN Game Stories – mini-documentary of games that hit the front page",
+      "url": "https://video.intellios.ai",
+      "score": 5
+    },
+    {
+      "title": "Prefer duplication over the wrong abstraction (2016)",
+      "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+      "score": 440
+    },
+    {
+      "title": "From Combinatorial Mess to Linear Elegance: Architecting a Conversion Engine",
+      "url": "https://blog.minimal.app/conversion-engine/",
+      "score": 16
+    },
+    {
+      "title": "HPV jabs cut risk of dying from cervical cancer before 30 to almost zero",
+      "url": "https://www.theguardian.com/society/2026/jun/17/hpv-jabs-reduce-risk-dying-cervical-cancer-before-30-zero-study-finds",
+      "score": 199
+    },
+    {
+      "title": "Minecraft: Java Edition 26.2, the first version with Vulkan 1.2",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2",
+      "score": 86
+    },
+    {
+      "title": "Show HN: Recall – fully-local project memory for Claude Code",
+      "url": "https://github.com/raiyanyahya/recall",
+      "score": 85
+    },
+    {
+      "title": "The minimum viable unit of saleable software",
+      "url": "https://brandur.org/minimum-viable-unit",
+      "score": 141
+    },
+    {
+      "title": "Show HN: Teach your kids perfect pitch",
+      "url": "https://github.com/paytonjjones/bsharp",
+      "score": 70
+    },
+    {
+      "title": "Rent collections are down in New York",
+      "url": "https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982",
+      "score": 46
+    },
+    {
+      "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
+      "url": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
+      "score": 134
+    },
+    {
+      "title": "Wildcard (YC W25) is hiring an applied ML engineer",
+      "url": "https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer",
+      "score": 1
+    },
+    {
+      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
+      "url": "https://norvig.com/lispy.html",
+      "score": 170
+    },
+    {
+      "title": "Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf",
+      "url": "https://the-criterion-closet.vercel.app",
+      "score": 61
+    }
+  ]
+}
