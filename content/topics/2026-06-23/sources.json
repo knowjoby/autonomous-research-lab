@@ -1,0 +1,155 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "1,700 Free Online Courses from Top Universities",
+      "url": "https://www.openculture.com/freeonlinecourses",
+      "score": 73
+    },
+    {
+      "title": "Steam Machine launches today",
+      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+      "score": 1298
+    },
+    {
+      "title": "In Praise of Memcached",
+      "url": "https://jchri.st/blog/in-praise-of-memcached/",
+      "score": 63
+    },
+    {
+      "title": "Runing GLM-5.2 on local hardware",
+      "url": "https://unsloth.ai/docs/models/glm-5.2",
+      "score": 224
+    },
+    {
+      "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
+      "url": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
+      "score": 153
+    },
+    {
+      "title": "Cyberdecks, going analog, and convivial technology",
+      "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
+      "score": 58
+    },
+    {
+      "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+      "url": "https://arxiv.org/abs/2606.16140",
+      "score": 19
+    },
+    {
+      "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
+      "url": "https://github.com/dorukkumkumoglu/optocamzero",
+      "score": 120
+    },
+    {
+      "title": "My Mathematical Regression",
+      "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
+      "score": 229
+    },
+    {
+      "title": "Japanese symbols that speak without words",
+      "url": "https://arun.is/blog/japan-symbols/",
+      "score": 121
+    },
+    {
+      "title": "British Columbia, Time Zones, and Postgres",
+      "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
+      "score": 120
+    },
+    {
+      "title": "Is it time for a new Embedded Linux build system?",
+      "url": "https://yoebuild.org/blog/time-for-a-new-build-system/",
+      "score": 45
+    },
+    {
+      "title": "Windows NT for GameCube/Wii",
+      "url": "https://github.com/Wack0/entii-for-workcubes",
+      "score": 28
+    },
+    {
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "url": "https://hustvl.github.io/Moebius/",
+      "score": 247
+    },
+    {
+      "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+      "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
+      "score": 351
+    },
+    {
+      "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
+      "url": "https://arxiv.org/abs/2606.03748",
+      "score": 6
+    },
+    {
+      "title": "Show HN: Oak – Git alternative designed for agents",
+      "url": "https://oak.space/oak/oak",
+      "score": 158
+    },
+    {
+      "title": "Canyon HUD helmet for road riding",
+      "url": "https://media-centre.canyon.com/en-INT/266866-new-canyon-heads-up-display-helmet-could-be-a-safety-gamechanger-for-road-riding/",
+      "score": 73
+    },
+    {
+      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
+      "url": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
+      "score": 1
+    },
+    {
+      "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+      "url": "https://ipvm.com/reports/police-chiefs-track",
+      "score": 413
+    },
+    {
+      "title": "Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages",
+      "url": "https://github.com/Amal-David/pagecast",
+      "score": 35
+    },
+    {
+      "title": "Prompt Injection as Role Confusion",
+      "url": "https://role-confusion.github.io",
+      "score": 163
+    },
+    {
+      "title": "Job application asked for my SAT scores",
+      "url": "https://mrmarket.lol/job-application-asked-for-my-sat-scores/",
+      "score": 100
+    },
+    {
+      "title": "ytr: YouTube Radio for Emacs",
+      "url": "https://xenodium.com/ytr-youtube-radio-for-emacs",
+      "score": 69
+    },
+    {
+      "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center",
+      "url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
+      "score": 128
+    },
+    {
+      "title": "Help I accidentally a wigglegram",
+      "url": "https://lmao.center/blog/wiggle-accidents/",
+      "score": 499
+    },
+    {
+      "title": "Show HN: Got sick of ads, so I made my own logic puzzle site",
+      "url": "https://puzzlelair.com/",
+      "score": 151
+    },
+    {
+      "title": "DisplayMate",
+      "url": "https://www.displaymate.com/",
+      "score": 99
+    },
+    {
+      "title": "Deno Desktop",
+      "url": "https://docs.deno.com/runtime/desktop/",
+      "score": 1039
+    },
+    {
+      "title": "Pledging another $400k to the Zig software foundation",
+      "url": "https://mitchellh.com/writing/zig-donation-2026",
+      "score": 750
+    }
+  ]
+}
