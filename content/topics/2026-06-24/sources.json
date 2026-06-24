@@ -2,104 +2,144 @@
   "papers": [],
   "discussions": [
     {
-      "title": "We're making Bunny DNS free: because a faster internet won't build itself",
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "score": 209
+    },
+    {
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "url": "https://rubyllm.com/",
+      "score": 264
+    },
+    {
+      "title": "Thomann takes legal action against Fender",
+      "url": "https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/",
+      "score": 28
+    },
+    {
+      "title": "We’re making Bunny DNS free",
       "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-      "score": 463
+      "score": 724
     },
     {
-      "title": "Minimus container images are now free",
-      "url": "https://images.minimus.io/",
-      "score": 65
+      "title": "PR spam today looks like email spam in the early 2000s",
+      "url": "https://www.greptile.com/blog/prs-on-openclaw",
+      "score": 91
     },
     {
-      "title": "Krea 2 Technical Report",
-      "url": "https://www.krea.ai/blog/krea-2-technical-report",
-      "score": 85
+      "title": "There are a few things that I look back on as my mistakes in the early days",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+      "score": 385
+    },
+    {
+      "title": "Computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+      "score": 79
+    },
+    {
+      "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
+      "url": "https://github.com/nubjs/nub",
+      "score": 149
+    },
+    {
+      "title": "I taught a bucket to speak Git",
+      "url": "https://www.tigrisdata.com/blog/objgit/",
+      "score": 56
     },
     {
       "title": "Stealing Is a Skill",
       "url": "https://ben-mini.com/2026/stealing-is-a-skill",
-      "score": 28
+      "score": 155
     },
     {
-      "title": "Too many R packages: CRAN is inundated with submissions",
-      "url": "https://rworks.dev/posts/too-many-R-packages/",
-      "score": 54
+      "title": "Krea 2: SOTA open-weights 12B image model",
+      "url": "https://www.krea.ai/blog/krea-2-technical-report",
+      "score": 241
+    },
+    {
+      "title": "Running Windows Games on a Hobby OS with Wine",
+      "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
+      "score": 69
+    },
+    {
+      "title": "Pull request limits are cutting down the noise",
+      "url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
+      "score": 39
+    },
+    {
+      "title": "I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code",
+      "url": "https://posthog.com/blog/sql-parser",
+      "score": 33
+    },
+    {
+      "title": "Journalism is rearranging the deckchairs. It needs to reinvent itself",
+      "url": "https://werd.io/journalism-is-rearranging-the-deckchairs-it-needs-to-reinvent-itself/",
+      "score": 32
+    },
+    {
+      "title": "Show HN: Monolisa v3 – a typeface for developers and creatives",
+      "url": "https://www.monolisa.dev/",
+      "score": 120
+    },
+    {
+      "title": "Big AI labs are hiring philosophers",
+      "url": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
+      "score": 20
     },
     {
       "title": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
       "url": "https://labs.iximiuz.com/tutorials/ssh-tunnels",
-      "score": 38
+      "score": 194
     },
     {
-      "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
-      "url": "https://paolino.me/founding-a-company-in-germany/",
-      "score": 230
+      "title": "Genuinely, my all-time favourite image: Mamenchisaurus hochuanensis",
+      "url": "https://svpow.com/2026/06/04/genuinely-my-all-time-favourite-image-mamenchisaurus-hochuanensis/",
+      "score": 69
     },
     {
-      "title": "Statistics that live in your SQL",
-      "url": "https://kolistat.com/blog/the-stats-duck-v0-6-0/",
-      "score": 79
+      "title": "Self-Harness: Harnesses That Improve Themselves",
+      "url": "https://arxiv.org/abs/2606.09498",
+      "score": 34
     },
     {
-      "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
-      "url": "https://haystack.deepset.ai/",
-      "score": 25
+      "title": "Why eval startups fail (2025)",
+      "url": "https://thomasliao.com/eval-startups",
+      "score": 75
     },
     {
-      "title": "Vulnerability reports are not special anymore",
-      "url": "https://words.filippo.io/vuln-reports/",
-      "score": 340
+      "title": "Too many R packages: CRAN is inundated with submissions",
+      "url": "https://rworks.dev/posts/too-many-R-packages/",
+      "score": 82
     },
     {
-      "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
-      "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
-      "score": 193
+      "title": "Show HN: peerd – AI agent harness that runs entirely in your browser",
+      "url": "https://github.com/NotASithLord/peerd",
+      "score": 37
     },
     {
-      "title": "Jerry's Map",
-      "url": "http://www.jerrysmap.com/the-map",
-      "score": 536
+      "title": "NSA lost access to Mythos amid Anthropic dispute",
+      "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
+      "score": 140
     },
     {
-      "title": "In memory of the man who put red and green squiggles under words",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
-      "score": 505
+      "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
+      "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
+      "score": 143
     },
     {
-      "title": "François Englert (1932 – 2026)",
-      "url": "https://home.cern/francois-englert-1932-2026/",
-      "score": 29
+      "title": "Boffin claims Microsoft’s “quantum leap” is invalid due to “basic Python errors”",
+      "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
+      "score": 119
     },
     {
-      "title": "FUTO Swipe – A new swipe typing model",
-      "url": "https://swipe.futo.tech/",
-      "score": 619
+      "title": "Show HN: Pure Effect – Reproduce production bugs on your laptop without a DB",
+      "url": "https://pure-effect.org",
+      "score": 48
     },
     {
-      "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
-      "url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
-      "score": 154
-    },
-    {
-      "title": "Qwen-AgentWorld: Language World Models for General Agents",
-      "url": "https://arxiv.org/abs/2606.24597",
-      "score": 155
-    },
-    {
-      "title": "Mark Zuckerberg wants Meta to launch its own prediction market",
-      "url": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/",
-      "score": 15
-    },
-    {
-      "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
-      "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
-      "score": 116
-    },
-    {
-      "title": "Printing Gaussian Splats",
-      "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
-      "score": 344
+      "title": "Wikipedia Workers to Seek Union Recognition",
+      "url": "https://www.cwu.org/press_release/wikipedia-workers-to-seek-union-recognition/",
+      "score": 4
     },
     {
       "title": "Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design",
@@ -107,49 +147,9 @@
       "score": 1
     },
     {
-      "title": "Vector Graphics in Lil",
-      "url": "http://beyondloom.com/blog/vectorgraphics.html",
-      "score": 33
-    },
-    {
-      "title": "Rhombus Language 1.0",
-      "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
-      "score": 206
-    },
-    {
-      "title": "Cointegration and Long-Horizon Forecasting (2025)",
-      "url": "https://www.philadelphiafed.org/the-economy/cointegration-and-long-horizon-forecasting",
-      "score": 7
-    },
-    {
-      "title": "A deadly fungus that can infect cats and people is spreading",
-      "url": "https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading",
-      "score": 119
-    },
-    {
-      "title": "Slate EV truck starts at $24,950",
-      "url": "https://www.slate.auto/en",
-      "score": 124
-    },
-    {
-      "title": "The worthlessness of Vitamin D is mildly exaggerated",
-      "url": "https://dynomight.net/vitamin-d/",
-      "score": 345
-    },
-    {
-      "title": "Swift Package Index joins Apple",
-      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-      "score": 220
-    },
-    {
-      "title": "Remaking BBC test cards to teach you video processing",
-      "url": "https://www.youtube.com/watch?v=U_6HxPkrgcg",
-      "score": 63
-    },
-    {
-      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
-      "url": "https://tikz.dev/editor/",
-      "score": 421
+      "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
+      "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
+      "score": 238
     }
   ]
 }
