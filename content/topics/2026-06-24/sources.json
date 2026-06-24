@@ -4,152 +4,152 @@
     {
       "title": "Vulnerability reports are not special anymore",
       "url": "https://words.filippo.io/vuln-reports/",
-      "score": 108
+      "score": 263
+    },
+    {
+      "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
+      "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
+      "score": 127
     },
     {
       "title": "Jerry's Map",
       "url": "http://www.jerrysmap.com/the-map",
-      "score": 354
+      "score": 463
     },
     {
-      "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
-      "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
-      "score": 100
+      "title": "Why eval startups fail (2025)",
+      "url": "https://thomasliao.com/eval-startups",
+      "score": 16
+    },
+    {
+      "title": "Show HN: An ASCII 3D Rendering Engine",
+      "url": "https://glyphcss.com",
+      "score": 121
     },
     {
       "title": "FUTO Swipe – A new swipe typing model",
       "url": "https://swipe.futo.tech/",
-      "score": 327
+      "score": 534
     },
     {
       "title": "In memory of the man who put red and green squiggles under words",
       "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
-      "score": 202
+      "score": 370
+    },
+    {
+      "title": "Qwen-AgentWorld: Language World Models for General Agents",
+      "url": "https://arxiv.org/abs/2606.24597",
+      "score": 100
+    },
+    {
+      "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
+      "url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
+      "score": 90
     },
     {
       "title": "Printing Gaussian Splats",
       "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
-      "score": 204
+      "score": 298
     },
     {
-      "title": "Usbliter8: an A12/A13 SecureROM Exploit",
-      "url": "https://ps.tc/pages/blog-usbliter8.html",
-      "score": 93
+      "title": "Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design",
+      "url": "https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn",
+      "score": 1
     },
     {
-      "title": "Swift Package Index joins Apple",
-      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-      "score": 182
-    },
-    {
-      "title": "Extreme Heat conference cancelled due to extreme heat warning",
-      "url": "https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/",
-      "score": 198
+      "title": "Remaking BBC test cards to teach you video processing",
+      "url": "https://www.youtube.com/watch?v=U_6HxPkrgcg",
+      "score": 37
     },
     {
       "title": "Rhombus Language 1.0",
       "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
-      "score": 91
+      "score": 160
     },
     {
-      "title": "The war on terror primed America for autocracy",
-      "url": "https://www.economist.com/by-invitation/2026/06/02/how-the-war-on-terror-primed-america-for-autocracy",
-      "score": 60
+      "title": "Swift Package Index joins Apple",
+      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+      "score": 204
+    },
+    {
+      "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
+      "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+      "score": 171
+    },
+    {
+      "title": "Usbliter8: an A12/A13 SecureROM Exploit",
+      "url": "https://ps.tc/pages/blog-usbliter8.html",
+      "score": 139
     },
     {
       "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
       "url": "https://tikz.dev/editor/",
-      "score": 344
-    },
-    {
-      "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
-      "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
-      "score": 92
-    },
-    {
-      "title": "The Coming Loop",
-      "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
-      "score": 347
+      "score": 389
     },
     {
       "title": "The worthlessness of Vitamin D is mildly exaggerated",
       "url": "https://dynomight.net/vitamin-d/",
-      "score": 224
-    },
-    {
-      "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
-      "url": "https://github.com/End2End-Diffusion/diffusion-bench",
-      "score": 6
-    },
-    {
-      "title": "Let's say you're hungry for a sandwich",
-      "url": "https://beige.party/@Lana/116795397010653803",
-      "score": 30
-    },
-    {
-      "title": "Inventing the Future, One Lisp Machine at a Time",
-      "url": "https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/",
-      "score": 81
-    },
-    {
-      "title": "Hunting Million-Digit Primes from My Loft",
-      "url": "https://primecrunch.com/blog/2/hunting-million-digit-primes-from-my-loft",
-      "score": 4
-    },
-    {
-      "title": "F* file system – file search that reads SSD directly bypassing OS kernel",
-      "url": "https://github.com/dmtrKovalenko/ffs",
-      "score": 45
-    },
-    {
-      "title": "QSOE: QNX-inspired OS with dual-kernel architecture",
-      "url": "https://qsoe-dev.blogspot.com/2026/06/qsoe-project-v01-is-released.html",
-      "score": 30
-    },
-    {
-      "title": "Show HN: RLM-based local debugger for AI agent traces",
-      "url": "https://github.com/context-labs/halo",
-      "score": 12
-    },
-    {
-      "title": "Millimeter wave technology drills 100 meters into granite",
-      "url": "https://www.thinkgeoenergy.com/quaise-energy-achieves-100-meters-of-drilling-using-millimeter-wave-technology/",
-      "score": 104
-    },
-    {
-      "title": "How to move a beluga across the world",
-      "url": "https://www.cbc.ca/news/canada/hamilton/moving-marineland-beluga-whales-9.7233160",
-      "score": 7
+      "score": 292
     },
     {
       "title": "Dirty Little Zine – a tool for making an 8 page printable Zine",
       "url": "https://dirtylittlezine.com/",
-      "score": 72
+      "score": 122
     },
     {
-      "title": "I can haz smoller NixOS ISOs?",
-      "url": "https://natkr.com/2026-06-19-nixos-but-smol/",
-      "score": 27
+      "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+      "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
+      "score": 239
     },
     {
-      "title": "The Low-Tech AI of Elden Ring",
-      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
-      "score": 115
+      "title": "Show HN: Graphical SQL Builder and Debugger",
+      "url": "https://github.com/webofmarius/SQLJoiner",
+      "score": 9
     },
     {
-      "title": "Five monitors on a Commodore 128 [video]",
-      "url": "https://www.youtube.com/watch?v=ul5hC3PY1Yg",
-      "score": 109
+      "title": "Millimeter wave technology drills 100 meters into granite",
+      "url": "https://www.thinkgeoenergy.com/quaise-energy-achieves-100-meters-of-drilling-using-millimeter-wave-technology/",
+      "score": 154
+    },
+    {
+      "title": "Lithp.py (~2008)",
+      "url": "https://fogus.me/fun/lithp/",
+      "score": 19
+    },
+    {
+      "title": "The Teensy Executable Revisited",
+      "url": "https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html",
+      "score": 37
+    },
+    {
+      "title": "Inventing the Future, One Lisp Machine at a Time",
+      "url": "https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/",
+      "score": 100
+    },
+    {
+      "title": "F* file system – file search that reads SSD directly bypassing OS kernel",
+      "url": "https://github.com/dmtrKovalenko/ffs",
+      "score": 70
     },
     {
       "title": "Fired by Google for creating the Google workspace CLI",
       "url": "https://twitter.com/JPoehnelt/status/2069482265953087602",
-      "score": 332
+      "score": 523
     },
     {
-      "title": "Samsung demonstrates 3D stacked FETs with triple nanosheet channels at 42nm",
-      "url": "https://semiconductor.samsung.com/news-events/tech-blog/from-gaa-to-3d-stacked-fet-expanding-the-transistor-into-the-third-dimension/",
-      "score": 101
+      "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+      "url": "https://github.com/End2End-Diffusion/diffusion-bench",
+      "score": 34
+    },
+    {
+      "title": "The Low-Tech AI of Elden Ring",
+      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+      "score": 147
+    },
+    {
+      "title": "Five monitors on a Commodore 128 [video]",
+      "url": "https://www.youtube.com/watch?v=ul5hC3PY1Yg",
+      "score": 123
     }
   ]
 }
