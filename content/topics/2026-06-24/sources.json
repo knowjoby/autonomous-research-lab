@@ -2,54 +2,104 @@
   "papers": [],
   "discussions": [
     {
+      "title": "We're making Bunny DNS free: because a faster internet won't build itself",
+      "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
+      "score": 463
+    },
+    {
+      "title": "Minimus container images are now free",
+      "url": "https://images.minimus.io/",
+      "score": 65
+    },
+    {
+      "title": "Krea 2 Technical Report",
+      "url": "https://www.krea.ai/blog/krea-2-technical-report",
+      "score": 85
+    },
+    {
+      "title": "Stealing Is a Skill",
+      "url": "https://ben-mini.com/2026/stealing-is-a-skill",
+      "score": 28
+    },
+    {
+      "title": "Too many R packages: CRAN is inundated with submissions",
+      "url": "https://rworks.dev/posts/too-many-R-packages/",
+      "score": 54
+    },
+    {
+      "title": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
+      "url": "https://labs.iximiuz.com/tutorials/ssh-tunnels",
+      "score": 38
+    },
+    {
+      "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
+      "url": "https://paolino.me/founding-a-company-in-germany/",
+      "score": 230
+    },
+    {
+      "title": "Statistics that live in your SQL",
+      "url": "https://kolistat.com/blog/the-stats-duck-v0-6-0/",
+      "score": 79
+    },
+    {
+      "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
+      "url": "https://haystack.deepset.ai/",
+      "score": 25
+    },
+    {
       "title": "Vulnerability reports are not special anymore",
       "url": "https://words.filippo.io/vuln-reports/",
-      "score": 263
+      "score": 340
     },
     {
       "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
       "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
-      "score": 127
+      "score": 193
     },
     {
       "title": "Jerry's Map",
       "url": "http://www.jerrysmap.com/the-map",
-      "score": 463
-    },
-    {
-      "title": "Why eval startups fail (2025)",
-      "url": "https://thomasliao.com/eval-startups",
-      "score": 16
-    },
-    {
-      "title": "Show HN: An ASCII 3D Rendering Engine",
-      "url": "https://glyphcss.com",
-      "score": 121
-    },
-    {
-      "title": "FUTO Swipe – A new swipe typing model",
-      "url": "https://swipe.futo.tech/",
-      "score": 534
+      "score": 536
     },
     {
       "title": "In memory of the man who put red and green squiggles under words",
       "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
-      "score": 370
+      "score": 505
     },
     {
-      "title": "Qwen-AgentWorld: Language World Models for General Agents",
-      "url": "https://arxiv.org/abs/2606.24597",
-      "score": 100
+      "title": "François Englert (1932 – 2026)",
+      "url": "https://home.cern/francois-englert-1932-2026/",
+      "score": 29
+    },
+    {
+      "title": "FUTO Swipe – A new swipe typing model",
+      "url": "https://swipe.futo.tech/",
+      "score": 619
     },
     {
       "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
       "url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
-      "score": 90
+      "score": 154
+    },
+    {
+      "title": "Qwen-AgentWorld: Language World Models for General Agents",
+      "url": "https://arxiv.org/abs/2606.24597",
+      "score": 155
+    },
+    {
+      "title": "Mark Zuckerberg wants Meta to launch its own prediction market",
+      "url": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/",
+      "score": 15
+    },
+    {
+      "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
+      "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
+      "score": 116
     },
     {
       "title": "Printing Gaussian Splats",
       "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
-      "score": 298
+      "score": 344
     },
     {
       "title": "Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design",
@@ -57,99 +107,49 @@
       "score": 1
     },
     {
-      "title": "Remaking BBC test cards to teach you video processing",
-      "url": "https://www.youtube.com/watch?v=U_6HxPkrgcg",
-      "score": 37
+      "title": "Vector Graphics in Lil",
+      "url": "http://beyondloom.com/blog/vectorgraphics.html",
+      "score": 33
     },
     {
       "title": "Rhombus Language 1.0",
       "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
-      "score": 160
+      "score": 206
     },
     {
-      "title": "Swift Package Index joins Apple",
-      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-      "score": 204
+      "title": "Cointegration and Long-Horizon Forecasting (2025)",
+      "url": "https://www.philadelphiafed.org/the-economy/cointegration-and-long-horizon-forecasting",
+      "score": 7
     },
     {
-      "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
-      "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
-      "score": 171
+      "title": "A deadly fungus that can infect cats and people is spreading",
+      "url": "https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading",
+      "score": 119
     },
     {
-      "title": "Usbliter8: an A12/A13 SecureROM Exploit",
-      "url": "https://ps.tc/pages/blog-usbliter8.html",
-      "score": 139
-    },
-    {
-      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
-      "url": "https://tikz.dev/editor/",
-      "score": 389
+      "title": "Slate EV truck starts at $24,950",
+      "url": "https://www.slate.auto/en",
+      "score": 124
     },
     {
       "title": "The worthlessness of Vitamin D is mildly exaggerated",
       "url": "https://dynomight.net/vitamin-d/",
-      "score": 292
+      "score": 345
     },
     {
-      "title": "Dirty Little Zine – a tool for making an 8 page printable Zine",
-      "url": "https://dirtylittlezine.com/",
-      "score": 122
+      "title": "Swift Package Index joins Apple",
+      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+      "score": 220
     },
     {
-      "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
-      "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
-      "score": 239
+      "title": "Remaking BBC test cards to teach you video processing",
+      "url": "https://www.youtube.com/watch?v=U_6HxPkrgcg",
+      "score": 63
     },
     {
-      "title": "Show HN: Graphical SQL Builder and Debugger",
-      "url": "https://github.com/webofmarius/SQLJoiner",
-      "score": 9
-    },
-    {
-      "title": "Millimeter wave technology drills 100 meters into granite",
-      "url": "https://www.thinkgeoenergy.com/quaise-energy-achieves-100-meters-of-drilling-using-millimeter-wave-technology/",
-      "score": 154
-    },
-    {
-      "title": "Lithp.py (~2008)",
-      "url": "https://fogus.me/fun/lithp/",
-      "score": 19
-    },
-    {
-      "title": "The Teensy Executable Revisited",
-      "url": "https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html",
-      "score": 37
-    },
-    {
-      "title": "Inventing the Future, One Lisp Machine at a Time",
-      "url": "https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/",
-      "score": 100
-    },
-    {
-      "title": "F* file system – file search that reads SSD directly bypassing OS kernel",
-      "url": "https://github.com/dmtrKovalenko/ffs",
-      "score": 70
-    },
-    {
-      "title": "Fired by Google for creating the Google workspace CLI",
-      "url": "https://twitter.com/JPoehnelt/status/2069482265953087602",
-      "score": 523
-    },
-    {
-      "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
-      "url": "https://github.com/End2End-Diffusion/diffusion-bench",
-      "score": 34
-    },
-    {
-      "title": "The Low-Tech AI of Elden Ring",
-      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
-      "score": 147
-    },
-    {
-      "title": "Five monitors on a Commodore 128 [video]",
-      "url": "https://www.youtube.com/watch?v=ul5hC3PY1Yg",
-      "score": 123
+      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+      "url": "https://tikz.dev/editor/",
+      "score": 421
     }
   ]
 }
