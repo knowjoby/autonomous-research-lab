@@ -2,149 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "An entire Herculaneum scroll has been read for the first time",
+      "url": "https://scrollprize.org/firstscroll",
+      "score": 468
+    },
+    {
+      "title": "Oxide computer 3D rack guided tour",
+      "url": "https://explorer.oxide.computer/",
+      "score": 123
+    },
+    {
+      "title": "IBM debuts sub-1 nanometer chip technology",
+      "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+      "score": 154
+    },
+    {
+      "title": "Zig's new bitCast semantics and LLVM back end improvements",
+      "url": "https://ziglang.org/devlog/2026/#2026-06-25",
+      "score": 164
+    },
+    {
+      "title": "OS9Map",
+      "url": "https://yllan.org/software/OS9Map/",
+      "score": 109
+    },
+    {
+      "title": "Show HN: Chess-Inspired Roguelike",
+      "url": "https://princechazz.com",
+      "score": 86
+    },
+    {
+      "title": "Apple raises prices of MacBooks, iPads",
+      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+      "score": 430
+    },
+    {
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "url": "https://github.com/inkeep/open-knowledge",
+      "score": 37
+    },
+    {
       "title": "You can't unit test for taste",
       "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
-      "score": 87
+      "score": 207
     },
     {
       "title": "Half-Life 2 in a Browser",
       "url": "https://hl2.slqnt.dev/",
-      "score": 443
+      "score": 597
     },
     {
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 596
+      "title": "Early adversity leaves lasting molecular imprint across the body: primate study",
+      "url": "https://medicalxpress.com/news/2026-06-early-life-adversity-molecular-imprint.html",
+      "score": 47
+    },
+    {
+      "title": "Besimple AI (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
+      "score": 1
+    },
+    {
+      "title": "I built a GPU back end for Emacs",
+      "url": "https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/",
+      "score": 126
+    },
+    {
+      "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+      "url": "https://hackernewstrends.com",
+      "score": 521
+    },
+    {
+      "title": "The annotated PyTorch training loop",
+      "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
+      "score": 17
+    },
+    {
+      "title": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
+      "url": "https://github.com/decrazyo/anes",
+      "score": 53
+    },
+    {
+      "title": "Windows 10 quietly gets one more year of support and updates",
+      "url": "https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/",
+      "score": 165
+    },
+    {
+      "title": "Tw-fade: pure CSS scroll-driven edge masking",
+      "url": "https://pete.design/tw-fade",
+      "score": 62
+    },
+    {
+      "title": "How physicists track and trap the elusive neutrino",
+      "url": "https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/",
+      "score": 38
+    },
+    {
+      "title": "52-hertz whale",
+      "url": "https://en.wikipedia.org/wiki/52-hertz_whale",
+      "score": 71
     },
     {
       "title": "Show HN: Turn native language audio into flashcards and shadowing practice",
       "url": "https://lingochunk.com/try",
-      "score": 19
+      "score": 64
     },
     {
-      "title": "The Disappearance of Japan's Animators",
+      "title": "The disappearance of Japan's animators",
       "url": "https://economist.com/interactive/1843/2026/06/19/the-strange-disappearance-of-japans-animators",
-      "score": 25
+      "score": 93
     },
     {
-      "title": "UN hypocrisy in AI Environmental demands",
-      "url": "https://www.thatprivacyguy.com/blog/un-tracking-without-consent/",
-      "score": 5
+      "title": "OAuth for all",
+      "url": "https://blog.cloudflare.com/oauth-for-all/",
+      "score": 336
+    },
+    {
+      "title": "Political bias in AI: Where the AI models stand",
+      "url": "https://trakkr.ai/bias",
+      "score": 61
     },
     {
       "title": "LastPass notifies users of yet another data breach",
       "url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
-      "score": 202
+      "score": 423
     },
     {
-      "title": "Puzzling Success of Overparameterization: Lottery Tickets or Escape Dimensions?",
-      "url": "https://infoscience.epfl.ch/entities/publication/9a49779b-f9f8-448d-b3d1-737c78455309",
-      "score": 27
+      "title": "Supreme Court Gives Pesticide Corporations Immunity from Cancer Lawsuits",
+      "url": "https://www.foodandwaterwatch.org/2026/06/25/supreme-court-gives-pesticide-corporations-immunity-from-cancer-lawsuits/",
+      "score": 22
     },
     {
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 757
+      "title": "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs",
+      "url": "https://minipcs.zip",
+      "score": 78
     },
     {
-      "title": "Cloudflare launched self-managed OAuth for all",
-      "url": "https://blog.cloudflare.com/oauth-for-all/",
-      "score": 257
-    },
-    {
-      "title": "Federal agents track down woman, demand she remove Instagram post about ICE",
-      "url": "https://www.syracuse.com/news/2026/06/federal-agents-track-down-syracuse-woman-demand-she-remove-instagram-post-about-ice.html",
-      "score": 27
-    },
-    {
-      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-      "url": "https://utaw.tech/news/wikipedia-recognition",
-      "score": 153
-    },
-    {
-      "title": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
-      "url": "https://github.com/BohemiaInteractive/CWR",
-      "score": 149
+      "title": "How to get your first customers [video]",
+      "url": "https://www.ycombinator.com/library/SF-how-to-get-your-first-10-customers",
+      "score": 58
     },
     {
       "title": "Blogging can just be stating the obvious",
       "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-      "score": 337
+      "score": 423
     },
     {
-      "title": "LuaJIT 3.0 proposed syntax extensions",
-      "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
-      "score": 192
-    },
-    {
-      "title": "45°C cooling design cuts data center water use to near zero",
-      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-      "score": 407
-    },
-    {
-      "title": "Medical students are using popular research tool to pump out misleading studies",
-      "url": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
-      "score": 104
-    },
-    {
-      "title": "Where every major LLM stands politically",
-      "url": "https://trakkr.ai/bias",
-      "score": 13
-    },
-    {
-      "title": "GLM-5.2 is a step change for open agents",
-      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-      "score": 296
-    },
-    {
-      "title": "Countries are competing to see which can carry out mass surveillance the best",
-      "url": "https://mullvad.net/en/why-privacy-matters/state-mass-surveillance",
-      "score": 184
-    },
-    {
-      "title": "Lies, Damn Lies and Database Benchmarks",
-      "url": "https://questdb.com/blog/lies-damn-lies-and-database-benchmarks/",
-      "score": 36
-    },
-    {
-      "title": "Show HN: StartupsBR – A map of Brazilian startups",
-      "url": "https://www.startupsbr.com/sao-paulo",
-      "score": 41
-    },
-    {
-      "title": "Dostoyevsky isn't difficult",
-      "url": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
-      "score": 186
-    },
-    {
-      "title": "Words, Words, Words",
-      "url": "https://aeon.co/essays/literature-fans-should-welcome-ai-as-a-fellow-wordsmith",
-      "score": 22
-    },
-    {
-      "title": "Dolphin Emulator Progress Release 2606",
-      "url": "https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/",
-      "score": 169
-    },
-    {
-      "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "url": "https://rubyllm.com/",
-      "score": 416
-    },
-    {
-      "title": "Show HN: Secs-man, a secrets manager you can (not) rely on",
-      "url": "https://github.com/Fran314/secrets-manager-rs",
-      "score": 10
-    },
-    {
-      "title": "Qualcomm to Acquire Modular",
-      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
-      "score": 221
-    },
-    {
-      "title": "PR spam today looks like email spam in the early 2000s",
-      "url": "https://www.greptile.com/blog/prs-on-openclaw",
-      "score": 246
+      "title": "The unbearable cheapness of open weight models",
+      "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
+      "score": 122
     }
   ]
 }
