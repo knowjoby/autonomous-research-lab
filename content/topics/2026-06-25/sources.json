@@ -2,154 +2,149 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Half-Life 2 in a Browser",
-      "url": "https://hl2.slqnt.dev/",
-      "score": 206
+      "title": "You can't unit test for taste",
+      "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
+      "score": 87
     },
     {
-      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-      "url": "https://utaw.tech/news/wikipedia-recognition",
-      "score": 60
+      "title": "Half-Life 2 in a Browser",
+      "url": "https://hl2.slqnt.dev/",
+      "score": 443
     },
     {
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
       "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 404
+      "score": 596
+    },
+    {
+      "title": "Show HN: Turn native language audio into flashcards and shadowing practice",
+      "url": "https://lingochunk.com/try",
+      "score": 19
+    },
+    {
+      "title": "The Disappearance of Japan's Animators",
+      "url": "https://economist.com/interactive/1843/2026/06/19/the-strange-disappearance-of-japans-animators",
+      "score": 25
+    },
+    {
+      "title": "UN hypocrisy in AI Environmental demands",
+      "url": "https://www.thatprivacyguy.com/blog/un-tracking-without-consent/",
+      "score": 5
+    },
+    {
+      "title": "LastPass notifies users of yet another data breach",
+      "url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
+      "score": 202
+    },
+    {
+      "title": "Puzzling Success of Overparameterization: Lottery Tickets or Escape Dimensions?",
+      "url": "https://infoscience.epfl.ch/entities/publication/9a49779b-f9f8-448d-b3d1-737c78455309",
+      "score": 27
     },
     {
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
       "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 698
+      "score": 757
     },
     {
       "title": "Cloudflare launched self-managed OAuth for all",
       "url": "https://blog.cloudflare.com/oauth-for-all/",
-      "score": 157
+      "score": 257
     },
     {
-      "title": "LuaJIT 3.0 proposed syntax extensions",
-      "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
-      "score": 154
+      "title": "Federal agents track down woman, demand she remove Instagram post about ICE",
+      "url": "https://www.syracuse.com/news/2026/06/federal-agents-track-down-syracuse-woman-demand-she-remove-instagram-post-about-ice.html",
+      "score": 27
     },
     {
-      "title": "Blogging can just be stating the obvious",
-      "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-      "score": 225
+      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+      "url": "https://utaw.tech/news/wikipedia-recognition",
+      "score": 153
     },
     {
       "title": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
       "url": "https://github.com/BohemiaInteractive/CWR",
-      "score": 55
+      "score": 149
     },
     {
-      "title": "Markdy: Like Mermaid Diagrams, but for Motion",
-      "url": "https://markdy.com",
-      "score": 57
+      "title": "Blogging can just be stating the obvious",
+      "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+      "score": 337
     },
     {
-      "title": "Medical students are using popular research tool to pump out misleading studies",
-      "url": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
-      "score": 51
-    },
-    {
-      "title": "Dostoyevsky isn't difficult",
-      "url": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
-      "score": 148
+      "title": "LuaJIT 3.0 proposed syntax extensions",
+      "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+      "score": 192
     },
     {
       "title": "45°C cooling design cuts data center water use to near zero",
       "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-      "score": 327
+      "score": 407
     },
     {
-      "title": "Zombie unicorns are haunting Silicon Valley",
-      "url": "https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley",
-      "score": 95
+      "title": "Medical students are using popular research tool to pump out misleading studies",
+      "url": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
+      "score": 104
     },
     {
-      "title": "Qualcomm to Acquire Modular",
-      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
-      "score": 197
-    },
-    {
-      "title": "Show HN: Nimic – Pure Python as a systems language with AOT compilation",
-      "url": "https://github.com/dima-quant/nimic",
-      "score": 11
+      "title": "Where every major LLM stands politically",
+      "url": "https://trakkr.ai/bias",
+      "score": 13
     },
     {
       "title": "GLM-5.2 is a step change for open agents",
       "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-      "score": 229
+      "score": 296
     },
     {
-      "title": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
-      "url": "https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported",
-      "score": 5
+      "title": "Countries are competing to see which can carry out mass surveillance the best",
+      "url": "https://mullvad.net/en/why-privacy-matters/state-mass-surveillance",
+      "score": 184
     },
     {
-      "title": "The Unbearable Cheapness of Open Weight Models",
-      "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
-      "score": 63
+      "title": "Lies, Damn Lies and Database Benchmarks",
+      "url": "https://questdb.com/blog/lies-damn-lies-and-database-benchmarks/",
+      "score": 36
+    },
+    {
+      "title": "Show HN: StartupsBR – A map of Brazilian startups",
+      "url": "https://www.startupsbr.com/sao-paulo",
+      "score": 41
+    },
+    {
+      "title": "Dostoyevsky isn't difficult",
+      "url": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
+      "score": 186
+    },
+    {
+      "title": "Words, Words, Words",
+      "url": "https://aeon.co/essays/literature-fans-should-welcome-ai-as-a-fellow-wordsmith",
+      "score": 22
+    },
+    {
+      "title": "Dolphin Emulator Progress Release 2606",
+      "url": "https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/",
+      "score": 169
     },
     {
       "title": "RubyLLM: A Ruby framework for all major AI providers",
       "url": "https://rubyllm.com/",
-      "score": 386
+      "score": 416
+    },
+    {
+      "title": "Show HN: Secs-man, a secrets manager you can (not) rely on",
+      "url": "https://github.com/Fran314/secrets-manager-rs",
+      "score": 10
+    },
+    {
+      "title": "Qualcomm to Acquire Modular",
+      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+      "score": 221
     },
     {
       "title": "PR spam today looks like email spam in the early 2000s",
       "url": "https://www.greptile.com/blog/prs-on-openclaw",
-      "score": 219
-    },
-    {
-      "title": "Mixing Visual and Textual Code",
-      "url": "https://arxiv.org/abs/2603.15855",
-      "score": 49
-    },
-    {
-      "title": "Computer use in Gemini 3.5 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-      "score": 215
-    },
-    {
-      "title": "The Xteink X4 E-Ink Reader",
-      "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-      "score": 247
-    },
-    {
-      "title": "Shall We Play a Coordination Game?",
-      "url": "https://kellyshortridge.com/blog/posts/shall-we-play-a-coordination-game/",
-      "score": 4
-    },
-    {
-      "title": "Show HN: Write SaaS apps where users control where their data is stored",
-      "url": "https://github.com/wolfoo2931/linkedrecords/",
-      "score": 46
-    },
-    {
-      "title": "Matt's Script Archive: The Scripts That Reshaped the Web",
-      "url": "https://tedium.co/2026/06/22/matts-script-archive-retrospective/",
-      "score": 47
-    },
-    {
-      "title": "Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?",
-      "url": "https://brainfrog.lol",
-      "score": 35
-    },
-    {
-      "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
-      "url": "https://github.com/nubjs/nub",
-      "score": 239
-    },
-    {
-      "title": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
-      "url": "https://labs.iximiuz.com/tutorials/ssh-tunnels",
-      "score": 330
-    },
-    {
-      "title": "15 sorting algorithms in 6 minutes (2013) [video]",
-      "url": "https://www.youtube.com/watch?v=kPRA0W1kECg",
-      "score": 30
+      "score": 246
     }
   ]
 }
