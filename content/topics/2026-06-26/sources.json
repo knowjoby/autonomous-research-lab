@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Incident CVE-2026-LGTM",
-      "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-      "score": 36
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "score": 457
+    },
+    {
+      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+      "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+      "score": 178
+    },
+    {
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "score": 209
+    },
+    {
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "url": "https://github.com/workweave/router",
+      "score": 86
+    },
+    {
+      "title": "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory",
+      "url": "https://gossamer-lang.org/",
+      "score": 15
+    },
+    {
+      "title": "Ultrasound imaging of the brain",
+      "url": "https://alephneuro.com/blog/ultrasound-brain",
+      "score": 168
     },
     {
       "title": "Om Malik has died",
       "url": "https://om.co/2026/06/24/1966-2026/",
-      "score": 1085
+      "score": 1240
     },
     {
       "title": "An entire Herculaneum scroll has been read for the first time",
       "url": "https://scrollprize.org/firstscroll",
-      "score": 1462
+      "score": 1595
     },
     {
-      "title": "Why have papers by one of history's most famous physicists been retracted?",
+      "title": "Modern GPU Programming for MLSys",
+      "url": "https://mlc.ai/modern-gpu-programming-for-mlsys/",
+      "score": 21
+    },
+    {
+      "title": "What is a Lithium-ion capacitor?",
+      "url": "https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html",
+      "score": 29
+    },
+    {
+      "title": "Liva AI (YC S25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
+      "score": 1
+    },
+    {
+      "title": "What Is a Nomogram and Why Would It Interest Me?",
+      "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
+      "score": 21
+    },
+    {
+      "title": "Springer Nature has removed two studies by Max Planck",
       "url": "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted",
-      "score": 4
-    },
-    {
-      "title": "Bipartite Matching Is in NC",
-      "url": "https://scottaaronson.blog/?p=9851",
-      "score": 57
+      "score": 293
     },
     {
       "title": "Libre Barcode Project",
       "url": "https://graphicore.github.io/librebarcode/",
-      "score": 220
+      "score": 264
     },
     {
-      "title": "The best thing that has ever happened for multiplayer games",
-      "url": "https://mas-bandwidth.com/the-best-thing-that-has-ever-happened-for-multiplayer-games/",
+      "title": "22-year-old Mozart's handwritten notebook unearthed in 'major discovery'",
+      "url": "https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/",
+      "score": 235
+    },
+    {
+      "title": "The \"Bizarre Headgear\" Exhibit at the Sam Noble Museum Is Incredible",
+      "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
       "score": 11
     },
     {
       "title": "What happened after 2k people tried to hack my AI assistant",
       "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
-      "score": 254
+      "score": 330
     },
     {
       "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
       "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
-      "score": 243
+      "score": 296
+    },
+    {
+      "title": "LaTeX.wasm: LaTeX Engines in Browsers",
+      "url": "https://www.swiftlatex.com/",
+      "score": 48
+    },
+    {
+      "title": "Bipartite Matching Is in NC",
+      "url": "https://scottaaronson.blog/?p=9851",
+      "score": 95
+    },
+    {
+      "title": "Incident CVE-2026-LGTM",
+      "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+      "score": 447
     },
     {
       "title": "Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter",
       "url": "https://github.com/DDecoene/WebBaseIII",
-      "score": 27
-    },
-    {
-      "title": "22-year-old Mozart's handwritten notebook unearthed in 'major discovery'",
-      "url": "https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/",
-      "score": 137
-    },
-    {
-      "title": "FEXPRs vs. vtable: how LispE interpreter works",
-      "url": "https://github.com/naver/lispe/wiki/2.7-FEXPR-vs.-vtable",
-      "score": 14
-    },
-    {
-      "title": "Ultrasound Imaging of the Brain",
-      "url": "https://alephneuro.com/blog/ultrasound-brain",
-      "score": 17
-    },
-    {
-      "title": "We all depend on open source. We will defend it together",
-      "url": "https://akrites.org/letter/",
-      "score": 348
-    },
-    {
-      "title": "The 'papers, please' era of the internet will decimate your privacy",
-      "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
-      "score": 884
+      "score": 62
     },
     {
       "title": "A game where you're an OS and have to manage processes, memory and I/O events",
       "url": "https://github.com/plbrault/youre-the-os",
-      "score": 284
+      "score": 335
+    },
+    {
+      "title": "The 'papers, please' era of the internet will decimate your privacy",
+      "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+      "score": 1049
     },
     {
       "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
       "url": "https://gchandbook.org/",
-      "score": 190
+      "score": 224
+    },
+    {
+      "title": "Jolla Phone (October 2026)",
+      "url": "https://commerce.jolla.com/products/jolla-phone-october-2026",
+      "score": 228
+    },
+    {
+      "title": "A US military exercise to launch a satellite on short notice",
+      "url": "https://arstechnica.com/space/2026/06/a-us-military-exercise-in-space-got-underway-with-barely-anyone-noticing/",
+      "score": 94
     },
     {
       "title": "Oxide computer 3D rack guided tour",
       "url": "https://explorer.oxide.computer/",
-      "score": 417
+      "score": 454
+    },
+    {
+      "title": "We all depend on open source. We will defend it together",
+      "url": "https://akrites.org/letter/",
+      "score": 422
     },
     {
       "title": "IBM debuts sub-1 nanometer chip technology",
       "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
-      "score": 350
-    },
-    {
-      "title": "Hey Nico, you didn't vibe code your data room but stole it from Papermark",
-      "url": "https://twitter.com/mfts0/status/2070080422482977095",
-      "score": 463
-    },
-    {
-      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-      "url": "https://github.com/inkeep/open-knowledge",
-      "score": 316
-    },
-    {
-      "title": "Show HN: Chess-Inspired Roguelike",
-      "url": "https://princechazz.com",
-      "score": 363
-    },
-    {
-      "title": "Un-0: Generating Images with Coupled Oscillators",
-      "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
-      "score": 169
-    },
-    {
-      "title": "Microbubbles in Medicine",
-      "url": "https://worksinprogress.co/issue/microbubbles/",
-      "score": 18
-    },
-    {
-      "title": "An oral history of Bank Python (2021)",
-      "url": "https://calpaterson.com/bank-python.html",
-      "score": 145
-    },
-    {
-      "title": "Apple raises prices of MacBooks, iPads",
-      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-      "score": 773
-    },
-    {
-      "title": "OS9Map",
-      "url": "https://yllan.org/software/OS9Map/",
-      "score": 248
-    },
-    {
-      "title": "Zig's new bitCast semantics and LLVM back end improvements",
-      "url": "https://ziglang.org/devlog/2026/#2026-06-25",
-      "score": 255
-    },
-    {
-      "title": "The Doorman's Fallacy in action",
-      "url": "https://rozumem.xyz/posts/17",
-      "score": 163
-    },
-    {
-      "title": "Record type inference for dummies",
-      "url": "http://haskellforall.com/2026/06/record-type-inference-for-dummies",
-      "score": 60
+      "score": 376
     }
   ]
 }
