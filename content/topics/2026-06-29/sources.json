@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
-      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
-      "score": 500
+      "title": "Rocketlab acquires Iridium",
+      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+      "score": 64
     },
     {
-      "title": "GLM 5.2 beats Claude in our benchmarks",
-      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-      "score": 876
+      "title": "What happens when you run a CUDA kernel?",
+      "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+      "score": 62
     },
     {
-      "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
-      "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-      "score": 140
+      "title": "Building Principia for Windows XP",
+      "url": "https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/",
+      "score": 60
     },
     {
-      "title": "Dissecting Apple's Sparse Image Format (ASIF)",
-      "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
-      "score": 86
-    },
-    {
-      "title": "NUMA: Cores, memory, and the distance between them",
-      "url": "https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them",
-      "score": 32
-    },
-    {
-      "title": "Age verification is just a precursor to automated attribution of speech",
-      "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
-      "score": 532
-    },
-    {
-      "title": "We found a bug in the hyper HTTP library",
-      "url": "https://blog.cloudflare.com/hyper-bug/",
-      "score": 68
-    },
-    {
-      "title": "Historical memory prices 1960-2026",
-      "url": "https://dam.stanford.edu/memory-prices.html",
-      "score": 318
-    },
-    {
-      "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
-      "url": "https://pudding.cool/2026/06/menu-story/",
-      "score": 374
-    },
-    {
-      "title": "Why did this journal retract two 1940s papers by Max Planck?",
-      "url": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
-      "score": 135
-    },
-    {
-      "title": "I used Claude Code to get a second opinion on my MRI",
-      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-      "score": 444
-    },
-    {
-      "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
-      "url": "https://arxiv.org/abs/2401.07013",
+      "title": "Mag 7 starting to underperform [pdf]",
+      "url": "https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf",
       "score": 102
     },
     {
-      "title": "Deciphering basmala",
-      "url": "https://blog.plover.com/lang/bismillah.html",
-      "score": 72
+      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+      "url": "https://humphri.es/blog/WATaBoy/",
+      "score": 17
     },
     {
-      "title": "Herdr: Agent multiplexer that lives in your terminal",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "score": 74
+      "title": "CachyOS June 2026 Release",
+      "url": "https://cachyos.org/blog/2606-june-release/",
+      "score": 17
     },
     {
-      "title": "Show HN: Zanagrams",
-      "url": "https://zanagrams.com/",
-      "score": 296
+      "title": "Sandia National Labs SA3000 8085 CPU",
+      "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
+      "score": 102
     },
     {
-      "title": "Tokenmaxxing is dead, long live tokenmaxxing",
-      "url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
-      "score": 156
+      "title": "Tidal AI Policy",
+      "url": "https://tidal.com/ai-policy",
+      "score": 168
+    },
+    {
+      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+      "score": 774
+    },
+    {
+      "title": "Venetian Bridge Brawls in 17th and 18th Century Art",
+      "url": "https://publicdomainreview.org/collection/venice-bridge-fights/",
+      "score": 8
+    },
+    {
+      "title": "Instagram is incorporating users' photos in ads for Meta Glasses",
+      "url": "https://twitter.com/i/status/2071277885646868536",
+      "score": 119
+    },
+    {
+      "title": "WebGL Without a GPU",
+      "url": "https://microlink.io/blog/webgl-without-a-gpu",
+      "score": 8
+    },
+    {
+      "title": "Pollen tried to remove my article and Google is assisting with it",
+      "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+      "score": 622
     },
     {
       "title": "Halvar's Guide to Entrepreneurship",
       "url": "https://thomasdullien.github.io/guides/entrepreneurship/",
-      "score": 5
+      "score": 102
     },
     {
-      "title": "The KIDS Act would require age checks to get online",
-      "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
-      "score": 499
+      "title": "Rebuilding the Computer Room",
+      "url": "https://alexwlchan.net/2026/computer-room/",
+      "score": 47
     },
     {
-      "title": "Let's Decode the Mystery Bytes [video]",
-      "url": "https://www.youtube.com/watch?v=GZqB4D_Do38",
-      "score": 7
+      "title": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing",
+      "url": "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing",
+      "score": 122
     },
     {
-      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
-      "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
-      "score": 127
+      "title": "Type-checked non-empty strings",
+      "url": "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html",
+      "score": 32
     },
     {
-      "title": "Professor denounces mass AI fraud on an exam at Brown",
-      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-      "score": 417
+      "title": "The Meadows of Medieval Summer",
+      "url": "https://www.historytoday.com/archive/out-margins/meadows-medieval-summer",
+      "score": 6
     },
     {
-      "title": "Model Training as Code",
-      "url": "https://aleph-alpha.com/en/blog/model-training-as-code/",
-      "score": 162
+      "title": "Studio Canal Movies purchased on PlayStation Store removed without refund",
+      "url": "https://www.playstation.com/en-gb/legal/psvideocontent/",
+      "score": 78
     },
     {
-      "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
-      "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
-      "score": 111
+      "title": "NUMA: Cores, memory, and the distance between them",
+      "url": "https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them",
+      "score": 93
     },
     {
-      "title": "The Baffling World of Masayoshi Son's Presentations (2020)",
-      "url": "https://www.bloomberg.com/news/features/2020-06-23/golden-geese-and-unicorns-inside-the-eccentric-presentations-of-masayoshi-son",
-      "score": 68
+      "title": "How we made WINDOW JOIN parallel and vectorized",
+      "url": "https://questdb.com/blog/window-join-parallel-vectorized/",
+      "score": 16
     },
     {
-      "title": "The Boeing 747 begins its final descent",
-      "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
-      "score": 193
+      "title": "DocumentDB – a MongoDB compatible open-source database",
+      "url": "https://documentdb.io/",
+      "score": 9
     },
     {
-      "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
-      "url": "https://www.openculture.com/2020/10/daisugi.html",
-      "score": 145
+      "title": "NixOS 26.05",
+      "url": "https://nixos.org/blog/announcements/2026/nixos-2605/",
+      "score": 8
     },
     {
-      "title": "Librepods: AirPods liberated",
-      "url": "https://github.com/librepods-org/librepods",
-      "score": 402
+      "title": "Dissecting Apple's Sparse Image Format (ASIF)",
+      "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
+      "score": 129
     },
     {
-      "title": "The Forgotten Castles of the Garamantes",
-      "url": "https://www.wildmanlife.com/the-forgotten-castles-of-the-garamantes/",
-      "score": 29
+      "title": "Age verification is just a precursor to automated attribution of speech",
+      "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+      "score": 792
     },
     {
-      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
-      "url": "https://github.com/openai/codex/issues/2847",
-      "score": 210
+      "title": "Herdr: Agent multiplexer that lives in your terminal",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "score": 115
     },
     {
-      "title": "More evidence is consistent with possible ancient life on Mars (2025)",
-      "url": "https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645",
-      "score": 96
+      "title": "We found a bug in the hyper HTTP library",
+      "url": "https://blog.cloudflare.com/hyper-bug/",
+      "score": 136
+    },
+    {
+      "title": "Historical memory prices 1960-2026",
+      "url": "https://dam.stanford.edu/memory-prices.html",
+      "score": 376
+    },
+    {
+      "title": "DeepSeek V4 Peak Valley Pricing Change",
+      "url": "https://www.kucoin.com/news/flash/deepseek-v4-launches-in-mid-july-with-peak-valley-pricing",
+      "score": 14
+    },
+    {
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "score": 1021
     }
   ]
 }
