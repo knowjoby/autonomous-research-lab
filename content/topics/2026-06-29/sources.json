@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "score": 313
+    },
+    {
       "title": "Rocketlab acquires Iridium",
       "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "score": 64
+      "score": 268
     },
     {
-      "title": "What happens when you run a CUDA kernel?",
-      "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-      "score": 62
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
+      "score": 53
     },
     {
-      "title": "Building Principia for Windows XP",
-      "url": "https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/",
-      "score": 60
+      "title": "A native graphical shell for SSH",
+      "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+      "score": 146
     },
     {
-      "title": "Mag 7 starting to underperform [pdf]",
-      "url": "https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf",
-      "score": 102
+      "title": "The Radiation Exposure Lie",
+      "url": "https://worksinprogress.co/issue/how-to-lie-about-radiation/",
+      "score": 69
     },
     {
       "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
       "url": "https://humphri.es/blog/WATaBoy/",
-      "score": 17
+      "score": 134
     },
     {
-      "title": "CachyOS June 2026 Release",
-      "url": "https://cachyos.org/blog/2606-june-release/",
-      "score": 17
+      "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
+      "url": "https://lucassifoni.info/blog/hiking-with-wallace/",
+      "score": 48
     },
     {
-      "title": "Sandia National Labs SA3000 8085 CPU",
-      "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
-      "score": 102
+      "title": "US Supreme Court rules geofence warrants require constitutional protections",
+      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+      "score": 255
     },
     {
-      "title": "Tidal AI Policy",
-      "url": "https://tidal.com/ai-policy",
-      "score": 168
+      "title": "What happens when you run a CUDA kernel?",
+      "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+      "score": 163
+    },
+    {
+      "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
+      "url": "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/",
+      "score": 222
     },
     {
       "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
       "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
-      "score": 774
+      "score": 921
+    },
+    {
+      "title": "JumpServer: Open-Source Privileged Access Management",
+      "url": "https://github.com/jumpserver/jumpserver",
+      "score": 9
     },
     {
       "title": "Venetian Bridge Brawls in 17th and 18th Century Art",
       "url": "https://publicdomainreview.org/collection/venice-bridge-fights/",
-      "score": 8
+      "score": 41
+    },
+    {
+      "title": "Sandia National Labs SA3000 8085 CPU",
+      "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
+      "score": 128
+    },
+    {
+      "title": "You Don't Know Jack About Formal Verification",
+      "url": "https://queue.acm.org/detail.cfm?id=3819084",
+      "score": 50
+    },
+    {
+      "title": "Tidal AI Policy",
+      "url": "https://tidal.com/ai-policy",
+      "score": 266
     },
     {
       "title": "Instagram is incorporating users' photos in ads for Meta Glasses",
       "url": "https://twitter.com/i/status/2071277885646868536",
-      "score": 119
+      "score": 255
     },
     {
-      "title": "WebGL Without a GPU",
-      "url": "https://microlink.io/blog/webgl-without-a-gpu",
+      "title": ".garden TLD's change to a bad neighborhood",
+      "url": "https://discourse.ifin.network/t/garden-tlds-change-to-a-bad-neighborhood/627",
       "score": 8
-    },
-    {
-      "title": "Pollen tried to remove my article and Google is assisting with it",
-      "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-      "score": 622
     },
     {
       "title": "Halvar's Guide to Entrepreneurship",
       "url": "https://thomasdullien.github.io/guides/entrepreneurship/",
-      "score": 102
-    },
-    {
-      "title": "Rebuilding the Computer Room",
-      "url": "https://alexwlchan.net/2026/computer-room/",
-      "score": 47
+      "score": 162
     },
     {
       "title": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing",
       "url": "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing",
-      "score": 122
+      "score": 251
     },
     {
-      "title": "Type-checked non-empty strings",
-      "url": "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html",
-      "score": 32
+      "title": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
+      "url": "https://det.social/@lostgen/116820546568940358",
+      "score": 380
     },
     {
-      "title": "The Meadows of Medieval Summer",
-      "url": "https://www.historytoday.com/archive/out-margins/meadows-medieval-summer",
-      "score": 6
+      "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+      "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+      "score": 8
     },
     {
-      "title": "Studio Canal Movies purchased on PlayStation Store removed without refund",
-      "url": "https://www.playstation.com/en-gb/legal/psvideocontent/",
-      "score": 78
+      "title": "Mag 7 starting to underperform [pdf]",
+      "url": "https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf",
+      "score": 166
+    },
+    {
+      "title": "The Return of Aspect Oriented Programming",
+      "url": "https://thomaswc.com/blog/the_return_of_aop.html",
+      "score": 51
+    },
+    {
+      "title": "CachyOS June 2026 Release",
+      "url": "https://cachyos.org/blog/2606-june-release/",
+      "score": 107
+    },
+    {
+      "title": "Building Principia for Windows XP",
+      "url": "https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/",
+      "score": 97
+    },
+    {
+      "title": "Pollen tried to remove my article and Google is assisting with it",
+      "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+      "score": 799
+    },
+    {
+      "title": "Decker Fantasy Camp 2026",
+      "url": "https://itch.io/jam/decker-fantasy-camp-2026",
+      "score": 35
     },
     {
       "title": "NUMA: Cores, memory, and the distance between them",
       "url": "https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them",
-      "score": 93
+      "score": 117
     },
     {
-      "title": "How we made WINDOW JOIN parallel and vectorized",
-      "url": "https://questdb.com/blog/window-join-parallel-vectorized/",
-      "score": 16
-    },
-    {
-      "title": "DocumentDB – a MongoDB compatible open-source database",
-      "url": "https://documentdb.io/",
-      "score": 9
-    },
-    {
-      "title": "NixOS 26.05",
-      "url": "https://nixos.org/blog/announcements/2026/nixos-2605/",
-      "score": 8
-    },
-    {
-      "title": "Dissecting Apple's Sparse Image Format (ASIF)",
-      "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
-      "score": 129
-    },
-    {
-      "title": "Age verification is just a precursor to automated attribution of speech",
-      "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
-      "score": 792
-    },
-    {
-      "title": "Herdr: Agent multiplexer that lives in your terminal",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "score": 115
-    },
-    {
-      "title": "We found a bug in the hyper HTTP library",
-      "url": "https://blog.cloudflare.com/hyper-bug/",
-      "score": 136
-    },
-    {
-      "title": "Historical memory prices 1960-2026",
-      "url": "https://dam.stanford.edu/memory-prices.html",
-      "score": 376
-    },
-    {
-      "title": "DeepSeek V4 Peak Valley Pricing Change",
-      "url": "https://www.kucoin.com/news/flash/deepseek-v4-launches-in-mid-july-with-peak-valley-pricing",
-      "score": 14
-    },
-    {
-      "title": "GLM 5.2 beats Claude in our benchmarks",
-      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-      "score": 1021
+      "title": "Studio Canal Movies purchased on PlayStation Store removed without refund",
+      "url": "https://www.playstation.com/en-gb/legal/psvideocontent/",
+      "score": 180
     }
   ]
 }
