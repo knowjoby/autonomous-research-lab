@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Open Source Low Tech",
+      "url": "https://opensourcelowtech.org/",
+      "score": 179
+    },
+    {
       "title": "Qwen 3.6 27B is the sweet spot for local development",
       "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 676
+      "score": 909
     },
     {
       "title": ".self: A new top-level domain designed to support self-hosting",
       "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "score": 371
+      "score": 504
     },
     {
       "title": "Free the Icons",
       "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
-      "score": 275
+      "score": 455
     },
     {
-      "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
+      "title": "Memory Safe Context Switching",
       "url": "https://fil-c.org/context_switches",
-      "score": 49
+      "score": 127
     },
     {
       "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
       "url": "https://longcat.chat/blog/longcat-2.0/",
-      "score": 43
+      "score": 142
     },
     {
       "title": "Exploring PDP-1 Lisp (1960)",
       "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
-      "score": 24
-    },
-    {
-      "title": "Rocketlab acquires Iridium",
-      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "score": 379
-    },
-    {
-      "title": "Scientists find molecular-level evidence for two structures in liquid water",
-      "url": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
-      "score": 76
-    },
-    {
-      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "url": "https://github.com/deepreinforce-ai/Ornith-1",
-      "score": 169
-    },
-    {
-      "title": "US Supreme Court rules geofence warrants require constitutional protections",
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-      "score": 474
-    },
-    {
-      "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
-      "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
-      "score": 380
-    },
-    {
-      "title": "Kb – Prolog Knowledge Base",
-      "url": "https://github.com/mat-mgm/kb-prolog",
-      "score": 41
-    },
-    {
-      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
-      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
-      "score": 153
-    },
-    {
-      "title": "Apple Neural Engine: Architecture, Programming, and Performance",
-      "url": "https://arxiv.org/abs/2606.22283",
-      "score": 135
-    },
-    {
-      "title": "Netflix Simplified Batch Compute with Kueue",
-      "url": "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c",
-      "score": 28
-    },
-    {
-      "title": "One million passports leaked online",
-      "url": "https://cambridgeanalytica.org/data-breaches-scandals/passports-driver-licenses-exposed-public-internet-2026-51096/",
-      "score": 177
-    },
-    {
-      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
-      "url": "https://humphri.es/blog/WATaBoy/",
-      "score": 188
-    },
-    {
-      "title": "A native graphical shell for SSH",
-      "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-      "score": 262
-    },
-    {
-      "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
-      "url": "https://lucassifoni.info/blog/hiking-with-wallace/",
-      "score": 120
-    },
-    {
-      "title": "SQLite improving performance with pre-sort",
-      "url": "https://andersmurphy.com/2026/06/07/sqlite-improving-performance-with-pre-sort.html",
-      "score": 40
-    },
-    {
-      "title": "Dark Sky Lighting",
-      "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
-      "score": 173
-    },
-    {
-      "title": "Philae's extraordinary comet landing relived (2024)",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Philae_s_extraordinary_comet_landing_relived",
-      "score": 8
-    },
-    {
-      "title": "What happens when you run a CUDA kernel?",
-      "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-      "score": 220
+      "score": 73
     },
     {
       "title": "Old Computer Challenge",
       "url": "http://occ.sdf.org/",
-      "score": 5
+      "score": 62
     },
     {
-      "title": "Working With AI: A concrete example",
-      "url": "https://htmx.org/essays/working-with-ai/",
-      "score": 101
+      "title": "Rocketlab acquires Iridium",
+      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+      "score": 412
     },
     {
-      "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
-      "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-      "score": 58
+      "title": "The end of the AArch64 desktop experiment",
+      "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+      "score": 38
     },
     {
-      "title": "What can you confidently guarantee about your software?",
-      "url": "https://queue.acm.org/detail.cfm?id=3819084",
-      "score": 104
+      "title": "Logical Physical Clocks and Consistent Snapshots in Globally Distributed DB [pdf]",
+      "url": "https://cse.buffalo.edu/tech-reports/2014-04.pdf",
+      "score": 7
     },
     {
-      "title": "Sandia National Labs SA3000 8085 CPU",
-      "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
-      "score": 166
+      "title": "Linux for the Sega MegaDrive",
+      "url": "https://github.com/LinuxMD/linuxmd",
+      "score": 107
     },
     {
-      "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding",
-      "url": "https://deep-reinforce.com/ornith_1_0.html",
-      "score": 60
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
+      "score": 209
     },
     {
-      "title": "Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso",
-      "url": "https://github.com/SMJAI/open-memory-protocol",
-      "score": 13
+      "title": "The operating cost starts after the demo",
+      "url": "https://twoheads.net/the-promise-is-unattended-work/",
+      "score": 7
+    },
+    {
+      "title": "One million passports leaked online",
+      "url": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
+      "score": 269
+    },
+    {
+      "title": "US Supreme Court rules geofence warrants require constitutional protections",
+      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+      "score": 526
+    },
+    {
+      "title": "How to corrupt an SQLite database file",
+      "url": "https://www.sqlite.org/howtocorrupt.html",
+      "score": 76
+    },
+    {
+      "title": "Alan Kay on the meaning of \"object-oriented programming\" (2003)",
+      "url": "https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/",
+      "score": 66
+    },
+    {
+      "title": "Zig – SPIR-V Backend Progress",
+      "url": "https://ziglang.org/devlog/2026/#2026-06-26",
+      "score": 67
+    },
+    {
+      "title": "Apple Neural Engine: Architecture, Programming, and Performance",
+      "url": "https://arxiv.org/abs/2606.22283",
+      "score": 170
+    },
+    {
+      "title": "Popping the GPU Bubble",
+      "url": "https://moondream.ai/blog/popping-the-gpu-bubble",
+      "score": 128
+    },
+    {
+      "title": "Dark Sky Lighting",
+      "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
+      "score": 208
+    },
+    {
+      "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
+      "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
+      "score": 564
+    },
+    {
+      "title": "A native graphical shell for SSH",
+      "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+      "score": 306
+    },
+    {
+      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+      "url": "https://humphri.es/blog/WATaBoy/",
+      "score": 205
+    },
+    {
+      "title": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)",
+      "url": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
+      "score": 32
+    },
+    {
+      "title": "Kb – Prolog Knowledge Base",
+      "url": "https://github.com/mat-mgm/kb-prolog",
+      "score": 77
+    },
+    {
+      "title": "What happens when you run a CUDA kernel?",
+      "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+      "score": 256
+    },
+    {
+      "title": "US Supreme Court Just Blew Up EU-US Data Transfers",
+      "url": "https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers",
+      "score": 174
+    },
+    {
+      "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
+      "url": "https://lucassifoni.info/blog/hiking-with-wallace/",
+      "score": 139
     }
   ]
 }
