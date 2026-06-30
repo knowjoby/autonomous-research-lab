@@ -2,154 +2,149 @@
   "papers": [],
   "discussions": [
     {
-      "title": "The US ambassador had Belgian police stop our reporting",
-      "url": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
-      "score": 417
+      "title": "Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "score": 482
     },
     {
-      "title": "European digital ID wallets rely on safety services of Google and Apple",
-      "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
-      "score": 442
+      "title": "Claude Code is steganographically marking requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "score": 877
     },
     {
-      "title": "Building a custom octocopter from scratch with no prior hardware experience",
-      "url": "https://karolina.mgdubiel.com/drone/",
-      "score": 162
+      "title": "Claude Science",
+      "url": "https://claude.com/product/claude-science",
+      "score": 189
     },
     {
-      "title": "Exercise intensity influences body composition in healthy older adults (2025)",
-      "url": "https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext",
-      "score": 98
+      "title": "Nano Banana 2 Lite",
+      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+      "score": 173
     },
     {
-      "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds",
+      "title": "We Are the Last People Who Know How It Works",
+      "url": "https://unix.foo/posts/last-people-who-know-how-it-works/",
+      "score": 236
+    },
+    {
+      "title": "I built a mmWave material classification radar",
+      "url": "https://gauthier-lechevalier.com/radar",
+      "score": 63
+    },
+    {
+      "title": "Looking Ahead to Postgres 19",
+      "url": "https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/",
+      "score": 188
+    },
+    {
+      "title": "County with 37 Data Centers Asks Schools to 'Conserve Electricity'",
+      "url": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
+      "score": 279
+    },
+    {
+      "title": "Don't Make Gates Optional, Make Them Flexible",
+      "url": "https://wakamoleguy.com/p/flexible-gates",
+      "score": 30
+    },
+    {
+      "title": "Show HN: I made a heatmap of 3400 VCs who are open to cold emails",
+      "url": "https://apparent.social/heat-map",
+      "score": 12
+    },
+    {
+      "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
       "url": "https://www.gutenberg.org/ebooks/24518",
-      "score": 29
+      "score": 136
+    },
+    {
+      "title": "Knoppix",
+      "url": "https://www.knopper.net/knoppix/index-en.html",
+      "score": 172
     },
     {
       "title": "Open Source Low Tech",
       "url": "https://opensourcelowtech.org/",
-      "score": 419
+      "score": 581
     },
     {
-      "title": "Parse, Don't Validate – In a Language That Doesn't Want You To",
-      "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
-      "score": 71
+      "title": "Building a custom octocopter from scratch with no prior hardware experience",
+      "url": "https://karolina.mgdubiel.com/drone/",
+      "score": 272
+    },
+    {
+      "title": "Matrix URIs, a URL syntax from Tim Berners-Lee that never shipped (1996)",
+      "url": "https://www.w3.org/DesignIssues/MatrixURIs.html",
+      "score": 16
+    },
+    {
+      "title": "Crypto firms have spent $189M so far on 2026 US election, report says",
+      "url": "https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/",
+      "score": 152
+    },
+    {
+      "title": "We moved our Bluesky data to Eurosky",
+      "url": "https://waag.org/en/article/why-we-moved-our-bluesky-data-eurosky/",
+      "score": 129
     },
     {
       "title": "Qwen 3.6 27B is the sweet spot for local development",
       "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 1019
+      "score": 1117
+    },
+    {
+      "title": "European digital ID wallets rely on safety services of Google and Apple",
+      "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+      "score": 649
     },
     {
       "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
       "url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
-      "score": 35
+      "score": 119
     },
     {
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "score": 575
-    },
-    {
-      "title": "Free the Icons",
-      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
-      "score": 557
-    },
-    {
-      "title": "Who are the fire-tamers?",
-      "url": "https://aeon.co/essays/who-are-the-fire-taming-healers-of-modern-france",
-      "score": 13
-    },
-    {
-      "title": "Memory Safe Context Switching",
-      "url": "https://fil-c.org/context_switches",
-      "score": 163
+      "title": "Factorio 2.1 Experimental Release",
+      "url": "https://factorio.com/blog/post/fff-444",
+      "score": 103
     },
     {
       "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
       "url": "https://longcat.chat/blog/longcat-2.0/",
-      "score": 202
+      "score": 256
     },
     {
-      "title": "All Logic, No Bite",
-      "url": "https://lcamtuf.substack.com/p/all-logic-no-bite",
-      "score": 21
+      "title": "Mathematics: Its Content, Methods and Meaning",
+      "url": "https://old.maa.org/press/maa-reviews/mathematics-its-content-methods-and-meaning",
+      "score": 59
     },
     {
-      "title": "Rocketlab acquires Iridium",
-      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "score": 432
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "score": 647
     },
     {
-      "title": "Linux for the Sega MegaDrive",
-      "url": "https://github.com/LinuxMD/linuxmd",
-      "score": 164
+      "title": "Free the Icons",
+      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+      "score": 646
+    },
+    {
+      "title": "Xsnow \"protestware\" in Debian",
+      "url": "https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/",
+      "score": 97
+    },
+    {
+      "title": "Amazon Seller Reveals Rare Glimpse of Shadow Bribery Market",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/inside-the-shadow-market-selling-access-to-amazon-employees",
+      "score": 36
+    },
+    {
+      "title": "Exercise intensity influences body composition in healthy older adults (2025)",
+      "url": "https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext",
+      "score": 180
     },
     {
       "title": "I'm building a Space Cadet Pinball Machine! [video]",
       "url": "https://www.youtube.com/watch?v=lHQ8c8i42VE",
-      "score": 16
-    },
-    {
-      "title": "Old Computer Challenge",
-      "url": "http://occ.sdf.org/",
-      "score": 88
-    },
-    {
-      "title": "Exploring PDP-1 Lisp (1960)",
-      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
-      "score": 92
-    },
-    {
-      "title": "One million passports leaked online",
-      "url": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
-      "score": 352
-    },
-    {
-      "title": "Microsoft reveals why Windows 11 keeps saying a file is in use after closing app",
-      "url": "https://www.windowslatest.com/2026/06/30/microsoft-reveals-why-windows-11-keeps-saying-a-file-is-in-use-after-you-close-the-app-plus-the-fix/",
-      "score": 14
-    },
-    {
-      "title": "Why problem statements aren't enough",
-      "url": "https://letters.unchartedpathbreakthroughs.com/posts/why-problem-statements-arent-enough",
-      "score": 12
-    },
-    {
-      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "url": "https://github.com/deepreinforce-ai/Ornith-1",
-      "score": 230
-    },
-    {
-      "title": "The operating cost starts after the demo",
-      "url": "https://twoheads.net/the-promise-is-unattended-work/",
-      "score": 50
-    },
-    {
-      "title": "How to corrupt an SQLite database file",
-      "url": "https://www.sqlite.org/howtocorrupt.html",
-      "score": 123
-    },
-    {
-      "title": "US Supreme Court rules geofence warrants require constitutional protections",
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-      "score": 563
-    },
-    {
-      "title": "Apple Neural Engine: Architecture, Programming, and Performance",
-      "url": "https://arxiv.org/abs/2606.22283",
-      "score": 208
-    },
-    {
-      "title": "Zig – SPIR-V Backend Progress",
-      "url": "https://ziglang.org/devlog/2026/#2026-06-26",
-      "score": 90
-    },
-    {
-      "title": "Dark Sky Lighting",
-      "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
-      "score": 232
+      "score": 76
     }
   ]
 }
