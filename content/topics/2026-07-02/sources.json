@@ -2,94 +2,129 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "score": 123
+    },
+    {
+      "title": "A new Android malware from Google",
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "score": 320
+    },
+    {
       "title": "ZCode – Harness for GLM-5.2",
       "url": "https://zcode.z.ai/en",
-      "score": 247
+      "score": 385
     },
     {
-      "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
+      "title": "We Don't Have to Be This Bad at Improving Society",
+      "url": "https://kasperjunge.com/blog/we-dont-have-to-be-this-bad-at-improving-society/",
+      "score": 11
+    },
+    {
+      "title": "Oomwoo, an open-source robot vacuum you build yourself",
       "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-      "score": 75
+      "score": 270
     },
     {
-      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
-      "url": "https://www.workerowned.info/",
-      "score": 259
+      "title": "CursorBench 3.1",
+      "url": "https://cursor.com/evals",
+      "score": 49
     },
     {
-      "title": "For first time, a cell built from scratch grows and divides",
-      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-      "score": 763
+      "title": "Bring back crappy forums",
+      "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+      "score": 239
     },
     {
-      "title": "Global review confirms mRNA vaccines are safe, effective and full of promise ",
-      "url": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
-      "score": 166
+      "title": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
+      "url": "https://www.mixedbread.com/blog/asymmetric-quant",
+      "score": 14
     },
     {
       "title": "What to learn to be a graphics programmer",
       "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
-      "score": 258
-    },
-    {
-      "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
-      "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
-      "score": 621
-    },
-    {
-      "title": "The <Usermedia> HTML Element",
-      "url": "https://developer.chrome.com/blog/usermedia-html-element",
-      "score": 45
-    },
-    {
-      "title": "Avoiding Fallback in Distributed Systems",
-      "url": "https://builder.aws.com",
-      "score": 12
+      "score": 332
     },
     {
       "title": "FFmpeg 9.1's new AAC encoder",
       "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
-      "score": 304
-    },
-    {
-      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-      "url": "https://senior-swe-bench.snorkel.ai/",
-      "score": 5
-    },
-    {
-      "title": "The Underhanded C Contest",
-      "url": "https://underhanded-c.org/",
-      "score": 48
-    },
-    {
-      "title": "Show HN: Meow – The 4th and final JavaScript runtime and toolchain",
-      "url": "https://meow.style",
-      "score": 3
-    },
-    {
-      "title": "Qualcomm Linux 2.0",
-      "url": "https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available",
-      "score": 63
-    },
-    {
-      "title": "How do wombats poop cubes?",
-      "url": "https://www.science.org/content/article/how-do-wombats-poop-cubes-scientists-get-bottom-mystery",
-      "score": 58
-    },
-    {
-      "title": "Bring Back Crappy Forums",
-      "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
-      "score": 13
+      "score": 370
     },
     {
       "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
-      "score": 71
+      "score": 149
     },
     {
-      "title": "Box3D, an open source 3D physics engine",
-      "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
-      "score": 434
+      "title": "The Fall of the Theorem Economy",
+      "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+      "score": 5
+    },
+    {
+      "title": "How do wombats poop cubes?",
+      "url": "https://www.science.org/content/article/how-do-wombats-poop-cubes-scientists-get-bottom-mystery",
+      "score": 112
+    },
+    {
+      "title": "Learn Vim motions with an ice-cream van",
+      "url": "https://thisismodest.com/vimscoops/",
+      "score": 65
+    },
+    {
+      "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
+      "url": "https://www.weaverobotics.com/isaac-1",
+      "score": 170
+    },
+    {
+      "title": "The Underhanded C Contest",
+      "url": "https://underhanded-c.org/",
+      "score": 90
+    },
+    {
+      "title": "Qualcomm Linux 2.0",
+      "url": "https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available",
+      "score": 100
+    },
+    {
+      "title": "For first time, a cell built from scratch grows and divides",
+      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "score": 849
+    },
+    {
+      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
+      "url": "https://www.workerowned.info/",
+      "score": 342
+    },
+    {
+      "title": "Why jet engines aren't made in China",
+      "url": "https://aakash.substack.com/p/why-jet-engines-arent-made-in-china",
+      "score": 146
+    },
+    {
+      "title": "My Favorite Keyboards",
+      "url": "https://fabiensanglard.net/keyboards/index.html",
+      "score": 7
+    },
+    {
+      "title": "The Wisdom of Quinn the Eskimo (Apple Developer Technical Support Engineer)",
+      "url": "https://github.com/macshome/The-Wisdom-of-Quinn",
+      "score": 17
+    },
+    {
+      "title": "Monetization Gateway: Charge for any resource behind Cloudflare via x402",
+      "url": "https://blog.cloudflare.com/monetization-gateway/",
+      "score": 293
+    },
+    {
+      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+      "url": "https://senior-swe-bench.snorkel.ai/",
+      "score": 72
+    },
+    {
+      "title": "The Apple Disk II Controller Card (2021)",
+      "url": "https://www.bigmessowires.com/2021/11/12/the-amazing-disk-ii-controller-card/",
+      "score": 82
     },
     {
       "title": "Proliferate (YC S25) Is Hiring",
@@ -97,44 +132,9 @@
       "score": 1
     },
     {
-      "title": "Internal Combustion Engine (2021)",
-      "url": "https://ciechanow.ski/internal-combustion-engine/",
-      "score": 291
-    },
-    {
-      "title": "Monetization Gateway: Charge for any resource behind Cloudflare via x402",
-      "url": "https://blog.cloudflare.com/monetization-gateway/",
-      "score": 261
-    },
-    {
-      "title": "Chip Off the Old Block",
+      "title": "Chip Off The Old Block",
       "url": "https://www.astralcodexten.com/p/chip-off-the-old-block",
-      "score": 57
-    },
-    {
-      "title": "Show HN: Unobin compiles Infrastructure as Code to one binary",
-      "url": "https://cloudboss.co/docs/unobin",
-      "score": 5
-    },
-    {
-      "title": "The Apple Disk II Controller Card",
-      "url": "https://www.bigmessowires.com/2021/11/12/the-amazing-disk-ii-controller-card/",
-      "score": 58
-    },
-    {
-      "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
-      "url": "https://www.weaverobotics.com/isaac-1",
-      "score": 96
-    },
-    {
-      "title": "Healthy but sedentary people show early decline in cellular energy production",
-      "url": "https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production",
-      "score": 81
-    },
-    {
-      "title": "How We Made IPFS Content Publishing 10x Faster",
-      "url": "https://probelab.io/blog/optimistic-provide/",
-      "score": 149
+      "score": 77
     }
   ]
 }
