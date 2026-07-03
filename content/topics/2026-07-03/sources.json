@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Virginia bans sale of geolocation data",
-      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-      "score": 751
+      "title": "Half-Baked Product",
+      "url": "https://weli.dev/blog/half-baked-product/",
+      "score": 580
     },
     {
-      "title": "CarPlay Is Additive",
-      "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
-      "score": 280
+      "title": "PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit",
+      "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
+      "score": 25
+    },
+    {
+      "title": "Virginia bans sale of geolocation data",
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+      "score": 891
+    },
+    {
+      "title": "Zuckerberg 'Admits' Meta's Layoffs Were Ineffective",
+      "url": "https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html",
+      "score": 63
+    },
+    {
+      "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
+      "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
+      "score": 55
+    },
+    {
+      "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
+      "url": "https://wordgard.net/",
+      "score": 90
     },
     {
       "title": "Right to Local Intelligence",
       "url": "https://righttointelligence.org/",
-      "score": 231
+      "score": 350
     },
     {
-      "title": "crustc: entirety of `rustc`, translated to C",
-      "url": "https://github.com/FractalFir/crustc",
-      "score": 272
+      "title": "CarPlay Is Additive",
+      "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
+      "score": 415
     },
     {
-      "title": "The Safari MCP server for web developers",
-      "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
-      "score": 86
-    },
-    {
-      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-      "score": 464
-    },
-    {
-      "title": "Reality has a surprising amount of detail (2017)",
-      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
-      "score": 258
+      "title": "Please stop the AI confidence theater",
+      "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+      "score": 73
     },
     {
       "title": "How working with a blind client revealed invisible accessibility gaps",
       "url": "https://iinteractive.com/resources/blog/read-only",
-      "score": 9
+      "score": 44
+    },
+    {
+      "title": "crustc: entirety of `rustc`, translated to C",
+      "url": "https://github.com/FractalFir/crustc",
+      "score": 327
+    },
+    {
+      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+      "score": 505
+    },
+    {
+      "title": "Goodebye Forever Probably: Why I’m leaving developer relations",
+      "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably/",
+      "score": 5
+    },
+    {
+      "title": "The Safari MCP server for web developers",
+      "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
+      "score": 147
+    },
+    {
+      "title": "Commodore 64 Basic for PostgreSQL",
+      "url": "https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html",
+      "score": 26
     },
     {
       "title": "Podman v6.0.0",
       "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-      "score": 521
+      "score": 582
     },
     {
-      "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
-      "url": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
-      "score": 47
-    },
-    {
-      "title": "Exapunks (2018)",
-      "url": "https://www.zachtronics.com/exapunks/",
-      "score": 290
-    },
-    {
-      "title": "Half-Baked Product",
-      "url": "https://weli.dev/blog/half-baked-product/",
-      "score": 3
-    },
-    {
-      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
-      "score": 18
-    },
-    {
-      "title": "Immich 3.0",
-      "url": "https://github.com/immich-app/immich/discussions/29439",
-      "score": 404
-    },
-    {
-      "title": "Underwater Suit-Wearing Cyborg Insect Capable of Diving and Terra-Aqua Travel",
-      "url": "https://www.nature.com/articles/s41467-026-74235-1",
-      "score": 36
-    },
-    {
-      "title": "Mystery identity of 'Green Boots' climber is finally solved after DNA test",
-      "url": "https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html",
-      "score": 104
-    },
-    {
-      "title": "An American Privacy Emergency",
-      "url": "https://scottaaronson.blog/?p=9902",
-      "score": 300
+      "title": "Reality has a surprising amount of detail (2017)",
+      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+      "score": 310
     },
     {
       "title": "Quake in 13 Kilobytes (2021)",
       "url": "https://js13kgames.com/games/q1k3",
-      "score": 12
+      "score": 76
+    },
+    {
+      "title": "Immich 3.0",
+      "url": "https://github.com/immich-app/immich/discussions/29439",
+      "score": 510
+    },
+    {
+      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+      "score": 208
+    },
+    {
+      "title": "Exapunks (2018)",
+      "url": "https://www.zachtronics.com/exapunks/",
+      "score": 307
+    },
+    {
+      "title": "Q&A with Micron's VP and GM of Memory",
+      "url": "https://morethanmoore.substack.com/p/q-and-a-with-microns-vp-and-gm-of",
+      "score": 16
+    },
+    {
+      "title": "Underwater suit-wearing cyborg insect capable of diving and terra-aqua travel",
+      "url": "https://www.nature.com/articles/s41467-026-74235-1",
+      "score": 63
+    },
+    {
+      "title": "Gemini Code Assist will be shut down on July 17",
+      "url": "https://docs.cloud.google.com/gemini/docs/code-review/review-repo-code",
+      "score": 10
+    },
+    {
+      "title": "The Beauty of Tautologies",
+      "url": "https://scottsumner.substack.com/p/the-beauty-of-tautologies",
+      "score": 9
+    },
+    {
+      "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
+      "url": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
+      "score": 72
     },
     {
       "title": "The short leash AI coding method for beating Fable",
       "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
-      "score": 130
+      "score": 159
     },
     {
-      "title": "Postgres transactions are a distributed systems superpower",
-      "url": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
-      "score": 175
+      "title": "Local Reasoning for Global Properties",
+      "url": "https://tratt.net/laurie/blog/2026/local_reasoning_for_global_properties.html",
+      "score": 9
     },
     {
-      "title": "A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time",
-      "url": "https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/",
-      "score": 58
+      "title": "Hackers shoveled snow for company, were rewarded with network admin access",
+      "url": "https://www.theregister.com/security/2026/07/02/hackers-shoveled-snow-for-company-were-rewarded-with-network-admin-access/5265240",
+      "score": 5
     },
     {
-      "title": "Superpowers 6",
-      "url": "https://blog.fsck.com/2026/06/15/Superpowers-6/",
-      "score": 145
-    },
-    {
-      "title": "Claude-real-video － any LLM can watch a video",
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "score": 133
-    },
-    {
-      "title": "AI is 'not smart' so what's next in artificial intelligence?",
-      "url": "https://www.bbc.com/news/articles/cj6gr0xkyr3o",
-      "score": 35
-    },
-    {
-      "title": "Great Salt Lake Tracker – Grow the Flow",
-      "url": "https://growtheflowutah.org/laketracker/",
-      "score": 98
-    },
-    {
-      "title": "Cowboys, Frontiersmen, Settlers, Townspeople, Cityfolk",
-      "url": "https://huntersoftwareconsulting.com/posts/2026-06-28-company-phase-changes/",
-      "score": 15
-    },
-    {
-      "title": "This is my attempt to get Vulkan going on NetBSD",
-      "url": "https://github.com/segaboy/vulkan-netbsd",
-      "score": 106
-    },
-    {
-      "title": "FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11",
-      "url": "https://apple.github.io/foundationdb/flow.html",
-      "score": 64
-    },
-    {
-      "title": "EFF letter to FTC on X consent order [pdf]",
-      "url": "https://www.eff.org/deeplinks/2026/06/eff-and-allies-xs-ftc-petition-waive-privacy-violation-order-should-be-rejected",
-      "score": 139
-    },
-    {
-      "title": "Perform DFU Restores on Apple Silicon Macs with Macvdmtool (2021)",
-      "url": "https://www.bkurtz.io/posts/macvdmtool/",
-      "score": 22
+      "title": "An American Privacy Emergency",
+      "url": "https://scottaaronson.blog/?p=9902",
+      "score": 358
     }
   ]
 }
