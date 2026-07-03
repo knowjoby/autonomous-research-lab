@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Half-Baked Product",
-      "url": "https://weli.dev/blog/half-baked-product/",
-      "score": 580
+      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "url": "https://github.com/jamesob/local-llm",
+      "score": 134
     },
     {
-      "title": "PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit",
-      "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
-      "score": 25
+      "title": "Factories are just rooms",
+      "url": "https://interconnected.org/home/2026/07/03/factories",
+      "score": 95
     },
     {
-      "title": "Virginia bans sale of geolocation data",
-      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-      "score": 891
+      "title": "Hunting a 16-year-old SQLite WAL bug with TLA+",
+      "url": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected",
+      "score": 101
     },
     {
-      "title": "Zuckerberg 'Admits' Meta's Layoffs Were Ineffective",
-      "url": "https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html",
-      "score": 63
+      "title": "Costco is the anti-Amazon",
+      "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+      "score": 42
     },
     {
-      "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
-      "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
+      "title": "My dad helped build North America's oat supply chain: Can it be remade?",
+      "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
       "score": 55
     },
     {
-      "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
+      "title": "PostgreSQL and the OOM killer: Why we use strict memory overcommit",
+      "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
+      "score": 119
+    },
+    {
+      "title": "Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+      "url": "https://github.com/kerlenton/mcpsnoop",
+      "score": 14
+    },
+    {
+      "title": "Valve open-source the Steam Machine e-ink screen so you can make your own",
+      "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
+      "score": 413
+    },
+    {
+      "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination",
+      "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+      "score": 58
+    },
+    {
+      "title": "Best Simple System for Now (2025)",
+      "url": "https://dannorth.net/blog/best-simple-system-for-now/",
+      "score": 50
+    },
+    {
+      "title": "Wordgard: In-browser rich-text editor from the creator of ProseMirror",
       "url": "https://wordgard.net/",
-      "score": 90
+      "score": 193
     },
     {
-      "title": "Right to Local Intelligence",
-      "url": "https://righttointelligence.org/",
-      "score": 350
+      "title": "60% Fable cost cut by converting code to images and having the model OCR it",
+      "url": "https://github.com/teamchong/pxpipe",
+      "score": 101
     },
     {
-      "title": "CarPlay Is Additive",
-      "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
-      "score": 415
+      "title": "Instead of banning AI, I made a classroom contract with my students",
+      "url": "https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students",
+      "score": 19
     },
     {
-      "title": "Please stop the AI confidence theater",
-      "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
-      "score": 73
+      "title": "Half-Baked Product",
+      "url": "https://weli.dev/blog/half-baked-product/",
+      "score": 1087
     },
     {
-      "title": "How working with a blind client revealed invisible accessibility gaps",
-      "url": "https://iinteractive.com/resources/blog/read-only",
-      "score": 44
+      "title": "The Fall and Rise of Screwworm",
+      "url": "https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm",
+      "score": 92
     },
     {
-      "title": "crustc: entirety of `rustc`, translated to C",
-      "url": "https://github.com/FractalFir/crustc",
-      "score": 327
+      "title": "International chess federation sanctions Kramnik",
+      "url": "https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/",
+      "score": 57
     },
     {
-      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-      "score": 505
+      "title": "Flexible metaprogramming with Rhombus",
+      "url": "https://lwn.net/SubscriberLink/1079001/67840550991151ed/",
+      "score": 65
     },
     {
-      "title": "Goodebye Forever Probably: Why I’m leaving developer relations",
-      "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably/",
-      "score": 5
+      "title": "The Life and Times of Maxis, Part 1: SimEverything",
+      "url": "https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/",
+      "score": 75
+    },
+    {
+      "title": "Supersonic flight returning to US after half-century ban",
+      "url": "https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/",
+      "score": 115
+    },
+    {
+      "title": "America, 1926: A forgotten 100-year-old report",
+      "url": "https://www.derekthompson.org/p/america-1926-an-absurdly-deep-dive",
+      "score": 89
+    },
+    {
+      "title": "Closer to Rude Than Snide: An Interview with Leo Robson",
+      "url": "https://www.theideasletter.org/essay/closer-to-rude-than-snide/",
+      "score": 3
+    },
+    {
+      "title": "Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep",
+      "url": "https://promptowl.ai/resources/persistent-memory-ai-agents/",
+      "score": 20
+    },
+    {
+      "title": "Memorizing session transcripts isn't useful",
+      "url": "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts",
+      "score": 164
+    },
+    {
+      "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "url": "https://arxiv.org/abs/2607.02512",
+      "score": 37
+    },
+    {
+      "title": "Show HN: Bramble – Local-first password manager",
+      "url": "https://github.com/flythenimbus/bramble",
+      "score": 84
     },
     {
       "title": "The Safari MCP server for web developers",
       "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
-      "score": 147
+      "score": 230
+    },
+    {
+      "title": "crustc: entirety of `rustc`, translated to C",
+      "url": "https://github.com/FractalFir/crustc",
+      "score": 368
     },
     {
       "title": "Commodore 64 Basic for PostgreSQL",
       "url": "https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html",
-      "score": 26
+      "score": 57
     },
     {
-      "title": "Podman v6.0.0",
-      "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-      "score": 582
-    },
-    {
-      "title": "Reality has a surprising amount of detail (2017)",
-      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
-      "score": 310
+      "title": "Show HN: ctx – Search the coding agent history already on your machine",
+      "url": "https://github.com/ctxrs/ctx",
+      "score": 48
     },
     {
       "title": "Quake in 13 Kilobytes (2021)",
       "url": "https://js13kgames.com/games/q1k3",
-      "score": 76
-    },
-    {
-      "title": "Immich 3.0",
-      "url": "https://github.com/immich-app/immich/discussions/29439",
-      "score": 510
-    },
-    {
-      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
-      "score": 208
-    },
-    {
-      "title": "Exapunks (2018)",
-      "url": "https://www.zachtronics.com/exapunks/",
-      "score": 307
-    },
-    {
-      "title": "Q&A with Micron's VP and GM of Memory",
-      "url": "https://morethanmoore.substack.com/p/q-and-a-with-microns-vp-and-gm-of",
-      "score": 16
-    },
-    {
-      "title": "Underwater suit-wearing cyborg insect capable of diving and terra-aqua travel",
-      "url": "https://www.nature.com/articles/s41467-026-74235-1",
-      "score": 63
-    },
-    {
-      "title": "Gemini Code Assist will be shut down on July 17",
-      "url": "https://docs.cloud.google.com/gemini/docs/code-review/review-repo-code",
-      "score": 10
-    },
-    {
-      "title": "The Beauty of Tautologies",
-      "url": "https://scottsumner.substack.com/p/the-beauty-of-tautologies",
-      "score": 9
-    },
-    {
-      "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
-      "url": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
-      "score": 72
-    },
-    {
-      "title": "The short leash AI coding method for beating Fable",
-      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
-      "score": 159
-    },
-    {
-      "title": "Local Reasoning for Global Properties",
-      "url": "https://tratt.net/laurie/blog/2026/local_reasoning_for_global_properties.html",
-      "score": 9
-    },
-    {
-      "title": "Hackers shoveled snow for company, were rewarded with network admin access",
-      "url": "https://www.theregister.com/security/2026/07/02/hackers-shoveled-snow-for-company-were-rewarded-with-network-admin-access/5265240",
-      "score": 5
-    },
-    {
-      "title": "An American Privacy Emergency",
-      "url": "https://scottaaronson.blog/?p=9902",
-      "score": 358
+      "score": 131
     }
   ]
 }
