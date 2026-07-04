@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Astrophysicists Puzzle over Webb’s New Universe",
-      "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
+      "title": "Leaking YouTube creators' private videos",
+      "url": "https://javoriuski.com/post/youtube",
+      "score": 229
+    },
+    {
+      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+      "score": 125
+    },
+    {
+      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+      "url": "https://github.com/anthropics/claude-code/issues/74066",
+      "score": 227
+    },
+    {
+      "title": "Verizon is About to Break our Watches",
+      "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
+      "score": 33
+    },
+    {
+      "title": "No more than 100 000 faint satellites should orbit Earth",
+      "url": "https://www.eso.org/public/news/eso2607/",
       "score": 66
     },
     {
-      "title": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
-      "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
-      "score": 31
+      "title": "Explanation of everything you can see in htop/top on Linux (2019)",
+      "url": "https://peteris.rocks/blog/htop/",
+      "score": 284
     },
     {
-      "title": "The bottleneck might be the air in the room",
-      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-      "score": 460
+      "title": "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
+      "url": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
+      "score": 23
+    },
+    {
+      "title": "Windows CE Dreamcast Community Edition (wince-dc)",
+      "url": "https://github.com/maximqaxd/wince-dc",
+      "score": 50
+    },
+    {
+      "title": "Curveball",
+      "url": "https://mightyburger.net/projects/curveball/",
+      "score": 27
+    },
+    {
+      "title": "Plein Air",
+      "url": "https://art.joonas.wtf/",
+      "score": 24
+    },
+    {
+      "title": "Meta data center water discharges suspended for contaminating water supply",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system",
+      "score": 84
+    },
+    {
+      "title": "The .join() that should be a bug",
+      "url": "https://kronotop.com/blog/the-join-that-should-be-a-bug/",
+      "score": 8
+    },
+    {
+      "title": "Astrophysicists Puzzle over Webb’s New Universe",
+      "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
+      "score": 161
+    },
+    {
+      "title": "As downtown Seattle offices empty, city facing years of 'zombie' towers",
+      "url": "https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/",
+      "score": 13
+    },
+    {
+      "title": "Finland's last analogue landline phones go silent after 150 years",
+      "url": "https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years",
+      "score": 46
     },
     {
       "title": "Maybe you should learn something",
       "url": "https://www.marginalia.nu/log/a_135_learn/",
-      "score": 180
+      "score": 367
+    },
+    {
+      "title": "Designing DB partitions you don't have to babysit",
+      "url": "https://explainanalyze.com/p/designing-partitioning-you-dont-have-to-babysit/",
+      "score": 30
+    },
+    {
+      "title": "Neural Render Proxies for Interactive and Differentiable Lighting",
+      "url": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
+      "score": 16
+    },
+    {
+      "title": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language",
+      "url": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language",
+      "score": 58
     },
     {
       "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
       "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
-      "score": 64
+      "score": 137
+    },
+    {
+      "title": "The Vespa at 80",
+      "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
+      "score": 118
+    },
+    {
+      "title": "Sick leave: Germany rising but not the worst in Europe",
+      "url": "https://www.dw.com/en/sick-leave-germany-rising-but-not-the-worst-in-europe/a-77815488",
+      "score": 25
+    },
+    {
+      "title": "The bottleneck might be the air in the room",
+      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+      "score": 677
+    },
+    {
+      "title": "Night Witches – all-female Soviet aviator regiment WW2",
+      "url": "https://en.wikipedia.org/wiki/Night_Witches",
+      "score": 69
     },
     {
       "title": "Performance per dollar is getting faster and cheaper",
       "url": "https://www.wafer.ai/blog/glm52-amd",
-      "score": 282
+      "score": 329
     },
     {
       "title": "Leanstral 1.5: Proof abundance for all",
       "url": "https://mistral.ai/news/leanstral-1-5/",
-      "score": 283
+      "score": 332
     },
     {
       "title": "Mir Books – Books from the Soviet Era",
       "url": "https://mirtitles.org",
-      "score": 112
+      "score": 148
     },
     {
-      "title": "Costco is the anti-Amazon",
-      "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
-      "score": 444
+      "title": "Rob Pike – 'Concurrency Is Not Parallelism' [video] (2012)",
+      "url": "https://vimeo.com/49718712",
+      "score": 33
+    },
+    {
+      "title": "EndBASIC 0.14: Are we multimedia yet?",
+      "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
+      "score": 5
     },
     {
       "title": "Giant trees have no trouble pumping water to top branches: new research",
       "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
-      "score": 226
-    },
-    {
-      "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
-      "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
-      "score": 161
-    },
-    {
-      "title": "Agentic coding notes from Galapagos Island",
-      "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
-      "score": 125
-    },
-    {
-      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
-      "url": "https://mrbruh.com/msicenter/",
-      "score": 108
-    },
-    {
-      "title": "FreeBSD ate my RAM",
-      "url": "https://crocidb.com/post/freebsd-ate-my-ram/",
-      "score": 160
-    },
-    {
-      "title": "Synthesis is harder than analysis",
-      "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
-      "score": 110
-    },
-    {
-      "title": "Jamesob's guide to running SOTA LLMs locally",
-      "url": "https://github.com/jamesob/local-llm",
-      "score": 368
-    },
-    {
-      "title": "SearXNG: A free internet metasearch engine",
-      "url": "https://github.com/searxng/searxng",
-      "score": 234
-    },
-    {
-      "title": "The firefighting system of the Van der Heyden brothers in 17th century Amsterdam",
-      "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
-      "score": 108
-    },
-    {
-      "title": "Ship traces journey Spanish Armada sailors made in 1588",
-      "url": "https://www.irishtimes.com/ireland/2026/06/30/it-is-a-huge-honour-ship-traces-journey-spanish-armada-sailors-made-in-1588/",
-      "score": 15
-    },
-    {
-      "title": "2026 Unslop AI-Written Fiction Contest Results",
-      "url": "https://www.hyperstitionai.com/unslop-results",
-      "score": 26
-    },
-    {
-      "title": "Odin, Wikipedia and engagement farming",
-      "url": "https://katamari64.se/posts/2026/odin-wikipedia/",
-      "score": 184
-    },
-    {
-      "title": "The Scanline Sweeper: A Glyph Rendering Algorithm [pdf]",
-      "url": "https://rookandpossum.com/papers/scanline_sweeper_preprint.pdf",
-      "score": 22
-    },
-    {
-      "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
-      "url": "https://epoch.ai/data-insights/cve-severity-spike",
-      "score": 124
-    },
-    {
-      "title": "Soatok's Informal Guide to Threat Models",
-      "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
-      "score": 108
-    },
-    {
-      "title": "Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining",
-      "url": "https://github.com/adam-s/car-diagnosis",
-      "score": 26
-    },
-    {
-      "title": "Gone but Not Forgotten: Recovering the Dead Web",
-      "url": "https://blog.archive.org/2026/04/23/gone-but-not-forgotten-recovering-the-dead-web/",
-      "score": 84
-    },
-    {
-      "title": "Applied Category Theory Course (2018)",
-      "url": "https://math.ucr.edu/home/baez/act_course/index.html",
-      "score": 128
-    },
-    {
-      "title": "Factories are just rooms",
-      "url": "https://interconnected.org/home/2026/07/03/factories",
-      "score": 255
-    },
-    {
-      "title": "Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left",
-      "url": "https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead",
-      "score": 1
-    },
-    {
-      "title": "Hunting a 16-year-old SQLite WAL bug with TLA+",
-      "url": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected",
-      "score": 220
+      "score": 254
     }
   ]
 }
