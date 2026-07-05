@@ -1,0 +1,155 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "Scientists reverse brain aging, with a nasal spray",
+      "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
+      "score": 170
+    },
+    {
+      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+      "score": 373
+    },
+    {
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "score": 162
+    },
+    {
+      "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
+      "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
+      "score": 48
+    },
+    {
+      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+      "score": 353
+    },
+    {
+      "title": "Leaking YouTube creators' private videos",
+      "url": "https://javoriuski.com/post/youtube",
+      "score": 503
+    },
+    {
+      "title": "Better Models: Worse Tools",
+      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+      "score": 101
+    },
+    {
+      "title": "Explanation of everything you can see in htop/top on Linux (2019)",
+      "url": "https://peteris.rocks/blog/htop/",
+      "score": 406
+    },
+    {
+      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+      "url": "https://github.com/anthropics/claude-code/issues/74066",
+      "score": 276
+    },
+    {
+      "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams",
+      "url": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
+      "score": 15
+    },
+    {
+      "title": "Zig: All Package Management Functionality Moved from Compiler to Build System",
+      "url": "https://ziglang.org/devlog/2026/#2026-06-30",
+      "score": 147
+    },
+    {
+      "title": "Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
+      "url": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
+      "score": 8
+    },
+    {
+      "title": "Reflections on the Guillotine (1957)",
+      "url": "https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine",
+      "score": 27
+    },
+    {
+      "title": "Meta's Un-Stable Signature",
+      "url": "https://hackerfactor.com/blog/index.php?/archives/1098-Metas-Un-Stable-Signature.html",
+      "score": 21
+    },
+    {
+      "title": "Drone Autonomy Crash Course",
+      "url": "https://www.cggonzalez.com/blog/index.html",
+      "score": 11
+    },
+    {
+      "title": "Verizon is About to Break our Watches",
+      "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
+      "score": 142
+    },
+    {
+      "title": "Can you build a recognizable World Map in under 500 bytes?",
+      "url": "https://www.experimentlog.com/blog/building-a-world-map-with-only-500-bytes",
+      "score": 25
+    },
+    {
+      "title": "Drone Physics",
+      "url": "https://iahmed.me/post/drone-physics/",
+      "score": 88
+    },
+    {
+      "title": "Mapping with In-Memory Layers to Reduce LLM Overload",
+      "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+      "score": 10
+    },
+    {
+      "title": "Windows CE Dreamcast Community Edition (wince-dc)",
+      "url": "https://github.com/maximqaxd/wince-dc",
+      "score": 95
+    },
+    {
+      "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
+      "url": "https://arxiv.org/abs/2606.26967",
+      "score": 16
+    },
+    {
+      "title": "Egg consumption inversely correlated with Alzheimer's",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42002260/",
+      "score": 40
+    },
+    {
+      "title": "CloudsLinker: Move and sync files across 50 cloud services",
+      "url": "https://app.cloudslinker.com/login",
+      "score": 9
+    },
+    {
+      "title": "The Vespa at 80",
+      "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
+      "score": 148
+    },
+    {
+      "title": "Fable created novel 4D splat format",
+      "url": "https://adamraudonis.github.io/splats4D/",
+      "score": 120
+    },
+    {
+      "title": "It's not me, it's the compiler",
+      "url": "https://parsa.wtf/cast/",
+      "score": 65
+    },
+    {
+      "title": "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
+      "url": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
+      "score": 57
+    },
+    {
+      "title": "Neural Render Proxies for Interactive and Differentiable Lighting",
+      "url": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
+      "score": 53
+    },
+    {
+      "title": "Curveball",
+      "url": "https://mightyburger.net/projects/curveball/",
+      "score": 51
+    },
+    {
+      "title": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language",
+      "url": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language",
+      "score": 109
+    }
+  ]
+}
