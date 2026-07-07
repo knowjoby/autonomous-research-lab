@@ -2,149 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
-      "url": "https://github.com/MaximeRivest/Riddle",
-      "score": 183
-    },
-    {
-      "title": "How to sequence your own DNA at home",
-      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-      "score": 75
-    },
-    {
       "title": "OpenWrt One – Open Hardware Router",
       "url": "https://openwrt.org/toh/openwrt/one",
-      "score": 465
+      "score": 613
     },
     {
       "title": "CoMaps – FOSS Offline Maps",
       "url": "https://www.comaps.app/",
-      "score": 340
+      "score": 555
     },
     {
       "title": "GLM 5.2 and the coming AI margin collapse",
       "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-      "score": 200
+      "score": 410
     },
     {
-      "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
-      "url": "https://ternlight-demo.vercel.app/",
-      "score": 96
+      "title": "How to sequence your own DNA at home",
+      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+      "score": 210
     },
     {
-      "title": "A global workspace in language models",
-      "url": "https://www.anthropic.com/research/global-workspace",
-      "score": 286
+      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+      "url": "https://github.com/MaximeRivest/Riddle",
+      "score": 453
     },
     {
       "title": "Small AI Models Gain Traction In places with unreliable networks",
       "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-      "score": 25
+      "score": 139
     },
     {
-      "title": "Pruning RAG context down to what the answer actually needs",
-      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
-      "score": 61
+      "title": "Dolosse – a South African invention used over the world",
+      "url": "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/",
+      "score": 42
     },
     {
-      "title": "NSA and IETF: Fairness",
-      "url": "https://blog.cr.yp.to/20260706-fairness.html",
-      "score": 58
+      "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+      "url": "https://ternlight-demo.vercel.app/",
+      "score": 218
     },
     {
-      "title": "Artificial and Fake Eggs: Dance of Death",
-      "url": "https://www.researchgate.net/publication/281149909_Artificial_and_Fake_Eggs_Dance_of_Death",
-      "score": 6
+      "title": "Lago (YC S21) Is Hiring for Our GTM Team",
+      "url": "https://jobs.ashbyhq.com/lago",
+      "score": 1
     },
     {
-      "title": "A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku",
-      "url": "https://arxiv.org/abs/2607.02112",
-      "score": 30
+      "title": "Microsoft Can Track Users via a Windows Device ID",
+      "url": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
+      "score": 28
+    },
+    {
+      "title": "A global workspace in language models",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "score": 370
+    },
+    {
+      "title": "In Praise of Observational Evidence",
+      "url": "https://asteriskmag.com/issues/14/in-praise-of-observational-evidence",
+      "score": 13
     },
     {
       "title": "Resetting Xbox",
       "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
-      "score": 497
+      "score": 618
+    },
+    {
+      "title": "Pruning RAG context down to what the answer actually needs",
+      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+      "score": 103
     },
     {
       "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
       "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-      "score": 285
+      "score": 330
     },
     {
-      "title": "Craig Mod built his own Good Reads",
-      "url": "https://craigmod.com/roden/115/",
-      "score": 14
+      "title": "YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
+      "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
+      "score": 37
     },
     {
       "title": "Linux on the Atari Jaguar",
       "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
-      "score": 114
+      "score": 151
+    },
+    {
+      "title": "Inkfield",
+      "url": "https://www.inkfield.studio",
+      "score": 16
     },
     {
       "title": "OpenSSH 10.4/10.4p1 Released",
       "url": "https://www.openssh.org/txt/release-10.4",
-      "score": 34
+      "score": 78
     },
     {
-      "title": "Full Writeup of the Windows GDID",
-      "url": "https://github.com/SmtimesIWndr/gdid-reversal",
-      "score": 44
-    },
-    {
-      "title": "Acronym Fatigue Series Introduction: why I'm wary of acronyms",
-      "url": "https://devz.cl/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/",
-      "score": 24
+      "title": "The Art of Computer Programming by Donald E. Knuth",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
+      "score": 13
     },
     {
       "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "score": 132
+      "score": 180
     },
     {
       "title": "Learning to code is still worthwhile",
       "url": "https://stevekrouse.com/learn-to-code",
-      "score": 118
-    },
-    {
-      "title": "The Music of Destruction",
-      "url": "https://thebaffler.com/latest/the-music-of-destruction-fuelling",
-      "score": 14
-    },
-    {
-      "title": "Aluminum foil (2021)",
-      "url": "https://dernocua.github.io/notes/aluminum-foil.html",
-      "score": 248
-    },
-    {
-      "title": "The LLVM Compiler Infrastructure",
-      "url": "https://cacm.acm.org/federal-funding-of-academic-research/the-llvm-compiler-infrastructure/",
-      "score": 48
-    },
-    {
-      "title": "Poly/ML – A Standard ML Implementation",
-      "url": "https://github.com/polyml/polyml",
-      "score": 29
-    },
-    {
-      "title": "Evaluation order and nontermination in query languages",
-      "url": "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html",
-      "score": 24
-    },
-    {
-      "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector",
-      "score": 59
-    },
-    {
-      "title": "Rotman Lens",
-      "url": "https://en.wikipedia.org/wiki/Rotman_lens",
-      "score": 83
+      "score": 203
     },
     {
       "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
       "url": "https://github.com/V4bel/Januscape",
-      "score": 81
+      "score": 111
+    },
+    {
+      "title": "A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku",
+      "url": "https://arxiv.org/abs/2607.02112",
+      "score": 41
+    },
+    {
+      "title": "M/PC – A Concatenative OS",
+      "url": "https://wiki.xxiivv.com/site/m_pc.html",
+      "score": 63
+    },
+    {
+      "title": "Rotman Lens",
+      "url": "https://en.wikipedia.org/wiki/Rotman_lens",
+      "score": 112
+    },
+    {
+      "title": "NSA and IETF: Fairness",
+      "url": "https://blog.cr.yp.to/20260706-fairness.html",
+      "score": 107
+    },
+    {
+      "title": "Kani: A Model Checker for Rust",
+      "url": "https://arxiv.org/abs/2607.01504",
+      "score": 143
+    },
+    {
+      "title": "Full Writeup of the Windows GDID",
+      "url": "https://github.com/SmtimesIWndr/gdid-reversal",
+      "score": 68
+    },
+    {
+      "title": "EndBASIC 0.14: Are we multimedia yet?",
+      "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
+      "score": 39
     }
   ]
 }
