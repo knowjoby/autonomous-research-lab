@@ -4,37 +4,107 @@
     {
       "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
       "url": "https://streetcomplete.app/",
-      "score": 141
+      "score": 532
     },
     {
-      "title": "A better way to tie your gym shorts. (Or any drawstring) [video]",
+      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+      "score": 43
+    },
+    {
+      "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+      "url": "https://30papers.com/",
+      "score": 180
+    },
+    {
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "score": 200
+    },
+    {
+      "title": "l: A new runtime for k and q",
+      "url": "https://lv1.sh/",
+      "score": 37
+    },
+    {
+      "title": "A better way to tie gym shorts (or any drawstring) [video]",
       "url": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
-      "score": 119
+      "score": 367
     },
     {
-      "title": "Europe's company websites are mostly served by US vendors",
-      "url": "https://ciphercue.com/blog/european-web-hosting-vendor-share-2026",
-      "score": 121
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+      "score": 19
     },
     {
-      "title": "98% Isn't Much",
-      "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
-      "score": 181
+      "title": "Jim's TrueType QR Code Font",
+      "url": "https://github.com/jimparis/qr-font",
+      "score": 68
     },
     {
-      "title": "Top researchers leave USA for the Netherlands (in Dutch)",
-      "url": "https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland",
-      "score": 179
+      "title": "Fixing analog audio on the $2.58 HDMI-to-VGA adapter",
+      "url": "https://nyanpasu64.gitlab.io/blog/hdmi-vga-dac-audio/",
+      "score": 32
     },
     {
-      "title": "OpenWrt One – Open Hardware Router",
-      "url": "https://openwrt.org/toh/openwrt/one",
-      "score": 735
+      "title": "Notes on Software Quality",
+      "url": "https://anthonyhobday.com/blog/20260410",
+      "score": 17
     },
     {
-      "title": "CoMaps – FOSS Offline Maps",
-      "url": "https://www.comaps.app/",
-      "score": 678
+      "title": "Why we built yet another Postgres connection pooler",
+      "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
+      "score": 70
+    },
+    {
+      "title": "Astro 7.0",
+      "url": "https://astro.build/blog/astro-7/",
+      "score": 96
+    },
+    {
+      "title": "Show HN: Davit, a Apple Containers UI",
+      "url": "https://davit.app",
+      "score": 11
+    },
+    {
+      "title": "Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
+      "url": "https://github.com/kklimuk/docx-cli",
+      "score": 14
+    },
+    {
+      "title": "Chat Control passed first round in EU Parliament",
+      "url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
+      "score": 406
+    },
+    {
+      "title": "MacSurf 1.68 – NetSurf on OS 9 Released",
+      "url": "https://github.com/mplsllc/macsurf/releases/tag/v1.86",
+      "score": 47
+    },
+    {
+      "title": "Automating AI Away",
+      "url": "https://replicated.live/blog/away",
+      "score": 54
+    },
+    {
+      "title": "The revenge of the philosophy majors",
+      "url": "https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html",
+      "score": 92
+    },
+    {
+      "title": "China sentences official to death for taking $325M in bribes",
+      "url": "https://www.bbc.com/news/articles/c33y0n1v1xjo",
+      "score": 161
+    },
+    {
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "score": 9
+    },
+    {
+      "title": "Microsoft fire idTech team at Id software",
+      "url": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
+      "score": 373
     },
     {
       "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
@@ -42,114 +112,39 @@
       "score": 1
     },
     {
-      "title": "Dua Lipa opens library for banned and censored books in Portugal",
-      "url": "https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal",
-      "score": 99
+      "title": "Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents",
+      "url": "https://github.com/bkuan001/halo-record",
+      "score": 7
     },
     {
-      "title": "How to sequence your own DNA at home",
-      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-      "score": 311
+      "title": "Computational Balloon Twisting: The Theory of Balloon Polyhedra [pdf]",
+      "url": "https://cccg.ca/proceedings/2008/paper34full.pdf",
+      "score": 15
     },
     {
-      "title": "The Family Keeping Watch over a 52-Year-Old Pot of Soup",
-      "url": "https://www.wsj.com/arts-culture/food-cooking/the-family-keeping-watch-over-a-52-year-old-pot-of-soup-1e72f115",
-      "score": 20
+      "title": "98% isn't much",
+      "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
+      "score": 401
     },
     {
-      "title": "Historic Photos of NASA's Cavernous Wind Tunnels",
-      "url": "https://www.theatlantic.com/photo/2018/05/historic-photos-of-nasas-cavernous-wind-tunnels/560660/",
-      "score": 59
+      "title": "Why skilled workers come to Germany and then leave again",
+      "url": "https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162",
+      "score": 80
     },
     {
-      "title": "GLM 5.2 and the coming AI margin collapse",
-      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-      "score": 575
+      "title": "Amazon without the knockoffs",
+      "url": "https://knockoff.shopping/",
+      "score": 261
     },
     {
-      "title": "C++ Details of Asymmetric Fences",
-      "url": "https://nekrozqliphort.github.io/posts/membarrier/",
-      "score": 8
+      "title": "Decrypting View State Messages",
+      "url": "https://zeroed.tech/blog/decrypting-viewstate-messages/",
+      "score": 5
     },
     {
-      "title": "Small AI Models Gain Traction In places with unreliable networks",
-      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-      "score": 207
-    },
-    {
-      "title": "Microsoft Can Track Users via a Windows Device ID",
-      "url": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
-      "score": 204
-    },
-    {
-      "title": "Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)",
-      "url": "https://whimfiles.com",
-      "score": 55
-    },
-    {
-      "title": "The Art of Computer Programming by Donald E. Knuth",
-      "url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
-      "score": 98
-    },
-    {
-      "title": "Dolosse – a South African invention used over the world",
-      "url": "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/",
-      "score": 100
-    },
-    {
-      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
-      "url": "https://github.com/MaximeRivest/Riddle",
-      "score": 557
-    },
-    {
-      "title": "A global workspace in language models",
-      "url": "https://www.anthropic.com/research/global-workspace",
-      "score": 418
-    },
-    {
-      "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
-      "url": "https://ternlight-demo.vercel.app/",
-      "score": 282
-    },
-    {
-      "title": "Resetting Xbox",
-      "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
-      "score": 686
-    },
-    {
-      "title": "In Praise of Observational Evidence",
-      "url": "https://asteriskmag.com/issues/14/in-praise-of-observational-evidence",
-      "score": 60
-    },
-    {
-      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-      "score": 362
-    },
-    {
-      "title": "Pruning RAG context down to what the answer actually needs",
-      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
-      "score": 130
-    },
-    {
-      "title": "Not Dark Yet",
-      "url": "https://agoodhardstare.substack.com/p/not-dark-yet",
-      "score": 24
-    },
-    {
-      "title": "Linux on the Atari Jaguar",
-      "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
-      "score": 172
-    },
-    {
-      "title": "Inkfield",
-      "url": "https://www.inkfield.studio",
-      "score": 43
-    },
-    {
-      "title": "OpenSSH 10.4/10.4p1 Released",
-      "url": "https://www.openssh.org/txt/release-10.4",
-      "score": 103
+      "title": "GitHub Freno: cooperative, highly available throttler service",
+      "url": "https://github.com/github/freno",
+      "score": 23
     }
   ]
 }
