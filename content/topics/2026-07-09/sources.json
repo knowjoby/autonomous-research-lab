@@ -2,154 +2,149 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Show HN: 18 Words",
+      "url": "https://18words.com/",
+      "score": 267
+    },
+    {
+      "title": "No leap second will be introduced at the end of December 2026",
+      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
+      "score": 33
+    },
+    {
+      "title": "Introducing Muse Spark 1.1",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?_fb_noscript=1",
+      "score": 65
+    },
+    {
+      "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
+      "url": "https://github.com/ronak-create/FableCut",
+      "score": 52
+    },
+    {
       "title": "John Deere owners will get the right to repair equipment under FTC settlement",
       "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-      "score": 815
+      "score": 1176
     },
     {
-      "title": "Spider venom kills varroa mites without harming honeybees",
-      "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
-      "score": 112
-    },
-    {
-      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
-      "url": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
-      "score": 60
-    },
-    {
-      "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
-      "url": "https://nexte.st/",
-      "score": 92
-    },
-    {
-      "title": "Cloudflare Drop",
-      "url": "https://www.cloudflare.com/drop/",
-      "score": 430
-    },
-    {
-      "title": "I Built the Only 2026 WWII Jeep",
-      "url": "https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/",
-      "score": 35
-    },
-    {
-      "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
-      "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
-      "score": 86
-    },
-    {
-      "title": "How Donkey Kong Toppled Atari",
-      "url": "https://dfarq.homeip.net/how-donkey-kong-toppled-atari/",
-      "score": 17
-    },
-    {
-      "title": "Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
-      "score": 214
-    },
-    {
-      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-      "url": "https://microsoft.github.io/flint-chart/#/",
-      "score": 280
-    },
-    {
-      "title": "CollectWise (YC F24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive",
-      "score": 1
-    },
-    {
-      "title": "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
-      "url": "https://www.yamanote.fun/",
-      "score": 171
-    },
-    {
-      "title": "Unicode's transliteration rules are Turing-complete",
-      "url": "https://seriot.ch/computation/uts35/",
-      "score": 100
-    },
-    {
-      "title": "Grok 4.5",
-      "url": "https://x.ai/news/grok-4-5",
-      "score": 631
-    },
-    {
-      "title": "Rewriting Bun in Rust",
-      "url": "https://bun.com/blog/bun-in-rust",
-      "score": 579
-    },
-    {
-      "title": "Remote Attestation",
-      "url": "https://www.liamcvw.com/p/remote-attestation",
-      "score": 94
-    },
-    {
-      "title": "In-browser programmable robot simulator",
-      "url": "https://bittlex-sim.petoi.com/",
-      "score": 8
+      "title": "Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75",
+      "url": "https://www.bbc.com/news/articles/cg5pd9z2487o",
+      "score": 243
     },
     {
       "title": "Meta reuses old RAM in new servers with custom bridge chip",
       "url": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
+      "score": 180
+    },
+    {
+      "title": "Spider venom kills varroa mites without harming honeybees",
+      "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+      "score": 229
+    },
+    {
+      "title": "EU Parliament greenlights Chat Control 1.0 – Breyer: \"Our children lose out\"",
+      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "score": 342
+    },
+    {
+      "title": "US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers",
+      "url": "https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/",
+      "score": 75
+    },
+    {
+      "title": "A new way to reflect on how you use Claude",
+      "url": "https://www.anthropic.com/news/reflect-with-claude",
+      "score": 15
+    },
+    {
+      "title": "PostHog Open Sourced",
+      "url": "https://github.com/PostHog/posthog-foss",
+      "score": 5
+    },
+    {
+      "title": "How Version Control Will Evolve for the Agent Boom",
+      "url": "https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom",
+      "score": 27
+    },
+    {
+      "title": "Show HN: Analog Watch",
+      "url": "https://analog.watch",
+      "score": 7
+    },
+    {
+      "title": "New open access book on history of computers and politics",
+      "url": "https://mitpress.mit.edu/9780262053198/simpolitics/",
+      "score": 3
+    },
+    {
+      "title": "Maxwell's Equations Were Discovered [video]",
+      "url": "https://www.youtube.com/watch?v=-hua8RWopfw",
+      "score": 6
+    },
+    {
+      "title": "Transparency efforts behind the Helium Browser",
+      "url": "https://helium.computer/blog/transparency",
+      "score": 6
+    },
+    {
+      "title": "Just Pay the Subscription",
+      "url": "https://www.uncommonapps.nyc/p/just-pay-the-subscription",
+      "score": 25
+    },
+    {
+      "title": "Syria's solar boom is redefining Middle East's energy model",
+      "url": "https://www.thenationalnews.com/business/energy/2026/07/06/syrias-solar-boom-is-redefining-middle-easts-energy-model/",
+      "score": 35
+    },
+    {
+      "title": "I Built the Only 2026 WWII Jeep",
+      "url": "https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/",
+      "score": 121
+    },
+    {
+      "title": "Show HN: Arcaide – Explore code with multi-level call graphs",
+      "url": "https://arcaide.foo",
+      "score": 12
+    },
+    {
+      "title": "In-browser programmable robot simulator",
+      "url": "https://bittlex-sim.petoi.com/",
+      "score": 69
+    },
+    {
+      "title": "Files over tools: how we built our agent with a virtual filesystem and bash",
+      "url": "https://knock.app/blog/how-we-built-the-knock-agent-virtual-filesystem-and-bash",
       "score": 9
     },
     {
-      "title": "Turning a pile of documents into a searchable useable knowledge base",
-      "url": "https://github.com/linuxrebel/DocuBrowser",
-      "score": 139
+      "title": "Lead Mines of Galena, Kansas",
+      "url": "https://dustbowlhighway.com/kansas/lead-mines/",
+      "score": 19
     },
     {
-      "title": "Patching MechCommander's \"left arm bug\" for fun and profit",
-      "url": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
-      "score": 67
+      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+      "url": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+      "score": 293
     },
     {
-      "title": "Apache Shiro security framework releases 3.0.0",
-      "url": "https://shiro.apache.org/blog/2026/06/apache-shiro-300-released.html",
-      "score": 32
+      "title": "The Glass Backbone: Why the Army's Logistics Will Break in the Next War",
+      "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
+      "score": 72
     },
     {
-      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-      "url": "https://github.com/malisper/pgrust",
-      "score": 125
+      "title": "Vacuum at the Page Level",
+      "url": "https://boringsql.com/posts/vacuum-at-the-page-level/",
+      "score": 16
     },
     {
-      "title": "Chatto is now open source",
-      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-      "score": 962
+      "title": "The Backstory of Jiki",
+      "url": "https://jiki.io/blog/the-backstory-of-jiki",
+      "score": 5
     },
     {
-      "title": "3D Airplane tracker on Mercator map",
-      "url": "https://github.com/jamalrfordii-arch/Vanguard-Map",
-      "score": 13
-    },
-    {
-      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "score": 1377
-    },
-    {
-      "title": "GPT‑Live",
-      "url": "https://openai.com/index/introducing-gpt-live/",
-      "score": 702
-    },
-    {
-      "title": "TypeScript 7",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
-      "score": 620
-    },
-    {
-      "title": "New Sweden: the US's long-lost 'secret' colony",
-      "url": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
-      "score": 111
-    },
-    {
-      "title": "FAANG Simulator",
-      "url": "https://www.abeyk.com/escape-the-rat-race/",
-      "score": 410
-    },
-    {
-      "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
-      "url": "https://mira-wm.com/",
-      "score": 77
+      "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
+      "url": "https://nexte.st/",
+      "score": 153
     }
   ]
 }
