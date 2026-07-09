@@ -4,152 +4,152 @@
     {
       "title": "John Deere owners will get the right to repair equipment under FTC settlement",
       "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-      "score": 375
+      "score": 815
     },
     {
-      "title": "I Think I Have LLM Burnout",
-      "url": "https://www.alecscollon.com/blog/llm-burnout/",
-      "score": 77
+      "title": "Spider venom kills varroa mites without harming honeybees",
+      "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+      "score": 112
     },
     {
-      "title": "Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
-      "score": 169
+      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+      "url": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+      "score": 60
     },
     {
-      "title": "Chatto is now open source",
-      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-      "score": 766
-    },
-    {
-      "title": "Remote Attestation",
-      "url": "https://www.liamcvw.com/p/remote-attestation",
-      "score": 33
+      "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
+      "url": "https://nexte.st/",
+      "score": 92
     },
     {
       "title": "Cloudflare Drop",
       "url": "https://www.cloudflare.com/drop/",
-      "score": 281
+      "score": 430
     },
     {
-      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-      "url": "https://mistral.ai/news/robostral-navigate/",
-      "score": 424
+      "title": "I Built the Only 2026 WWII Jeep",
+      "url": "https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/",
+      "score": 35
+    },
+    {
+      "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
+      "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+      "score": 86
+    },
+    {
+      "title": "How Donkey Kong Toppled Atari",
+      "url": "https://dfarq.homeip.net/how-donkey-kong-toppled-atari/",
+      "score": 17
+    },
+    {
+      "title": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "score": 214
     },
     {
       "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
       "url": "https://microsoft.github.io/flint-chart/#/",
-      "score": 217
+      "score": 280
     },
     {
-      "title": "Patching MechCommander's \"left arm bug\" for fun and profit",
-      "url": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
-      "score": 15
-    },
-    {
-      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
-      "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
-      "score": 78
-    },
-    {
-      "title": "Unicode's transliteration rules are Turing-complete",
-      "url": "https://seriot.ch/computation/uts35/",
-      "score": 45
-    },
-    {
-      "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
-      "url": "https://mira-wm.com/",
-      "score": 26
-    },
-    {
-      "title": "Grok 4.5",
-      "url": "https://x.ai/news/grok-4-5",
-      "score": 495
-    },
-    {
-      "title": "Turning a pile of documents into a searchable useable knowledge base",
-      "url": "https://github.com/linuxrebel/DocuBrowser",
-      "score": 85
+      "title": "CollectWise (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive",
+      "score": 1
     },
     {
       "title": "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
       "url": "https://www.yamanote.fun/",
-      "score": 62
+      "score": 171
     },
     {
-      "title": "FAANG Simulator",
-      "url": "https://www.abeyk.com/escape-the-rat-race/",
-      "score": 306
+      "title": "Unicode's transliteration rules are Turing-complete",
+      "url": "https://seriot.ch/computation/uts35/",
+      "score": 100
     },
     {
-      "title": "A bug which affected only left handed users",
-      "url": "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/",
-      "score": 92
-    },
-    {
-      "title": "GPT‑Live",
-      "url": "https://openai.com/index/introducing-gpt-live/",
-      "score": 612
+      "title": "Grok 4.5",
+      "url": "https://x.ai/news/grok-4-5",
+      "score": 631
     },
     {
       "title": "Rewriting Bun in Rust",
       "url": "https://bun.com/blog/bun-in-rust",
-      "score": 330
+      "score": 579
     },
     {
-      "title": "New Sweden: the US's long-lost 'secret' colony",
-      "url": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
-      "score": 57
+      "title": "Remote Attestation",
+      "url": "https://www.liamcvw.com/p/remote-attestation",
+      "score": 94
     },
     {
-      "title": "TypeScript 7",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
-      "score": 486
+      "title": "In-browser programmable robot simulator",
+      "url": "https://bittlex-sim.petoi.com/",
+      "score": 8
     },
     {
-      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "score": 1312
+      "title": "Meta reuses old RAM in new servers with custom bridge chip",
+      "url": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
+      "score": 9
     },
     {
-      "title": "My road trip with the do-gooding cactus smugglers",
-      "url": "https://economist.com/1843/2026/03/06/my-road-trip-with-the-do-gooding-cactus-smugglers",
-      "score": 22
+      "title": "Turning a pile of documents into a searchable useable knowledge base",
+      "url": "https://github.com/linuxrebel/DocuBrowser",
+      "score": 139
     },
     {
-      "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
-      "url": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
-      "score": 81
+      "title": "Patching MechCommander's \"left arm bug\" for fun and profit",
+      "url": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
+      "score": 67
     },
     {
       "title": "Apache Shiro security framework releases 3.0.0",
       "url": "https://shiro.apache.org/blog/2026/06/apache-shiro-300-released.html",
-      "score": 4
+      "score": 32
     },
     {
-      "title": "Cloudflare Meerkat - Globally distributed consensus",
-      "url": "https://blog.cloudflare.com/meerkat-introduction/",
-      "score": 227
+      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "url": "https://github.com/malisper/pgrust",
+      "score": 125
     },
     {
-      "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
-      "url": "https://github.com/Rodiun/frugon",
-      "score": 14
+      "title": "Chatto is now open source",
+      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "score": 962
     },
     {
-      "title": "Beyond Git: Real-Time Version Control for Godot – Lilith Duncan – GodotCon 2026 [video]",
-      "url": "https://www.youtube.com/watch?v=CAJ_iIedx_I",
-      "score": 18
+      "title": "3D Airplane tracker on Mercator map",
+      "url": "https://github.com/jamalrfordii-arch/Vanguard-Map",
+      "score": 13
     },
     {
-      "title": "I Built a Telegram Client for Pi",
-      "url": "https://www.npmjs.com/package/@atharva-again/pi-tg",
-      "score": 59
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "score": 1377
     },
     {
-      "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
-      "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
-      "score": 385
+      "title": "GPT‑Live",
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "score": 702
+    },
+    {
+      "title": "TypeScript 7",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+      "score": 620
+    },
+    {
+      "title": "New Sweden: the US's long-lost 'secret' colony",
+      "url": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
+      "score": 111
+    },
+    {
+      "title": "FAANG Simulator",
+      "url": "https://www.abeyk.com/escape-the-rat-race/",
+      "score": 410
+    },
+    {
+      "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+      "url": "https://mira-wm.com/",
+      "score": 77
     }
   ]
 }
