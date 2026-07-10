@@ -2,54 +2,99 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Write code like a human will maintain it",
-      "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
-      "score": 60
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "score": 71
     },
     {
-      "title": "Punk, or why I don't stream anymore",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html",
-      "score": 54
+      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "score": 241
+    },
+    {
+      "title": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material (2015)",
+      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+      "score": 87
+    },
+    {
+      "title": "The tech of 'Terminator 2' – an oral history (2017)",
+      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+      "score": 78
+    },
+    {
+      "title": "War Atlas: An interactive cartography of every named war in human history",
+      "url": "https://waratlas.org",
+      "score": 27
+    },
+    {
+      "title": "A Love Letter to Flashcards",
+      "url": "https://lesleylai.info/en/flashcards/",
+      "score": 93
     },
     {
       "title": "Late Bronze Age Collapse",
       "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-      "score": 88
+      "score": 254
     },
     {
-      "title": "Successful Companies Go Blind",
-      "url": "https://ianreppel.org/how-successful-companies-go-blind/",
-      "score": 12
+      "title": "Combustion Engine Web-Based Simulator",
+      "url": "https://combustionlab.net",
+      "score": 31
     },
     {
-      "title": "Scarf has moved away from Haskell",
-      "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
-      "score": 18
+      "title": "Lost city discovered beneath Egypt's desert with ancient church",
+      "url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
+      "score": 101
     },
     {
       "title": "Good Tools Are Invisible",
       "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-      "score": 99
+      "score": 238
     },
     {
-      "title": "GPT-5.6",
-      "url": "https://openai.com/index/gpt-5-6/",
-      "score": 1414
+      "title": "New York City to become first in US to ban deceptive subscription practices",
+      "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+      "score": 46
     },
     {
-      "title": "In Emacs, Everything Looks Like a Service",
-      "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
-      "score": 94
+      "title": "Successful Companies Go Blind",
+      "url": "https://ianreppel.org/how-successful-companies-go-blind/",
+      "score": 136
+    },
+    {
+      "title": "Write code like a human will maintain it",
+      "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
+      "score": 269
+    },
+    {
+      "title": "Show HN: Reviving my 2001 college band with AI",
+      "url": "https://www.fadingmaize.com",
+      "score": 30
+    },
+    {
+      "title": "Hands-On with the AMD Ryzen AI Halo",
+      "url": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx",
+      "score": 23
+    },
+    {
+      "title": "Computation as a Universal and Fundamental Concept",
+      "url": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
+      "score": 39
+    },
+    {
+      "title": "How the Terrorist Group Boko Haram Uses Frontier AI",
+      "url": "https://casp.ac/reports/ai-enabled-terrorism",
+      "score": 15
     },
     {
       "title": "The mathematical secrets of Barcelona's Sagrada Familia",
       "url": "https://mappingignorance.org/2026/06/30/sagrada-familia/",
-      "score": 44
+      "score": 99
     },
     {
-      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-      "url": "https://github.com/JustVugg/colibri",
-      "score": 772
+      "title": "In Emacs, Everything Looks Like a Service",
+      "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
+      "score": 145
     },
     {
       "title": "Laylo (YC S20) Is Hiring a Head of Finance",
@@ -57,94 +102,44 @@
       "score": 1
     },
     {
+      "title": "Alternate Clock Designs and Time Systems",
+      "url": "https://serialc.github.io/altClocks/",
+      "score": 54
+    },
+    {
+      "title": "Anyone else get a vague GitHub shakedown notice?",
+      "url": "https://lists.osgeo.org/pipermail/qgis-developer/2026-July/068430.html",
+      "score": 45
+    },
+    {
+      "title": "The Annotated JEPA",
+      "url": "https://elonlit.com/scrivings/the-annotated-jepa/",
+      "score": 38
+    },
+    {
       "title": "Show HN: Runloom – Go-style coroutines for Python free-threaded",
       "url": "https://github.com/robertsdotpm/runloom",
-      "score": 6
+      "score": 38
     },
     {
       "title": "EU Commission: addictive design Instagram and Facebook in breach of the DSA",
       "url": "https://ec.europa.eu/commission/presscorner/home/en",
-      "score": 118
+      "score": 218
     },
     {
-      "title": "Train sim created by just one person is being called the best ever made",
-      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
-      "score": 726
+      "title": "Cpp2Rust: Translates C++ to safe Rust automatically",
+      "url": "https://github.com/Cpp2Rust/cpp2rust",
+      "score": 8
     },
     {
-      "title": "Ditching Vagrant: VMs with KVM and Virsh on Debian",
-      "url": "https://benjamintoll.com/2026/06/29/on-ditching-vagrant/",
-      "score": 48
+      "title": "How RCA Victor sold Sound Service to classrooms in 1939",
+      "url": "https://pncnmnp.github.io/blogs/rca-victor-education.html",
+      "score": 17
     },
     {
       "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
       "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
-      "score": 132
-    },
-    {
-      "title": "ActivityPub over ATProto",
-      "url": "https://berjon.com/ap-at/",
-      "score": 10
-    },
-    {
-      "title": "AI-generated videos to maximally drive a target brain region",
-      "url": "https://nevo-project.epfl.ch/",
-      "score": 150
-    },
-    {
-      "title": "Proton AG Services is currently experiencing some issues",
-      "url": "https://status.proton.me/incidents/01lxtcq155lc",
-      "score": 13
-    },
-    {
-      "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
-      "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-      "score": 304
-    },
-    {
-      "title": "Hy3",
-      "url": "https://hy.tencent.com/research/hy3",
-      "score": 521
-    },
-    {
-      "title": "Ancient Coins: What About Spartan Coins?",
-      "url": "https://coinweek.com/ancient-spartan-coins/",
-      "score": 5
-    },
-    {
-      "title": "EU Parliament greenlights Chat Control 1.0",
-      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-      "score": 1511
-    },
-    {
-      "title": "Ryanair Passenger Sucked Toward Broken Window After Midair Engine Failure",
-      "url": "https://simpleflying.com/ryanair-thessaloniki-diversion-window-damage/",
-      "score": 28
-    },
-    {
-      "title": "The glass backbone: Why the Army's logistics will break in the next war",
-      "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
-      "score": 417
-    },
-    {
-      "title": "A road to Lisp: Why Lisp",
-      "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
-      "score": 267
-    },
-    {
-      "title": "Unified Memory, Explained: Why Mini PCs Can Run 70B Models a Big GPU Can't",
-      "url": "https://vettedconsumer.com/unified-memory-explained-why-mini-pcs-can-run-70b-models-a-big-gpu-cant-and-where-they-slow-down/",
-      "score": 6
-    },
-    {
-      "title": "No leap second will be introduced at the end of December 2026",
-      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
-      "score": 303
-    },
-    {
-      "title": "Building a real-time AI tutor for 5-year-olds",
-      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
-      "score": 114
+      "score": 182
     }
   ]
 }
