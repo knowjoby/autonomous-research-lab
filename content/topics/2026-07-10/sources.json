@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-      "url": "https://github.com/JustVugg/colibri",
-      "score": 418
+      "title": "GPT-5.6",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "score": 1255
     },
     {
-      "title": "Focus",
-      "url": "https://boz.com/articles/focus",
-      "score": 42
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "url": "https://github.com/JustVugg/colibri",
+      "score": 666
     },
     {
       "title": "EU Parliament greenlights Chat Control 1.0",
       "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-      "score": 1029
-    },
-    {
-      "title": "GPT-5.6",
-      "url": "https://openai.com/index/gpt-5-6/",
-      "score": 1092
-    },
-    {
-      "title": "Show HN: 18 Words",
-      "url": "https://18words.com/",
-      "score": 844
+      "score": 1375
     },
     {
       "title": "Train sim created by just one person is being called the best ever made",
       "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
-      "score": 318
+      "score": 582
     },
     {
-      "title": "Star Just Ate a Planet, and It's Not Done Yet",
-      "url": "https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html",
-      "score": 17
-    },
-    {
-      "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
-      "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-      "score": 138
-    },
-    {
-      "title": "My Story of 3D Realms / Apogee Part I (2020)",
-      "url": "https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/",
-      "score": 38
-    },
-    {
-      "title": "Hy3",
-      "url": "https://hy.tencent.com/research/hy3",
-      "score": 400
+      "title": "Show HN: 18 Words",
+      "url": "https://18words.com/",
+      "score": 987
     },
     {
       "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
       "url": "https://github.com/malisper/pgrust",
-      "score": 410
+      "score": 651
     },
     {
-      "title": "Triple Dragon Fractal (2020)",
-      "url": "https://paulbourke.net/fractals/tripledragon/",
-      "score": 20
+      "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+      "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
+      "score": 70
     },
     {
-      "title": "Build your own vulnerability harness",
-      "url": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
-      "score": 12
+      "title": "AI-generated videos to maximally drive a target brain region",
+      "url": "https://nevo-project.epfl.ch/",
+      "score": 48
     },
     {
-      "title": "No leap second will be introduced at the end of December 2026",
-      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
-      "score": 248
+      "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
+      "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+      "score": 241
+    },
+    {
+      "title": "Hy3",
+      "url": "https://hy.tencent.com/research/hy3",
+      "score": 474
     },
     {
       "title": "The glass backbone: Why the Army's logistics will break in the next war",
       "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
-      "score": 306
+      "score": 371
+    },
+    {
+      "title": "No leap second will be introduced at the end of December 2026",
+      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
+      "score": 278
     },
     {
       "title": "A road to Lisp: Why Lisp",
       "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
-      "score": 120
+      "score": 228
     },
     {
-      "title": "Building a real-time AI tutor for 5-year-olds",
-      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
-      "score": 52
+      "title": "Parental device use and the adolescent-caregiver attachment bond",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
+      "score": 126
     },
     {
-      "title": "Girls just wanna have fast MPMC queues with bounded waiting",
-      "url": "https://nahla.dev/blog/waitfree_queue/",
-      "score": 140
+      "title": "My Story of 3D Realms / Apogee Part I (2020)",
+      "url": "https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/",
+      "score": 73
     },
     {
-      "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
-      "url": "https://www.context.dev",
-      "score": 74
-    },
-    {
-      "title": "A possible future for Damn Interesting",
-      "url": "https://www.damninteresting.com/a-possible-future/",
-      "score": 243
-    },
-    {
-      "title": "Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule",
-      "url": "https://debasishg.github.io/blog/part1-cache-conscious-data-layout-in-rust/",
-      "score": 10
-    },
-    {
-      "title": "Why American ambulance rides are so expensive",
-      "url": "https://davidoks.blog/p/why-american-ambulance-rides-are",
-      "score": 105
+      "title": "Common prefix skipping, adaptive sort",
+      "url": "http://smalldatum.blogspot.com/2026/01/common-prefix-skipping-adaptive-sort.html",
+      "score": 23
     },
     {
       "title": "Life with Hazard Ratios",
       "url": "https://dynomight.net/hazard-ratios/",
-      "score": 5
+      "score": 42
+    },
+    {
+      "title": "Damaged Earth Catalog",
+      "url": "https://damaged.bleu255.com/",
+      "score": 10
+    },
+    {
+      "title": "A possible future for Damn Interesting",
+      "url": "https://www.damninteresting.com/a-possible-future/",
+      "score": 281
+    },
+    {
+      "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
+      "url": "https://www.context.dev",
+      "score": 96
+    },
+    {
+      "title": "Building a real-time AI tutor for 5-year-olds",
+      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+      "score": 88
+    },
+    {
+      "title": "Harman and Dr. Sean Olive are reshaping headphone sound (2025)",
+      "url": "https://www.crutchfield.com/S-ls67Oiva4Wu/learn/crutchfield-visits-harman.html",
+      "score": 16
     },
     {
       "title": "Muse Spark 1.1",
       "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
-      "score": 331
+      "score": 373
+    },
+    {
+      "title": "Girls just wanna have fast MPMC queues with bounded waiting",
+      "url": "https://nahla.dev/blog/waitfree_queue/",
+      "score": 168
+    },
+    {
+      "title": "Why American ambulance rides are so expensive",
+      "url": "https://davidoks.blog/p/why-american-ambulance-rides-are",
+      "score": 208
+    },
+    {
+      "title": "Triple Dragon Fractal (2020)",
+      "url": "https://paulbourke.net/fractals/tripledragon/",
+      "score": 47
+    },
+    {
+      "title": "Build your own vulnerability harness",
+      "url": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
+      "score": 45
+    },
+    {
+      "title": "TLS certificates for internal services done right",
+      "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
+      "score": 151
     },
     {
       "title": "Patterncollider: Generate and explore quasiperiodic tiling patterns",
       "url": "https://github.com/aatishb/patterncollider",
-      "score": 26
+      "score": 49
     },
     {
-      "title": "Wildcard (YC W25) Is Hiring a Founding Engineer",
-      "url": "https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer",
-      "score": 1
-    },
-    {
-      "title": "Buried Apple feature turns an iPhone into the perfect kids' dumb phone",
-      "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
-      "score": 284
-    },
-    {
-      "title": "GLM 5.2 is nearly as accurate as a human book keeper",
-      "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
-      "score": 190
-    },
-    {
-      "title": "Opinionated and easy Pi.dev configuration",
-      "url": "https://lazypi.org/",
-      "score": 115
-    },
-    {
-      "title": "SimPolitics: America’s quest to solve politics with computers",
-      "url": "https://mitpress.mit.edu/9780262053198/simpolitics/",
-      "score": 85
+      "title": "Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule",
+      "url": "https://debasishg.github.io/blog/part1-cache-conscious-data-layout-in-rust/",
+      "score": 29
     }
   ]
 }
