@@ -2,154 +2,149 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Write code like a human will maintain it",
+      "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
+      "score": 60
+    },
+    {
+      "title": "Punk, or why I don't stream anymore",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html",
+      "score": 54
+    },
+    {
+      "title": "Late Bronze Age Collapse",
+      "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+      "score": 88
+    },
+    {
+      "title": "Successful Companies Go Blind",
+      "url": "https://ianreppel.org/how-successful-companies-go-blind/",
+      "score": 12
+    },
+    {
+      "title": "Scarf has moved away from Haskell",
+      "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
+      "score": 18
+    },
+    {
+      "title": "Good Tools Are Invisible",
+      "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+      "score": 99
+    },
+    {
       "title": "GPT-5.6",
       "url": "https://openai.com/index/gpt-5-6/",
-      "score": 1255
+      "score": 1414
+    },
+    {
+      "title": "In Emacs, Everything Looks Like a Service",
+      "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
+      "score": 94
+    },
+    {
+      "title": "The mathematical secrets of Barcelona's Sagrada Familia",
+      "url": "https://mappingignorance.org/2026/06/30/sagrada-familia/",
+      "score": 44
     },
     {
       "title": "Show HN: Getting GLM 5.2 running on my slow computer",
       "url": "https://github.com/JustVugg/colibri",
-      "score": 666
+      "score": 772
     },
     {
-      "title": "EU Parliament greenlights Chat Control 1.0",
-      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-      "score": 1375
+      "title": "Laylo (YC S20) Is Hiring a Head of Finance",
+      "url": "https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance",
+      "score": 1
+    },
+    {
+      "title": "Show HN: Runloom – Go-style coroutines for Python free-threaded",
+      "url": "https://github.com/robertsdotpm/runloom",
+      "score": 6
+    },
+    {
+      "title": "EU Commission: addictive design Instagram and Facebook in breach of the DSA",
+      "url": "https://ec.europa.eu/commission/presscorner/home/en",
+      "score": 118
     },
     {
       "title": "Train sim created by just one person is being called the best ever made",
       "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
-      "score": 582
+      "score": 726
     },
     {
-      "title": "Show HN: 18 Words",
-      "url": "https://18words.com/",
-      "score": 987
-    },
-    {
-      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-      "url": "https://github.com/malisper/pgrust",
-      "score": 651
+      "title": "Ditching Vagrant: VMs with KVM and Virsh on Debian",
+      "url": "https://benjamintoll.com/2026/06/29/on-ditching-vagrant/",
+      "score": 48
     },
     {
       "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
       "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
-      "score": 70
+      "score": 132
+    },
+    {
+      "title": "ActivityPub over ATProto",
+      "url": "https://berjon.com/ap-at/",
+      "score": 10
     },
     {
       "title": "AI-generated videos to maximally drive a target brain region",
       "url": "https://nevo-project.epfl.ch/",
-      "score": 48
+      "score": 150
+    },
+    {
+      "title": "Proton AG Services is currently experiencing some issues",
+      "url": "https://status.proton.me/incidents/01lxtcq155lc",
+      "score": 13
     },
     {
       "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
       "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-      "score": 241
+      "score": 304
     },
     {
       "title": "Hy3",
       "url": "https://hy.tencent.com/research/hy3",
-      "score": 474
+      "score": 521
+    },
+    {
+      "title": "Ancient Coins: What About Spartan Coins?",
+      "url": "https://coinweek.com/ancient-spartan-coins/",
+      "score": 5
+    },
+    {
+      "title": "EU Parliament greenlights Chat Control 1.0",
+      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "score": 1511
+    },
+    {
+      "title": "Ryanair Passenger Sucked Toward Broken Window After Midair Engine Failure",
+      "url": "https://simpleflying.com/ryanair-thessaloniki-diversion-window-damage/",
+      "score": 28
     },
     {
       "title": "The glass backbone: Why the Army's logistics will break in the next war",
       "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
-      "score": 371
-    },
-    {
-      "title": "No leap second will be introduced at the end of December 2026",
-      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
-      "score": 278
+      "score": 417
     },
     {
       "title": "A road to Lisp: Why Lisp",
       "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
-      "score": 228
+      "score": 267
     },
     {
-      "title": "Parental device use and the adolescent-caregiver attachment bond",
-      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
-      "score": 126
+      "title": "Unified Memory, Explained: Why Mini PCs Can Run 70B Models a Big GPU Can't",
+      "url": "https://vettedconsumer.com/unified-memory-explained-why-mini-pcs-can-run-70b-models-a-big-gpu-cant-and-where-they-slow-down/",
+      "score": 6
     },
     {
-      "title": "My Story of 3D Realms / Apogee Part I (2020)",
-      "url": "https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/",
-      "score": 73
-    },
-    {
-      "title": "Common prefix skipping, adaptive sort",
-      "url": "http://smalldatum.blogspot.com/2026/01/common-prefix-skipping-adaptive-sort.html",
-      "score": 23
-    },
-    {
-      "title": "Life with Hazard Ratios",
-      "url": "https://dynomight.net/hazard-ratios/",
-      "score": 42
-    },
-    {
-      "title": "Damaged Earth Catalog",
-      "url": "https://damaged.bleu255.com/",
-      "score": 10
-    },
-    {
-      "title": "A possible future for Damn Interesting",
-      "url": "https://www.damninteresting.com/a-possible-future/",
-      "score": 281
-    },
-    {
-      "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
-      "url": "https://www.context.dev",
-      "score": 96
+      "title": "No leap second will be introduced at the end of December 2026",
+      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
+      "score": 303
     },
     {
       "title": "Building a real-time AI tutor for 5-year-olds",
       "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
-      "score": 88
-    },
-    {
-      "title": "Harman and Dr. Sean Olive are reshaping headphone sound (2025)",
-      "url": "https://www.crutchfield.com/S-ls67Oiva4Wu/learn/crutchfield-visits-harman.html",
-      "score": 16
-    },
-    {
-      "title": "Muse Spark 1.1",
-      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
-      "score": 373
-    },
-    {
-      "title": "Girls just wanna have fast MPMC queues with bounded waiting",
-      "url": "https://nahla.dev/blog/waitfree_queue/",
-      "score": 168
-    },
-    {
-      "title": "Why American ambulance rides are so expensive",
-      "url": "https://davidoks.blog/p/why-american-ambulance-rides-are",
-      "score": 208
-    },
-    {
-      "title": "Triple Dragon Fractal (2020)",
-      "url": "https://paulbourke.net/fractals/tripledragon/",
-      "score": 47
-    },
-    {
-      "title": "Build your own vulnerability harness",
-      "url": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
-      "score": 45
-    },
-    {
-      "title": "TLS certificates for internal services done right",
-      "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
-      "score": 151
-    },
-    {
-      "title": "Patterncollider: Generate and explore quasiperiodic tiling patterns",
-      "url": "https://github.com/aatishb/patterncollider",
-      "score": 49
-    },
-    {
-      "title": "Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule",
-      "url": "https://debasishg.github.io/blog/part1-cache-conscious-data-layout-in-rust/",
-      "score": 29
+      "score": 114
     }
   ]
 }
