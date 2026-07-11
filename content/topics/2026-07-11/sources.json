@@ -2,134 +2,144 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Networking and the Internet, from First Principles",
+      "url": "https://fazamhd.com/mental-models/networking/",
+      "score": 40
+    },
+    {
+      "title": "Your code is fast – if you're lucky",
+      "url": "https://tiki.li/blog/lucky_code.html",
+      "score": 31
+    },
+    {
       "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
       "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "score": 206
+      "score": 298
     },
     {
       "title": "QuadRF can spot drones and see WiFi through my wall",
       "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-      "score": 544
+      "score": 629
+    },
+    {
+      "title": "Google Search lets creators know more about their reach",
+      "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
+      "score": 36
+    },
+    {
+      "title": "Otary – Image and Geometry Python Library Now Has Tutorials",
+      "url": "https://alexandrepoupeau.com/otary/learn/",
+      "score": 46
+    },
+    {
+      "title": "Show HN: HTMLDrive – serve HTML files from your Google Drive",
+      "url": "https://html-drive.com",
+      "score": 12
     },
     {
       "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
       "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "score": 966
-    },
-    {
-      "title": "The vintage beauty of Soviet control rooms (2018)",
-      "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
-      "score": 49
+      "score": 1218
     },
     {
       "title": "An iroh powered smart fan",
       "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
-      "score": 88
-    },
-    {
-      "title": "What's the best way to do authentication in modern applications",
-      "url": "https://neciudan.dev/most-secure-way-to-store-auth-token",
-      "score": 27
+      "score": 126
     },
     {
       "title": "An update on residential proxies and the scraper situation",
       "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
-      "score": 176
+      "score": 234
+    },
+    {
+      "title": "The mask that compiles to nothing: how HotSpots JIT learned to reason about bits",
+      "url": "https://questdb.com/blog/jvm-jit-known-bits/",
+      "score": 37
     },
     {
       "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
       "url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
-      "score": 163
+      "score": 218
+    },
+    {
+      "title": "The vintage beauty of Soviet control rooms (2018)",
+      "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
+      "score": 143
     },
     {
       "title": "Good Tools Are Invisible",
       "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-      "score": 407
+      "score": 479
     },
     {
       "title": "AI 2040: Plan A",
       "url": "https://ai-2040.com/",
-      "score": 234
+      "score": 306
     },
     {
-      "title": "Combustion engine web-based simulator",
-      "url": "https://combustionlab.net",
-      "score": 160
-    },
-    {
-      "title": "Silent speech with ultrasound",
-      "url": "https://alephneuro.com/blog/silent-speech",
-      "score": 41
-    },
-    {
-      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "score": 434
-    },
-    {
-      "title": "The tech of 'Terminator 2' – an oral history (2017)",
-      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
-      "score": 210
-    },
-    {
-      "title": "Documentation is still in your Mum's filing cabinet",
-      "url": "https://gerireid.com/blog/organising-documentation-for-humans-and-ai/",
-      "score": 5
+      "title": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+      "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+      "score": 9
     },
     {
       "title": "Late Bronze Age Collapse",
       "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-      "score": 360
+      "score": 385
     },
     {
-      "title": "The Lindy effect in software",
-      "url": "https://www.clemsau.com/posts/the-lindy-effect-in-software/",
-      "score": 13
+      "title": "Silent speech with ultrasound",
+      "url": "https://alephneuro.com/blog/silent-speech",
+      "score": 70
     },
     {
-      "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
-      "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
-      "score": 69
+      "title": "The tech of 'Terminator 2' – an oral history (2017)",
+      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+      "score": 229
     },
     {
       "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell",
       "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
-      "score": 122
+      "score": 170
     },
     {
-      "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
-      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
-      "score": 182
-    },
-    {
-      "title": "New York City to ban deceptive subscription practices",
-      "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
-      "score": 502
+      "title": "Combustion engine web-based simulator",
+      "url": "https://combustionlab.net",
+      "score": 193
     },
     {
       "title": "Alternate clock designs and time systems",
       "url": "https://serialc.github.io/altClocks/",
-      "score": 134
+      "score": 165
     },
     {
-      "title": "The footgun of right-to-left decorative characters",
-      "url": "https://blog.alexbeals.com/posts/the-footgun-of-right-to-left-decorative-characters",
-      "score": 34
+      "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
+      "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+      "score": 93
     },
     {
-      "title": "Computation as a universal and fundamental concept",
-      "url": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
-      "score": 125
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "score": 483
     },
     {
-      "title": "GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years",
-      "url": "https://nebusec.ai/research/ionstack-part-2/",
-      "score": 72
+      "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
+      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+      "score": 207
+    },
+    {
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "url": "https://github.com/JustVugg/colibri",
+      "score": 868
+    },
+    {
+      "title": "New York City to ban deceptive subscription practices",
+      "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+      "score": 559
     },
     {
       "title": "A love letter to flashcards",
       "url": "https://lesleylai.info/en/flashcards/",
-      "score": 150
+      "score": 163
     },
     {
       "title": "Moss (YC F25) Is Hiring",
@@ -137,19 +147,9 @@
       "score": 1
     },
     {
-      "title": "War Atlas: An interactive cartography of every named war in human history",
-      "url": "https://waratlas.org",
-      "score": 145
-    },
-    {
-      "title": "Preemption is GC for memory reordering (2019)",
-      "url": "https://pvk.ca/Blog/2019/01/09/preemption-is-gc-for-memory-reordering/",
-      "score": 26
-    },
-    {
-      "title": "Lost city discovered beneath Egypt's desert with ancient church",
-      "url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
-      "score": 172
+      "title": "Computation as a universal and fundamental concept",
+      "url": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
+      "score": 143
     }
   ]
 }
