@@ -1,0 +1,150 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+      "score": 108
+    },
+    {
+      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "score": 463
+    },
+    {
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "score": 585
+    },
+    {
+      "title": "An iroh powered smart fan",
+      "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
+      "score": 25
+    },
+    {
+      "title": "An update on residential proxies and the scraper situation",
+      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+      "score": 94
+    },
+    {
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "score": 358
+    },
+    {
+      "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
+      "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+      "score": 47
+    },
+    {
+      "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
+      "url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
+      "score": 81
+    },
+    {
+      "title": "Combustion engine web-based simulator",
+      "url": "https://combustionlab.net",
+      "score": 121
+    },
+    {
+      "title": "The tech of 'Terminator 2' – an oral history (2017)",
+      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+      "score": 170
+    },
+    {
+      "title": "New York City to to ban deceptive subscription practices",
+      "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+      "score": 422
+    },
+    {
+      "title": "Good Tools Are Invisible",
+      "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+      "score": 364
+    },
+    {
+      "title": "The footgun of right-to-left decorative characters",
+      "url": "https://blog.alexbeals.com/posts/the-footgun-of-right-to-left-decorative-characters",
+      "score": 6
+    },
+    {
+      "title": "Late Bronze Age Collapse",
+      "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+      "score": 327
+    },
+    {
+      "title": "AI 2040: Plan A",
+      "url": "https://ai-2040.com/",
+      "score": 156
+    },
+    {
+      "title": "Computation as a universal and fundamental concept",
+      "url": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
+      "score": 88
+    },
+    {
+      "title": "Moss (YC F25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk",
+      "score": 1
+    },
+    {
+      "title": "Alternate clock designs and time systems",
+      "url": "https://serialc.github.io/altClocks/",
+      "score": 103
+    },
+    {
+      "title": "I've been building this alone for months. Roast it before I lose any more time",
+      "url": "https://peakd.io",
+      "score": 9
+    },
+    {
+      "title": "FreeCAD in the Browser",
+      "url": "https://magik.net/freecad/",
+      "score": 26
+    },
+    {
+      "title": "Show HN: Wyrm – Solve algebra by touch, built on an open-source soundness engine",
+      "url": "https://github.com/dicroce/wyrm_math",
+      "score": 59
+    },
+    {
+      "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell",
+      "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
+      "score": 83
+    },
+    {
+      "title": "In Emacs, everything looks like a service",
+      "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
+      "score": 235
+    },
+    {
+      "title": "War Atlas: An interactive cartography of every named war in human history",
+      "url": "https://waratlas.org",
+      "score": 118
+    },
+    {
+      "title": "Lost city discovered beneath Egypt's desert with ancient church",
+      "url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
+      "score": 157
+    },
+    {
+      "title": "A love letter to flashcards",
+      "url": "https://lesleylai.info/en/flashcards/",
+      "score": 129
+    },
+    {
+      "title": "Preemption is GC for memory reordering (2019)",
+      "url": "https://pvk.ca/Blog/2019/01/09/preemption-is-gc-for-memory-reordering/",
+      "score": 10
+    },
+    {
+      "title": "GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years",
+      "url": "https://nebusec.ai/research/ionstack-part-2/",
+      "score": 40
+    },
+    {
+      "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
+      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+      "score": 156
+    }
+  ]
+}
