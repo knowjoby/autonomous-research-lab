@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Mesh LLM: distributed AI computing on iroh",
-      "url": "https://www.iroh.computer/blog/mesh-llm",
-      "score": 225
+      "title": "Old and new apps, via modern coding agents by Terry Tao",
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "score": 89
+    },
+    {
+      "title": "Yt-Dlp Sequence Diagrams",
+      "url": "https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video",
+      "score": 38
+    },
+    {
+      "title": "Understanding the Odin Programming Language",
+      "url": "https://odinbook.com/",
+      "score": 19
+    },
+    {
+      "title": "Ghostel.el: Terminal emulator powered by libghostty",
+      "url": "https://dakra.github.io/ghostel/",
+      "score": 65
+    },
+    {
+      "title": "Vint Cerf, a “father of the Internet”, is retiring",
+      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "score": 156
     },
     {
       "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
       "url": "https://github.com/cosmtrek/mindwalk",
-      "score": 12
+      "score": 97
     },
     {
-      "title": "The 'Father of the Internet' is finally retiring",
-      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-      "score": 33
-    },
-    {
-      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
-      "url": "https://antjs.org",
-      "score": 252
-    },
-    {
-      "title": "Text art tools",
-      "url": "https://hlnet.notion.site/text-art-tools",
-      "score": 26
-    },
-    {
-      "title": "RISCBoy is an open-source portable games console, designed from scratch",
-      "url": "https://github.com/Wren6991/RISCBoy",
-      "score": 130
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "score": 282
     },
     {
       "title": "Protobuf-py: Protobuf for Python, without compromises",
       "url": "https://buf.build/blog/protobuf-py",
+      "score": 76
+    },
+    {
+      "title": "Xbox 'OG' Adventures",
+      "url": "https://mamoniem.com/xbox-og-adventures/",
       "score": 16
     },
     {
-      "title": "An agent in 100 lines of Lisp",
-      "url": "https://thebeach.dev/posts/lisp-agent/",
-      "score": 128
+      "title": "Ditching Zotero for a Text File",
+      "url": "https://atthis.link/blog/2026/57207.html",
+      "score": 8
+    },
+    {
+      "title": "Datacentres drive up big tech's carbon emissions to a third of those of France",
+      "url": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
+      "score": 41
     },
     {
       "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
       "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-      "score": 244
+      "score": 298
+    },
+    {
+      "title": "Handsum: An LQIP Image File Format",
+      "url": "https://nigeltao.github.io/blog/2026/handsum.html",
+      "score": 31
+    },
+    {
+      "title": "An agent in 100 lines of Lisp",
+      "url": "https://thebeach.dev/posts/lisp-agent/",
+      "score": 182
+    },
+    {
+      "title": "Woman in Brazil enslaved for 55 years by 3 generations of the same family",
+      "url": "https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html",
+      "score": 97
+    },
+    {
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "url": "https://antjs.org",
+      "score": 290
+    },
+    {
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "url": "https://github.com/Wren6991/RISCBoy",
+      "score": 166
+    },
+    {
+      "title": "Text art tools",
+      "url": "https://hlnet.notion.site/text-art-tools",
+      "score": 66
     },
     {
       "title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
       "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
-      "score": 61
+      "score": 85
+    },
+    {
+      "title": "Fibonacci's Real Mathematical Legacy",
+      "url": "https://blogs.nature.com/aviewfromthebridge/2017/04/20/fibonaccis-mathematical-legacy/",
+      "score": 16
     },
     {
       "title": "EF Core 11 makes your split queries faster",
       "url": "https://steven-giesel.com/blogPost/d4401fd0-805a-4703-9d9e-5fe3b57c25ea",
-      "score": 34
-    },
-    {
-      "title": "Jellyfish Undersea Roundabout",
-      "url": "https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout",
-      "score": 33
+      "score": 52
     },
     {
       "title": "UPI: Anatomy of a Payment Transaction",
       "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
-      "score": 174
+      "score": 212
     },
     {
-      "title": "A pure scheme web programming tool",
-      "url": "https://goeteia.dev",
-      "score": 88
-    },
-    {
-      "title": "We scaled PgBouncer to 4x throughput",
-      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-      "score": 203
-    },
-    {
-      "title": "The Energetic Costs of Cellular Computation (2012)",
-      "url": "https://arxiv.org/abs/1203.5426",
-      "score": 20
+      "title": "Modern decor may be straining people's brains",
+      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+      "score": 221
     },
     {
       "title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
       "url": "https://arxiv.org/abs/2607.07267",
-      "score": 89
+      "score": 112
     },
     {
-      "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
-      "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
-      "score": 65
-    },
-    {
-      "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
-      "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
-      "score": 53
-    },
-    {
-      "title": "Unexpected Solidlike Fracture in Simple Liquids",
-      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
-      "score": 87
+      "title": "We scaled PgBouncer to 4x throughput",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "score": 223
     },
     {
       "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
       "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
-      "score": 113
+      "score": 130
+    },
+    {
+      "title": "Jellyfish Undersea Roundabout",
+      "url": "https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout",
+      "score": 58
+    },
+    {
+      "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
+      "score": 125
     },
     {
       "title": "A dock that wakes up reliably",
       "url": "https://fabiensanglard.net/tb4/index.html",
-      "score": 69
+      "score": 93
     },
     {
       "title": "Prefer strict tables in SQLite",
       "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-      "score": 273
-    },
-    {
-      "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
-      "url": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
-      "score": 127
-    },
-    {
-      "title": "A Erlang style pure Scheme Webserver and further",
-      "url": "https://igropyr.com",
-      "score": 59
-    },
-    {
-      "title": "Optimization Solver as a Service",
-      "url": "https://www.quicopt.com/developer/getting-started/",
-      "score": 34
-    },
-    {
-      "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
-      "url": "https://shipthatcode.com",
-      "score": 163
-    },
-    {
-      "title": "Why Write Code in 2026",
-      "url": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
-      "score": 44
-    },
-    {
-      "title": "How Doctors die. It’s not like the rest of us (2016)",
-      "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
-      "score": 150
-    },
-    {
-      "title": "Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma",
-      "url": "https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491",
-      "score": 75
+      "score": 313
     }
   ]
 }
