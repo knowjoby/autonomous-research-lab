@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration",
-      "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
-      "score": 195
+      "title": "Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM",
+      "url": "https://thinkingmachines.ai/inkling/",
+      "score": 102
     },
     {
-      "title": "Prioritize mental health, and why communication is so important",
-      "url": "https://ramones.dev/posts/mental-health/",
-      "score": 63
+      "title": "Inkling: Our Open-Weights Model",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "score": 58
     },
     {
-      "title": "Jurassic Park computers in excruciating detail",
-      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-      "score": 640
+      "title": "I Left Google DeepMind",
+      "url": "https://turntrout.com/why-i-left-google-deepmind",
+      "score": 35
     },
     {
-      "title": "Privacy Incidents – Real-world examples of why your photos need protection",
-      "url": "https://snapsafe.org/incidents.html",
-      "score": 6
+      "title": "Codex Micro",
+      "url": "https://openai.com/supply/co-lab/work-louder/",
+      "score": 158
     },
     {
-      "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-      "score": 7
+      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+      "score": 138
     },
     {
-      "title": "Show HN: For 10 World Cups, my model's 2 favorites had the champion every time",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7013338",
-      "score": 25
-    },
-    {
-      "title": "Telegram Serverless",
-      "url": "https://core.telegram.org/bots/serverless",
-      "score": 57
+      "title": "Stripe, Advent offer to buy PayPal for more than $53B",
+      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+      "score": 106
     },
     {
       "title": "Mysteries of Telegram Data Centers",
       "url": "https://dev.moe/en/3025",
-      "score": 6
+      "score": 186
     },
     {
-      "title": "Jiga (YC W21) is hiring the best people to make manufacturing great again",
-      "url": "https://jiga.io/about-us/",
+      "title": "Collection of Digital Clock Designs",
+      "url": "https://clocks.dev",
+      "score": 57
+    },
+    {
+      "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
+      "url": "https://github.com/welcome-to-the-sunny-side/misa77",
+      "score": 75
+    },
+    {
+      "title": "Artie (YC S23) Is Hiring Software Engineers",
+      "url": "https://jobs.ashbyhq.com/artie",
       "score": 1
     },
     {
-      "title": "DSLs Enable Reliable Use of LLMs",
-      "url": "https://martinfowler.com/articles/llm-and-dsls.html",
+      "title": "Prioritize mental health, and why communication is so important",
+      "url": "https://ramones.dev/posts/mental-health/",
+      "score": 211
+    },
+    {
+      "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
+      "url": "https://coasty.ai/docs",
+      "score": 22
+    },
+    {
+      "title": "Towards a Harness That Can Do Anything",
+      "url": "https://eardatasci.github.io/c/ambiance/index.html",
+      "score": 108
+    },
+    {
+      "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
+      "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
+      "score": 571
+    },
+    {
+      "title": "My midlife crisis Corolla is fast, furious, and modded",
+      "url": "https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/",
+      "score": 89
+    },
+    {
+      "title": "What designing 54 computer science cards taught me about graphic design",
+      "url": "https://fhoehl.com/designing-algodeck",
+      "score": 23
+    },
+    {
+      "title": "Open-source memory for coding agents, synced over SSH",
+      "url": "https://github.com/vshulcz/deja-vu/",
       "score": 60
     },
     {
-      "title": "SpaceX bond worth 10% less than issue price – heading for junk bond status",
-      "url": "https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541",
-      "score": 55
+      "title": "Editing React components that never rendered",
+      "url": "https://blog.crossui.com/2026/07/editing-react-components-that-never-rendered",
+      "score": 9
+    },
+    {
+      "title": "When A.I. Is a Member of the Family",
+      "url": "https://www.newyorker.com/magazine/2026/07/20/when-ai-is-a-member-of-the-family",
+      "score": 39
+    },
+    {
+      "title": "The Memory Heist",
+      "url": "https://www.ayush.digital/blog/the-memory-heist",
+      "score": 52
+    },
+    {
+      "title": "Briar is in maintenance mode",
+      "url": "https://briarproject.org/news/2026-maintenance-mode/",
+      "score": 109
+    },
+    {
+      "title": "Unsolved Problems in MLOps",
+      "url": "https://spawn-queue.acm.org/doi/pdf/10.1145/3762989",
+      "score": 22
+    },
+    {
+      "title": "OpenAI loses trademark dispute at EU court",
+      "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
+      "score": 154
+    },
+    {
+      "title": "A General Goal-Conditioned Minecraft Model",
+      "url": "https://pantograph.com/journal/pan-1",
+      "score": 24
+    },
+    {
+      "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+      "score": 135
+    },
+    {
+      "title": "The well-calibrated Bayesian [pdf] (1982)",
+      "url": "https://fitelson.org/seminar/dawid.pdf",
+      "score": 39
+    },
+    {
+      "title": "Today I Rescued 7,234 Old GIFs",
+      "url": "https://danq.me/2026/07/10/rescuing-7234-gifs/",
+      "score": 38
     },
     {
       "title": "Weathergotchi – an open-source climate Tamagotchi",
       "url": "https://github.com/Michael-Manning/E-Paper-Climate-Logger",
-      "score": 35
+      "score": 98
     },
     {
-      "title": "Show HN: Grepathy – Claude made a decision nobody approved",
-      "url": "https://github.com/evansjp/grepathy",
-      "score": 4
+      "title": "The Conservationist Who Turned 40 Terabytes of Public Data into a Video Game",
+      "url": "https://blog.exe.dev/meet-the-conservationist-who-turned-40-terabytes-of-government-data-into-a-video-game",
+      "score": 72
     },
     {
-      "title": "Societal Impacts: Claude's values across models and languages",
-      "url": "https://www.anthropic.com/research/claude-values-models-languages",
-      "score": 25
-    },
-    {
-      "title": "A Trip to 90s Kansai: Exploring the XD FirstClass Network BBS",
-      "url": "https://cdrom.ca/games/2026/05/30/xd.html",
-      "score": 27
-    },
-    {
-      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-      "url": "https://prismml.com/news/bonsai-27b",
-      "score": 647
-    },
-    {
-      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
-      "url": "https://vpd.ca/",
-      "score": 316
-    },
-    {
-      "title": "Neverclick: Desktop application for performing mouse actions with your keyboard",
-      "url": "https://github.com/LazoVelko/neverclick",
-      "score": 33
-    },
-    {
-      "title": "What `for x in y` hides from you – From Scratch Code",
-      "url": "https://fromscratchcode.com/blog/what-for-x-in-y-hides-from-you/",
-      "score": 4
-    },
-    {
-      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-      "url": "https://tailscale.com/security-bulletins",
-      "score": 187
-    },
-    {
-      "title": "Latent Space as a New Medium",
-      "url": "https://kevinkelly.substack.com/p/latent-space-as-a-new-medium",
-      "score": 18
-    },
-    {
-      "title": "What's the most popular number in Hacker News titles?",
-      "url": "https://blog.omgmog.net/post/most-popular-numbers-in-hn-post-titles/",
-      "score": 4
-    },
-    {
-      "title": "Germany maybe found a new source of renewable energy",
-      "url": "https://www.schweizerbart.de/papers/zdgg/detail/prepub/108503/Geological_and_geophysical_characterisation_of_the_exploration_boreholes_EB1_and_EB2_Inde_Syncline_Rhenohercynian_Fold_and_Thrust_Belt_and_Weisweiler_Horst_Lower_Rhine_Embayment_Germany",
-      "score": 5
-    },
-    {
-      "title": "Briar Is in Maintenance Mode",
-      "url": "https://briarproject.org/news/2026-maintenance-mode/",
-      "score": 4
-    },
-    {
-      "title": "Bootstrapping GDC with DMD",
-      "url": "https://briancallahan.net/blog/20260713.html",
-      "score": 3
-    },
-    {
-      "title": "Using Go for Mobile Apps",
-      "url": "https://www.davidsobsessions.com/p/one-year-of-gomobile/",
-      "score": 14
-    },
-    {
-      "title": "The Tower Keeps Rising",
-      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "score": 514
-    },
-    {
-      "title": "Who's running all those tiny RPKI servers?",
-      "url": "https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/",
-      "score": 58
-    },
-    {
-      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "score": 410
-    },
-    {
-      "title": "How I use HTMX with Go",
-      "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
-      "score": 288
+      "title": "Telegram Serverless",
+      "url": "https://core.telegram.org/bots/serverless",
+      "score": 132
     }
   ]
 }
