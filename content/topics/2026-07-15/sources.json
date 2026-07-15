@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration",
+      "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
+      "score": 195
+    },
+    {
+      "title": "Prioritize mental health, and why communication is so important",
+      "url": "https://ramones.dev/posts/mental-health/",
+      "score": 63
+    },
+    {
       "title": "Jurassic Park computers in excruciating detail",
       "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-      "score": 339
+      "score": 640
     },
     {
-      "title": "I tricked Claude into leaking your deepest, darkest secrets",
-      "url": "https://www.ayush.digital/blog/the-memory-heist",
-      "score": 152
+      "title": "Privacy Incidents – Real-world examples of why your photos need protection",
+      "url": "https://snapsafe.org/incidents.html",
+      "score": 6
     },
     {
-      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
-      "url": "https://vpd.ca/",
-      "score": 246
+      "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+      "score": 7
     },
     {
-      "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
-      "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
-      "score": 29
+      "title": "Show HN: For 10 World Cups, my model's 2 favorites had the champion every time",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7013338",
+      "score": 25
     },
     {
-      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-      "url": "https://tailscale.com/security-bulletins",
-      "score": 131
+      "title": "Telegram Serverless",
+      "url": "https://core.telegram.org/bots/serverless",
+      "score": 57
+    },
+    {
+      "title": "Mysteries of Telegram Data Centers",
+      "url": "https://dev.moe/en/3025",
+      "score": 6
+    },
+    {
+      "title": "Jiga (YC W21) is hiring the best people to make manufacturing great again",
+      "url": "https://jiga.io/about-us/",
+      "score": 1
+    },
+    {
+      "title": "DSLs Enable Reliable Use of LLMs",
+      "url": "https://martinfowler.com/articles/llm-and-dsls.html",
+      "score": 60
+    },
+    {
+      "title": "SpaceX bond worth 10% less than issue price – heading for junk bond status",
+      "url": "https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541",
+      "score": 55
+    },
+    {
+      "title": "Weathergotchi – an open-source climate Tamagotchi",
+      "url": "https://github.com/Michael-Manning/E-Paper-Climate-Logger",
+      "score": 35
+    },
+    {
+      "title": "Show HN: Grepathy – Claude made a decision nobody approved",
+      "url": "https://github.com/evansjp/grepathy",
+      "score": 4
+    },
+    {
+      "title": "Societal Impacts: Claude's values across models and languages",
+      "url": "https://www.anthropic.com/research/claude-values-models-languages",
+      "score": 25
+    },
+    {
+      "title": "A Trip to 90s Kansai: Exploring the XD FirstClass Network BBS",
+      "url": "https://cdrom.ca/games/2026/05/30/xd.html",
+      "score": 27
     },
     {
       "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
       "url": "https://prismml.com/news/bonsai-27b",
-      "score": 564
+      "score": 647
     },
     {
-      "title": "Andon (manufacturing)",
-      "url": "https://en.wikipedia.org/wiki/Andon_(manufacturing)",
-      "score": 42
+      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+      "url": "https://vpd.ca/",
+      "score": 316
+    },
+    {
+      "title": "Neverclick: Desktop application for performing mouse actions with your keyboard",
+      "url": "https://github.com/LazoVelko/neverclick",
+      "score": 33
+    },
+    {
+      "title": "What `for x in y` hides from you – From Scratch Code",
+      "url": "https://fromscratchcode.com/blog/what-for-x-in-y-hides-from-you/",
+      "score": 4
+    },
+    {
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "url": "https://tailscale.com/security-bulletins",
+      "score": 187
+    },
+    {
+      "title": "Latent Space as a New Medium",
+      "url": "https://kevinkelly.substack.com/p/latent-space-as-a-new-medium",
+      "score": 18
+    },
+    {
+      "title": "What's the most popular number in Hacker News titles?",
+      "url": "https://blog.omgmog.net/post/most-popular-numbers-in-hn-post-titles/",
+      "score": 4
+    },
+    {
+      "title": "Germany maybe found a new source of renewable energy",
+      "url": "https://www.schweizerbart.de/papers/zdgg/detail/prepub/108503/Geological_and_geophysical_characterisation_of_the_exploration_boreholes_EB1_and_EB2_Inde_Syncline_Rhenohercynian_Fold_and_Thrust_Belt_and_Weisweiler_Horst_Lower_Rhine_Embayment_Germany",
+      "score": 5
+    },
+    {
+      "title": "Briar Is in Maintenance Mode",
+      "url": "https://briarproject.org/news/2026-maintenance-mode/",
+      "score": 4
+    },
+    {
+      "title": "Bootstrapping GDC with DMD",
+      "url": "https://briancallahan.net/blog/20260713.html",
+      "score": 3
+    },
+    {
+      "title": "Using Go for Mobile Apps",
+      "url": "https://www.davidsobsessions.com/p/one-year-of-gomobile/",
+      "score": 14
     },
     {
       "title": "The Tower Keeps Rising",
       "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "score": 447
-    },
-    {
-      "title": "Dependabot version updates introduce default package cooldown",
-      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
-      "score": 167
-    },
-    {
-      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "score": 340
-    },
-    {
-      "title": "How I use HTMX with Go",
-      "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
-      "score": 215
-    },
-    {
-      "title": "Surprising lessons from my research scientist job search",
-      "url": "https://yongzx.github.io/blog/2026/06/24/job-search/",
-      "score": 5
-    },
-    {
-      "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
-      "url": "https://www.starfleetmath.com/",
-      "score": 119
-    },
-    {
-      "title": "Microsoft has released software updates to plug at least 570 security holes",
-      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "score": 110
-    },
-    {
-      "title": "How to stop Claude from saying load-bearing",
-      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
       "score": 514
-    },
-    {
-      "title": "I'm a USB-C Maximalist",
-      "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
-      "score": 262
-    },
-    {
-      "title": "The bread paradox: why convenience always wins, and why SaaS isn't doomed",
-      "url": "https://www.joanwestenberg.com/p/the-bread-paradox-why-convenience",
-      "score": 56
-    },
-    {
-      "title": "Mathematical texts from a Maya site in Guatemala identify an ancient astronomer",
-      "url": "https://www.nature.com/articles/d41586-026-02170-8",
-      "score": 79
     },
     {
       "title": "Who's running all those tiny RPKI servers?",
       "url": "https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/",
-      "score": 3
+      "score": 58
     },
     {
-      "title": "The kids with phones are alright",
-      "url": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/",
-      "score": 197
+      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "score": 410
     },
     {
-      "title": "The largest available Minecraft world, totalling 15 TB",
-      "url": "https://2b2t.place/1million",
-      "score": 208
-    },
-    {
-      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
-      "url": "https://www.benjamin-bai.com/projects/lemario",
-      "score": 87
-    },
-    {
-      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
-      "url": "https://agnost.ai",
-      "score": 77
-    },
-    {
-      "title": "Probably check on your smart appliances",
-      "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
-      "score": 61
-    },
-    {
-      "title": "An unusual way for your DHCP server to run out of dynamic IPs",
-      "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost",
-      "score": 65
-    },
-    {
-      "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
-      "url": "https://github.com/juggler-ai/juggler",
-      "score": 222
-    },
-    {
-      "title": "The Estranged Worlds of J. G. Ballard",
-      "url": "https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/",
-      "score": 56
-    },
-    {
-      "title": "C++20 Improved the For-Loop Syntax",
-      "url": "https://lzon.ca/posts/tips/cpp-for-range-init/",
-      "score": 36
-    },
-    {
-      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
-      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
-      "score": 793
-    },
-    {
-      "title": "Are we offloading too much of our thinking to AI?",
-      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-      "score": 455
+      "title": "How I use HTMX with Go",
+      "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+      "score": 288
     }
   ]
 }
