@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Jurassic Park computers in excruciating detail",
+      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "score": 339
+    },
+    {
+      "title": "I tricked Claude into leaking your deepest, darkest secrets",
+      "url": "https://www.ayush.digital/blog/the-memory-heist",
+      "score": 152
+    },
+    {
       "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
       "url": "https://vpd.ca/",
-      "score": 92
+      "score": 246
+    },
+    {
+      "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
+      "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
+      "score": 29
     },
     {
       "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
       "url": "https://tailscale.com/security-bulletins",
-      "score": 36
+      "score": 131
     },
     {
       "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
       "url": "https://prismml.com/news/bonsai-27b",
-      "score": 444
+      "score": 564
     },
     {
-      "title": "Dependabot version updates introduce default package cooldown",
-      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
-      "score": 101
+      "title": "Andon (manufacturing)",
+      "url": "https://en.wikipedia.org/wiki/Andon_(manufacturing)",
+      "score": 42
     },
     {
       "title": "The Tower Keeps Rising",
       "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "score": 348
+      "score": 447
     },
     {
-      "title": "Financing the AI boom: from cash flows to debt [pdf]",
-      "url": "https://www.bis.org/publ/bisbull120.pdf",
-      "score": 93
+      "title": "Dependabot version updates introduce default package cooldown",
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+      "score": 167
     },
     {
       "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
       "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "score": 260
-    },
-    {
-      "title": "C++20 Improved the For-Loop Syntax",
-      "url": "https://lzon.ca/posts/tips/cpp-for-range-init/",
-      "score": 29
-    },
-    {
-      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
-      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
-      "score": 731
-    },
-    {
-      "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
-      "url": "https://www.starfleetmath.com/",
-      "score": 27
-    },
-    {
-      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
-      "url": "https://www.benjamin-bai.com/projects/lemario",
-      "score": 54
+      "score": 340
     },
     {
       "title": "How I use HTMX with Go",
       "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
-      "score": 122
+      "score": 215
     },
     {
-      "title": "Mathematical texts from a Maya site in Guatemala identify an ancient astronomer",
-      "url": "https://www.nature.com/articles/d41586-026-02170-8",
-      "score": 42
+      "title": "Surprising lessons from my research scientist job search",
+      "url": "https://yongzx.github.io/blog/2026/06/24/job-search/",
+      "score": 5
     },
     {
-      "title": "Data centers have hiked electricity prices on the public by $23B",
-      "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/",
-      "score": 55
+      "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
+      "url": "https://www.starfleetmath.com/",
+      "score": 119
     },
     {
-      "title": "An unusual way for your DHCP server to run out of dynamic IPs",
-      "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost",
-      "score": 22
+      "title": "Microsoft has released software updates to plug at least 570 security holes",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "score": 110
     },
     {
       "title": "How to stop Claude from saying load-bearing",
       "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "score": 440
-    },
-    {
-      "title": "The largest available Minecraft world, totalling 15 TB",
-      "url": "https://2b2t.place/1million",
-      "score": 170
-    },
-    {
-      "title": "The Estranged Worlds of J. G. Ballard",
-      "url": "https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/",
-      "score": 39
+      "score": 514
     },
     {
       "title": "I'm a USB-C Maximalist",
       "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
-      "score": 174
+      "score": 262
     },
     {
-      "title": "Microsoft Patches a Record 570 Security Flaws",
-      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "score": 32
+      "title": "The bread paradox: why convenience always wins, and why SaaS isn't doomed",
+      "url": "https://www.joanwestenberg.com/p/the-bread-paradox-why-convenience",
+      "score": 56
     },
     {
-      "title": "Unlocking the PSP's Dual Core Setup",
-      "url": "https://wololo.net/2026/06/16/unlocking-the-psps-dual-core-setup/",
-      "score": 43
+      "title": "Mathematical texts from a Maya site in Guatemala identify an ancient astronomer",
+      "url": "https://www.nature.com/articles/d41586-026-02170-8",
+      "score": 79
     },
     {
-      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
-      "url": "https://gwern.net/guardian-angel",
-      "score": 59
+      "title": "Who's running all those tiny RPKI servers?",
+      "url": "https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/",
+      "score": 3
     },
     {
       "title": "The kids with phones are alright",
       "url": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/",
-      "score": 132
+      "score": 197
     },
     {
-      "title": "The zero-cost fallacy: open-source software in the agentic era",
-      "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
-      "score": 111
+      "title": "The largest available Minecraft world, totalling 15 TB",
+      "url": "https://2b2t.place/1million",
+      "score": 208
     },
     {
-      "title": "Kontigo (YC S24) Is Hiring (Head of Security)",
-      "url": "https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security",
-      "score": 1
-    },
-    {
-      "title": "Probably check on your smart appliances",
-      "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
-      "score": 24
-    },
-    {
-      "title": "Are we offloading too much of our thinking to AI?",
-      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-      "score": 384
-    },
-    {
-      "title": "Show HN: Opening lines of famous literary works",
-      "url": "https://www.verbaprima.com/",
-      "score": 144
-    },
-    {
-      "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
-      "url": "https://github.com/juggler-ai/juggler",
-      "score": 185
+      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+      "url": "https://www.benjamin-bai.com/projects/lemario",
+      "score": 87
     },
     {
       "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
       "url": "https://agnost.ai",
-      "score": 46
+      "score": 77
+    },
+    {
+      "title": "Probably check on your smart appliances",
+      "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
+      "score": 61
+    },
+    {
+      "title": "An unusual way for your DHCP server to run out of dynamic IPs",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost",
+      "score": 65
+    },
+    {
+      "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+      "url": "https://github.com/juggler-ai/juggler",
+      "score": 222
+    },
+    {
+      "title": "The Estranged Worlds of J. G. Ballard",
+      "url": "https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/",
+      "score": 56
+    },
+    {
+      "title": "C++20 Improved the For-Loop Syntax",
+      "url": "https://lzon.ca/posts/tips/cpp-for-range-init/",
+      "score": 36
+    },
+    {
+      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+      "score": 793
+    },
+    {
+      "title": "Are we offloading too much of our thinking to AI?",
+      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "score": 455
     }
   ]
 }
