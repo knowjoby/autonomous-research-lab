@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "The lost joy of music piracy",
+      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+      "score": 208
+    },
+    {
       "title": "Inkling: Our Open-Weights Model",
       "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "score": 727
+      "score": 930
+    },
+    {
+      "title": "If you want to create a button from scratch, you must first create the universe",
+      "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
+      "score": 85
+    },
+    {
+      "title": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
+      "url": "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/",
+      "score": 33
     },
     {
       "title": "SQLite should have (Rust-style) editions",
       "url": "https://mort.coffee/home/sqlite-editions/",
-      "score": 128
+      "score": 243
+    },
+    {
+      "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
+      "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
+      "score": 69
     },
     {
       "title": "Grok Build is open source",
       "url": "https://github.com/xai-org/grok-build",
-      "score": 283
+      "score": 419
     },
     {
-      "title": "G# – A modern .NET language with Go, Kotlin, and Swift ergonomics",
-      "url": "https://davidobando.github.io/gsharp/",
-      "score": 28
+      "title": "What's the story behind the names of Cloudflare's name servers? (2013)",
+      "url": "https://blog.cloudflare.com/whats-the-story-behind-the-names-of-cloudflares-name-servers/",
+      "score": 9
     },
     {
       "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
       "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-      "score": 94
+      "score": 171
+    },
+    {
+      "title": "Bluesky Trademarks ATProto",
+      "url": "https://atproto.com/blog/at-protocol-trademark",
+      "score": 86
+    },
+    {
+      "title": "Making 768 servers look like 1",
+      "url": "https://planetscale.com/blog/making-768-servers-look-like-1",
+      "score": 67
+    },
+    {
+      "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
+      "url": "https://arxiv.org/abs/2607.11859",
+      "score": 41
     },
     {
       "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
       "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
-      "score": 357
+      "score": 432
     },
     {
-      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",
-      "url": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
-      "score": 42
+      "title": "G# – A modern .NET language with Go, Kotlin, and Swift ergonomics",
+      "url": "https://davidobando.github.io/gsharp/",
+      "score": 93
     },
     {
-      "title": "LLM Networking with MikroTik",
-      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-      "score": 52
+      "title": "I also filed the corners off my MacBook",
+      "url": "https://www.brt.fyi/posts/mac-book-filing/",
+      "score": 159
+    },
+    {
+      "title": "High-Bandwidth Flash offers efficient storage for model weights",
+      "url": "https://spectrum.ieee.org/high-bandwidth-flash",
+      "score": 36
+    },
+    {
+      "title": "Netstrings (1997)",
+      "url": "https://cr.yp.to/proto/netstrings.txt",
+      "score": 12
+    },
+    {
+      "title": "Reynard: A real Firefox web browser for iOS 13 or later",
+      "url": "https://github.com/minh-ton/reynard-browser",
+      "score": 19
+    },
+    {
+      "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
+      "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
+      "score": 51
+    },
+    {
+      "title": "The Last Picture Show: A Conversation with George Lucas",
+      "url": "https://a-rabbitsfoot.com/editorial/confessions/the-last-picture-show-a-conversation-with-george-lucas/",
+      "score": 16
     },
     {
       "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
       "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-      "score": 238
-    },
-    {
-      "title": "Show HN: One More Letter",
-      "url": "https://playonemoreletter.com/",
-      "score": 42
+      "score": 276
     },
     {
       "title": "Job queues are deceptively tricky",
       "url": "https://typesanitizer.com/blog/job-queues.html",
-      "score": 23
+      "score": 74
     },
     {
-      "title": "Nul Characters in Strings in SQLite",
-      "url": "https://sqlite.org/nulinstr.html",
-      "score": 32
+      "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
+      "url": "https://coasty.ai/docs",
+      "score": 34
     },
     {
-      "title": "Duskers, the scary command line game, is getting a sequel",
-      "url": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
-      "score": 96
-    },
-    {
-      "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-      "url": "https://brainless.swerdlow.dev",
-      "score": 98
-    },
-    {
-      "title": "Show HN: Firefox in WebAssembly",
-      "url": "https://developer.puter.com/labs/firefox-wasm/",
-      "score": 140
-    },
-    {
-      "title": "Book prizes don't work how you think",
-      "url": "https://rebeccamakkai.substack.com/p/book-prizes-dont-work-how-you-think",
-      "score": 78
+      "title": "LLM Networking with MikroTik",
+      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+      "score": 84
     },
     {
       "title": "Command Line Interface Guidelines",
       "url": "https://clig.dev/",
-      "score": 72
+      "score": 114
     },
     {
-      "title": "Prioritize mental health, and why communication is so important",
-      "url": "https://ramones.dev/posts/mental-health/",
-      "score": 293
+      "title": "Rebuilding My Homelab with Compose, Ruby, IPv6, and No Kubernetes",
+      "url": "https://www.petekeen.net/homelab-resolved/",
+      "score": 19
     },
     {
-      "title": "Mysteries of Telegram Data Centers (2022)",
-      "url": "https://dev.moe/en/3025",
-      "score": 240
+      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",
+      "url": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
+      "score": 52
     },
     {
-      "title": "Voxatron",
-      "url": "https://www.lexaloffle.com/voxatron.php",
-      "score": 66
-    },
-    {
-      "title": "P2P local file transfer based on WebRTC",
-      "url": "https://pairdrop.net/",
-      "score": 35
+      "title": "Duskers, the scary command line game, is getting a sequel",
+      "url": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
+      "score": 123
     },
     {
       "title": "Collection of Digital Clock Designs",
       "url": "https://clocks.dev",
-      "score": 185
+      "score": 231
     },
     {
-      "title": "MITS: Rockets, Calculators, and Personal Computers",
-      "url": "https://www.abortretry.fail/p/micro-instrumentation-and-telemetry",
-      "score": 37
-    },
-    {
-      "title": "Designing APIs for Agents",
-      "url": "https://www.freestyle.sh/blog/opinion/designing-apis-for-agents",
-      "score": 53
-    },
-    {
-      "title": "Artie (YC S23) Is Hiring Software Engineers",
-      "url": "https://jobs.ashbyhq.com/artie",
-      "score": 1
-    },
-    {
-      "title": "Show HN: E-- – A language you dial between English and Python",
-      "url": "https://github.com/frmoded/e--",
-      "score": 14
-    },
-    {
-      "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
-      "url": "https://github.com/welcome-to-the-sunny-side/misa77",
-      "score": 132
-    },
-    {
-      "title": "Towards a harness that can do anything",
-      "url": "https://eardatasci.github.io/c/ambiance/index.html",
-      "score": 173
-    },
-    {
-      "title": "The Anti-Mac User Interface (1996)",
-      "url": "https://www.nngroup.com/articles/anti-mac-interface/",
-      "score": 55
-    },
-    {
-      "title": "Today I Rescued 7,234 Old GIFs",
-      "url": "https://danq.me/2026/07/10/rescuing-7234-gifs/",
-      "score": 113
+      "title": "Show HN: One More Letter",
+      "url": "https://playonemoreletter.com/",
+      "score": 71
     }
   ]
 }
