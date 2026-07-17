@@ -2,29 +2,74 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
-      "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
-      "score": 256
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "score": 216
     },
     {
-      "title": "Minikotlin",
-      "url": "https://minikotlin.run",
-      "score": 9
+      "title": "Mozilla: The state of open source AI",
+      "url": "https://stateofopensource.ai/",
+      "score": 254
     },
     {
-      "title": "Kimi K3: Open Frontier Intelligence",
-      "url": "https://www.kimi.com/blog/kimi-k3",
-      "score": 1791
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+      "score": 132
+    },
+    {
+      "title": "Frame – the first Linux Assembly X server",
+      "url": "https://isene.org/2026/07/Frame.html",
+      "score": 61
+    },
+    {
+      "title": "A Road to Lisp: Which Lisp",
+      "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
+      "score": 118
+    },
+    {
+      "title": "Three ways people respond to a problem (other than solving it)",
+      "url": "https://improvesomething.today/responses-to-problems/",
+      "score": 115
+    },
+    {
+      "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
+      "url": "https://honeypotlive.cc/",
+      "score": 101
+    },
+    {
+      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+      "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+      "score": 59
+    },
+    {
+      "title": "Frank Lloyd Wright's First Home",
+      "url": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
+      "score": 29
+    },
+    {
+      "title": "Designing emoji for the way we communicate today",
+      "url": "https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/",
+      "score": 24
+    },
+    {
+      "title": "Show HN: Explore the Workspaces of Modern Creators",
+      "url": "https://workspaces.xyz/",
+      "score": 35
+    },
+    {
+      "title": "Learning a few things about running SQLite",
+      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+      "score": 14
+    },
+    {
+      "title": "More Bounce to the Ounce",
+      "url": "https://mceglowski.substack.com/p/more-bounce-to-the-ounce",
+      "score": 66
     },
     {
       "title": "EEG shows brain can simultaneous encode two speech streams",
       "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-      "score": 161
-    },
-    {
-      "title": "Apple targets dozens of OpenAI employees with legal letters",
-      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-      "score": 66
+      "score": 229
     },
     {
       "title": "Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud",
@@ -32,119 +77,74 @@
       "score": 1
     },
     {
+      "title": "Apple targets dozens of OpenAI employees with legal letters",
+      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+      "score": 298
+    },
+    {
       "title": "Pebble Mega Update – July 2026",
       "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
-      "score": 169
+      "score": 236
     },
     {
-      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
-      "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
-      "score": 177
+      "title": "Faster binary search: from compiled code to mechanical sympathy",
+      "url": "https://pythonspeed.com/articles/branchless-binary-search/",
+      "score": 41
     },
     {
-      "title": "After wearing the Pebble Time 2 for two weeks, I'll never buy another smartwatch",
-      "url": "https://www.androidauthority.com/pebble-time-2-smartwatch-hands-on-3680077/",
-      "score": 25
+      "title": "Short sellers notch $8.7B profit as SpaceX shares dip to IPO price",
+      "url": "https://www.reuters.com/business/media-telecom/short-sellers-rack-up-87-bln-profit-spacex-slips-below-ipo-price-ortex-2026-07-16/",
+      "score": 78
+    },
+    {
+      "title": "VulnHunter: Capital One's agentic AI code security tool",
+      "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+      "score": 43
+    },
+    {
+      "title": "Latent Space as a New Medium",
+      "url": "https://kevinkelly.substack.com/p/latent-space-as-a-new-medium",
+      "score": 51
     },
     {
       "title": "Microsoft Comic Chat is now open source",
       "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-      "score": 727
+      "score": 779
     },
     {
-      "title": "Decoy Font",
-      "url": "https://www.mixfont.com/experiments/decoy-font",
-      "score": 608
-    },
-    {
-      "title": "An Engineer's Guide to USB Typе-С (2024)",
-      "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029",
-      "score": 213
-    },
-    {
-      "title": "Turn your singing voice into printable notes (in the browser)",
-      "url": "https://om-intelligence.ch/projects/vocal-notation/vocal-notation.html",
-      "score": 50
-    },
-    {
-      "title": "Solod: Go can be a better C",
-      "url": "https://solod.dev",
-      "score": 165
-    },
-    {
-      "title": "LM Studio Bionic: the AI agent for open models",
-      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-      "score": 284
-    },
-    {
-      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-      "score": 314
-    },
-    {
-      "title": "The Little Book of Reinforcement Learning",
-      "url": "https://github.com/alxndrTL/little-book-rl/",
-      "score": 172
-    },
-    {
-      "title": "NotebookLM is now Gemini Notebook",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-      "score": 332
-    },
-    {
-      "title": "Starlink from 1984",
-      "url": "https://nemanjatrifunovic.substack.com/p/starlink-from-1984",
-      "score": 55
+      "title": "Homomorphically encrypted CIFAR-10 inference in 200ms",
+      "url": "https://sofar.belfortlabs.cloud/",
+      "score": 11
     },
     {
       "title": "Camera Chase Vehicle",
       "url": "https://transistor-man.com/gimbal_camera_rover.html",
-      "score": 54
+      "score": 160
     },
     {
-      "title": "I Owe My Life to the Commodore 64",
-      "url": "https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64",
-      "score": 53
+      "title": "Decoy Font",
+      "url": "https://www.mixfont.com/experiments/decoy-font",
+      "score": 668
     },
     {
-      "title": "Immersive Linear Algebra Book with Interactive Figures (2015)",
-      "url": "https://immersivemath.com/ila/",
-      "score": 251
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "url": "https://www.kimi.com/blog/kimi-k3",
+      "score": 1947
     },
     {
-      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
-      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-      "score": 215
+      "title": "Show HN: Simulator for a custom 8-bit discreet logic computer",
+      "url": "https://msap2.mehran.dk",
+      "score": 13
     },
     {
-      "title": "CD sales growth outpaced vinyl in the first half of 2026",
-      "url": "https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/",
-      "score": 138
+      "title": "PennyLane is an open-source quantum software platform for quantum",
+      "url": "https://github.com/PennyLaneAI/pennylane",
+      "score": 35
     },
     {
-      "title": "Mathematics of Data Science",
-      "url": "https://arxiv.org/abs/2607.11938",
-      "score": 181
-    },
-    {
-      "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
-      "url": "https://www.science.org/doi/10.1126/science.aea9708",
-      "score": 124
-    },
-    {
-      "title": "In Praise of Exhaustive Destructuring",
-      "url": "https://antoine.vandecreme.net/blog/exhaustive-destructuring-praise/",
-      "score": 32
-    },
-    {
-      "title": "'Likweli': A new monkey species discovered in the Congo Basin",
-      "url": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
-      "score": 92
-    },
-    {
-      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
-      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-      "score": 258
+      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+      "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
+      "score": 245
     }
   ]
 }
