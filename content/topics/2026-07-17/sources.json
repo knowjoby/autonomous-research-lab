@@ -2,149 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "EEG shows brain can simultaneous encode two speech streams",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+      "score": 55
+    },
+    {
+      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+      "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
+      "score": 99
+    },
+    {
       "title": "Kimi K3: Open Frontier Intelligence",
       "url": "https://www.kimi.com/blog/kimi-k3",
-      "score": 1206
+      "score": 1537
+    },
+    {
+      "title": "Pebble Mega Update – July 2026",
+      "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
+      "score": 82
+    },
+    {
+      "title": "An Engineer's Guide to USB Typе-С (2024)",
+      "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029",
+      "score": 143
     },
     {
       "title": "Microsoft Comic Chat is now open source",
       "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-      "score": 554
+      "score": 653
     },
     {
-      "title": "LM Studio Bionic: the AI agent for open models",
-      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-      "score": 165
+      "title": "Starlink from 1984",
+      "url": "https://nemanjatrifunovic.substack.com/p/starlink-from-1984",
+      "score": 27
     },
     {
       "title": "Decoy Font",
       "url": "https://www.mixfont.com/experiments/decoy-font",
-      "score": 421
+      "score": 526
+    },
+    {
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "score": 235
     },
     {
       "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
       "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-      "score": 144
+      "score": 240
     },
     {
-      "title": "M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
-      "score": 30
-    },
-    {
-      "title": "NotebookLM is now Gemini Notebook",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-      "score": 250
-    },
-    {
-      "title": "The Little Book of Reinforcement Learning",
-      "url": "https://github.com/alxndrTL/little-book-rl/",
-      "score": 61
-    },
-    {
-      "title": "'Likweli': A new monkey species discovered in the Congo Basin",
-      "url": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
-      "score": 51
+      "title": "GrapheneOS recommended for domestic abuse victims",
+      "url": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
+      "score": 120
     },
     {
       "title": "Solod: Go can be a better C",
       "url": "https://solod.dev",
-      "score": 41
+      "score": 114
     },
     {
-      "title": "Mathematics of Data Science",
-      "url": "https://arxiv.org/abs/2607.11938",
-      "score": 101
+      "title": "NotebookLM is now Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "score": 298
     },
     {
-      "title": "The Human-in-the-Loop Is Tired",
-      "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
-      "score": 12
+      "title": "The Little Book of Reinforcement Learning",
+      "url": "https://github.com/alxndrTL/little-book-rl/",
+      "score": 116
     },
     {
-      "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
-      "url": "https://www.science.org/doi/10.1126/science.aea9708",
-      "score": 70
+      "title": "Old Icons",
+      "url": "https://leancrew.com/all-this/2026/07/old-icons/",
+      "score": 46
     },
     {
-      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
-      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-      "score": 162
+      "title": "M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
+      "score": 59
     },
     {
-      "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
-      "url": "https://arxiv.org/abs/2607.12395",
-      "score": 37
+      "title": "How RCA Victor sold Sound Service to classrooms in 1939",
+      "url": "https://pncnmnp.github.io/blogs/rca-victor-education.html",
+      "score": 25
     },
     {
       "title": "Immersive Linear Algebra Book with Interactive Figures (2015)",
       "url": "https://immersivemath.com/ila/",
-      "score": 175
+      "score": 210
     },
     {
-      "title": "Simulating everything, sort of: The promise and limits of world models",
-      "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
-      "score": 6
+      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+      "score": 190
     },
     {
-      "title": "How Our Rust-to-Zig Rewrite Is Going",
-      "url": "https://rtfeldman.com/rust-to-zig",
-      "score": 415
+      "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
+      "url": "https://www.science.org/doi/10.1126/science.aea9708",
+      "score": 98
     },
     {
-      "title": "CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
-      "url": "https://hellorecon.com/blog/cve-2026-25089",
-      "score": 24
+      "title": "Mathematics of Data Science",
+      "url": "https://arxiv.org/abs/2607.11938",
+      "score": 144
     },
     {
-      "title": "Show HN: Mojibake – A low-level Unicode library written in C",
-      "url": "https://mojibake.zaerl.com/",
-      "score": 39
+      "title": "UIUC AI Teaching Assistant",
+      "url": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
+      "score": 16
     },
     {
-      "title": "Show HN: Clx – Compile Lua to Native Executables Through C++20",
-      "url": "https://github.com/samyeyo/clx",
-      "score": 88
+      "title": "In Praise of Exhaustive Destructuring",
+      "url": "https://antoine.vandecreme.net/blog/exhaustive-destructuring-praise/",
+      "score": 12
     },
     {
-      "title": "The privacy problems hidden in your period tracker",
-      "url": "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details",
-      "score": 74
+      "title": "'Likweli': A new monkey species discovered in the Congo Basin",
+      "url": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
+      "score": 75
     },
     {
-      "title": "Abstracting Effects with Continuations",
-      "url": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
-      "score": 38
-    },
-    {
-      "title": "Adaptional (YC S25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/adaptional/jobs",
-      "score": 1
-    },
-    {
-      "title": "Pseudpocalypse",
-      "url": "https://dynomight.net/pseudpocalypse/",
-      "score": 81
-    },
-    {
-      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-      "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
-      "score": 100
-    },
-    {
-      "title": "Goes-19 weather satellite enters Safe Hold mode",
-      "url": "https://www.spaceweather.gov/news/goes-19-safe-hold",
-      "score": 150
+      "title": "The human-in-the-loop is tired",
+      "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+      "score": 173
     },
     {
       "title": "CD sales growth outpaced vinyl in the first half of 2026",
       "url": "https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/",
-      "score": 64
+      "score": 95
     },
     {
-      "title": "Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "score": 5
+      "title": "Show HN: Clx – Compile Lua to Native Executables Through C++20",
+      "url": "https://github.com/samyeyo/clx",
+      "score": 112
+    },
+    {
+      "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
+      "url": "https://arxiv.org/abs/2607.12395",
+      "score": 50
+    },
+    {
+      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+      "score": 218
+    },
+    {
+      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+      "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+      "score": 125
     }
   ]
 }
