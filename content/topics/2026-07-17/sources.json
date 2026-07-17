@@ -1,0 +1,150 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "url": "https://www.kimi.com/blog/kimi-k3",
+      "score": 1206
+    },
+    {
+      "title": "Microsoft Comic Chat is now open source",
+      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+      "score": 554
+    },
+    {
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "score": 165
+    },
+    {
+      "title": "Decoy Font",
+      "url": "https://www.mixfont.com/experiments/decoy-font",
+      "score": 421
+    },
+    {
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "score": 144
+    },
+    {
+      "title": "M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
+      "score": 30
+    },
+    {
+      "title": "NotebookLM is now Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "score": 250
+    },
+    {
+      "title": "The Little Book of Reinforcement Learning",
+      "url": "https://github.com/alxndrTL/little-book-rl/",
+      "score": 61
+    },
+    {
+      "title": "'Likweli': A new monkey species discovered in the Congo Basin",
+      "url": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
+      "score": 51
+    },
+    {
+      "title": "Solod: Go can be a better C",
+      "url": "https://solod.dev",
+      "score": 41
+    },
+    {
+      "title": "Mathematics of Data Science",
+      "url": "https://arxiv.org/abs/2607.11938",
+      "score": 101
+    },
+    {
+      "title": "The Human-in-the-Loop Is Tired",
+      "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+      "score": 12
+    },
+    {
+      "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
+      "url": "https://www.science.org/doi/10.1126/science.aea9708",
+      "score": 70
+    },
+    {
+      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+      "score": 162
+    },
+    {
+      "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
+      "url": "https://arxiv.org/abs/2607.12395",
+      "score": 37
+    },
+    {
+      "title": "Immersive Linear Algebra Book with Interactive Figures (2015)",
+      "url": "https://immersivemath.com/ila/",
+      "score": 175
+    },
+    {
+      "title": "Simulating everything, sort of: The promise and limits of world models",
+      "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
+      "score": 6
+    },
+    {
+      "title": "How Our Rust-to-Zig Rewrite Is Going",
+      "url": "https://rtfeldman.com/rust-to-zig",
+      "score": 415
+    },
+    {
+      "title": "CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
+      "url": "https://hellorecon.com/blog/cve-2026-25089",
+      "score": 24
+    },
+    {
+      "title": "Show HN: Mojibake – A low-level Unicode library written in C",
+      "url": "https://mojibake.zaerl.com/",
+      "score": 39
+    },
+    {
+      "title": "Show HN: Clx – Compile Lua to Native Executables Through C++20",
+      "url": "https://github.com/samyeyo/clx",
+      "score": 88
+    },
+    {
+      "title": "The privacy problems hidden in your period tracker",
+      "url": "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details",
+      "score": 74
+    },
+    {
+      "title": "Abstracting Effects with Continuations",
+      "url": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
+      "score": 38
+    },
+    {
+      "title": "Adaptional (YC S25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/adaptional/jobs",
+      "score": 1
+    },
+    {
+      "title": "Pseudpocalypse",
+      "url": "https://dynomight.net/pseudpocalypse/",
+      "score": 81
+    },
+    {
+      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+      "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+      "score": 100
+    },
+    {
+      "title": "Goes-19 weather satellite enters Safe Hold mode",
+      "url": "https://www.spaceweather.gov/news/goes-19-safe-hold",
+      "score": 150
+    },
+    {
+      "title": "CD sales growth outpaced vinyl in the first half of 2026",
+      "url": "https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/",
+      "score": 64
+    },
+    {
+      "title": "Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "score": 5
+    }
+  ]
+}
