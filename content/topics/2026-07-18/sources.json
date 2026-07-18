@@ -2,34 +2,89 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-      "score": 301
+      "title": "Regressive JPEGs",
+      "url": "https://maurycyz.com/projects/bad_jpeg/",
+      "score": 153
     },
     {
-      "title": "The Zilog Z80 has turned 50",
-      "url": "https://goliath32.com/blog/z80.html",
-      "score": 169
-    },
-    {
-      "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
-      "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
-      "score": 36
-    },
-    {
-      "title": "Vāgdhenu: A Sanskrit Chanting TTS System",
-      "url": "https://prathosh.in/vagdhenu/",
-      "score": 65
+      "title": "Reviving a 15-year-old netbook with Arch Linux",
+      "url": "https://parksb.github.io/en/article/41.html",
+      "score": 78
     },
     {
       "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
       "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "score": 374
+      "score": 439
+    },
+    {
+      "title": "The Zilog Z80 has turned 50",
+      "url": "https://goliath32.com/blog/z80.html",
+      "score": 209
+    },
+    {
+      "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
+      "url": "https://moonstone.sh/",
+      "score": 50
+    },
+    {
+      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+      "score": 104
     },
     {
       "title": "Learning a few things about running SQLite",
       "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-      "score": 169
+      "score": 233
+    },
+    {
+      "title": "I started a “dirt notebook”",
+      "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+      "score": 49
+    },
+    {
+      "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
+      "url": "https://www.stenchill.com/en/",
+      "score": 39
+    },
+    {
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+      "score": 323
+    },
+    {
+      "title": "Vāgdhenu: A Sanskrit Chanting TTS System",
+      "url": "https://prathosh.in/vagdhenu/",
+      "score": 146
+    },
+    {
+      "title": "Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
+      "url": "https://github.com/tucan9389/nanochat-jax/discussions/1",
+      "score": 8
+    },
+    {
+      "title": "Shipping OpenStrike: A Counter-Strike-Shaped FPS on a 2004 Handheld",
+      "url": "https://pocketjs.dev/blog/shipping-openstrike/",
+      "score": 35
+    },
+    {
+      "title": "In-toto: A framework to secure the integrity of software supply chains",
+      "url": "https://in-toto.io/",
+      "score": 8
+    },
+    {
+      "title": "An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)",
+      "url": "https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/",
+      "score": 39
+    },
+    {
+      "title": "Battery packs: Let's talk about crates, baby",
+      "url": "https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/",
+      "score": 14
+    },
+    {
+      "title": "Static search trees: 40x faster than binary search (2024)",
+      "url": "https://curiouscoding.nl/posts/static-search-tree/",
+      "score": 103
     },
     {
       "title": "DrDroid (YC W23) Is Hiring",
@@ -37,109 +92,54 @@
       "score": 1
     },
     {
-      "title": "A grumpy screed about AI in software engineering",
-      "url": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
-      "score": 30
-    },
-    {
-      "title": "I Started a \"Dirt Notebook\"",
-      "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
-      "score": 13
-    },
-    {
-      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-      "score": 278
-    },
-    {
-      "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
-      "url": "https://moonstone.sh/",
-      "score": 5
-    },
-    {
-      "title": "Static search trees: 40x faster than binary search (2024)",
-      "url": "https://curiouscoding.nl/posts/static-search-tree/",
-      "score": 52
+      "title": "Lego building instructions through time",
+      "url": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
+      "score": 105
     },
     {
       "title": "Open Book Touch: open-source e-reader",
       "url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
-      "score": 61
+      "score": 99
     },
     {
-      "title": "Topcoat: The full full-stack framework for Rust",
-      "url": "https://github.com/tokio-rs/topcoat",
-      "score": 46
-    },
-    {
-      "title": "Painting the sides of railroad rails white to reduce derailment",
-      "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
-      "score": 46
-    },
-    {
-      "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
-      "url": "https://www.stenchill.com/en/",
-      "score": 8
-    },
-    {
-      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
-      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
-      "score": 26
-    },
-    {
-      "title": "An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)",
-      "url": "https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/",
-      "score": 4
-    },
-    {
-      "title": "Texas wins court order to suspend domain name for violating age-verification law",
-      "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
-      "score": 133
-    },
-    {
-      "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
-      "url": "https://app.everything.diena.co/",
-      "score": 62
+      "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
+      "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+      "score": 68
     },
     {
       "title": "The state of open source AI",
       "url": "https://stateofopensource.ai/",
-      "score": 377
+      "score": 421
     },
     {
-      "title": "Lego building instructions through time",
-      "url": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
-      "score": 64
+      "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "score": 483
     },
     {
-      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-      "score": 125
+      "title": "Painting the sides of railroad rails white to reduce derailment",
+      "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
+      "score": 84
+    },
+    {
+      "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
+      "url": "https://app.everything.diena.co/",
+      "score": 89
     },
     {
       "title": "Frank Lloyd Wright’s first home",
       "url": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
-      "score": 79
+      "score": 99
+    },
+    {
+      "title": "Israeli ministers announce new illegal settlements in Gaza and West Bank",
+      "url": "https://www.theguardian.com/world/2026/jul/18/israel-plan-new-illegal-settlements-gaza-west-bank-occupied-palestine",
+      "score": 14
     },
     {
       "title": "Three ways people respond to a problem (other than solving it)",
       "url": "https://improvesomething.today/responses-to-problems/",
-      "score": 198
-    },
-    {
-      "title": "PSA about abuse of cat(1) command. Don't abuse cats",
-      "url": "https://www.abuseofcats.com",
-      "score": 11
-    },
-    {
-      "title": "MoonBASIC: A modern BASIC for building 2D and 3D games",
-      "url": "https://github.com/CharmingBlaze/moonbasic",
-      "score": 53
-    },
-    {
-      "title": "Open Source is not immune to monopoly",
-      "url": "https://humancode.us/2026/07/17/open-source-monopoly",
-      "score": 7
+      "score": 229
     }
   ]
 }
