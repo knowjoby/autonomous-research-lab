@@ -4,152 +4,152 @@
     {
       "title": "Transcribe.cpp",
       "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "score": 94
+      "score": 440
     },
     {
       "title": "Speech Recognition and TTS in less than 500kb",
       "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-      "score": 292
+      "score": 426
     },
     {
-      "title": "Classic Amiga titles, free to download",
-      "url": "https://amigafreeware.downer.tech/",
-      "score": 57
-    },
-    {
-      "title": "Better and Cheaper Than IPTV",
-      "url": "https://github.com/stupside/castor",
+      "title": "Searchable field-level encryption on Supabase with CipherStash",
+      "url": "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
       "score": 31
-    },
-    {
-      "title": "If You Build It, They Will Come",
-      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
-      "score": 282
-    },
-    {
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "score": 509
-    },
-    {
-      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-      "score": 247
-    },
-    {
-      "title": "I'm Making Strandfall, a Solarpunk Orienteering Larp",
-      "url": "https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/",
-      "score": 99
-    },
-    {
-      "title": "Judge a book by its first pages",
-      "url": "https://uncovered.ink",
-      "score": 43
-    },
-    {
-      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
-      "url": "https://www.neatnik.net/hardcore-indieweb",
-      "score": 88
-    },
-    {
-      "title": "Is this the end of the once-mighty GoPro?",
-      "url": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/",
-      "score": 198
-    },
-    {
-      "title": "Developing an Intuitive Sense of Scale",
-      "url": "https://magworld.pw",
-      "score": 7
-    },
-    {
-      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-      "score": 215
-    },
-    {
-      "title": "Gleam Is Now on Tangled",
-      "url": "https://tangled.org/gleam.run/gleam",
-      "score": 213
-    },
-    {
-      "title": "Elixir-lang.org has a new design",
-      "url": "https://elixir-lang.org/",
-      "score": 174
-    },
-    {
-      "title": "Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]",
-      "url": "https://www.tug.org/tug2026/preprints/lode-realtime.pdf",
-      "score": 36
     },
     {
       "title": "Codex Resets",
       "url": "https://codex-resets.com/",
-      "score": 87
+      "score": 162
     },
     {
-      "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
-      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "score": 67
-    },
-    {
-      "title": "LG monitors silently install software through Windows Update without consent",
-      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-      "score": 1021
-    },
-    {
-      "title": "Harness Engineering",
-      "url": "https://github.com/lopopolo/harness-engineering",
-      "score": 15
-    },
-    {
-      "title": "Mathematicians still don't know the fastest way to multiply numbers",
-      "url": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/",
-      "score": 5
-    },
-    {
-      "title": "Co-evolution of self-replication and function in a digital primordial soup",
-      "url": "https://arxiv.org/abs/2607.09211",
-      "score": 23
-    },
-    {
-      "title": "Show HN: Q3Edit – Edit and play Quake 3 maps in the browser",
-      "url": "https://q3edit.com",
-      "score": 68
-    },
-    {
-      "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-      "score": 10
-    },
-    {
-      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-      "url": "https://ykdojo.github.io/claude-controls-mac/",
-      "score": 179
-    },
-    {
-      "title": "A Second-Grade Teacher Revived a Beloved Video Game",
-      "url": "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html",
-      "score": 68
-    },
-    {
-      "title": "What AI did to stackoverflow in a graph",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-      "score": 368
-    },
-    {
-      "title": "How GitHub gave every repository a durable owner",
-      "url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
-      "score": 69
+      "title": "Better and Cheaper Than IPTV",
+      "url": "https://github.com/stupside/castor",
+      "score": 163
     },
     {
       "title": "The Kimi K3 Moment",
       "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
-      "score": 299
+      "score": 357
     },
     {
-      "title": "Tech note: making your own V-I plots at home",
-      "url": "https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots",
-      "score": 65
+      "title": "Mathematicians still don't know the fastest way to multiply numbers",
+      "url": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/",
+      "score": 79
+    },
+    {
+      "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
+      "url": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
+      "score": 18
+    },
+    {
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "score": 553
+    },
+    {
+      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+      "url": "https://www.neatnik.net/hardcore-indieweb",
+      "score": 149
+    },
+    {
+      "title": "If You Build It, They Will Come",
+      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+      "score": 385
+    },
+    {
+      "title": "Making Software: How to make a font",
+      "url": "https://www.makingsoftware.com/chapters/how-to-make-a-font",
+      "score": 33
+    },
+    {
+      "title": "Classic Amiga titles, free to download",
+      "url": "https://amigafreeware.downer.tech/",
+      "score": 106
+    },
+    {
+      "title": "A Visual Catalog of Retro Macintosh Software",
+      "url": "https://www.marciot.com/mac68k-visual-catalog/",
+      "score": 34
+    },
+    {
+      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "url": "https://ykdojo.github.io/claude-controls-mac/",
+      "score": 225
+    },
+    {
+      "title": "I'm Making Strandfall, a Solarpunk Orienteering Larp",
+      "url": "https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/",
+      "score": 143
+    },
+    {
+      "title": "Goodbye, and Thanks for All the Bikesheds",
+      "url": "https://queue.acm.org/detail.cfm?id=3818307",
+      "score": 207
+    },
+    {
+      "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "score": 449
+    },
+    {
+      "title": "Elixir-lang.org has a new design",
+      "url": "https://elixir-lang.org/",
+      "score": 224
+    },
+    {
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+      "score": 183
+    },
+    {
+      "title": "Gleam Is Now on Tangled",
+      "url": "https://tangled.org/gleam.run/gleam",
+      "score": 231
+    },
+    {
+      "title": "Using self-hosted Umami for iOS app analytics",
+      "url": "https://hjerpbakk.com/blog/2026/07/14/umami-for-apps",
+      "score": 5
+    },
+    {
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "score": 235
+    },
+    {
+      "title": "Is this the end of the once-mighty GoPro?",
+      "url": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/",
+      "score": 215
+    },
+    {
+      "title": "Deepsec",
+      "url": "https://github.com/vercel-labs/deepsec",
+      "score": 22
+    },
+    {
+      "title": "Developing an Intuitive Sense of Scale",
+      "url": "https://magworld.pw",
+      "score": 27
+    },
+    {
+      "title": "I built a browser-based P2P file transfer tool using WebRTC",
+      "url": "https://airdows.com/",
+      "score": 17
+    },
+    {
+      "title": "REO Trucks I4 4WD Pickup Truck Starts at $21,500",
+      "url": "https://reotrucks.com",
+      "score": 86
+    },
+    {
+      "title": "Co-evolution of self-replication and function in a digital primordial soup",
+      "url": "https://arxiv.org/abs/2607.09211",
+      "score": 66
+    },
+    {
+      "title": "What's the deal with all the random weekly quota resets for agents lately?",
+      "url": "https://minimaxir.com/2026/07/agent-quota-reset/",
+      "score": 51
     }
   ]
 }
