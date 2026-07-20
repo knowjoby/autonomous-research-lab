@@ -2,149 +2,149 @@
   "papers": [],
   "discussions": [
     {
+      "title": "China's open-weights AI strategy is winning",
+      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "score": 560
+    },
+    {
       "title": "Hacker wipes Romania's land registry database",
       "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
-      "score": 44
+      "score": 462
+    },
+    {
+      "title": "Kimi Work",
+      "url": "https://www.kimi.com/products/kimi-work",
+      "score": 104
+    },
+    {
+      "title": "Jelly UI: Soft-body physics for native HTML form controls",
+      "url": "https://jelly-ui.com/",
+      "score": 121
+    },
+    {
+      "title": "Hyprland 0.55 announced the switch to Lua for its config files",
+      "url": "https://hypr.land/news/update55/",
+      "score": 71
+    },
+    {
+      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "score": 148
+    },
+    {
+      "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
+      "url": "https://nothings.org/gamedev/ssao/",
+      "score": 117
+    },
+    {
+      "title": "Nativ: Run frontier open models locally on your Mac",
+      "url": "https://blaizzy.github.io/nativ/",
+      "score": 28
     },
     {
       "title": "Airport Simulator",
       "url": "https://airport.apunen.com/",
-      "score": 218
+      "score": 516
     },
     {
-      "title": "Stop Using OpenCode",
-      "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
-      "score": 123
+      "title": "Firefox Merges Support for Vulkan Video Decoding",
+      "url": "https://github.com/search",
+      "score": 184
+    },
+    {
+      "title": "Perfection Is Not Over-Engineering",
+      "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
+      "score": 136
+    },
+    {
+      "title": "We're Squandering LEDs' Potential to Save Our Night Skies",
+      "url": "https://spectrum.ieee.org/led-light-pollution",
+      "score": 165
+    },
+    {
+      "title": "The Voice of Google",
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google",
+      "score": 92
+    },
+    {
+      "title": "Cross sectioning insects in an electron microscope with a femtosecond laser [video]",
+      "url": "https://www.youtube.com/watch?v=NwhVJ7cv9B4",
+      "score": 38
+    },
+    {
+      "title": "Ziggity – A terminal UI for Git, written in Zig",
+      "url": "https://github.com/simoarpe/ziggity",
+      "score": 40
+    },
+    {
+      "title": "An Empirical Study: AI Agent Rules Need Context and Layered Enforcement",
+      "url": "https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/",
+      "score": 13
+    },
+    {
+      "title": "Safety and alignment in an era of long-horizon models",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models/",
+      "score": 8
+    },
+    {
+      "title": "Agent swarms and the new model economics",
+      "url": "https://cursor.com/blog/agent-swarm-model-economics",
+      "score": 16
+    },
+    {
+      "title": "Shinjuku Station in 3D",
+      "url": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
+      "score": 86
     },
     {
       "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
       "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-      "score": 258
+      "score": 348
+    },
+    {
+      "title": "The drivers behind software delivery inefficiency",
+      "url": "https://dl.acm.org/doi/10.1145/3800646.3800650",
+      "score": 15
+    },
+    {
+      "title": "I Stopped \"Creating Content\"",
+      "url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content/",
+      "score": 93
     },
     {
       "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
       "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
-      "score": 162
+      "score": 418
     },
     {
-      "title": "ECC and DDR5",
-      "url": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
-      "score": 19
+      "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+      "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
+      "score": 197
+    },
+    {
+      "title": "Controlling Reasoning Effort in LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+      "score": 43
+    },
+    {
+      "title": "NYC Subway Signals: A Complete Guide",
+      "url": "https://www.nycsubway.org/wiki/Subway_Signals%3A_A_Complete_Guide",
+      "score": 33
+    },
+    {
+      "title": "That post never existed. Stop listening to that thing",
+      "url": "https://rachelbythebay.com/w/2026/05/05/404/",
+      "score": 77
     },
     {
       "title": "Inertia-1: An Open Exploration to a Unified Motion Foundation Model",
       "url": "https://yang-ai-lab.github.io/Inertia-1/",
-      "score": 8
+      "score": 43
     },
     {
-      "title": "Satan's 19th-Century Bank Note",
-      "url": "https://www.historytoday.com/miscellanies/satans-19th-century-bank-note",
-      "score": 9
-    },
-    {
-      "title": "Sensing warm and cool: how the body detects temperature changes",
-      "url": "https://news.uq.edu.au/2026-07-sensing-warm-and-cool-how-body-detects-temperature-changes",
-      "score": 14
-    },
-    {
-      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
-      "url": "https://github.com/hgaiser/moonshine",
-      "score": 268
-    },
-    {
-      "title": "What does the Riemann zeta function have to do with the distribution of primes?",
-      "url": "https://hidden-phenomena.com/articles/rh",
-      "score": 45
-    },
-    {
-      "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
-      "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
-      "score": 85
-    },
-    {
-      "title": "Moist Towelette Museum",
-      "url": "https://moisttowelettemuseum.com/",
-      "score": 44
-    },
-    {
-      "title": "Codex is wearing out our devices",
-      "url": "https://old.reddit.com/r/codex/comments/1v0m3lt/codex_is_wearing_out_our_devices/",
-      "score": 14
-    },
-    {
-      "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
-      "url": "https://github.com/Saivineeth147/lora-speedrun",
-      "score": 113
-    },
-    {
-      "title": "Claude Code uses Bun written in Rust now",
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "score": 572
-    },
-    {
-      "title": "Eliminating Go bounds checks with unsafe",
-      "url": "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe",
-      "score": 35
-    },
-    {
-      "title": "Show HN: Stacks – an hourly card solitaire about building four gardens",
-      "url": "https://plan9.kr/stacks/",
-      "score": 6
-    },
-    {
-      "title": "Orion Browser by Kagi",
-      "url": "https://orionbrowser.com/",
-      "score": 259
-    },
-    {
-      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "score": 523
-    },
-    {
-      "title": "1-Bit LLM in the Browser",
-      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
-      "score": 76
-    },
-    {
-      "title": "Xiaomi-Robotics-1",
-      "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-      "score": 334
-    },
-    {
-      "title": "Minecraft: Java Edition now uses SDL3",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-      "score": 337
-    },
-    {
-      "title": "Airbus Takes Flight from AWS",
-      "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
-      "score": 160
-    },
-    {
-      "title": "The Zen of Parallel Programming",
-      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
-      "score": 180
-    },
-    {
-      "title": "Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas",
-      "url": "https://kotaku.com/gta-vice-city-made-playable-in-gta-3-made-playable-in-gta-san-andreas-2000717510",
-      "score": 4
-    },
-    {
-      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
-      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
-      "score": 174
-    },
-    {
-      "title": "When can a power company take your land for data center infrastructure?",
-      "url": "https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061",
-      "score": 142
-    },
-    {
-      "title": "11,700 Free Photos from John Margolies' Archive of Americana Architecture",
-      "url": "https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html",
-      "score": 89
+      "title": "Soofi – Sovereign Open Source Foundation Models",
+      "url": "https://www.soofi.info/",
+      "score": 40
     }
   ]
 }
