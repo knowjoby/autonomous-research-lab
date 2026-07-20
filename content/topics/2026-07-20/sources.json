@@ -2,149 +2,149 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+      "url": "https://github.com/hgaiser/moonshine",
+      "score": 158
+    },
+    {
+      "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+      "url": "https://github.com/Saivineeth147/lora-speedrun",
+      "score": 66
+    },
+    {
+      "title": "Xiaomi-Robotics-1",
+      "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+      "score": 179
+    },
+    {
+      "title": "Self-Powered Trailers Promise Leaner Freight Runs",
+      "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
+      "score": 33
+    },
+    {
+      "title": "1-Bit LLM in the Browser",
+      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
+      "score": 30
+    },
+    {
+      "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
+      "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
+      "score": 24
+    },
+    {
       "title": "Claude Code uses Bun written in Rust now",
       "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "score": 399
-    },
-    {
-      "title": "The Zen of Parallel Programming",
-      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
-      "score": 115
-    },
-    {
-      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "score": 415
-    },
-    {
-      "title": "Minecraft: Java Edition now uses SDL3",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-      "score": 276
-    },
-    {
-      "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
-      "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
-      "score": 51
-    },
-    {
-      "title": "Biggest Probabilistic Computer Turns Noise into Answers",
-      "url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
-      "score": 41
-    },
-    {
-      "title": "World GeoHistoGram",
-      "url": "https://textbooks.wmisd.org/worldgeohist.html",
-      "score": 3
-    },
-    {
-      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-      "url": "https://github.com/openai/codex/pull/33972/files",
-      "score": 326
-    },
-    {
-      "title": "Talk: The Art of Braiding Algorithms",
-      "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
-      "score": 23
-    },
-    {
-      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
-      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
-      "score": 128
-    },
-    {
-      "title": "Who Is America's Homer?",
-      "url": "https://www.plough.com/articles/who-is-americas-homer",
-      "score": 38
+      "score": 508
     },
     {
       "title": "Orion Browser by Kagi",
       "url": "https://orionbrowser.com/",
-      "score": 64
+      "score": 191
+    },
+    {
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "score": 484
+    },
+    {
+      "title": "The Zen of Parallel Programming",
+      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
+      "score": 156
+    },
+    {
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "score": 308
+    },
+    {
+      "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
+      "url": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/",
+      "score": 76
+    },
+    {
+      "title": "EU Exempts Apple Watch and AirPods from Battery Removal Requirements",
+      "url": "https://mjtsai.com/blog/2026/07/17/eu-exempts-apple-watch-and-airpods-from-battery-removal-requirement/",
+      "score": 14
+    },
+    {
+      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+      "score": 155
+    },
+    {
+      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "score": 369
     },
     {
       "title": "HomeLab #1: MikroTik as a Home Router",
       "url": "https://justsomebody.dev/blog/mikrotik-home-router",
-      "score": 70
+      "score": 114
     },
     {
-      "title": "11,700 Free Photos from John Margolies' Archive of Americana Architecture",
-      "url": "https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html",
-      "score": 32
+      "title": "Eliminating Go bounds checks with unsafe",
+      "url": "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe",
+      "score": 3
     },
     {
       "title": "Qwen 3.8",
       "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "score": 795
+      "score": 874
     },
     {
-      "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
-      "url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
-      "score": 63
+      "title": "11,700 Free Photos from John Margolies' Archive of Americana Architecture",
+      "url": "https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html",
+      "score": 60
     },
     {
-      "title": "HMD Touch 4G",
-      "url": "https://www.hmd.com/en_int/hmd-touch-4g",
-      "score": 59
+      "title": "Biggest Probabilistic Computer Turns Noise into Answers",
+      "url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
+      "score": 71
     },
     {
-      "title": "AI advice made people less accurate but more confident – sudy",
-      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-      "score": 285
+      "title": "Korg PS-3300 is back",
+      "url": "https://www.korg.co.uk/blogs/updates/ps3300",
+      "score": 49
     },
     {
-      "title": "Cagire: Live Coding in Forth",
-      "url": "https://cagire.raphaelforment.fr",
-      "score": 79
-    },
-    {
-      "title": "Dupes took over the world",
-      "url": "https://www.vox.com/podcasts/493930/dupe-culture-fender-ugg-quince-tiktok-amazon-online-shopping",
-      "score": 64
+      "title": "Who Is America's Homer?",
+      "url": "https://www.plough.com/articles/who-is-americas-homer",
+      "score": 73
     },
     {
       "title": "I joined the IndieWeb, here's what I learned",
       "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
-      "score": 156
-    },
-    {
-      "title": "We want Texans to know their rights",
-      "url": "https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion",
-      "score": 145
+      "score": 199
     },
     {
       "title": "I burned all my tokens researching how to save tokens",
       "url": "https://quesma.com/blog/custom-deep-research-pipeline/",
-      "score": 98
+      "score": 130
     },
     {
-      "title": "Natural experiments prove phytoplankton carbon removal works",
-      "url": "https://www.onepercentbrighter.com/p/natural-experiments-prove-feeding",
-      "score": 49
+      "title": "HMD Touch 4G",
+      "url": "https://www.hmd.com/en_int/hmd-touch-4g",
+      "score": 74
     },
     {
-      "title": "Terence McKenna's Mega Bad Trip (2025)",
-      "url": "https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip",
-      "score": 68
+      "title": "Talk: The Art of Braiding Algorithms",
+      "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
+      "score": 40
     },
     {
-      "title": "Ollama: All Aboard Open Models",
-      "url": "https://ollama.com/blog/all-aboard-open-models",
-      "score": 110
+      "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
+      "url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
+      "score": 71
     },
     {
-      "title": "UnifiedIR for Julia",
-      "url": "https://github.com/JuliaLang/julia/pull/62334",
-      "score": 83
+      "title": "Dupes took over the world",
+      "url": "https://www.vox.com/podcasts/493930/dupe-culture-fender-ugg-quince-tiktok-amazon-online-shopping",
+      "score": 91
     },
     {
-      "title": "Ise Jingu and the Pyramid of Enabling Technologies (2021)",
-      "url": "https://www.scopeofwork.net/ise-jingu-and-the-pyramid-of-enabling-technologies/",
-      "score": 7
-    },
-    {
-      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
-      "url": "https://github.com/hgaiser/moonshine",
-      "score": 3
+      "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
+      "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+      "score": 77
     }
   ]
 }
