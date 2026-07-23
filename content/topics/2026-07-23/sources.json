@@ -1,0 +1,155 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "Codeberg Bans Cryptocurrency Projects",
+      "url": "https://codeberg.org/Codeberg/org/pulls/1254",
+      "score": 86
+    },
+    {
+      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "score": 636
+    },
+    {
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "score": 177
+    },
+    {
+      "title": "Run large language models at home, BitTorrent‑style",
+      "url": "https://petals.dev/",
+      "score": 20
+    },
+    {
+      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "url": "https://github.com/marcelroed/gigatoken/",
+      "score": 383
+    },
+    {
+      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "url": "https://bento.page/slides/",
+      "score": 672
+    },
+    {
+      "title": "Medici family mystery may be solved after more than 400 years",
+      "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
+      "score": 81
+    },
+    {
+      "title": "Are AI Labs Pelicanmaxxing?",
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "score": 406
+    },
+    {
+      "title": "Everyone Should Know SIMD",
+      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
+      "score": 267
+    },
+    {
+      "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+      "url": "https://github.com/cactus-compute/cactus-hybrid",
+      "score": 77
+    },
+    {
+      "title": "John C. Dvorak has died",
+      "url": "https://twitter.com/na_announce/status/2079952538040672302",
+      "score": 586
+    },
+    {
+      "title": "Malleable Computing, Emacs, and You",
+      "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+      "score": 71
+    },
+    {
+      "title": "Nobody knows what a used GPU cluster is worth",
+      "url": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster",
+      "score": 177
+    },
+    {
+      "title": "Safari Technology Preview 248 Released",
+      "url": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
+      "score": 79
+    },
+    {
+      "title": "Making",
+      "url": "https://beej.us/blog/data/ai-making/",
+      "score": 284
+    },
+    {
+      "title": "Fairphone 6 wide camera experimental Linux support",
+      "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+      "score": 74
+    },
+    {
+      "title": "The startup's Postgres survival guide",
+      "url": "https://hatchet.run/blog/postgres-survival-guide",
+      "score": 325
+    },
+    {
+      "title": "So Reddit has decided that plain HTML is unsafe",
+      "url": "https://www.cole-k.com/2026/07/21/reddit/",
+      "score": 294
+    },
+    {
+      "title": "Clarity didn't work, trying mysterianism (2012)",
+      "url": "https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html",
+      "score": 42
+    },
+    {
+      "title": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
+      "url": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/",
+      "score": 34
+    },
+    {
+      "title": "What Rose Petals Teach Us about Induction",
+      "url": "https://www.oranlooney.com/post/rose-petals/",
+      "score": 14
+    },
+    {
+      "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
+      "url": "https://unlayer.com",
+      "score": 46
+    },
+    {
+      "title": "Businesses with ugly AI menu redesigns",
+      "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+      "score": 190
+    },
+    {
+      "title": "NixOS is more complicated than you think but OpenCode fixed it",
+      "url": "https://grigio.org/nixos-is-more-complicated-than-you-think-but-opencode-fixed-it/",
+      "score": 8
+    },
+    {
+      "title": "MemoryPack: Zero encoding extreme performance binary serializer for C#",
+      "url": "https://github.com/Cysharp/MemoryPack",
+      "score": 20
+    },
+    {
+      "title": "Ghost Cut – or why Cut and Paste is broken everywhere",
+      "url": "https://ishmael.textualize.io/blog/ghost-cut/",
+      "score": 136
+    },
+    {
+      "title": "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized",
+      "url": "https://claytondorge.com/patterns-list",
+      "score": 29
+    },
+    {
+      "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+      "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+      "score": 282
+    },
+    {
+      "title": "Back to Kagi",
+      "url": "https://blog.melashri.net/micro/back-to-kagi/",
+      "score": 206
+    },
+    {
+      "title": "Anthropomorphism in Children's Interactions with LLM Chatbots",
+      "url": "https://arxiv.org/abs/2607.18250",
+      "score": 26
+    }
+  ]
+}
