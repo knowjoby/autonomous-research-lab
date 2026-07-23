@@ -2,154 +2,149 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
-      "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
-      "score": 30
+      "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+      "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+      "score": 89
     },
     {
-      "title": "git's –end-of-options Flag",
-      "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
-      "score": 126
+      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+      "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+      "score": 99
     },
     {
       "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
       "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "score": 838
+      "score": 996
+    },
+    {
+      "title": "Scanning for Pangram Errors",
+      "url": "https://veryfineprint.substack.com/p/scanning-for-pangram-errors",
+      "score": 20
     },
     {
       "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
       "url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
-      "score": 28
+      "score": 111
+    },
+    {
+      "title": "The Unity CLI: manage Unity from your terminal",
+      "url": "https://unity.com/blog/meet-the-unity-cli",
+      "score": 42
     },
     {
       "title": "Quality non-fiction books are the antithesis of AI slop",
       "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-      "score": 332
+      "score": 428
     },
     {
-      "title": "GigaToken: ~1000x faster Language model tokenization",
-      "url": "https://github.com/marcelroed/gigatoken/",
-      "score": 484
-    },
-    {
-      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "url": "https://bento.page/slides/",
-      "score": 804
-    },
-    {
-      "title": "Amiga 1000: Ten years ahead of its time",
-      "url": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
-      "score": 55
+      "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
+      "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
+      "score": 107
     },
     {
       "title": "Everyone should know SIMD",
       "url": "https://mitchellh.com/writing/everyone-should-know-simd",
-      "score": 399
+      "score": 521
     },
     {
-      "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
-      "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
-      "score": 5
+      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "url": "https://bento.page/slides/",
+      "score": 917
+    },
+    {
+      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "url": "https://github.com/marcelroed/gigatoken/",
+      "score": 563
     },
     {
       "title": "Are AI labs pelicanmaxxing?",
       "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-      "score": 506
+      "score": 606
     },
     {
-      "title": "Making ASCII Art in Vim",
-      "url": "https://alexyang.dev/vim-ascii-art/",
-      "score": 58
+      "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
+      "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
+      "score": 37
     },
     {
-      "title": "So Reddit has decided that plain HTML is unsafe",
-      "url": "https://www.cole-k.com/2026/07/21/reddit/",
-      "score": 434
-    },
-    {
-      "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
-      "url": "https://github.com/cactus-compute/cactus-hybrid",
-      "score": 127
-    },
-    {
-      "title": "Why malloc always does more than I asked for?",
-      "url": "https://ssenthilnathan3.github.io/blog/malloc/",
-      "score": 27
+      "title": "Test-time training 3D reconstruction",
+      "url": "https://github.com/Inception3D/TTT3R",
+      "score": 12
     },
     {
       "title": "Making",
       "url": "https://beej.us/blog/data/ai-making/",
-      "score": 348
+      "score": 402
+    },
+    {
+      "title": "EU fines Google €890M for competition breaches over search and apps",
+      "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
+      "score": 123
+    },
+    {
+      "title": "Amiga 1000: Ten years ahead of its time",
+      "url": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
+      "score": 122
     },
     {
       "title": "The startup's Postgres survival guide",
       "url": "https://hatchet.run/blog/postgres-survival-guide",
-      "score": 398
+      "score": 456
     },
     {
-      "title": "Medici family mystery may be solved after more than 400 years",
-      "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
-      "score": 113
+      "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+      "url": "https://github.com/cactus-compute/cactus-hybrid",
+      "score": 166
     },
     {
       "title": "John C. Dvorak has died",
       "url": "https://twitter.com/na_announce/status/2079952538040672302",
-      "score": 728
+      "score": 828
     },
     {
-      "title": "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
-      "url": "https://github.com/exlee/ascdraw",
-      "score": 41
-    },
-    {
-      "title": "Malleable Computing, Emacs, and You",
-      "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
-      "score": 101
-    },
-    {
-      "title": "Restructuring GitHub's bug bounty program",
-      "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
-      "score": 42
-    },
-    {
-      "title": "Fairphone 6 wide camera experimental Linux support",
-      "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
-      "score": 113
+      "title": "Making ASCII Art in Vim",
+      "url": "https://alexyang.dev/vim-ascii-art/",
+      "score": 90
     },
     {
       "title": "Businesses with ugly AI menu redesigns",
       "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
-      "score": 271
+      "score": 341
+    },
+    {
+      "title": "Malleable Computing, Emacs, and You",
+      "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+      "score": 124
+    },
+    {
+      "title": "git's –end-of-options Flag",
+      "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
+      "score": 175
+    },
+    {
+      "title": "Frequently Asked Questions on Expertise",
+      "url": "https://jtpeterson.substack.com/p/faq-on-expertise",
+      "score": 22
     },
     {
       "title": "Nobody knows what a used GPU cluster is worth",
       "url": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster",
-      "score": 225
+      "score": 260
     },
     {
-      "title": "Back to Kagi",
-      "url": "https://blog.melashri.net/micro/back-to-kagi/",
-      "score": 259
+      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+      "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+      "score": 9
     },
     {
-      "title": "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized",
-      "url": "https://claytondorge.com/patterns-list",
-      "score": 68
+      "title": "Medici family mystery may be solved after more than 400 years",
+      "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
+      "score": 137
     },
     {
-      "title": "Ghost Cut – Or why Cut and Paste is broken everywhere",
-      "url": "https://ishmael.textualize.io/blog/ghost-cut/",
-      "score": 160
-    },
-    {
-      "title": "Protecting our FLOSS commons from LLMs",
-      "url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
-      "score": 23
-    },
-    {
-      "title": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
-      "url": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/",
-      "score": 51
+      "title": "Fairphone 6 wide camera experimental Linux support",
+      "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+      "score": 141
     }
   ]
 }
