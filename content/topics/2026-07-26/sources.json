@@ -2,149 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Stolen Buttons",
-      "url": "https://anatolyzenkov.com/stolen-buttons",
-      "score": 594
+      "title": "A shell colon does nothing. Use it anyway",
+      "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
+      "score": 125
     },
     {
-      "title": "Systems and Delays",
-      "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-      "score": 20
-    },
-    {
-      "title": "Clinical failure rates over the decades: yikes",
-      "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
-      "score": 49
-    },
-    {
-      "title": "Cloudflare's new AI traffic options for customers",
-      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-      "score": 42
-    },
-    {
-      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
-      "score": 131
-    },
-    {
-      "title": "SIMD for Collision",
-      "url": "https://box2d.org/posts/2026/07/simd-for-collision/",
-      "score": 64
-    },
-    {
-      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-      "score": 89
+      "title": "An ESP32 based plane radar for my desk",
+      "url": "https://blog.ktz.me/esp32-plane-radar/",
+      "score": 119
     },
     {
       "title": "The new rules of context engineering for Claude 5 generation models",
       "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "score": 173
+      "score": 306
     },
     {
-      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-      "url": "https://github.com/slvDev/esp32-ai",
-      "score": 87
+      "title": "Stinkpot: SQLite-backed shell history",
+      "url": "https://tangled.org/oppi.li/stinkpot",
+      "score": 43
     },
     {
-      "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
-      "url": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
-      "score": 98
+      "title": "Show HN: I mapped every US golf course",
+      "url": "https://golfcoursebrowser.com/",
+      "score": 113
     },
     {
       "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
       "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-      "score": 15
+      "score": 111
     },
     {
-      "title": "Turn And Face The Strange",
-      "url": "https://fly.io/blog/kurt-scott-money-sprites/",
-      "score": 148
-    },
-    {
-      "title": "Show HN: I made some transistor animations",
-      "url": "https://brandonli.net/semisim/animations",
-      "score": 137
-    },
-    {
-      "title": "LLM Usage in Debian: Three Proposals",
-      "url": "https://www.debian.org/vote/2026/vote_002",
-      "score": 83
-    },
-    {
-      "title": "Open-weight AI is having its Kubernetes moment",
-      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-      "score": 317
-    },
-    {
-      "title": "GDID Windows – Cut the tracker that follows you even under VPN",
-      "url": "https://korben.info/en/gdid-windows-cut-tracker-vpn.html",
-      "score": 112
-    },
-    {
-      "title": "Memory Safety Absolutists",
-      "url": "https://itsallaboutthebit.com/memory-safety-absolutists/",
-      "score": 62
-    },
-    {
-      "title": "Show HN: Brolly, a plain-text weather forecast site",
-      "url": "https://brolly.sh/forecast/RWFP2qW8",
-      "score": 137
-    },
-    {
-      "title": "Git rebase -I is not that scary",
-      "url": "https://cachebag.sh/journal/interactive-rebasing/",
-      "score": 13
-    },
-    {
-      "title": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
-      "url": "https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/",
-      "score": 302
-    },
-    {
-      "title": "Did They Ghost You?",
-      "url": "https://didtheyghostyou.com/",
-      "score": 308
-    },
-    {
-      "title": "Possible invasive species superspreader event near Strait of Hormuz",
-      "url": "https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186",
+      "title": "Some more things about Django I've been enjoying",
+      "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
       "score": 22
     },
     {
-      "title": "Multicast TV Distribution on My Home Network",
-      "url": "https://www.apalrd.net/posts/2026/isp_mcast/",
-      "score": 41
+      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "score": 131
     },
     {
-      "title": "Bitchat is now on Radicle",
-      "url": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
-      "score": 214
-    },
-    {
-      "title": "Android May Soon Restrict On-Device ADB",
-      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "score": 882
-    },
-    {
-      "title": "Show HN: SpinWin – A macOS menu bar app to visually rotate or spin any window",
-      "url": "https://github.com/alokdhir/spinwin",
-      "score": 23
-    },
-    {
-      "title": "How My Images Are Dithered",
-      "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
-      "score": 218
+      "title": "Cloudflare's new AI traffic options for customers",
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "score": 108
     },
     {
       "title": "Rethinking Legal Education in the AI Era",
       "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
-      "score": 8
+      "score": 68
     },
     {
-      "title": "Becoming a Research Engineer at a Big LLM Lab",
-      "url": "https://www.maxmynter.com/pages/blog/jobhunt",
-      "score": 20
+      "title": "GrapheneOS protections against data extraction from locked devices",
+      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+      "score": 13
+    },
+    {
+      "title": "JetZero",
+      "url": "https://www.jetzero.aero",
+      "score": 186
+    },
+    {
+      "title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
+      "url": "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/",
+      "score": 58
+    },
+    {
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "score": 169
+    },
+    {
+      "title": "Git rebase -I is not that scary",
+      "url": "https://cachebag.sh/journal/interactive-rebasing/",
+      "score": 57
+    },
+    {
+      "title": "Clinical failure rates over the decades: yikes",
+      "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+      "score": 95
+    },
+    {
+      "title": "Systems and Delays",
+      "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+      "score": 59
+    },
+    {
+      "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
+      "url": "https://github.com/mulfyx/w4me-station",
+      "score": 15
+    },
+    {
+      "title": "LLM Usage in Debian: Three Proposals",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "score": 142
+    },
+    {
+      "title": "DskDitto: Ultra-fast, parallel duplicate-file detector",
+      "url": "https://github.com/jdefrancesco/dskDitto",
+      "score": 5
+    },
+    {
+      "title": "What is happening to jobs? Separating AI hype from reality",
+      "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+      "score": 79
+    },
+    {
+      "title": "SIMD for Collision",
+      "url": "https://box2d.org/posts/2026/07/simd-for-collision/",
+      "score": 89
+    },
+    {
+      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+      "score": 171
+    },
+    {
+      "title": "Show HN: I made some transistor animations",
+      "url": "https://brandonli.net/semisim/animations",
+      "score": 174
+    },
+    {
+      "title": "Show HN: Brolly, a plain-text weather forecast site",
+      "url": "https://brolly.sh/forecast/RWFP2qW8",
+      "score": 182
+    },
+    {
+      "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
+      "url": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
+      "score": 118
+    },
+    {
+      "title": "Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?",
+      "url": "https://www.historicmysteries.com/unexplained-mysteries/agatha-christie-disappearance/23136/",
+      "score": 21
+    },
+    {
+      "title": "Memory safety absolutists",
+      "url": "https://itsallaboutthebit.com/memory-safety-absolutists/",
+      "score": 91
+    },
+    {
+      "title": "Android may soon restrict on-device ADB",
+      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+      "score": 916
+    },
+    {
+      "title": "Turn And Face The Strange",
+      "url": "https://fly.io/blog/kurt-scott-money-sprites/",
+      "score": 192
     }
   ]
 }
