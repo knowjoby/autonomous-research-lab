@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Should you wash your solar panels?",
+      "url": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
+      "score": 57
+    },
+    {
       "title": "Kimi-K3 Releases on HuggingFace 7/27",
       "url": "https://huggingface.co/moonshotai/Kimi-K3",
-      "score": 284
+      "score": 667
+    },
+    {
+      "title": "How is the Bun Rewrite in Rust going?",
+      "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+      "score": 232
+    },
+    {
+      "title": "AI companies are shredding rare books",
+      "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
+      "score": 322
+    },
+    {
+      "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
+      "url": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
+      "score": 75
+    },
+    {
+      "title": "Libsm64: Mario 64 as a library for use in external game engines",
+      "url": "https://github.com/libsm64/libsm64",
+      "score": 69
     },
     {
       "title": "PGSimCity - How PostgreSQL Works",
       "url": "https://nikolays.github.io/PGSimCity/",
-      "score": 586
+      "score": 766
     },
     {
-      "title": "Show HN: Physically accurate black hole you can put in your room",
-      "url": "https://blackhole.plav.in",
-      "score": 315
-    },
-    {
-      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
-      "url": "https://github.com/vercel-labs/scriptc",
-      "score": 175
-    },
-    {
-      "title": "French firefighters face 'pyrocumulonimbus' for first time",
-      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-      "score": 377
-    },
-    {
-      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-      "url": "https://beyondloom.com/decker/",
-      "score": 314
-    },
-    {
-      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-      "score": 756
-    },
-    {
-      "title": "We have proof automation now",
-      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-      "score": 166
-    },
-    {
-      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
-      "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
-      "score": 452
-    },
-    {
-      "title": "I wanted a clock that never needed setting. Things escalated",
-      "url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
-      "score": 103
-    },
-    {
-      "title": "How Unix spell ran in 64 kB of RAM",
-      "url": "https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram",
-      "score": 14
-    },
-    {
-      "title": "Introduction to Data-Oriented Design [pdf]",
-      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
-      "score": 173
-    },
-    {
-      "title": "Fonts In Use – Find out where a font is used",
-      "url": "https://fontsinuse.com/",
-      "score": 66
+      "title": "Building a Fast Lock-Free Queue in Modern C++ from Scratch",
+      "url": "https://blog.jaysmito.dev/blog/04-fast-lockfree-queues/",
+      "score": 40
     },
     {
       "title": "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",
       "url": "https://mymodernmet.com/magnolia-ancient-flowers-beetles/",
-      "score": 12
+      "score": 155
     },
     {
-      "title": "Simulate cassette tape audio profiles using FFmpeg",
-      "url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
-      "score": 133
+      "title": "VLC for Unity now supported on Linux",
+      "url": "https://code.videolan.org/videolan/vlc-unity",
+      "score": 68
     },
     {
-      "title": "Design is compromise",
-      "url": "https://stephango.com/design-is-compromise",
-      "score": 252
+      "title": "Towards a Theory of Bugs: The Ruliology of the Unexpected",
+      "url": "https://writings.stephenwolfram.com/2026/07/towards-a-theory-of-bugs-the-ruliology-of-the-unexpected/",
+      "score": 27
     },
     {
-      "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
-      "url": "https://github.com/gmrandazzo/CheapSecurity",
-      "score": 129
+      "title": "Show HN: Physically accurate black hole you can put in your room",
+      "url": "https://blackhole.plav.in",
+      "score": 402
     },
     {
-      "title": "Measuring developer productivity with the DX Core 4",
-      "url": "https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/",
-      "score": 13
+      "title": "Elevated errors on Claude Opus 5",
+      "url": "https://status.claude.com/incidents/mfdtrknpxghq",
+      "score": 55
     },
     {
-      "title": "The Usefulness of Useless Knowledge (1939) [pdf]",
-      "url": "https://faculty.lsu.edu/kharms/files/flexner_1939.pdf",
-      "score": 77
+      "title": "Worse on Purpose",
+      "url": "https://ledger.worseonpurpose.com/brands",
+      "score": 81
     },
     {
-      "title": "The old-school way of keeping the summer heat out of your home",
-      "url": "https://monocle.com/design/architecture/keeping-your-home-cool-without-air-conditioning/",
-      "score": 13
+      "title": "The Birth of the American 12-string Guitar",
+      "url": "https://www.harpguitars.net/history/grunewald/12-string.htm",
+      "score": 38
     },
     {
-      "title": "Show HN: Reverse Minesweeper",
-      "url": "https://sunflowersgame.com/",
-      "score": 221
+      "title": "Shay Locomotives",
+      "url": "https://www.shaylocomotives.com/",
+      "score": 34
     },
     {
-      "title": "How to write English prose (2023)",
-      "url": "https://thelampmagazine.com/blog/how-to-write-english-prose",
-      "score": 119
+      "title": "Modern email can be built from borrowed parts",
+      "url": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
+      "score": 61
     },
     {
-      "title": "Go Analysis Framework: modular static analysis by go team",
-      "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
-      "score": 207
-    },
-    {
-      "title": "Kill The Cookie Banner",
-      "url": "https://killthecookiebanner.eu/",
-      "score": 1016
-    },
-    {
-      "title": "I learned PCB design, 3D printing and C just to listen to music",
-      "url": "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/",
-      "score": 211
-    },
-    {
-      "title": "The Zen of Parallel Programming: The Posture of a Kernel",
-      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming-the-posture-of-a-kernel",
+      "title": "First Robotic Satellite Servicer Launched",
+      "url": "https://www.nrl.navy.mil/Media/News/Article/4551871/robotic-servicing-of-geosynchronous-satellites-launches-into-orbit/",
       "score": 15
     },
     {
-      "title": "The relay market powering token resellers and fraud",
-      "url": "https://vectoral.com/blog/token-relay-market",
-      "score": 193
+      "title": "The Computer That Helped Win World War II",
+      "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
+      "score": 5
     },
     {
-      "title": "The New AI Superpowers: Focus and Followthrough",
-      "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-      "score": 200
+      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+      "url": "https://github.com/vercel-labs/scriptc",
+      "score": 230
     },
     {
-      "title": "Teaching Kids Forth",
-      "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-      "score": 89
+      "title": "The Proof Machine (2016)",
+      "url": "https://incredible.pm/",
+      "score": 12
+    },
+    {
+      "title": "We Tested Nonstick Cookware: Coatings Don't Need to Look Worn to Shed Particles",
+      "url": "https://www.rtings.com/air-fryer/learn/research/ptfe-cookware-shedding",
+      "score": 20
+    },
+    {
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "url": "https://beyondloom.com/decker/",
+      "score": 343
+    },
+    {
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "score": 1017
+    },
+    {
+      "title": "Google Chrome Arrives on ARM64 Linux, Widevine DRM Included",
+      "url": "https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available",
+      "score": 33
+    },
+    {
+      "title": "We have proof automation now",
+      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+      "score": 204
     },
     {
       "title": "8086 Emulator Inside Scratch",
       "url": "https://turbowarp.org/1248315967?size=640x400",
-      "score": 4
+      "score": 24
+    },
+    {
+      "title": "Introduction to Data-Oriented Design [pdf]",
+      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+      "score": 216
+    },
+    {
+      "title": "I wanted a clock that never needed setting. Things escalated",
+      "url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
+      "score": 146
+    },
+    {
+      "title": "Chinese chipmaker shares surge 470%",
+      "url": "https://www.bbc.com/news/articles/c9q9w3x9qn2o",
+      "score": 145
     }
   ]
 }
