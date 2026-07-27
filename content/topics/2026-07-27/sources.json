@@ -1,0 +1,155 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "PGSimCity - How PostgreSQL Works",
+      "url": "https://nikolays.github.io/PGSimCity/",
+      "score": 157
+    },
+    {
+      "title": "Show HN: Physically accurate black hole you can put in your room",
+      "url": "https://blackhole.plav.in",
+      "score": 53
+    },
+    {
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "url": "https://beyondloom.com/decker/",
+      "score": 234
+    },
+    {
+      "title": "We have proof automation now",
+      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+      "score": 86
+    },
+    {
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+      "score": 194
+    },
+    {
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "score": 234
+    },
+    {
+      "title": "Teaching Kids Forth",
+      "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+      "score": 57
+    },
+    {
+      "title": "Introduction to Data-Oriented Design [pdf]",
+      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+      "score": 118
+    },
+    {
+      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+      "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+      "score": 370
+    },
+    {
+      "title": "Design is compromise",
+      "url": "https://stephango.com/design-is-compromise",
+      "score": 200
+    },
+    {
+      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+      "url": "https://github.com/vercel-labs/scriptc",
+      "score": 29
+    },
+    {
+      "title": "Simulate cassette tape audio profiles using FFmpeg",
+      "url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
+      "score": 82
+    },
+    {
+      "title": "Fonts In Use – Find out where a font is used",
+      "url": "https://fontsinuse.com/",
+      "score": 21
+    },
+    {
+      "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
+      "url": "https://github.com/gmrandazzo/CheapSecurity",
+      "score": 111
+    },
+    {
+      "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
+      "url": "https://spectrum.ieee.org/space-debris-atmosphere-burn-up",
+      "score": 48
+    },
+    {
+      "title": "How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster",
+      "url": "https://astgrep.com/blog/tree-sitter-rust-rewrite",
+      "score": 80
+    },
+    {
+      "title": "How to Write English Prose",
+      "url": "https://thelampmagazine.com/blog/how-to-write-english-prose",
+      "score": 84
+    },
+    {
+      "title": "Go Analysis Framework: modular static analysis by go team",
+      "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
+      "score": 183
+    },
+    {
+      "title": "History of John Backus's functional programming project [draft]",
+      "url": "https://softwarepreservation.computerhistory.org/FP/",
+      "score": 14
+    },
+    {
+      "title": "How to Block Some of the Bots",
+      "url": "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
+      "score": 85
+    },
+    {
+      "title": "The relay market powering token resellers and fraud",
+      "url": "https://vectoral.com/blog/token-relay-market",
+      "score": 161
+    },
+    {
+      "title": "I learned PCB design, 3D printing and C just to listen to music",
+      "url": "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/",
+      "score": 180
+    },
+    {
+      "title": "I wanted a clock that never needed setting. Things escalated",
+      "url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
+      "score": 59
+    },
+    {
+      "title": "Kill The Cookie Banner",
+      "url": "https://killthecookiebanner.eu/",
+      "score": 848
+    },
+    {
+      "title": "The New AI Superpowers: Focus and Followthrough",
+      "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+      "score": 155
+    },
+    {
+      "title": "The Usefulness of Useless Knowledge (1939) [pdf]",
+      "url": "https://faculty.lsu.edu/kharms/files/flexner_1939.pdf",
+      "score": 25
+    },
+    {
+      "title": "Show HN: Reverse Minesweeper",
+      "url": "https://sunflowersgame.com/",
+      "score": 157
+    },
+    {
+      "title": "Jimothy the raccoon has a rare spinal condition. Here's what that means",
+      "url": "https://www.popsci.com/science/whats-jimothy-raccoon-condition/",
+      "score": 105
+    },
+    {
+      "title": "Using sed to make indexes for books (1997)",
+      "url": "https://www.pement.org/sed/make_indexes.txt",
+      "score": 53
+    },
+    {
+      "title": "What's Under Your Feet in New York City?",
+      "url": "https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city",
+      "score": 166
+    }
+  ]
+}
