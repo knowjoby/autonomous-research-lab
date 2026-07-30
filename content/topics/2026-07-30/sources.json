@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
-      "url": "https://remysharp.com/links/2026-07-23-35890312",
-      "score": 122
+      "title": "UEFA and its national associations will not participate in FIFA competitions",
+      "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+      "score": 154
     },
     {
-      "title": "RFC 8890 – The Internet is for End Users (2020)",
-      "url": "https://mnot.net/blog/2020/for_the_users",
-      "score": 23
+      "title": "Advancing the price-performance frontier with GPT‑5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+      "score": 311
     },
     {
-      "title": "Why Is Everyone Trying to Build a Solid-State Battery?",
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "score": 178
+    },
+    {
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "score": 317
+    },
+    {
+      "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+      "score": 138
+    },
+    {
+      "title": "Stacked PRs are now live on GitHub",
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "score": 144
+    },
+    {
+      "title": "Postgres Queues Actually Scale",
+      "url": "https://www.dbos.dev/blog/making-postgres-queues-scale",
+      "score": 25
+    },
+    {
+      "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
+      "url": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
+      "score": 109
+    },
+    {
+      "title": "2x, not 10x: coding with LLMs in 2026",
+      "url": "https://obryant.dev/p/2x-not-10x/",
+      "score": 39
+    },
+    {
+      "title": "The Economic Benefit of Refactoring",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+      "score": 129
+    },
+    {
+      "title": "Rise Reforming (YC S26) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer",
+      "score": 1
+    },
+    {
+      "title": "CodePen 2.0",
+      "url": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
+      "score": 29
+    },
+    {
+      "title": "So you want to use plants to reduce CO₂",
+      "url": "https://dynomight.net/plants/",
+      "score": 17
+    },
+    {
+      "title": "Hacker Public Radio",
+      "url": "https://hackerpublicradio.org/",
+      "score": 98
+    },
+    {
+      "title": "Why is everyone trying to build a solid-state battery?",
       "url": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
-      "score": 22
-    },
-    {
-      "title": "Gpiozero Flow",
-      "url": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
-      "score": 88
-    },
-    {
-      "title": "Why Don't People Use Formal Methods?",
-      "url": "https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/",
-      "score": 24
-    },
-    {
-      "title": "Ron Gilbert started production on Thimbleweed Park 2",
-      "url": "https://www.grumpygamer.com/twp2_announce/",
-      "score": 108
-    },
-    {
-      "title": "How Old Is Ann?",
-      "url": "https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/",
-      "score": 18
+      "score": 127
     },
     {
       "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
       "url": "https://prized.dev",
-      "score": 4
+      "score": 56
     },
     {
-      "title": "I made a game where you build a CPU from logic gates",
-      "url": "https://select.supply/game/chipbuilder",
+      "title": "Upper stage impacting the moon on 2026 August 5",
+      "url": "https://www.projectpluto.com/25010d.htm",
+      "score": 113
+    },
+    {
+      "title": "How Olinia Turns Mexico's EV Ambition into Reality",
+      "url": "https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle",
       "score": 24
     },
     {
-      "title": "Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
-      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
-      "score": 1
+      "title": "Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents",
+      "url": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
+      "score": 7
     },
     {
-      "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
-      "url": "https://github.com/YoanWai/agent-manager",
-      "score": 55
+      "title": "RFC 8890 – The Internet is for End Users (2020)",
+      "url": "https://mnot.net/blog/2020/for_the_users",
+      "score": 97
     },
     {
-      "title": "AI's top startups are barely publishing their research",
-      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "score": 553
+      "title": "How to Mount a Balcony Awning (2025)",
+      "url": "https://solar.lowtechmagazine.com/2025/07/how-to-mount-a-balcony-awning/",
+      "score": 35
     },
     {
-      "title": "What it means for an API to be RESTful",
-      "url": "https://en.andros.dev/blog/9761fd2e/what-it-means-for-an-api-to-be-restful/",
-      "score": 16
-    },
-    {
-      "title": "Carolina Cloud pays SOFR on unused prepaid credits",
-      "url": "https://docs.carolinacloud.io/organizations/prepaid-interest/",
-      "score": 46
-    },
-    {
-      "title": "The coolest use for the Vision Pro",
-      "url": "https://christianselig.com/2026/07/vision-pro-house/",
-      "score": 760
-    },
-    {
-      "title": "3D Pinball for Windows (1995)",
-      "url": "https://98.js.org/programs/pinball/space-cadet.html",
-      "score": 13
-    },
-    {
-      "title": "The Glass Famine",
-      "url": "https://edconway.substack.com/p/the-glass-famine",
-      "score": 54
-    },
-    {
-      "title": "GCC steering committee announces AI policy",
-      "url": "https://lwn.net/Articles/1086041/",
-      "score": 136
-    },
-    {
-      "title": "LLM Honeypot",
-      "url": "https://llm2human.pages.dev/",
-      "score": 336
-    },
-    {
-      "title": "The first watch featuring computer functions",
-      "url": "https://by.seiko-design.com/140th/en/topic/58.html",
-      "score": 51
+      "title": "Ron Gilbert started production on Thimbleweed Park 2",
+      "url": "https://www.grumpygamer.com/twp2_announce/",
+      "score": 214
     },
     {
       "title": "Are We Stuck with Lean?",
       "url": "https://mathoverflow.net/questions/513742/are-we-stuck-with-lean",
-      "score": 8
+      "score": 107
     },
     {
-      "title": "The Alice and Bob After Dinner Speech (1984)",
-      "url": "https://hex.ooo/library/alicebob.html",
-      "score": 3
+      "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
+      "url": "https://github.com/n67094/sdl_gp",
+      "score": 45
     },
     {
-      "title": "OpenJDK Interim Policy on Generative AI",
-      "url": "https://openjdk.org/legal/ai",
-      "score": 42
+      "title": "Show HN: Claude-account – switch Claude Code accounts without logging in again",
+      "url": "https://github.com/hamzarehmandeveloper/claude-account",
+      "score": 30
     },
     {
-      "title": "The Productivity Mirage",
-      "url": "https://frantic.im/mirage/",
-      "score": 305
+      "title": "Paging Through a Parquet File in DuckDB: File_row_number or Offset?",
+      "url": "https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/",
+      "score": 33
     },
     {
-      "title": "Azulejo",
-      "url": "https://en.wikipedia.org/wiki/Azulejo",
-      "score": 94
+      "title": "Show HN: I made a game where you build a CPU from logic gates",
+      "url": "https://select.supply/game/chipbuilder",
+      "score": 67
     },
     {
-      "title": "Google will expand age checks on Android worldwide till the end of the year",
-      "url": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
-      "score": 178
+      "title": "How old is Ann?",
+      "url": "https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/",
+      "score": 53
     },
     {
-      "title": "ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
-      "score": 40
+      "title": "RCade: The Arcade Cabinet with CI/CD Deployment, Custom Graphics Card for CRT [video]",
+      "url": "https://www.youtube.com/watch?v=W-OpIbLUOU0",
+      "score": 23
     },
     {
-      "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
-      "url": "https://github.com/grafana/ai-sdk",
-      "score": 16
-    },
-    {
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "score": 429
-    },
-    {
-      "title": "The Cold Email",
-      "url": "https://zachholman.com/posts/cold-email",
-      "score": 261
+      "title": "3D Pinball for Windows (1995)",
+      "url": "https://98.js.org/programs/pinball/space-cadet.html",
+      "score": 87
     }
   ]
 }
