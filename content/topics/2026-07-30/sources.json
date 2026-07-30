@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "I Have Thoughts on the iPhone Air",
-      "url": "https://christianselig.com/2026/07/iphone-air-review/",
-      "score": 9
+      "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+      "url": "https://remysharp.com/links/2026-07-23-35890312",
+      "score": 122
+    },
+    {
+      "title": "RFC 8890 – The Internet is for End Users (2020)",
+      "url": "https://mnot.net/blog/2020/for_the_users",
+      "score": 23
+    },
+    {
+      "title": "Why Is Everyone Trying to Build a Solid-State Battery?",
+      "url": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
+      "score": 22
+    },
+    {
+      "title": "Gpiozero Flow",
+      "url": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
+      "score": 88
+    },
+    {
+      "title": "Why Don't People Use Formal Methods?",
+      "url": "https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/",
+      "score": 24
+    },
+    {
+      "title": "Ron Gilbert started production on Thimbleweed Park 2",
+      "url": "https://www.grumpygamer.com/twp2_announce/",
+      "score": 108
+    },
+    {
+      "title": "How Old Is Ann?",
+      "url": "https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/",
+      "score": 18
+    },
+    {
+      "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
+      "url": "https://prized.dev",
+      "score": 4
+    },
+    {
+      "title": "I made a game where you build a CPU from logic gates",
+      "url": "https://select.supply/game/chipbuilder",
+      "score": 24
+    },
+    {
+      "title": "Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
+      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
+      "score": 1
+    },
+    {
+      "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+      "url": "https://github.com/YoanWai/agent-manager",
+      "score": 55
     },
     {
       "title": "AI's top startups are barely publishing their research",
       "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "score": 421
+      "score": 553
+    },
+    {
+      "title": "What it means for an API to be RESTful",
+      "url": "https://en.andros.dev/blog/9761fd2e/what-it-means-for-an-api-to-be-restful/",
+      "score": 16
+    },
+    {
+      "title": "Carolina Cloud pays SOFR on unused prepaid credits",
+      "url": "https://docs.carolinacloud.io/organizations/prepaid-interest/",
+      "score": 46
     },
     {
       "title": "The coolest use for the Vision Pro",
       "url": "https://christianselig.com/2026/07/vision-pro-house/",
-      "score": 626
+      "score": 760
     },
     {
-      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "url": "https://github.com/drumih/turbo-fieldfare",
-      "score": 772
+      "title": "3D Pinball for Windows (1995)",
+      "url": "https://98.js.org/programs/pinball/space-cadet.html",
+      "score": 13
     },
     {
-      "title": "Superlogical",
-      "url": "https://www.superlogical.com/",
-      "score": 669
+      "title": "The Glass Famine",
+      "url": "https://edconway.substack.com/p/the-glass-famine",
+      "score": 54
+    },
+    {
+      "title": "GCC steering committee announces AI policy",
+      "url": "https://lwn.net/Articles/1086041/",
+      "score": 136
     },
     {
       "title": "LLM Honeypot",
       "url": "https://llm2human.pages.dev/",
-      "score": 218
+      "score": 336
+    },
+    {
+      "title": "The first watch featuring computer functions",
+      "url": "https://by.seiko-design.com/140th/en/topic/58.html",
+      "score": 51
+    },
+    {
+      "title": "Are We Stuck with Lean?",
+      "url": "https://mathoverflow.net/questions/513742/are-we-stuck-with-lean",
+      "score": 8
+    },
+    {
+      "title": "The Alice and Bob After Dinner Speech (1984)",
+      "url": "https://hex.ooo/library/alicebob.html",
+      "score": 3
+    },
+    {
+      "title": "OpenJDK Interim Policy on Generative AI",
+      "url": "https://openjdk.org/legal/ai",
+      "score": 42
     },
     {
       "title": "The Productivity Mirage",
       "url": "https://frantic.im/mirage/",
-      "score": 208
+      "score": 305
     },
     {
-      "title": "London’s most equidistant pub",
-      "url": "https://equidistance.io/londons-most-equidistant-pub/",
-      "score": 32
+      "title": "Azulejo",
+      "url": "https://en.wikipedia.org/wiki/Azulejo",
+      "score": 94
     },
     {
-      "title": "Keychron announces first open-source firmware for gaming mice",
-      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-      "score": 364
+      "title": "Google will expand age checks on Android worldwide till the end of the year",
+      "url": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
+      "score": 178
     },
     {
-      "title": "Logic for Programmers",
-      "url": "https://logicforprogrammers.com/",
-      "score": 100
+      "title": "ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
+      "score": 40
     },
     {
-      "title": "Concurrency, interactivity, mutability, choose two",
-      "url": "https://www.n16f.net/blog/concurrency-interactivity-mutability-choose-two/",
-      "score": 9
+      "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+      "url": "https://github.com/grafana/ai-sdk",
+      "score": 16
     },
     {
       "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
       "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "score": 370
+      "score": 429
     },
     {
       "title": "The Cold Email",
       "url": "https://zachholman.com/posts/cold-email",
-      "score": 188
-    },
-    {
-      "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
-      "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
-      "score": 277
-    },
-    {
-      "title": "Kimi K3-256k",
-      "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
-      "score": 418
-    },
-    {
-      "title": "Angels in Coptic Magic I: Introduction",
-      "url": "https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/2026/01/16/angels-in-coptic-magic-i-introduction/",
-      "score": 44
-    },
-    {
-      "title": "Turning a dumb AC unit smart (without losing my security deposit)",
-      "url": "https://prilik.com/blog/post/automating-ac-nyc/",
-      "score": 160
-    },
-    {
-      "title": "Show HN: CheapFoodMap – A map of good meals under $10",
-      "url": "https://cheapfoodmap.com/",
-      "score": 196
-    },
-    {
-      "title": "Some thoughts about Anthropic's new cryptanalysis results",
-      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-      "score": 146
-    },
-    {
-      "title": "Kuna: Decompiler Development in the Age of Coding Agents",
-      "url": "https://noelo.org/blog/kuna-release/",
-      "score": 28
-    },
-    {
-      "title": "The Rust on ESP Book",
-      "url": "https://docs.espressif.com/projects/rust/book/",
-      "score": 151
-    },
-    {
-      "title": "NSF pilots 4-year PhDs with industry research placements",
-      "url": "https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four",
-      "score": 69
-    },
-    {
-      "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
-      "url": "https://archive.org/details/mancomputerbyjoh0000john",
-      "score": 45
-    },
-    {
-      "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
-      "url": "https://usetokenless.com/",
-      "score": 61
-    },
-    {
-      "title": "A Trampoline",
-      "url": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
-      "score": 104
-    },
-    {
-      "title": "Refactoring cuisine: how an Iraqi stew sailed to Singapore",
-      "url": "https://iza.ac/posts/2026/07/the-journey-of-bamya/",
-      "score": 51
-    },
-    {
-      "title": "SalesPatriot (YC W25) Is Hiring FDEs",
-      "url": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
-      "score": 1
-    },
-    {
-      "title": "Hamburg's Stadtpark: A Park Built to Be Used",
-      "url": "https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/",
-      "score": 148
-    },
-    {
-      "title": "Show HN: A local merge queue for parallel Claude Code agents",
-      "url": "https://github.com/funador/claude-code-merge-queue",
-      "score": 35
-    },
-    {
-      "title": "Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman",
-      "url": "https://www.staszewski.xyz/blog/recursive-filters/",
-      "score": 37
+      "score": 261
     }
   ]
 }
