@@ -1,0 +1,155 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "score": 221
+    },
+    {
+      "title": "The coolest use for the Vision Pro",
+      "url": "https://christianselig.com/2026/07/vision-pro-house/",
+      "score": 400
+    },
+    {
+      "title": "Flume Water Monitor 915 MHz Security Is Pretty Good",
+      "url": "https://waveformsecurity.com/blog/flume/",
+      "score": 12
+    },
+    {
+      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "url": "https://github.com/drumih/turbo-fieldfare",
+      "score": 658
+    },
+    {
+      "title": "Superlogical",
+      "url": "https://www.superlogical.com/",
+      "score": 534
+    },
+    {
+      "title": "LLM Honeypot",
+      "url": "https://llm2human.pages.dev/",
+      "score": 63
+    },
+    {
+      "title": "Keychron announces first open-source firmware for gaming mice",
+      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+      "score": 295
+    },
+    {
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "score": 297
+    },
+    {
+      "title": "The Cold Email",
+      "url": "https://zachholman.com/posts/cold-email",
+      "score": 92
+    },
+    {
+      "title": "A pharmacy chain in Vermont implemented AI for efficiency",
+      "url": "https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/",
+      "score": 8
+    },
+    {
+      "title": "The Productivity Mirage",
+      "url": "https://frantic.im/mirage/",
+      "score": 48
+    },
+    {
+      "title": "KOReader",
+      "url": "https://koreader.rocks/",
+      "score": 671
+    },
+    {
+      "title": "Kimi K3-256k",
+      "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+      "score": 343
+    },
+    {
+      "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
+      "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+      "score": 220
+    },
+    {
+      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+      "score": 349
+    },
+    {
+      "title": "SalesPatriot (YC W25) Is Hiring FDEs",
+      "url": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
+      "score": 1
+    },
+    {
+      "title": "Show HN: A local merge queue for parallel Claude Code agents",
+      "url": "https://github.com/funador/claude-code-merge-queue",
+      "score": 16
+    },
+    {
+      "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+      "url": "https://arxiv.org/abs/2607.25398",
+      "score": 295
+    },
+    {
+      "title": "Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman",
+      "url": "https://www.staszewski.xyz/blog/recursive-filters/",
+      "score": 12
+    },
+    {
+      "title": "A Trampoline",
+      "url": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
+      "score": 72
+    },
+    {
+      "title": "Turning a dumb AC unit smart (without losing my security deposit)",
+      "url": "https://prilik.com/blog/post/automating-ac-nyc/",
+      "score": 112
+    },
+    {
+      "title": "Show HN: CheapFoodMap – A map of good meals under $10",
+      "url": "https://cheapfoodmap.com/",
+      "score": 130
+    },
+    {
+      "title": "Darktable",
+      "url": "https://www.darktable.org/",
+      "score": 297
+    },
+    {
+      "title": "Refactoring cuisine: how an Iraqi stew sailed to Singapore",
+      "url": "https://iza.ac/posts/2026/07/the-journey-of-bamya/",
+      "score": 24
+    },
+    {
+      "title": "Angels in Coptic Magic I: Introduction",
+      "url": "https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/2026/01/16/angels-in-coptic-magic-i-introduction/",
+      "score": 5
+    },
+    {
+      "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+      "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
+      "score": 60
+    },
+    {
+      "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
+      "url": "https://archive.org/details/mancomputerbyjoh0000john",
+      "score": 19
+    },
+    {
+      "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+      "url": "https://usetokenless.com/",
+      "score": 53
+    },
+    {
+      "title": "Some thoughts about Anthropic's new cryptanalysis results",
+      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+      "score": 107
+    },
+    {
+      "title": "The Rust on ESP Book",
+      "url": "https://docs.espressif.com/projects/rust/book/",
+      "score": 127
+    }
+  ]
+}
