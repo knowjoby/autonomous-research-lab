@@ -2,84 +2,134 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Elevators",
-      "url": "https://john.fun/elevators",
-      "score": 918
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "score": 41
     },
     {
-      "title": "qm – Multiplayer agent harness for work",
-      "url": "https://github.com/yc-software/qm",
-      "score": 475
+      "title": "Elevators",
+      "url": "https://john.fun/elevators",
+      "score": 1236
+    },
+    {
+      "title": "Flint: A Visualization Language for the AI Era",
+      "url": "https://microsoft.github.io/flint-chart/",
+      "score": 98
     },
     {
       "title": "How to Exist",
       "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-      "score": 31
+      "score": 167
     },
     {
-      "title": "The Absurdity of Albert Camus",
-      "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
-      "score": 59
+      "title": "qm – Multiplayer agent harness for work",
+      "url": "https://github.com/yc-software/qm",
+      "score": 548
     },
     {
-      "title": "Progressive Web Components",
-      "url": "https://arielsalminen.com/2026/progressive-web-components/",
-      "score": 99
-    },
-    {
-      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
-      "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
-      "score": 111
-    },
-    {
-      "title": "Big Food vs. the People",
-      "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
-      "score": 197
-    },
-    {
-      "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
-      "url": "https://arxiv.org/abs/2607.28233",
-      "score": 40
-    },
-    {
-      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
-      "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-      "score": 148
+      "title": "The development pipeline is a production system",
+      "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+      "score": 68
     },
     {
       "title": "Software for One",
       "url": "https://www.ajwaxman.com/writing/software-for-one",
-      "score": 8
+      "score": 91
     },
     {
-      "title": "Tailscale didn't stop the Hugging Face intrusion",
-      "url": "https://tailscale.com/blog/hugging-face-intrusion",
-      "score": 474
+      "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
+      "url": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
+      "score": 21
+    },
+    {
+      "title": "Progressive Web Components",
+      "url": "https://arielsalminen.com/2026/progressive-web-components/",
+      "score": 146
+    },
+    {
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "score": 501
+    },
+    {
+      "title": "The Absurdity of Albert Camus",
+      "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+      "score": 105
+    },
+    {
+      "title": "A tiny holdout building in the middle of Macy’s is back in view",
+      "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
+      "score": 15
     },
     {
       "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
       "url": "https://github.com/sqliteai/waste",
-      "score": 164
+      "score": 235
+    },
+    {
+      "title": "A week in Matrix",
+      "url": "https://piegames.de/dumps/a-week-in-matrix/",
+      "score": 55
+    },
+    {
+      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+      "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+      "score": 184
+    },
+    {
+      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+      "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+      "score": 137
+    },
+    {
+      "title": "Long Range Wi-Fi – Pushing 2.4 GHz Wi-Fi to the limits (2019)",
+      "url": "https://www.phidgets.com/?view=articles&article=LongRangeWifi",
+      "score": 47
+    },
+    {
+      "title": "Big Food vs. the People",
+      "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+      "score": 226
+    },
+    {
+      "title": "Ten Ways NAS Is Getting Enshitified",
+      "url": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
+      "score": 51
     },
     {
       "title": "Golang proposal: container/: generic collection types",
       "url": "https://github.com/golang/go/issues/80590",
-      "score": 128
+      "score": 147
+    },
+    {
+      "title": "Increasing the lifespan of a bulb makes it worse in every other way",
+      "url": "https://maurycyz.com/misc/tungsten/",
+      "score": 73
+    },
+    {
+      "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+      "url": "https://arxiv.org/abs/2607.28233",
+      "score": 48
     },
     {
       "title": "Let's make the worst Htmx",
       "url": "https://zserge.com/posts/worst-htmx-ever/",
-      "score": 72
-    },
-    {
-      "title": "How JPEG works: Interactively explore JPEG's lossy compression methods",
-      "url": "https://cgjennings.ca/articles/jpeg-compression/",
-      "score": 117
+      "score": 94
     },
     {
       "title": "The most official water costs $120k a gallon",
       "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
-      "score": 144
+      "score": 177
+    },
+    {
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "score": 538
+    },
+    {
+      "title": "When Internal Memory Fails: A No-Solder Wii U Recovery",
+      "url": "https://smolnero.com/posts/when-internal-memory-fails-a-no-solder-wii-u-recovery",
+      "score": 7
     },
     {
       "title": "Loops (YC W22) Is Hiring a Product Educator",
@@ -87,69 +137,19 @@
       "score": 1
     },
     {
-      "title": "Twenty-five years ago it was cryptography, today it's model weights",
-      "url": "https://weeraman.com/because-we-can/",
-      "score": 177
-    },
-    {
-      "title": "The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",
-      "url": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
-      "score": 23
-    },
-    {
-      "title": "Termixer (TUI DJ Mixer)",
-      "url": "https://github.com/l00sed/termixer",
-      "score": 55
-    },
-    {
-      "title": "A past and future of trade secrets",
-      "url": "https://www.cabinetmagazine.org/issues/70/kofen.php",
-      "score": 15
-    },
-    {
-      "title": "How far can you push the range of Wi-Fi connectivity in an ideal environment?",
-      "url": "https://www.phidgets.com/?view=articles&article=LongRangeWifi",
-      "score": 11
-    },
-    {
-      "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
-      "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
-      "score": 32
-    },
-    {
-      "title": "Dubious research tied to Red Bull has shaped energy drink policy",
-      "url": "https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol",
-      "score": 120
-    },
-    {
-      "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
-      "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
-      "score": 106
-    },
-    {
-      "title": "Using the railway network as a flatbed scanner [video]",
-      "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
-      "score": 54
+      "title": "Authorize, don't authenticate",
+      "url": "https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html",
+      "score": 84
     },
     {
       "title": "Is AI reasoning right for the wrong reasons?",
       "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-      "score": 124
+      "score": 159
     },
     {
-      "title": "Everyone is building LLM routers, we deprecated ours",
-      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-      "score": 96
-    },
-    {
-      "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
-      "url": "https://code.intellios.ai/cwbrowser/",
-      "score": 39
-    },
-    {
-      "title": "Severance",
-      "url": "https://lcamtuf.substack.com/p/severance",
-      "score": 217
+      "title": "Twenty-five years ago it was cryptography, today it's model weights",
+      "url": "https://weeraman.com/because-we-can/",
+      "score": 236
     }
   ]
 }
