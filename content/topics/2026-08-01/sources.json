@@ -2,44 +2,94 @@
   "papers": [],
   "discussions": [
     {
-      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
-      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-      "score": 44
+      "title": "NetBSD 11.0 Released",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+      "score": 55
     },
     {
-      "title": "Elevators",
-      "url": "https://john.fun/elevators",
-      "score": 1399
+      "title": "The Art of 64-bit Assembly",
+      "url": "https://nostarch.com/art-64-bit-assembly-v2",
+      "score": 113
+    },
+    {
+      "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
+      "url": "https://kaisel.dev/",
+      "score": 28
+    },
+    {
+      "title": "Postmortem for Kernel Soundness Bug #14576",
+      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+      "score": 10
+    },
+    {
+      "title": "Explorative modeling: Train on the best of K guesses",
+      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
+      "score": 45
+    },
+    {
+      "title": "Pgtestdb's template cloning approach to testing is fast",
+      "url": "https://brandur.org/fragments/pgtestdb",
+      "score": 37
+    },
+    {
+      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+      "score": 200
+    },
+    {
+      "title": "Cursor removed cost information from the usage page and CSV export",
+      "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+      "score": 206
+    },
+    {
+      "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+      "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+      "score": 191
+    },
+    {
+      "title": "Register deprivation: spills and runtime under forced register scarcity",
+      "url": "https://rjp.io/blog/2026-07-19-register-deprivation",
+      "score": 15
+    },
+    {
+      "title": "Franken.domains: Stitched-Together Domains, Because Every .com Is Taken",
+      "url": "https://franken.domains/",
+      "score": 13
+    },
+    {
+      "title": "A directory of people who love RSS",
+      "url": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
+      "score": 112
+    },
+    {
+      "title": "Oil companies report sky-high profits thanks to wartime crude prices",
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026",
+      "score": 11
     },
     {
       "title": "Flint: A Visualization Language for the AI Era",
       "url": "https://microsoft.github.io/flint-chart/",
-      "score": 157
+      "score": 230
     },
     {
-      "title": "Manual: •.,:;?·",
+      "title": "Manual: •.,:;…!?·",
       "url": "https://type.today/en/journal/dots",
-      "score": 28
+      "score": 93
     },
     {
       "title": "qm – Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "score": 595
+      "score": 635
     },
     {
-      "title": "How to Exist",
-      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-      "score": 258
-    },
-    {
-      "title": "A tiny holdout building in the middle of Macy’s is back in view",
-      "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
-      "score": 71
+      "title": "Glyphs 4 – the leading Mac font editor",
+      "url": "https://glyphsapp.com",
+      "score": 9
     },
     {
       "title": "Solid Queue 1.6.0 now supports fiber workers",
       "url": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
-      "score": 32
+      "score": 78
     },
     {
       "title": "Kontigo (YC S24) Is Hiring",
@@ -47,109 +97,54 @@
       "score": 1
     },
     {
-      "title": "The development pipeline is a production system",
-      "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
-      "score": 109
-    },
-    {
-      "title": "Google kills Earth AI generator after one day",
-      "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
-      "score": 7
-    },
-    {
-      "title": "How to Do Great Work (2023)",
-      "url": "https://paulgraham.com/greatwork.html",
-      "score": 50
-    },
-    {
-      "title": "G'mic 4.0: Squaring the Pixel, Easier",
-      "url": "https://gmic.eu/gmic40/",
-      "score": 44
-    },
-    {
       "title": "RamenHaus",
       "url": "https://ramen.haus/",
-      "score": 122
+      "score": 176
+    },
+    {
+      "title": "The tiny holdout building in the middle of Macy’s is back in view",
+      "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
+      "score": 165
+    },
+    {
+      "title": "Linux on ESP32",
+      "url": "https://github.com/GrieferPig/esp32-s31-linux",
+      "score": 55
+    },
+    {
+      "title": "Study uncovers lost 'golden age' of languages",
+      "url": "https://news.yale.edu/2026/07/23/study-uncovers-lost-golden-age-languages",
+      "score": 43
+    },
+    {
+      "title": "The development pipeline is a production system",
+      "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+      "score": 145
+    },
+    {
+      "title": "BMW Is Showing Commercials on Their Car's Dash Screens as a Treat",
+      "url": "https://www.theautopian.com/bmw-is-showing-commercials-on-their-cars-dash-screens-and-they-want-you-to-think-its-a-treat/",
+      "score": 64
+    },
+    {
+      "title": "Elevators",
+      "url": "https://john.fun/elevators",
+      "score": 1529
     },
     {
       "title": "Software for One",
       "url": "https://www.ajwaxman.com/writing/software-for-one",
-      "score": 147
+      "score": 217
     },
     {
       "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
       "url": "https://github.com/sqliteai/waste",
-      "score": 271
+      "score": 312
     },
     {
-      "title": "The Absurdity of Albert Camus",
-      "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
-      "score": 148
-    },
-    {
-      "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
-      "url": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
-      "score": 50
-    },
-    {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "score": 188
-    },
-    {
-      "title": "The First Idempotency Key",
-      "url": "https://hatchet.run/blog/first-idempotency-key",
-      "score": 8
-    },
-    {
-      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
-      "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
-      "score": 168
-    },
-    {
-      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
-      "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-      "score": 202
-    },
-    {
-      "title": "Progressive Web Components",
-      "url": "https://arielsalminen.com/2026/progressive-web-components/",
-      "score": 164
-    },
-    {
-      "title": "AI doesn't generate working products, that's still your job",
-      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
-      "score": 209
-    },
-    {
-      "title": "Big Food vs. the People",
-      "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
-      "score": 241
-    },
-    {
-      "title": "Increasing the lifespan of a bulb makes it worse in every other way",
-      "url": "https://maurycyz.com/misc/tungsten/",
-      "score": 116
-    },
-    {
-      "title": "Long Range Wi-Fi – Pushing 2.4 GHz Wi-Fi to the limits (2019)",
-      "url": "https://www.phidgets.com/?view=articles&article=LongRangeWifi",
-      "score": 67
-    },
-    {
-      "title": "Ten Ways NAS Is Getting Enshitified",
-      "url": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
-      "score": 130
-    },
-    {
-      "title": "The most official water costs $120k a gallon",
-      "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
-      "score": 207
-    },
-    {
-      "title": "Golang proposal: container/: generic collection types",
-      "url": "https://github.com/golang/go/issues/80590",
-      "score": 165
+      "title": "How to Exist",
+      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+      "score": 339
     }
   ]
 }
