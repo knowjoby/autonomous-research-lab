@@ -4,67 +4,107 @@
     {
       "title": "Go 1.27 Interactive Tour",
       "url": "https://victoriametrics.com/blog/go-1-27/index.html",
-      "score": 39
-    },
-    {
-      "title": "Seedance 2.5",
-      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-      "score": 197
-    },
-    {
-      "title": "Diátaxis",
-      "url": "https://diataxis.fr/",
-      "score": 211
-    },
-    {
-      "title": "ASRock BC-250: Building the Budget Steam Machine",
-      "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
-      "score": 11
+      "score": 184
     },
     {
       "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
       "url": "https://github.com/tom-ilan/cycloidal_gearbox",
-      "score": 7
+      "score": 133
     },
     {
-      "title": "Four Time Scales for Technology Development and Deployment",
-      "url": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
+      "title": "Seedance 2.5",
+      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "score": 315
+    },
+    {
+      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+      "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+      "score": 48
+    },
+    {
+      "title": "Diátaxis",
+      "url": "https://diataxis.fr/",
+      "score": 316
+    },
+    {
+      "title": "Show HN: Tone Generator",
+      "url": "https://soundtonegenerator.com/",
       "score": 4
     },
     {
-      "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
-      "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
-      "score": 31
+      "title": "Elena, a library for building Progressive Web Components",
+      "url": "https://elenajs.com/",
+      "score": 26
     },
     {
-      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "score": 176
+      "title": "I don't recommend Tailwind CSS",
+      "url": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
+      "score": 5
     },
     {
-      "title": "Postmortem for Kernel Soundness Bug #14576",
-      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-      "score": 120
+      "title": "ASRock BC-250: Building the Budget Steam Machine",
+      "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
+      "score": 54
+    },
+    {
+      "title": "CRM: An open-source, agentic-first CRM",
+      "url": "https://github.com/trycompai/crm",
+      "score": 5
     },
     {
       "title": "Unraveling the mysteries of habit formation",
       "url": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
-      "score": 38
+      "score": 72
     },
     {
-      "title": "CISA Alert: Water Sector PLC Targeting",
-      "url": "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/",
-      "score": 78
+      "title": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
+      "url": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#",
+      "score": 44
+    },
+    {
+      "title": "Postmortem for Kernel Soundness Bug #14576",
+      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+      "score": 143
+    },
+    {
+      "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+      "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+      "score": 55
+    },
+    {
+      "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "score": 113
+    },
+    {
+      "title": "When random.bytes() runs but doesn't work",
+      "url": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
+      "score": 32
+    },
+    {
+      "title": "A big win for Android interoperability",
+      "url": "https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/",
+      "score": 30
+    },
+    {
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "score": 292
     },
     {
       "title": "But can your calculator run Linux?",
       "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
-      "score": 68
+      "score": 92
     },
     {
-      "title": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
-      "url": "https://zenodo.org/records/21753002",
-      "score": 5
+      "title": "Four Time Scales for Technology Development and Deployment",
+      "url": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
+      "score": 26
+    },
+    {
+      "title": "Atom is better than RSS, in ways that matter",
+      "url": "https://chrismorgan.info/atom%3Erss",
+      "score": 63
     },
     {
       "title": "Morph (YC S23) Is Hiring Member of Technical Staff",
@@ -72,84 +112,44 @@
       "score": 1
     },
     {
-      "title": "The Art of 64-bit Assembly",
-      "url": "https://nostarch.com/art-64-bit-assembly-v2",
-      "score": 196
+      "title": "How Google helped destroy adoption of RSS feeds (2023)",
+      "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+      "score": 512
+    },
+    {
+      "title": "The Cipher Behind QSYRUPWD: Reconstructing IBM i Password Hashes",
+      "url": "https://blog.silentsignal.eu/2026/07/28/the-cipher-behind-qsyrupwd-reconstructing-ibm-i-password-hashes/",
+      "score": 9
     },
     {
       "title": "We accidentally built an LLVM compiler for Jax",
       "url": "https://iza.ac/posts/2026/07/accidental-llvm-compiler-for-jax/",
-      "score": 14
-    },
-    {
-      "title": "How Google helped destroy adoption of RSS feeds (2023)",
-      "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
-      "score": 414
-    },
-    {
-      "title": "Kobuk the Destroyer – Tales from the Wild, Unseen World of Test Engineering",
-      "url": "https://wwnorton.com/books/9781324051299",
-      "score": 8
-    },
-    {
-      "title": "China begins producing advanced chipmaking deep-ultraviolet lithography machines",
-      "url": "https://www.reuters.com/world/china/china-starts-production-home-grown-immersion-duv-chipmaking-tools-source-2026-07-28/",
-      "score": 17
-    },
-    {
-      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
-      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-      "score": 256
-    },
-    {
-      "title": "NetBSD 11.0",
-      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-      "score": 223
+      "score": 40
     },
     {
       "title": "Nyctography: A substituton cypher by Lewis Carroll",
       "url": "https://en.wikipedia.org/wiki/Nyctography",
-      "score": 52
-    },
-    {
-      "title": "Anime User Interfaces",
-      "url": "https://animeuserinterface.tumblr.com",
-      "score": 111
-    },
-    {
-      "title": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
-      "url": "https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/",
-      "score": 4
-    },
-    {
-      "title": "Why Is Europe Burning?",
-      "url": "https://www.newyorker.com/news/the-lede/why-is-europe-burning",
-      "score": 7
-    },
-    {
-      "title": "Glyphs 4 – the leading Mac font editor",
-      "url": "https://glyphsapp.com",
-      "score": 62
-    },
-    {
-      "title": "Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga",
-      "url": "https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe",
-      "score": 104
+      "score": 74
     },
     {
       "title": "Explorative modeling: Train on the best of K guesses",
       "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-      "score": 80
+      "score": 99
     },
     {
-      "title": "Linux on ESP32",
-      "url": "https://github.com/GrieferPig/esp32-s31-linux",
-      "score": 101
+      "title": "NetBSD 11.0",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+      "score": 273
     },
     {
-      "title": "AI opens new era in cognitive studies of wild primates",
-      "url": "https://news.emory.edu/features/2026/07/ai-opens-new-era-cognitive-studies-wild-primates",
-      "score": 7
+      "title": "Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga",
+      "url": "https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe",
+      "score": 139
+    },
+    {
+      "title": "Nerd culture is murdering intellectuals",
+      "url": "https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals",
+      "score": 4
     }
   ]
 }
