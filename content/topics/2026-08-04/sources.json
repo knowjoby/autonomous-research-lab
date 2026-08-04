@@ -2,149 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Why some people mow a lawn better than others",
+      "url": "https://pudding.cool/2026/06/mow/",
+      "score": 67
+    },
+    {
+      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+      "url": "https://toneyalexander.github.io/inclusive-color-space/",
+      "score": 301
+    },
+    {
+      "title": "Waymo – Dallas Open to All",
+      "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+      "score": 28
+    },
+    {
+      "title": "Investors in Situational Awareness deserved to lose their shirts",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts",
+      "score": 12
+    },
+    {
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "url": "https://mistral.ai/news/shieldstral/",
+      "score": 56
+    },
+    {
+      "title": "Hop.earth – OpenStreetMap based car racing game",
+      "url": "https://hop.earth/?server=lkhr7&route=fQ5nuu9R",
+      "score": 33
+    },
+    {
+      "title": "The Warp Agent CLI",
+      "url": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
+      "score": 53
+    },
+    {
+      "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+      "url": "https://edotenv.com/",
+      "score": 11
+    },
+    {
       "title": "DeepSeek V4 Flash on a Single AMD MI300X",
       "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "score": 165
+      "score": 320
     },
     {
-      "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
-      "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
-      "score": 166
+      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+      "url": "https://arxiv.org/abs/2602.16763",
+      "score": 41
     },
     {
-      "title": "Xbox goes down. You can't play games you own on disc",
-      "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
-      "score": 183
+      "title": "Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead",
+      "url": "https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead",
+      "score": 1
     },
     {
-      "title": "LLMs reward expertise",
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "score": 1127
+      "title": "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
+      "url": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html",
+      "score": 194
     },
     {
-      "title": "Buckminster Fuller: everything I know",
-      "url": "https://www.bfi.org/about-fuller/everything-i-know/",
-      "score": 43
+      "title": "Vlt 1.0 and Hosted Package Registries",
+      "url": "https://www.vlt.io/blog/1-0",
+      "score": 35
     },
     {
-      "title": "Harness Engineering for Self-Improvement",
-      "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
-      "score": 146
+      "title": "Web security is too hard",
+      "url": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
+      "score": 95
     },
     {
-      "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
-      "url": "https://github.com/MakazhanAlpamys/Soup",
-      "score": 38
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "score": 218
     },
     {
       "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
       "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
-      "score": 49
+      "score": 193
     },
     {
-      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-      "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
-      "score": 418
+      "title": "Stephen Wolfram's Wife Has Died",
+      "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+      "score": 43
     },
     {
-      "title": "Roame (YC S23) Is Hiring Lead Engineer",
-      "url": "https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer",
-      "score": 1
+      "title": "Xbox goes down. You can't play games you own on disc",
+      "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+      "score": 461
     },
     {
-      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
-      "url": "https://github.com/leonickson1/Swiftlet",
-      "score": 246
+      "title": "The Red Strings Club",
+      "url": "https://www.vegard.net/the-red-strings-club-review/",
+      "score": 5
     },
     {
-      "title": "Why etymologies matter: How tracing words can illuminate history (2024)",
-      "url": "https://resobscura.substack.com/p/why-i-love-etymologies",
-      "score": 28
+      "title": "Blackmail Fail (2013)",
+      "url": "https://gwern.net/blackmail",
+      "score": 9
     },
     {
-      "title": "Why Large Language Models Fail at Tabular Prediction",
-      "url": "https://arxiv.org/abs/2608.02412",
-      "score": 30
+      "title": "Perspec 1.0",
+      "url": "https://adriansieber.com/announcing-perspec-1-0/",
+      "score": 27
     },
     {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "score": 577
+      "title": "Dates That Don't Exist (2015)",
+      "url": "https://blog.yossarian.net/2015/06/09/Dates-That-Dont-Exist",
+      "score": 88
     },
     {
-      "title": "Devtools must be open source",
-      "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "score": 662
+      "title": "Everything I Know (1975)",
+      "url": "https://www.bfi.org/about-fuller/everything-i-know/",
+      "score": 107
     },
     {
-      "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
-      "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
-      "score": 202
+      "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
+      "url": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
+      "score": 164
+    },
+    {
+      "title": "Harness engineering for self-improvement",
+      "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+      "score": 260
     },
     {
       "title": "There Will Come Soft Rains (1950) [pdf]",
       "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-      "score": 238
+      "score": 298
     },
     {
-      "title": "Nobel Disease",
-      "url": "https://en.wikipedia.org/wiki/Nobel_disease",
-      "score": 50
+      "title": "What's Behind the Sharp Drop in Labor Force Participation?",
+      "url": "https://www.stlouisfed.org/on-the-economy/2026/aug/what-is-behind-sharp-drop-labor-force-participation",
+      "score": 13
     },
     {
-      "title": "FFmpeg 9.0",
-      "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
-      "score": 316
+      "title": "Where .env Went Wrong",
+      "url": "https://secretspec.dev/blog/where-env-went-wrong/",
+      "score": 78
     },
     {
-      "title": "Homebench – Benchmark local LLMs for speed, memory, and quality",
-      "url": "https://github.com/david-g-3654/homebench",
-      "score": 17
+      "title": "Most countries provide between 20 and 40 paid days off",
+      "url": "https://www.not-ship.com/not-ship-summer-vacation/",
+      "score": 52
     },
     {
-      "title": "Mosh in a Lift (2012)",
-      "url": "https://mosh.org/elevator.txt",
-      "score": 14
-    },
-    {
-      "title": "Twenty Years of Pandoc",
-      "url": "https://pandoc.org/twenty-years-of-pandoc.html",
-      "score": 333
-    },
-    {
-      "title": "That time when I failed the Microsoft interview",
-      "url": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
-      "score": 98
-    },
-    {
-      "title": "Learning-Rust.Github.io: Rust Programming Language Tutorials for Everyone",
-      "url": "https://learning-rust.github.io",
-      "score": 17
-    },
-    {
-      "title": "Archaeologists Find Ancient Glyphs in the Amazon",
-      "url": "https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html",
-      "score": 19
-    },
-    {
-      "title": "Safe Lock-free Primitives with iceoryx2's ByteAtomic",
-      "url": "https://ekxide.io/blog/byte-wise-atomic-wrapper-to-prevent-ub/",
-      "score": 8
-    },
-    {
-      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
-      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
-      "score": 240
-    },
-    {
-      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
-      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
-      "score": 316
-    },
-    {
-      "title": "Beauty in my backyard",
-      "url": "https://worksinprogress.co/issue/beauty-in-my-backyard/",
-      "score": 37
+      "title": "The Pedagogy Behind the Studio",
+      "url": "https://gail.wharton.upenn.edu/gen-ai-studio/the-generative-ai-studio-pedagogy/",
+      "score": 6
     }
   ]
 }
