@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "LLMs won't break symmetric crypto",
-      "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-      "score": 14
+      "title": "Crime Pays but Botany Doesn't",
+      "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+      "score": 137
+    },
+    {
+      "title": "What I love about Django",
+      "url": "https://buttondown.com/blog/what-i-love-about-django",
+      "score": 25
+    },
+    {
+      "title": "How to Make a Nintendo 64 Game in 2026",
+      "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
+      "score": 28
+    },
+    {
+      "title": "Let's all meet up in the Y2K",
+      "url": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
+      "score": 19
     },
     {
       "title": "Discovery Loop",
       "url": "https://www.discoveryloop.com/",
-      "score": 616
-    },
-    {
-      "title": "Zed DeltaDB",
-      "url": "https://zed.dev/deltadb",
-      "score": 321
-    },
-    {
-      "title": "The title cards in Blade Runner are amazing",
-      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-      "score": 156
+      "score": 739
     },
     {
       "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
       "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "score": 493
+      "score": 644
     },
     {
-      "title": "Muse Code and Muse Spark 1.2",
-      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-      "score": 184
+      "title": "Zed DeltaDB",
+      "url": "https://zed.dev/deltadb",
+      "score": 410
     },
     {
-      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-      "score": 229
-    },
-    {
-      "title": "Prime Agent: A self-improving RLM agent",
-      "url": "https://www.primeintellect.ai/blog/prime-agent",
-      "score": 109
-    },
-    {
-      "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
-      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-      "score": 176
-    },
-    {
-      "title": "Born Against, or why hobby programming communities are against LLM usage",
-      "url": "https://blog.fogus.me/llm/born-against.html",
-      "score": 142
+      "title": "The title cards in Blade Runner are amazing",
+      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+      "score": 251
     },
     {
       "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
       "url": "https://www.greyblake.com/blog/branchless-rust/",
-      "score": 25
+      "score": 161
     },
     {
-      "title": "I'll be stepping back from leading product for X",
-      "url": "https://twitter.com/nikitabier/status/2085105586966827343/",
-      "score": 70
+      "title": "Nashville uses eminent domain to block data center near zoo",
+      "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+      "score": 226
     },
     {
-      "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
-      "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
-      "score": 90
+      "title": "Muse Code and Muse Spark 1.2",
+      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+      "score": 251
+    },
+    {
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+      "score": 308
+    },
+    {
+      "title": "Born Against, or why hobby programming communities are against LLM usage",
+      "url": "https://blog.fogus.me/llm/born-against.html",
+      "score": 252
+    },
+    {
+      "title": "Morioka Shoten",
+      "url": "https://www.takram.com/projects/a-single-room-with-a-single-book-morioka-shoten",
+      "score": 8
     },
     {
       "title": "Cloudflare OS: an open platform for agents, apps, and work",
       "url": "https://blog.cloudflare.com/cloudflare-os/",
-      "score": 478
+      "score": 549
     },
     {
-      "title": "Something is changing in the unit economics of software",
-      "url": "https://nicolo.xyz/something-is-changing-in-the-unit-economics-of-software/",
-      "score": 32
+      "title": "Prime Agent: A self-improving RLM agent",
+      "url": "https://www.primeintellect.ai/blog/prime-agent",
+      "score": 176
     },
     {
-      "title": "GNU Hurd News 2026-Q2",
-      "url": "https://www.gnu.org/software/hurd/news/2026-q2.html",
-      "score": 130
+      "title": "Quantego: A Family of Lego Models of IBM Quantum Computers",
+      "url": "https://quantego.org/",
+      "score": 21
     },
     {
-      "title": "I'm switching my phone from Android to Linux",
-      "url": "https://runarcn.no/android-to-linux/",
-      "score": 217
+      "title": "Decimen Optical Transfer: fountain-coded QR file transfer",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "score": 18
     },
     {
-      "title": "Celld: Self-hosted, distributed Durable Objects",
-      "url": "https://github.com/denoland/celld",
-      "score": 151
-    },
-    {
-      "title": "Exact, parallel 2D Delaunay triangulation for int32 coordinates",
-      "url": "https://github.com/morishuz/delaunay32",
-      "score": 33
-    },
-    {
-      "title": "The Origins of Vintage Comics Part 1",
-      "url": "https://www.truegrittexturesupply.com/blogs/news/origins-of-the-vintage-comics-aesthetic-part-1",
-      "score": 12
-    },
-    {
-      "title": "Position: LLMs Can't Jump",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
-      "score": 247
-    },
-    {
-      "title": "Goodhart's Law Comes for Every Benchmark You Trust",
-      "url": "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/",
-      "score": 64
-    },
-    {
-      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-      "url": "https://arxiv.org/abs/2510.01395",
-      "score": 78
-    },
-    {
-      "title": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aeg8299",
-      "score": 111
+      "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+      "score": 218
     },
     {
       "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
       "url": "https://www.hyperprobe.co",
-      "score": 45
+      "score": 56
     },
     {
-      "title": "Pushing the limits of RISC-V emulation",
-      "url": "https://shuklaayu.sh/blog/riscv-recompiler",
-      "score": 24
+      "title": "GNU Hurd News 2026-Q2",
+      "url": "https://www.gnu.org/software/hurd/news/2026-q2.html",
+      "score": 171
     },
     {
-      "title": "The Entropy of a Markov Chain",
-      "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
-      "score": 107
+      "title": "Celld: Self-hosted, distributed Durable Objects",
+      "url": "https://github.com/denoland/celld",
+      "score": 205
     },
     {
-      "title": "Online Friends Are Real Friends",
-      "url": "https://toska.bearblog.dev/re-online-friends-are-real-friends/",
-      "score": 69
+      "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
+      "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+      "score": 124
     },
     {
-      "title": "The Valley of Webhooks",
-      "url": "https://weli.dev/blog/the-valley-of-webhooks/",
-      "score": 156
+      "title": "I'm switching my phone from Android to Linux",
+      "url": "https://runarcn.no/android-to-linux/",
+      "score": 315
     },
     {
-      "title": "What happens if you put work into the second dimension?",
-      "url": "https://norbertkozsir.com/posts/work-in-the-second-dimension/",
-      "score": 51
+      "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
+      "url": "https://github.com/pradipta/wallfacer",
+      "score": 19
+    },
+    {
+      "title": "Position: LLMs Can't Jump",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+      "score": 270
+    },
+    {
+      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+      "url": "https://arxiv.org/abs/2510.01395",
+      "score": 115
+    },
+    {
+      "title": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aeg8299",
+      "score": 131
+    },
+    {
+      "title": "Exact, parallel 2D Delaunay triangulation for int32 coordinates",
+      "url": "https://github.com/morishuz/delaunay32",
+      "score": 55
+    },
+    {
+      "title": "Goodhart's Law Comes for Every Benchmark You Trust",
+      "url": "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/",
+      "score": 82
     }
   ]
 }
