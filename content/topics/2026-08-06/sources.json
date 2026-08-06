@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "score": 289
+    },
+    {
+      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+      "score": 112
+    },
+    {
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "score": 51
+    },
+    {
       "title": "Mario Meets Pareto",
       "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-      "score": 187
+      "score": 842
+    },
+    {
+      "title": "Herdr is joining Y Combinator. The runtime stays open",
+      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+      "score": 121
+    },
+    {
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "url": "https://www.aleksagordic.com/blog/vllm",
+      "score": 34
+    },
+    {
+      "title": "Taste Is All That's Left",
+      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+      "score": 156
+    },
+    {
+      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+      "url": "https://provenmetal.com",
+      "score": 178
+    },
+    {
+      "title": "I stopped trusting USB-C cable labels and started testing them",
+      "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
+      "score": 38
+    },
+    {
+      "title": "Almost no skill required to cook a steak",
+      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+      "score": 259
+    },
+    {
+      "title": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
+      "url": "https://github.com/mattdeeds/pokeemerald-rp2350",
+      "score": 32
+    },
+    {
+      "title": "GitHub Actions and Pages are experiencing degraded availability",
+      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+      "score": 300
+    },
+    {
+      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "score": 129
+    },
+    {
+      "title": "STV: A full-motion video codec for the Atari ST",
+      "url": "https://medium.com/@jonas.eschenburg/stv-a-video-codec-for-the-atari-st-6e46355c50e4",
+      "score": 11
+    },
+    {
+      "title": "My phone detects going on a run as “someone snatching my phone and running off”",
+      "url": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
+      "score": 72
+    },
+    {
+      "title": "Quake – 30th Anniversary Update",
+      "url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
+      "score": 189
+    },
+    {
+      "title": "Can you reverse engineer an ASIC?",
+      "url": "https://blog.janestreet.com/can-you-reverse-engineer-an-asic/",
+      "score": 49
     },
     {
       "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
       "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-      "score": 43
+      "score": 238
     },
     {
-      "title": "How to Make a Nintendo 64 Game in 2026",
-      "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
-      "score": 262
+      "title": "Learn how chips are made with this Rollercoaster Tycoon-inspired animation",
+      "url": "https://laurentiugabriel.github.io/ChipTycoon/",
+      "score": 99
+    },
+    {
+      "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
+      "url": "https://github.com/CopilotKit/channels-sdk",
+      "score": 80
     },
     {
       "title": "Crime Pays but Botany Doesn't",
       "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
-      "score": 374
+      "score": 642
+    },
+    {
+      "title": "How to Make a Nintendo 64 Game in 2026",
+      "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
+      "score": 453
+    },
+    {
+      "title": "The simple elegance of the integrated timing belt loopback fastener",
+      "url": "https://danielmangum.com/posts/integrated-timing-belt-loopback-fastener/",
+      "score": 91
+    },
+    {
+      "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
+      "url": "https://zenodo.org/records/21359923",
+      "score": 3
+    },
+    {
+      "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+      "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+      "score": 398
+    },
+    {
+      "title": "Building Progressively Enhanced Forms Using htmx",
+      "url": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
+      "score": 50
+    },
+    {
+      "title": "Bioengineered chewing gum may offer a way to fight microbes linked to cancers",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+      "score": 35
     },
     {
       "title": "Pareto Front",
       "url": "https://en.wikipedia.org/wiki/Pareto_front",
-      "score": 92
+      "score": 213
     },
     {
-      "title": "Discovery Loop",
-      "url": "https://www.discoveryloop.com/",
-      "score": 810
+      "title": "Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization",
+      "url": "https://arxiv.org/abs/2607.25373",
+      "score": 8
     },
     {
-      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "score": 730
-    },
-    {
-      "title": "Show HN: demake – one source project compiles to any retro game console ROM",
-      "url": "https://geosona.com/demake/",
-      "score": 14
-    },
-    {
-      "title": "Join Me in Jamverse",
-      "url": "https://contraptions.venkateshrao.com/p/join-me-in-jamverse",
-      "score": 11
-    },
-    {
-      "title": "The title cards in Blade Runner are amazing",
-      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-      "score": 330
-    },
-    {
-      "title": "Zed DeltaDB",
-      "url": "https://zed.dev/deltadb",
-      "score": 471
-    },
-    {
-      "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
-      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426",
-      "score": 140
-    },
-    {
-      "title": "Telephones Caught in Between",
-      "url": "https://computer.rip/2026-08-02-telephone-leasing.html",
-      "score": 3
-    },
-    {
-      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-      "score": 359
-    },
-    {
-      "title": "Muse Code and Muse Spark 1.2",
-      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-      "score": 282
-    },
-    {
-      "title": "Born Against, or why hobby programming communities are against LLM usage",
-      "url": "https://blog.fogus.me/llm/born-against.html",
-      "score": 319
-    },
-    {
-      "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
-      "url": "https://www.greyblake.com/blog/branchless-rust/",
-      "score": 230
-    },
-    {
-      "title": "Rice Deserves Better Than a Kochbeutel",
-      "url": "https://blog.hofstede.it/rice-deserves-better-than-a-kochbeutel/",
-      "score": 13
-    },
-    {
-      "title": "Unearthing my 1996 windowed OS in machine code for Am29000 homebrew computer",
-      "url": "https://nanochess.org/the_am29000_computer.html",
-      "score": 63
-    },
-    {
-      "title": "Cloudflare OS: an open platform for agents, apps, and work",
-      "url": "https://blog.cloudflare.com/cloudflare-os/",
-      "score": 600
-    },
-    {
-      "title": "Quantego: A Family of Lego Models of IBM Quantum Computers",
-      "url": "https://quantego.org/",
-      "score": 47
-    },
-    {
-      "title": "Prime Agent: A self-improving RLM agent",
-      "url": "https://www.primeintellect.ai/blog/prime-agent",
-      "score": 202
-    },
-    {
-      "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
-      "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
-      "score": 164
-    },
-    {
-      "title": "Morioka Shoten",
-      "url": "https://www.takram.com/projects/a-single-room-with-a-single-book-morioka-shoten",
-      "score": 32
-    },
-    {
-      "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
-      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-      "score": 260
-    },
-    {
-      "title": "GNU Hurd News 2026-Q2",
-      "url": "https://www.gnu.org/software/hurd/news/2026-q2.html",
-      "score": 197
-    },
-    {
-      "title": "Celld: Self-hosted, distributed Durable Objects",
-      "url": "https://github.com/denoland/celld",
-      "score": 242
-    },
-    {
-      "title": "Decimen Optical Transfer: fountain-coded QR file transfer",
-      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
-      "score": 40
-    },
-    {
-      "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
-      "url": "https://www.hyperprobe.co",
-      "score": 62
-    },
-    {
-      "title": "I'm switching my phone from Android to Linux",
-      "url": "https://runarcn.no/android-to-linux/",
-      "score": 391
+      "title": "Federal Communications Commission scraps limit on broadcast TV ownership",
+      "url": "https://www.nbcnews.com/business/media/federal-communications-commission-scraps-limit-broadcast-tv-ownership-rcna587641",
+      "score": 121
     }
   ]
 }
