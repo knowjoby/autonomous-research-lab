@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "A Tome of Forbidden Technologies",
-      "url": "https://ecosophia.net/a-tome-of-forbidden-technologies/",
-      "score": 8
+      "title": "Fastmail offers EU data region",
+      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "score": 110
+    },
+    {
+      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+      "score": 25
+    },
+    {
+      "title": "LinkedIn Feed Blocker",
+      "url": "https://github.com/andrewpollack/linkedin-feed-blocker",
+      "score": 49
+    },
+    {
+      "title": "A domain can now say it is for sale, in DNS",
+      "url": "https://specification.website/spec/foundations/for-sale-dns/",
+      "score": 223
+    },
+    {
+      "title": "\"Code was never the hard part\" is an insult to all programmers",
+      "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+      "score": 90
     },
     {
       "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
       "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "score": 36
+      "score": 294
     },
     {
-      "title": "The USSR in 100 Photographs",
-      "url": "https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html",
-      "score": 42
+      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "score": 208
+    },
+    {
+      "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
+      "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
+      "score": 65
+    },
+    {
+      "title": "Triton: DirectX 11 Driver for QEMU",
+      "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+      "score": 66
+    },
+    {
+      "title": "Voyager 1 FDS Computer Emulator",
+      "url": "https://zaneham.github.io/voyager-fds-emulator/",
+      "score": 51
+    },
+    {
+      "title": "Can Intel finally beat ARM on performance per Watt?",
+      "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
+      "score": 16
+    },
+    {
+      "title": "US Military's cyber command unit grapples with cluster of deaths by suicide",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
+      "score": 129
+    },
+    {
+      "title": "From your doorbell to your home network",
+      "url": "https://adepts.of0x.cc/eufy-doorbell-hacking/",
+      "score": 44
+    },
+    {
+      "title": "Monitors for Work",
+      "url": "https://etbe.coker.com.au/2026/08/05/monitors-for-work/",
+      "score": 18
+    },
+    {
+      "title": "A physicist rigged his pet hamster’s wheel to upload to Strava",
+      "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
+      "score": 367
+    },
+    {
+      "title": "BYOC Is Not Just 'Deploy into Their Cloud'",
+      "url": "https://omnistrate.com/blog/byoc-anywhere-the-spectrum-of-bring-your-own-cloud-deployments",
+      "score": 46
     },
     {
       "title": "Hardware backdoors in some x86 CPUs",
       "url": "https://github.com/xoreaxeaxeax/rosenbridge",
-      "score": 170
-    },
-    {
-      "title": "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
-      "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
-      "score": 269
+      "score": 282
     },
     {
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "score": 670
+      "score": 728
+    },
+    {
+      "title": "Gentoo bugzilla closed due AI bot scraper overload",
+      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+      "score": 110
     },
     {
       "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
       "url": "https://genesisopenmodels.anl.gov/",
-      "score": 264
+      "score": 323
     },
     {
       "title": "What happens if an entire class of workers loses faith in their careers",
       "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-      "score": 747
+      "score": 895
     },
     {
-      "title": "Europe's free satellite service just made it easier to track wildfires",
-      "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
-      "score": 53
+      "title": "No one can afford to make Myst games anymore",
+      "url": "https://www.wired.com/story/no-one-can-afford-to-make-myst-games-anymore/",
+      "score": 65
     },
     {
-      "title": "Assembly Hall of Shame",
-      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "score": 362
+      "title": "Amazon Is Creating the Biggest Pollution Source in the Country",
+      "url": "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country",
+      "score": 20
     },
     {
-      "title": "ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014)",
-      "url": "https://github.com/alfikpl/ao486",
-      "score": 32
+      "title": "Wireblast a 100 Gbps packet generator in Go using AF_XDP",
+      "url": "https://toonk.io/index.html",
+      "score": 7
     },
     {
       "title": "k-Coloring is Faster than Computing the Chromatic Number",
       "url": "https://arxiv.org/abs/2607.25973",
-      "score": 11
+      "score": 50
     },
     {
-      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-      "score": 45
+      "title": "Assembly Hall of Shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "score": 397
+    },
+    {
+      "title": "ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014)",
+      "url": "https://github.com/alfikpl/ao486",
+      "score": 62
+    },
+    {
+      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+      "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+      "score": 110
     },
     {
       "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
       "url": "https://ancientlibrary.net/",
-      "score": 215
+      "score": 243
     },
     {
-      "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
-      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
-      "score": 273
-    },
-    {
-      "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
-      "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
-      "score": 104
-    },
-    {
-      "title": "2027 memory capacity is reportedly sold out",
-      "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
-      "score": 400
-    },
-    {
-      "title": "SupererDuperer",
-      "url": "https://www.shirtpocket.com/blog/supererduperer",
-      "score": 125
-    },
-    {
-      "title": "Managing AI Coding Costs at Scale",
-      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "score": 258
-    },
-    {
-      "title": "Tell Abu Hureyra (prehistoric archaeological site)",
-      "url": "https://en.wikipedia.org/wiki/Tell_Abu_Hureyra",
-      "score": 12
-    },
-    {
-      "title": "The Nixpkgs core team has disbanded",
-      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-      "score": 322
-    },
-    {
-      "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
-      "url": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
-      "score": 16
-    },
-    {
-      "title": "From One Seed to a Thousand Leaves – Merkle's Authentication Tree",
-      "url": "https://0xkrt26.github.io/math_behind_security/2026/08/03/merkle-tree.html",
-      "score": 24
-    },
-    {
-      "title": "An all-sky map of half a million supermassive black holes",
-      "url": "https://www.sdss.org/black-hole-mapper-release-20/",
-      "score": 174
-    },
-    {
-      "title": "Carl's Required Reading",
-      "url": "https://carlkolon.com/reading/",
-      "score": 194
-    },
-    {
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-      "score": 188
-    },
-    {
-      "title": "Show HN: Sign language translation with smart glasses",
-      "url": "https://github.com/aadisang/hand-wave",
-      "score": 9
-    },
-    {
-      "title": "Workers Drilling in Romania Broke into a Cave Sealed for 5.5M Years",
-      "url": "https://travelandtannins.com/workers-drilling-in-romania-broke-into-a-cave-sealed-for-5-5-million-years-and-found-an-entire-living-world-that-has-never-seen-the-sun/",
-      "score": 107
-    },
-    {
-      "title": "Radical Study Suggests Life on Earth Arose Twice",
-      "url": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
-      "score": 162
-    },
-    {
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "score": 488
+      "title": "Europe's free satellite service just made it easier to track wildfires",
+      "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+      "score": 134
     }
   ]
 }
