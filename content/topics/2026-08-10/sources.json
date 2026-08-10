@@ -2,149 +2,149 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "score": 87
+    },
+    {
+      "title": "What Happened to HackerOne?",
+      "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+      "score": 175
+    },
+    {
+      "title": "Auto mode is now the default in Claude Code",
+      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "score": 164
+    },
+    {
+      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+      "url": "https://github.com/shinyquagsire23/Klepton",
+      "score": 49
+    },
+    {
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "url": "https://www.whodunnitai.com/",
+      "score": 59
+    },
+    {
       "title": "How I use LLMs to learn complex topics",
       "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "score": 412
+      "score": 595
+    },
+    {
+      "title": "The Philippines' big offshoring industry is growing despite AI",
+      "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
+      "score": 22
+    },
+    {
+      "title": "Turn satellite imagery into a paper globe you fold yourself",
+      "url": "https://foldingglobes.com/",
+      "score": 40
     },
     {
       "title": "How We Pushed CDC into Postgres",
       "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-      "score": 10
+      "score": 80
     },
     {
-      "title": "Mea Culpa – Dark Hours",
-      "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
-      "score": 558
+      "title": "An Interesting Fourier Transform – 1/F Noise",
+      "url": "https://www.dsprelated.com/showarticle/40.php",
+      "score": 13
     },
     {
-      "title": "\"The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes\" (1892)",
-      "url": "https://publicdomainreview.org/collection/marnameh/",
-      "score": 23
+      "title": "Slap ROM Patcher",
+      "url": "https://nyuu.page/projects/slap/",
+      "score": 11
     },
     {
-      "title": "New Zealand lost its music media, and what we're building to replace it",
-      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
-      "score": 73
+      "title": "Nearest Pint",
+      "url": "https://knowwhereconsulting.co.uk/maps/pubs/",
+      "score": 22
     },
     {
       "title": "Taxi drivers rarely die of Alzheimer's",
       "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-      "score": 182
+      "score": 271
     },
     {
-      "title": "Tuxedo No. 2 – Cocktail recipes",
-      "url": "https://tuxedono2.com",
-      "score": 45
-    },
-    {
-      "title": "Cool URIs Don't Change (1998)",
-      "url": "https://www.w3.org/Provider/Style/URI",
-      "score": 184
+      "title": "ATProto for Distributed Systems Engineers",
+      "url": "https://atproto.com/articles/atproto-for-distsys-engineers",
+      "score": 59
     },
     {
       "title": "The tragedy of the commons, AI edition",
       "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-      "score": 74
-    },
-    {
-      "title": "Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]",
-      "url": "https://www.youtube.com/watch?v=GS7CxAtV5Ks",
-      "score": 32
+      "score": 111
     },
     {
       "title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
       "url": "https://gitlab.com/Kazade/picophysics",
-      "score": 9
+      "score": 48
     },
     {
-      "title": "The German Mittelstand",
-      "url": "https://kieranvelasquez.substack.com/p/on-the-german-mittelstand",
-      "score": 12
+      "title": "Show HN: I made alchemical-cosmological PCB badges",
+      "url": "https://github.com/KaiPereira/Alchemical-Cosmological-Badges",
+      "score": 3
+    },
+    {
+      "title": "Cool URIs Don't Change (1998)",
+      "url": "https://www.w3.org/Provider/Style/URI",
+      "score": 226
+    },
+    {
+      "title": "New Zealand lost its music media, and what we're building to replace it",
+      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
+      "score": 109
+    },
+    {
+      "title": "Tuxedo No. 2 – Cocktail recipes",
+      "url": "https://tuxedono2.com",
+      "score": 83
+    },
+    {
+      "title": "\"The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes\" (1892)",
+      "url": "https://publicdomainreview.org/collection/marnameh/",
+      "score": 51
     },
     {
       "title": "Everything you do is being recorded",
       "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
-      "score": 205
-    },
-    {
-      "title": "OpenChamber: An Agentic Development Environment",
-      "url": "https://openchamber.dev/",
-      "score": 105
-    },
-    {
-      "title": "Touring the Consensus, Six Months In",
-      "url": "https://theconsensus.dev/blog/2026/08/05/touring-the-consensus-six-months-in.html",
-      "score": 11
-    },
-    {
-      "title": "Japanese court overturns Red RAW video patent",
-      "url": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/",
-      "score": 13
-    },
-    {
-      "title": "The Hacker's Renaissance",
-      "url": "https://phrack.org/issues/72/19#article",
-      "score": 95
-    },
-    {
-      "title": "How Golden Is Silence, Actually?",
-      "url": "https://www.newyorker.com/magazine/2026/08/10/silence-kate-mcloughlin-book-review",
-      "score": 40
-    },
-    {
-      "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
-      "url": "https://kibotronics.net/unlisted/lilly-machines/",
-      "score": 126
-    },
-    {
-      "title": "Georgia police officers fired after Flock camera misuse",
-      "url": "https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/",
-      "score": 93
+      "score": 278
     },
     {
       "title": "I made tinnitus my friend, then it disappeared [video]",
       "url": "https://mynoise.net/vlog.php?ep=20260803",
-      "score": 78
+      "score": 117
+    },
+    {
+      "title": "Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]",
+      "url": "https://www.youtube.com/watch?v=GS7CxAtV5Ks",
+      "score": 52
+    },
+    {
+      "title": "The German Mittelstand",
+      "url": "https://kieranvelasquez.substack.com/p/on-the-german-mittelstand",
+      "score": 43
+    },
+    {
+      "title": "The Ambition Project",
+      "url": "https://www.betonit.ai/p/the-ambition-project",
+      "score": 35
+    },
+    {
+      "title": "OpenChamber: An Agentic Development Environment",
+      "url": "https://openchamber.dev/",
+      "score": 134
     },
     {
       "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
       "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
-      "score": 361
-    },
-    {
-      "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
-      "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
-      "score": 105
+      "score": 489
     },
     {
       "title": "Reviving a four year old reMarkable 2",
       "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
-      "score": 124
-    },
-    {
-      "title": "When Compilers Disagree About UTF‑8",
-      "url": "https://nemanjatrifunovic.substack.com/p/when-compilers-disagree-about-utf8",
-      "score": 34
-    },
-    {
-      "title": "To Recruit Teachers, School Districts Are Building Homes",
-      "url": "https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html",
-      "score": 36
-    },
-    {
-      "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-      "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
-      "score": 41
-    },
-    {
-      "title": "Show HN: Alphabet Soup, a multiplayer game, build the longest word to win",
-      "url": "https://alphabetsoup.club",
-      "score": 24
-    },
-    {
-      "title": "Crickets as pets",
-      "url": "https://en.wikipedia.org/wiki/Crickets_as_pets",
-      "score": 79
+      "score": 142
     }
   ]
 }
