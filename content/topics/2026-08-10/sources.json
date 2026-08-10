@@ -2,149 +2,149 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Meta Muse Glimmer – open weights 30B local coding model",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "score": 288
+    },
+    {
+      "title": "Because It's Not Fun Enough: why languages fail",
+      "url": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
+      "score": 49
+    },
+    {
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "url": "https://www.docker.com/products/docker-sandboxes/",
-      "score": 87
+      "score": 325
+    },
+    {
+      "title": "Tail-call optimization in C is relatively recent",
+      "url": "https://lwn.net/Articles/1034703/",
+      "score": 29
+    },
+    {
+      "title": "Squeak/Smalltalk 6.1 Release Notes",
+      "url": "https://squeak.org/release_notes/6.1/",
+      "score": 12
+    },
+    {
+      "title": "50k Boat Names",
+      "url": "https://www.beautifulpublicdata.com/boat-names/",
+      "score": 3
+    },
+    {
+      "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
+      "url": "https://ethw.org/Milestones:Parametron,_1954",
+      "score": 21
     },
     {
       "title": "What Happened to HackerOne?",
       "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-      "score": 175
-    },
-    {
-      "title": "Auto mode is now the default in Claude Code",
-      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-      "score": 164
+      "score": 283
     },
     {
       "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
       "url": "https://github.com/shinyquagsire23/Klepton",
-      "score": 49
+      "score": 115
     },
     {
-      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-      "url": "https://www.whodunnitai.com/",
-      "score": 59
-    },
-    {
-      "title": "How I use LLMs to learn complex topics",
-      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "score": 595
-    },
-    {
-      "title": "The Philippines' big offshoring industry is growing despite AI",
-      "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
-      "score": 22
-    },
-    {
-      "title": "Turn satellite imagery into a paper globe you fold yourself",
-      "url": "https://foldingglobes.com/",
-      "score": 40
-    },
-    {
-      "title": "How We Pushed CDC into Postgres",
-      "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-      "score": 80
+      "title": "Tail-Call Interpreters in Rust – Jimmy Ostler",
+      "url": "https://lordgoati.us/blog/tail-call/",
+      "score": 45
     },
     {
       "title": "An Interesting Fourier Transform – 1/F Noise",
       "url": "https://www.dsprelated.com/showarticle/40.php",
-      "score": 13
+      "score": 69
     },
     {
-      "title": "Slap ROM Patcher",
-      "url": "https://nyuu.page/projects/slap/",
-      "score": 11
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "url": "https://www.whodunnitai.com/",
+      "score": 125
     },
     {
-      "title": "Nearest Pint",
-      "url": "https://knowwhereconsulting.co.uk/maps/pubs/",
-      "score": 22
+      "title": "How Blackwing Pencils are Made [video]",
+      "url": "https://www.youtube.com/watch?v=fow-LsdaH2E",
+      "score": 30
+    },
+    {
+      "title": "How I use LLMs to learn complex topics",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "score": 705
     },
     {
       "title": "Taxi drivers rarely die of Alzheimer's",
       "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-      "score": 271
+      "score": 323
     },
     {
-      "title": "ATProto for Distributed Systems Engineers",
-      "url": "https://atproto.com/articles/atproto-for-distsys-engineers",
-      "score": 59
+      "title": "DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in 24 years",
+      "url": "https://twitter.com/thdxr/status/2086599224674681242",
+      "score": 11
     },
     {
-      "title": "The tragedy of the commons, AI edition",
-      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-      "score": 111
+      "title": "Findphone: Locate a nearby Bluetooth device by signal strength",
+      "url": "https://github.com/ben-z/findphone",
+      "score": 5
     },
     {
-      "title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
-      "url": "https://gitlab.com/Kazade/picophysics",
+      "title": "How We Pushed CDC into Postgres",
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+      "score": 108
+    },
+    {
+      "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+      "url": "https://bobdahacker.com/blog/tldv-hack",
+      "score": 10
+    },
+    {
+      "title": "A 'bananas' order for 5000 obscure book titles fuels suspicion",
+      "url": "https://www.irishtimes.com/world/europe/2026/08/10/a-mysterious-buying-spree-is-unsettling-europes-booksellers/",
       "score": 48
-    },
-    {
-      "title": "Show HN: I made alchemical-cosmological PCB badges",
-      "url": "https://github.com/KaiPereira/Alchemical-Cosmological-Badges",
-      "score": 3
     },
     {
       "title": "Cool URIs Don't Change (1998)",
       "url": "https://www.w3.org/Provider/Style/URI",
-      "score": 226
+      "score": 255
     },
     {
-      "title": "New Zealand lost its music media, and what we're building to replace it",
-      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
-      "score": 109
+      "title": "ATProto for Distributed Systems Engineers",
+      "url": "https://atproto.com/articles/atproto-for-distsys-engineers",
+      "score": 102
+    },
+    {
+      "title": "An alias-based formulation of the borrow checker (2018)",
+      "url": "https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/",
+      "score": 17
+    },
+    {
+      "title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
+      "url": "https://gitlab.com/Kazade/picophysics",
+      "score": 68
     },
     {
       "title": "Tuxedo No. 2 – Cocktail recipes",
       "url": "https://tuxedono2.com",
-      "score": 83
+      "score": 109
     },
     {
-      "title": "\"The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes\" (1892)",
-      "url": "https://publicdomainreview.org/collection/marnameh/",
-      "score": 51
+      "title": "Nearest Pint",
+      "url": "https://knowwhereconsulting.co.uk/maps/pubs/",
+      "score": 41
     },
     {
       "title": "Everything you do is being recorded",
       "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
-      "score": 278
+      "score": 345
     },
     {
       "title": "I made tinnitus my friend, then it disappeared [video]",
       "url": "https://mynoise.net/vlog.php?ep=20260803",
-      "score": 117
+      "score": 176
     },
     {
-      "title": "Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]",
-      "url": "https://www.youtube.com/watch?v=GS7CxAtV5Ks",
-      "score": 52
-    },
-    {
-      "title": "The German Mittelstand",
-      "url": "https://kieranvelasquez.substack.com/p/on-the-german-mittelstand",
-      "score": 43
-    },
-    {
-      "title": "The Ambition Project",
-      "url": "https://www.betonit.ai/p/the-ambition-project",
-      "score": 35
-    },
-    {
-      "title": "OpenChamber: An Agentic Development Environment",
-      "url": "https://openchamber.dev/",
-      "score": 134
-    },
-    {
-      "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
-      "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
-      "score": 489
-    },
-    {
-      "title": "Reviving a four year old reMarkable 2",
-      "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
-      "score": 142
+      "title": "Meta's new open-weight model targets local agentic AI",
+      "url": "https://twitter.com/finkd/status/2086754845218726027",
+      "score": 16
     }
   ]
 }
