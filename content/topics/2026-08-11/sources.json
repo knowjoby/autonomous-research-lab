@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "France to ban unsolicited telemarketing calls",
-      "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
-      "score": 477
+      "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "score": 221
     },
     {
-      "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
-      "url": "https://github.com/antirez/h3.c",
-      "score": 326
+      "title": "OpenSSH 10.5/10.5p1",
+      "url": "https://www.openssh.org/releasenotes.html#10.5",
+      "score": 30
+    },
+    {
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://stolen-thoughts.com/",
+      "score": 292
+    },
+    {
+      "title": "England set to be one of the first countries to eliminate hepatitis C",
+      "url": "https://www.bbc.com/news/articles/c75gk620r22o",
+      "score": 415
+    },
+    {
+      "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
+      "url": "https://photosynthesis.camera",
+      "score": 68
+    },
+    {
+      "title": "Jolt: Clojure compiler implemented with Chez Scheme",
+      "url": "https://jolt-lang.github.io",
+      "score": 80
+    },
+    {
+      "title": "Manus will return to operating as an independent company",
+      "url": "https://manus.im/blog/a-note-to-our-users",
+      "score": 88
+    },
+    {
+      "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
+      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "score": 114
     },
     {
       "title": "As AI eats the web, the internet’s collective memory is disappearing",
       "url": "https://thewalrus.ca/google-search-is-dying/",
-      "score": 445
-    },
-    {
-      "title": "Chicken Scheme 6.0",
-      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
-      "score": 226
-    },
-    {
-      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-      "url": "https://cactuscompute.com/needle",
-      "score": 389
-    },
-    {
-      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-      "score": 549
-    },
-    {
-      "title": "OpenAI's Only Ethicist Reportedly Left Last Month",
-      "url": "https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883",
-      "score": 17
-    },
-    {
-      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
-      "url": "https://everycube.alen.is/",
-      "score": 224
-    },
-    {
-      "title": "LFM2.5 2.6B model competitive with 4x larger models",
-      "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
-      "score": 99
-    },
-    {
-      "title": "More than 10 firms pay up to $100k a month for access to Truth Social posts",
-      "url": "https://www.bbc.com/news/articles/ce3q5nxpgk1o",
-      "score": 17
-    },
-    {
-      "title": "The “mechanical miracle” that ruined Mark Twain’s life",
-      "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
-      "score": 159
-    },
-    {
-      "title": "Closing Canario Terminal source code",
-      "url": "https://rapha.land/closing-canario-terminal-source-code/",
-      "score": 19
-    },
-    {
-      "title": "To Save C, We Must Save ABI (2022)",
-      "url": "https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi",
-      "score": 86
-    },
-    {
-      "title": "How Claude marks AI-generated content",
-      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-      "score": 237
-    },
-    {
-      "title": "Stowaway – Take the window seat on any plane or satellite overhead",
-      "url": "https://stowaway.live/",
-      "score": 312
-    },
-    {
-      "title": "Recycle – Floppydisks",
-      "url": "https://www.floppydisk.com/recycle",
-      "score": 78
-    },
-    {
-      "title": "Hollywood and Shanghai Cinema in the 1930s [pdf]",
-      "url": "https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2225&context=clcweb",
-      "score": 5
-    },
-    {
-      "title": "Faster floating point math with Rust's new API",
-      "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
-      "score": 57
-    },
-    {
-      "title": "Sonic Pi v5",
-      "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
-      "score": 392
-    },
-    {
-      "title": "The UK's war on anonymity has come to America",
-      "url": "https://www.effort.news/uk-lobby",
-      "score": 550
-    },
-    {
-      "title": "Rust SIMD on the GPU",
-      "url": "https://www.vectorware.com/blog/simd-on-gpu/",
-      "score": 198
-    },
-    {
-      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "score": 1131
-    },
-    {
-      "title": "Learning more about Claude's mathematical capabilities",
-      "url": "https://www.anthropic.com/research/riemann-zeta",
-      "score": 228
-    },
-    {
-      "title": "Confessions of a Long-Distance Sailor",
-      "url": "https://arachnoid.com/lutusp/sailbook.html",
-      "score": 135
-    },
-    {
-      "title": "Squeak 6.1",
-      "url": "https://squeak.org/release_notes/6.1/",
-      "score": 274
-    },
-    {
-      "title": "Tail-call optimization in C is relatively recent (2025)",
-      "url": "https://lwn.net/Articles/1034703/",
-      "score": 155
-    },
-    {
-      "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
-      "url": "https://github.com/activeing123/mcptoon",
-      "score": 56
-    },
-    {
-      "title": "What's the best programming language for coding agents?",
-      "url": "http://danluu.com/pl-tokens/",
-      "score": 209
-    },
-    {
-      "title": "Publishing Schematics Before “Open Source” Was a Word",
-      "url": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
-      "score": 101
+      "score": 780
     },
     {
       "title": "Nvidia's Risky Business",
       "url": "https://stratechery.com/2026/nvidias-risky-business/",
-      "score": 4
+      "score": 212
+    },
+    {
+      "title": "Archive of Animal Photography Reveals 18,000 Species and Counting",
+      "url": "https://www.smithsonianmag.com/science-nature/this-amazing-archive-of-animal-photography-reveals-18000-species-and-counting-heres-how-joel-sartore-built-his-photo-ark-180989282/",
+      "score": 17
+    },
+    {
+      "title": "Launch HN: Keet (YC S24) – An app to create video courses on anything",
+      "url": "https://www.trykeet.com/",
+      "score": 25
+    },
+    {
+      "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
+      "url": "https://github.com/antirez/h3.c",
+      "score": 401
+    },
+    {
+      "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
+      "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+      "score": 107
+    },
+    {
+      "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
+      "url": "https://github.com/TheRealYT/git-knife",
+      "score": 75
+    },
+    {
+      "title": "Mojo 1.0 Is Here",
+      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+      "score": 42
+    },
+    {
+      "title": "We Used to Get Jobs",
+      "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
+      "score": 17
+    },
+    {
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "url": "https://cactuscompute.com/needle",
+      "score": 488
+    },
+    {
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "score": 616
+    },
+    {
+      "title": "Halcyon Video – a 3D video store for your media server",
+      "url": "https://github.com/halcyon-video/halcyon-video",
+      "score": 58
+    },
+    {
+      "title": "Chicken Scheme 6.0",
+      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+      "score": 281
+    },
+    {
+      "title": "LFM2.5 2.6B model competitive with 4x larger models",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+      "score": 148
+    },
+    {
+      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+      "url": "https://everycube.alen.is/",
+      "score": 275
+    },
+    {
+      "title": "France to ban unsolicited telemarketing calls",
+      "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
+      "score": 944
+    },
+    {
+      "title": "How Claude marks AI-generated content",
+      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "score": 385
+    },
+    {
+      "title": "Stowaway – Take the window seat on any plane or satellite overhead",
+      "url": "https://stowaway.live/",
+      "score": 412
+    },
+    {
+      "title": "Nvidia Nemotron 3.5 Lightning",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+      "score": 102
+    },
+    {
+      "title": "The “mechanical miracle” that ruined Mark Twain’s life",
+      "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+      "score": 213
+    },
+    {
+      "title": "Faster floating point math with Rust's new API",
+      "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
+      "score": 93
+    },
+    {
+      "title": "Sonic Pi v5",
+      "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
+      "score": 420
     }
   ]
 }
