@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "DeepSeek V4 Pro 0813",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "score": 396
+    },
+    {
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "score": 499
+    },
+    {
+      "title": "Zed: Delta",
+      "url": "https://zed.dev/blog/introducing-delta",
+      "score": 54
+    },
+    {
+      "title": "Qwen3.8-2.4T",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "score": 240
+    },
+    {
       "title": "2026 Eclipse Webcams",
       "url": "https://jonty.github.io/2026_eclipse_webcams/",
-      "score": 100
+      "score": 406
+    },
+    {
+      "title": "Tim King, AmigaDOS developer, has died",
+      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+      "score": 140
+    },
+    {
+      "title": "Glaciers on the Climate Dashboard",
+      "url": "https://climate.metoffice.cloud/glaciers.html",
+      "score": 60
+    },
+    {
+      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+      "score": 40
+    },
+    {
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://knownagents.com/insights",
+      "score": 143
+    },
+    {
+      "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
+      "url": "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer",
+      "score": 1
+    },
+    {
+      "title": "Why Tiny JPEGs Look Different in Chrome",
+      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+      "score": 173
+    },
+    {
+      "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
+      "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+      "score": 170
+    },
+    {
+      "title": "Wednesday, August 12: GitHub, Incident with Pull Requests and Issues",
+      "url": "https://www.githubstatus.com/incidents/76t89hbfb09h",
+      "score": 46
+    },
+    {
+      "title": "License plate reader searches should require a warrant",
+      "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
+      "score": 386
+    },
+    {
+      "title": "AI is removing the middle class of software engineering",
+      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "score": 480
+    },
+    {
+      "title": "Bike Bureau: Report Bike Lane Obstructions",
+      "url": "https://loudbicycle.com/bb",
+      "score": 31
+    },
+    {
+      "title": "We just raised $400M in Series C",
+      "url": "https://lovable.dev/blog/series-c",
+      "score": 39
     },
     {
       "title": "What sort of maths are LLMs good at?",
       "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-      "score": 122
+      "score": 205
+    },
+    {
+      "title": "Shade Map",
+      "url": "https://shademap.app",
+      "score": 75
+    },
+    {
+      "title": "The Essential Question: \"What should I read next?\"",
+      "url": "https://thenewcuriosityshop.substack.com/p/the-essential-question",
+      "score": 8
+    },
+    {
+      "title": "Your Key to Success Isn't More Luck or Hard Work",
+      "url": "https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/",
+      "score": 7
     },
     {
       "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
       "url": "https://woxi.ad-si.com",
-      "score": 107
+      "score": 219
     },
     {
-      "title": "LinkedIn CringeBot 3000",
-      "url": "https://www.cringebot3000.com/",
-      "score": 349
+      "title": "The Bit Player: My Father with Steve Zissou",
+      "url": "https://www.theparisreview.org/blog/2026/07/27/the-bit-player-my-father-with-steve-zissou/",
+      "score": 17
+    },
+    {
+      "title": "Felix and I",
+      "url": "https://jacobfilipp.com/felix/",
+      "score": 57
     },
     {
       "title": "Delphi 13 Community Edition Is Now Available",
       "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
-      "score": 35
-    },
-    {
-      "title": "Facebook is paying controversial creators to produce rage-bait content",
-      "url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
-      "score": 258
+      "score": 131
     },
     {
       "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
       "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
+      "score": 134
+    },
+    {
+      "title": "Automatic1111 for Apple metal, 40% speed up sd1.5",
+      "url": "https://therad.ninja/from-8-10-seconds-to-3-7-teaching-automatic1111-to-speak-metal-on-an-m3-pro/",
       "score": 50
     },
     {
-      "title": "Facebook ads are so hard to block that uBlock Origin stopped filtering them",
-      "url": "https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/",
-      "score": 60
+      "title": "Solving the Shortest Vector Problem in $2^{0.6039n}$ Time via Mid-Point Hessian",
+      "url": "https://arxiv.org/abs/2608.02478",
+      "score": 27
     },
     {
-      "title": "The hardest working font in Manhattan (2025)",
-      "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
-      "score": 264
+      "title": "Hax – a minimalist, terminal-native coding agent written in C",
+      "url": "https://usehax.dev/",
+      "score": 48
     },
     {
-      "title": "Compression is prediction",
-      "url": "https://ngrok.com/blog/compression-is-prediction",
-      "score": 587
-    },
-    {
-      "title": "Worms: The Future of Yesterday's Worms Today",
-      "url": "https://worm.net/",
-      "score": 101
-    },
-    {
-      "title": "I built a jellyfish laboratory in my backyard [video]",
-      "url": "https://www.youtube.com/watch?v=MILwxfQBm6Q",
-      "score": 12
-    },
-    {
-      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-      "url": "https://discoveredmaterials.com/research/",
-      "score": 31
-    },
-    {
-      "title": "WorldClaw Agentic 3D open-world generation at scale",
-      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-      "score": 250
-    },
-    {
-      "title": "U of Michigan drops first-semester grades to ‘curb mental health crisis’",
-      "url": "https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4",
-      "score": 80
-    },
-    {
-      "title": "OpenAI’s head of ethics leaves less than a year after joining",
-      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-      "score": 473
-    },
-    {
-      "title": "A shell exclamation mark is not for yelling. Be lazy",
-      "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
-      "score": 112
-    },
-    {
-      "title": "US hires over 2k video gamers as air traffic controllers",
-      "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
-      "score": 151
-    },
-    {
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "url": "https://stolen-thoughts.com/",
-      "score": 648
-    },
-    {
-      "title": "llama.cpp",
-      "url": "https://llama.app",
-      "score": 293
-    },
-    {
-      "title": "Mojo 1.0",
-      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-      "score": 405
-    },
-    {
-      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
-      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-      "score": 242
-    },
-    {
-      "title": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
-      "url": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
-      "score": 161
-    },
-    {
-      "title": "Bluesky's active user base is shrinking as its focus expands beyond the app",
-      "url": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
-      "score": 59
-    },
-    {
-      "title": "Grok Bot",
-      "url": "https://x.ai/bot",
-      "score": 313
-    },
-    {
-      "title": "The Human Is the Loop",
-      "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
-      "score": 140
-    },
-    {
-      "title": "How we used to get jobs: A newspaper classifieds story",
-      "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
-      "score": 155
-    },
-    {
-      "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
-      "url": "https://photosynthesis.camera",
-      "score": 302
-    },
-    {
-      "title": "My favorite nonfiction animal books that make you go holy shit",
-      "url": "https://bookdna.com/best-books/nonfiction-animal-books-that-make-you-go-holy-sht",
-      "score": 7
-    },
-    {
-      "title": "Making holograms with a pen plotter",
-      "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-      "score": 171
+      "title": "Bigos (Polish Hunter's Stew) Recipe Builder",
+      "url": "https://chefsbinge.com/bigos-recipe-builder/",
+      "score": 70
     }
   ]
 }
