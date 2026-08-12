@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "2026 Eclipse Webcams",
+      "url": "https://jonty.github.io/2026_eclipse_webcams/",
+      "score": 100
+    },
+    {
+      "title": "What sort of maths are LLMs good at?",
+      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+      "score": 122
+    },
+    {
+      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+      "url": "https://woxi.ad-si.com",
+      "score": 107
+    },
+    {
+      "title": "LinkedIn CringeBot 3000",
+      "url": "https://www.cringebot3000.com/",
+      "score": 349
+    },
+    {
+      "title": "Delphi 13 Community Edition Is Now Available",
+      "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
+      "score": 35
+    },
+    {
+      "title": "Facebook is paying controversial creators to produce rage-bait content",
+      "url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
+      "score": 258
+    },
+    {
+      "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
+      "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
+      "score": 50
+    },
+    {
+      "title": "Facebook ads are so hard to block that uBlock Origin stopped filtering them",
+      "url": "https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/",
+      "score": 60
+    },
+    {
       "title": "The hardest working font in Manhattan (2025)",
       "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
-      "score": 150
+      "score": 264
     },
     {
       "title": "Compression is prediction",
       "url": "https://ngrok.com/blog/compression-is-prediction",
-      "score": 464
+      "score": 587
     },
     {
-      "title": "llama.cpp",
-      "url": "https://llama.app",
-      "score": 129
+      "title": "Worms: The Future of Yesterday's Worms Today",
+      "url": "https://worm.net/",
+      "score": 101
+    },
+    {
+      "title": "I built a jellyfish laboratory in my backyard [video]",
+      "url": "https://www.youtube.com/watch?v=MILwxfQBm6Q",
+      "score": 12
+    },
+    {
+      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "url": "https://discoveredmaterials.com/research/",
+      "score": 31
     },
     {
       "title": "WorldClaw Agentic 3D open-world generation at scale",
       "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-      "score": 198
+      "score": 250
     },
     {
-      "title": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
-      "url": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
-      "score": 68
-    },
-    {
-      "title": "The Human Is the Loop",
-      "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
-      "score": 73
-    },
-    {
-      "title": "A shell exclamation mark is not for yelling. Be lazy",
-      "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
-      "score": 26
-    },
-    {
-      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
-      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-      "score": 217
-    },
-    {
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "url": "https://stolen-thoughts.com/",
-      "score": 596
-    },
-    {
-      "title": "Mojo 1.0",
-      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-      "score": 368
+      "title": "U of Michigan drops first-semester grades to ‘curb mental health crisis’",
+      "url": "https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4",
+      "score": 80
     },
     {
       "title": "OpenAI’s head of ethics leaves less than a year after joining",
       "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-      "score": 394
+      "score": 473
     },
     {
-      "title": "Dropbox is an obvious PE Target?",
-      "url": "https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/",
-      "score": 38
+      "title": "A shell exclamation mark is not for yelling. Be lazy",
+      "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
+      "score": 112
+    },
+    {
+      "title": "US hires over 2k video gamers as air traffic controllers",
+      "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
+      "score": 151
+    },
+    {
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://stolen-thoughts.com/",
+      "score": 648
+    },
+    {
+      "title": "llama.cpp",
+      "url": "https://llama.app",
+      "score": 293
+    },
+    {
+      "title": "Mojo 1.0",
+      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+      "score": 405
+    },
+    {
+      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+      "score": 242
+    },
+    {
+      "title": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
+      "url": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
+      "score": 161
+    },
+    {
+      "title": "Bluesky's active user base is shrinking as its focus expands beyond the app",
+      "url": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
+      "score": 59
     },
     {
       "title": "Grok Bot",
       "url": "https://x.ai/bot",
-      "score": 254
+      "score": 313
     },
     {
-      "title": "DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio",
-      "url": "https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/",
-      "score": 17
-    },
-    {
-      "title": "Making holograms with a pen plotter",
-      "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-      "score": 151
-    },
-    {
-      "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
-      "url": "https://photosynthesis.camera",
-      "score": 262
-    },
-    {
-      "title": "Flatworms, Ion Channels, and Burning Mouths",
-      "url": "https://www.science.org/content/blog-post/flatworms-ion-channels-and-burning-mouths",
-      "score": 24
-    },
-    {
-      "title": "Show HN: Tamron Lens Utility Alternative on Linux",
-      "url": "https://github.com/yikerman/tamron-lens-control",
-      "score": 57
-    },
-    {
-      "title": "Show HN: Line9 – A Mermaid rendering engine with its own layout",
-      "url": "https://line9.ai/diagram",
-      "score": 63
-    },
-    {
-      "title": "Retire the Abstractions",
-      "url": "https://hazyresearch.stanford.edu/blog/2026-08-05-retire-the-abstractions",
-      "score": 38
-    },
-    {
-      "title": "Go is an ideal language for AI-assisted software engineering",
-      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-      "score": 341
-    },
-    {
-      "title": "Neutrinos from Deep Inside Earth Provide a New Picture of the Mantle",
-      "url": "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/",
-      "score": 34
-    },
-    {
-      "title": "Jolt: Clojure compiler implemented with Chez Scheme",
-      "url": "https://jolt-lang.github.io",
-      "score": 186
-    },
-    {
-      "title": "England set to be one of the first countries to eliminate hepatitis C",
-      "url": "https://www.bbc.com/news/articles/c75gk620r22o",
-      "score": 524
-    },
-    {
-      "title": "London Underground begins scanning passengers' faces",
-      "url": "https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/",
-      "score": 299
+      "title": "The Human Is the Loop",
+      "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
+      "score": 140
     },
     {
       "title": "How we used to get jobs: A newspaper classifieds story",
       "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
-      "score": 136
+      "score": 155
     },
     {
-      "title": "CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape",
-      "url": "https://github.com/sgkdev/bad_garbage",
-      "score": 10
+      "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
+      "url": "https://photosynthesis.camera",
+      "score": 302
     },
     {
-      "title": "Manus will return to operating as an independent company",
-      "url": "https://manus.im/blog/a-note-to-our-users",
-      "score": 153
+      "title": "My favorite nonfiction animal books that make you go holy shit",
+      "url": "https://bookdna.com/best-books/nonfiction-animal-books-that-make-you-go-holy-sht",
+      "score": 7
     },
     {
-      "title": "CSS properties you should know for better text designs",
-      "url": "https://master.dev/blog/typographic-css-tricks/",
-      "score": 108
-    },
-    {
-      "title": "Ethical Cold Outreach",
-      "url": "https://blog.val.town/ethical-cold-outreach",
-      "score": 38
+      "title": "Making holograms with a pen plotter",
+      "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+      "score": 171
     }
   ]
 }
