@@ -4,152 +4,152 @@
     {
       "title": "DeepSeek V4 Pro 0813",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "score": 752
+      "score": 877
+    },
+    {
+      "title": "We tracked down the 16-year-old WAL-reset SQLite bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "score": 979
+    },
+    {
+      "title": "Mushroom behind 'tiny people' hallucinations identified",
+      "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
+      "score": 74
     },
     {
       "title": "Delta",
       "url": "https://zed.dev/blog/introducing-delta",
-      "score": 393
-    },
-    {
-      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "score": 799
-    },
-    {
-      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
-      "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
-      "score": 28
+      "score": 511
     },
     {
       "title": "Qwen3.8-2.4T",
       "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "score": 496
+      "score": 588
     },
     {
       "title": "Principia Mathematica is modern and insightful",
       "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
-      "score": 41
+      "score": 129
     },
     {
-      "title": "What's New in Flutter 3.47",
-      "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
-      "score": 38
+      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+      "url": "https://openai.com/codex/",
+      "score": 25
     },
     {
-      "title": "Build Wide, Ship Narrow",
-      "url": "https://adapt.com/blog/build-wide-ship-narrow",
-      "score": 23
+      "title": "Antiqua–Fraktur dispute",
+      "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute",
+      "score": 69
     },
     {
-      "title": "Why Target Common Lisp for Code Generation?",
-      "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
-      "score": 30
+      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+      "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
+      "score": 75
     },
     {
       "title": "2026 Eclipse Webcams",
       "url": "https://jonty.github.io/2026_eclipse_webcams/",
-      "score": 458
-    },
-    {
-      "title": "Tim King, AmigaDOS developer, has died",
-      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-      "score": 239
-    },
-    {
-      "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
-      "url": "https://www.ballet.dev/",
-      "score": 14
-    },
-    {
-      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
-      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-      "score": 147
-    },
-    {
-      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-      "url": "https://discoveredmaterials.com/research/",
-      "score": 114
-    },
-    {
-      "title": "Grok 4.6",
-      "url": "https://x.ai/news/grok-4-6",
-      "score": 404
-    },
-    {
-      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "url": "https://knownagents.com/insights",
-      "score": 234
+      "score": 476
     },
     {
       "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
       "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
-      "score": 303
+      "score": 425
+    },
+    {
+      "title": "Tim King, AmigaDOS developer, has died",
+      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+      "score": 263
+    },
+    {
+      "title": "Flutter 3.47",
+      "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+      "score": 75
+    },
+    {
+      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+      "score": 184
+    },
+    {
+      "title": "Why Target Common Lisp for Code Generation?",
+      "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
+      "score": 84
+    },
+    {
+      "title": "Build Wide, Ship Narrow",
+      "url": "https://adapt.com/blog/build-wide-ship-narrow",
+      "score": 78
+    },
+    {
+      "title": "Grok 4.6",
+      "url": "https://x.ai/news/grok-4-6",
+      "score": 510
+    },
+    {
+      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "url": "https://discoveredmaterials.com/research/",
+      "score": 132
     },
     {
       "title": "Why tiny JPEGs look different in Chrome",
       "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-      "score": 254
-    },
-    {
-      "title": "Waits: Arthur Samuel's Checkers",
-      "url": "https://timereshared.com/waits-samuel-checkers/",
-      "score": 4
+      "score": 291
     },
     {
       "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
       "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
-      "score": 47
+      "score": 107
+    },
+    {
+      "title": "Celld: Self-hosted, distributed Durable Objects",
+      "url": "https://celld.dev/",
+      "score": 13
+    },
+    {
+      "title": "From rubber boots to Copa: When MicroProse Soccer revolutionized football",
+      "url": "https://spillhistorie.no/2026/08/08/fra-gummistovler-til-copa-da-microprose-soccer-revolusjonerte-fotballen/",
+      "score": 14
+    },
+    {
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://knownagents.com/insights",
+      "score": 267
+    },
+    {
+      "title": "Locating an unknown source of radiation in a heterogeneous environment (2019)",
+      "url": "https://repository.lib.ncsu.edu/items/451b001d-e63a-4968-866d-3fb3a599b1e7",
+      "score": 25
     },
     {
       "title": "Pixel Watch 5",
       "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
-      "score": 105
+      "score": 135
     },
     {
       "title": "Breaking the WAL",
       "url": "https://antithesis.com/blog/2026/wal-reset-bug/",
-      "score": 57
+      "score": 94
     },
     {
-      "title": "A Tale of Dynamic Programming (2022)",
-      "url": "https://iagoleal.com/posts/dynamic-programming/",
-      "score": 70
-    },
-    {
-      "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
-      "url": "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer",
-      "score": 1
-    },
-    {
-      "title": "Process as a Proxy for Motivation",
-      "url": "https://bengodfrey.dev/blog/process/",
-      "score": 24
-    },
-    {
-      "title": "Shade Map",
-      "url": "https://shademap.app",
-      "score": 147
+      "title": "The Three-Stroke Problem",
+      "url": "https://penpot.app/blog/the-three-stroke-problem/",
+      "score": 4
     },
     {
       "title": "Lovable raises $400M Series C",
       "url": "https://lovable.dev/blog/series-c",
-      "score": 94
+      "score": 131
     },
     {
-      "title": "AI is removing the middle class of software engineering?",
-      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-      "score": 726
+      "title": "Shade Map",
+      "url": "https://shademap.app",
+      "score": 183
     },
     {
-      "title": "Debugging Information for Inlined Functions",
-      "url": "https://lwn.net/Articles/1083985/",
-      "score": 19
-    },
-    {
-      "title": "I built a browser-native SysEx librarian for 80s/90s synthesizers",
-      "url": "https://bipluk.com/",
-      "score": 8
+      "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+      "url": "https://www.ballet.dev/",
+      "score": 29
     }
   ]
 }
