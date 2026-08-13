@@ -2,39 +2,99 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
-      "score": 106
+      "title": "Gemini 3.7 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "score": 266
     },
     {
-      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-      "url": "https://openai.com/codex/",
-      "score": 257
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "score": 83
     },
     {
-      "title": "The lattice of sets of natural numbers is rich",
-      "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
-      "score": 57
+      "title": "Choose Boring Technology (2015)",
+      "url": "https://mcfunley.com/choose-boring-technology",
+      "score": 72
     },
     {
-      "title": "Picking berries is my meditation",
-      "url": "https://www.tsoon.com/posts/picking-berries-meditation/",
-      "score": 36
+      "title": "Mistral OCR 4.1",
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
+      "score": 104
     },
     {
-      "title": "DeepSeek V4 Pro 0813",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "score": 975
+      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+      "url": "https://donkeybas.com/",
+      "score": 46
     },
     {
-      "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "score": 1105
+      "title": "Spaghettifying DRAM",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "score": 323
     },
     {
-      "title": "Qwen3.8-2.4T",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "score": 666
+      "title": "Where did the old web go? We followed 657,607 links to find out",
+      "url": "https://0.mk/blog/link-rot",
+      "score": 32
+    },
+    {
+      "title": "Tocharian Online",
+      "url": "https://lrc.la.utexas.edu/eieol/tokol/0",
+      "score": 26
+    },
+    {
+      "title": "AI At Home Part 1: A Box Of Scraps",
+      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+      "score": 34
+    },
+    {
+      "title": "Come for ENIAC, Stay for UNIVAC and Skeduflo",
+      "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
+      "score": 45
+    },
+    {
+      "title": "DeepSeek Harness developer preview",
+      "url": "https://deepseek.com/harness/en/",
+      "score": 451
+    },
+    {
+      "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
+      "url": "https://oxide.computer/blog/kubernetes-on-oxide",
+      "score": 100
+    },
+    {
+      "title": "How art invented humanity",
+      "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
+      "score": 51
+    },
+    {
+      "title": "Ordinary abundance",
+      "url": "https://ordinaryabundance.com/",
+      "score": 112
+    },
+    {
+      "title": "Gloomberb",
+      "url": "https://gloom.sh/",
+      "score": 303
+    },
+    {
+      "title": "Choosing an AI model: one prompt, 11 models, different results",
+      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+      "score": 131
+    },
+    {
+      "title": "Codex in ChatGPT desktop app for Linux is now in preview",
+      "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
+      "score": 407
+    },
+    {
+      "title": "GoAccess – Open-source real-time log analyzer and interactive viewer",
+      "url": "https://goaccess.io/",
+      "score": 20
+    },
+    {
+      "title": "I built a 500k-domain search engine for makers in a weekend for $10",
+      "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
+      "score": 95
     },
     {
       "title": "ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)",
@@ -42,114 +102,54 @@
       "score": 1
     },
     {
-      "title": "Delta",
-      "url": "https://zed.dev/blog/introducing-delta",
-      "score": 601
+      "title": "JDK 27 G1/Parallel/Serial GC Changes",
+      "url": "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html",
+      "score": 14
     },
     {
-      "title": "Principia Mathematica is modern and insightful",
-      "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
-      "score": 207
+      "title": "Graduate student proves a quantum uncertainty principle for fractals",
+      "url": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
+      "score": 47
     },
     {
-      "title": "Antiqua–Fraktur dispute",
-      "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute",
-      "score": 122
+      "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
+      "url": "https://github.com/fellowgeek/mcp-memory",
+      "score": 47
     },
     {
-      "title": "Come for Eniac, Stay for Univac and Skeduflo",
-      "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
-      "score": 11
-    },
-    {
-      "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
-      "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
-      "score": 603
-    },
-    {
-      "title": "Mushroom behind 'tiny people' hallucinations identified",
-      "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
-      "score": 205
-    },
-    {
-      "title": "2026 Eclipse Webcams",
-      "url": "https://jonty.github.io/2026_eclipse_webcams/",
-      "score": 500
-    },
-    {
-      "title": "Flutter 3.47",
-      "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
-      "score": 148
-    },
-    {
-      "title": "The punched card tabulator",
-      "url": "https://www.ibm.com/history/punched-card-tabulator",
-      "score": 26
-    },
-    {
-      "title": "Grok 4.6",
-      "url": "https://x.ai/news/grok-4-6",
-      "score": 590
-    },
-    {
-      "title": "Why Target Common Lisp for Code Generation?",
-      "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
-      "score": 125
-    },
-    {
-      "title": "Tim King, AmigaDOS developer, has died",
-      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-      "score": 287
-    },
-    {
-      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
-      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-      "score": 224
+      "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
+      "url": "https://www.codewithbullet.com",
+      "score": 25
     },
     {
       "title": "Better Gaussian Splatting in Julia",
       "url": "https://pxl-th.github.io/blog/better-gs-julia/",
-      "score": 7
+      "score": 98
     },
     {
-      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-      "url": "https://discoveredmaterials.com/research/",
-      "score": 149
+      "title": "Show HN: OJCP – an open protocol for agent-consumable job data",
+      "url": "https://ojcp.dev/",
+      "score": 17
     },
     {
-      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
-      "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
-      "score": 104
+      "title": "I requested a copy of my data from McDonald’s loyalty program",
+      "url": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
+      "score": 164
     },
     {
-      "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
-      "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
-      "score": 151
+      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
+      "score": 347
     },
     {
-      "title": "The Three-Stroke Problem",
-      "url": "https://penpot.app/blog/the-three-stroke-problem/",
-      "score": 23
+      "title": "The Indo-European Family Tree",
+      "url": "https://djbinder.com/language-tree/",
+      "score": 42
     },
     {
-      "title": "Why tiny JPEGs look different in Chrome",
-      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-      "score": 322
-    },
-    {
-      "title": "Breaking the WAL",
-      "url": "https://antithesis.com/blog/2026/wal-reset-bug/",
-      "score": 136
-    },
-    {
-      "title": "Shade Map",
-      "url": "https://shademap.app",
-      "score": 224
-    },
-    {
-      "title": "From rubber boots to Copa: When MicroProse Soccer revolutionized football",
-      "url": "https://spillhistorie.no/2026/08/08/fra-gummistovler-til-copa-da-microprose-soccer-revolusjonerte-fotballen/",
-      "score": 33
+      "title": "The mathematical physics of rainbows and glories (2001) [pdf]",
+      "url": "https://tlakoba.w3.uvm.edu/AppliedUGMath/auxpaper_rainbow_glory_review.pdf",
+      "score": 26
     }
   ]
 }
