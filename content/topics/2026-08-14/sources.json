@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
       "url": "https://z.ai/blog/glm-5.3",
-      "score": 258
+      "score": 668
+    },
+    {
+      "title": "Don't classify, hallucinate!",
+      "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
+      "score": 30
+    },
+    {
+      "title": "DeepSeek peak/off-peak pricing update",
+      "url": "https://api-docs.deepseek.com/news/news260813/",
+      "score": 90
+    },
+    {
+      "title": "Why does Opus 5 feel worse to work with?",
+      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "score": 188
     },
     {
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "score": 779
+      "score": 893
+    },
+    {
+      "title": "Differential Heuristics",
+      "url": "https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/",
+      "score": 52
     },
     {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "score": 546
+      "score": 647
     },
     {
       "title": "Hello, me. It's been a while",
       "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
-      "score": 161
+      "score": 279
     },
     {
-      "title": "Bluesky Protocol Services",
-      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-      "score": 144
-    },
-    {
-      "title": "DeepSeek Harness developer preview",
-      "url": "https://deepseek.com/harness/en/",
-      "score": 630
-    },
-    {
-      "title": "Spaghettifying DRAM",
-      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "score": 583
-    },
-    {
-      "title": "The Library of Ashurbanipal",
-      "url": "https://www.historytoday.com/archive/feature/library-ashurbanipal",
-      "score": 18
+      "title": "Protect Your Relays",
+      "url": "https://www.iroh.computer/blog/authenticated-relays",
+      "score": 13
     },
     {
       "title": "Show HN: C# Game Engine with its own scripting language and IDE",
       "url": "https://github.com/ArcadeMakerSources/ArcadeMaker",
-      "score": 10
+      "score": 71
+    },
+    {
+      "title": "DeepSeek Harness developer preview",
+      "url": "https://deepseek.com/harness/en/",
+      "score": 689
+    },
+    {
+      "title": "Spaghettifying DRAM",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "score": 661
+    },
+    {
+      "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+      "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
+      "score": 48
     },
     {
       "title": "Mistral OCR 4.1",
       "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "score": 315
+      "score": 380
+    },
+    {
+      "title": "We're not done with point clouds",
+      "url": "https://claytonwramsey.com/blog/mvt/",
+      "score": 22
+    },
+    {
+      "title": "Bluesky Protocol Services",
+      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+      "score": 181
     },
     {
       "title": "Understanding is the new bottleneck",
       "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-      "score": 295
+      "score": 367
+    },
+    {
+      "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
+      "url": "https://github.com/JustVugg/lumabri",
+      "score": 37
     },
     {
       "title": "Choose Boring Technology (2015)",
       "url": "https://mcfunley.com/choose-boring-technology",
-      "score": 322
+      "score": 379
     },
     {
       "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
       "url": "https://donkeybas.com/",
-      "score": 222
-    },
-    {
-      "title": "NP-overrated",
-      "url": "https://gruhn.me/blog/2026-08-13/",
-      "score": 196
-    },
-    {
-      "title": "How do you sell a CPU design when the instruction set is free?",
-      "url": "https://www.siliconimist.com/p/credibility-is-the-barrier-to-entry",
-      "score": 18
+      "score": 251
     },
     {
       "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
       "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
-      "score": 294
+      "score": 339
     },
     {
-      "title": "Blog about things you don't understand yet",
-      "url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
-      "score": 79
+      "title": "What an improv stage can teach you about leading cross-cultural teams in Tokyo",
+      "url": "https://www.tokyodev.com/articles/yes-and-what-an-improv-stage-can-teach-you-about-leading-cross-cultural-teams-in-tokyo",
+      "score": 27
     },
     {
       "title": "How Compaction Works in Pi",
       "url": "https://earendil.com/posts/compaction-in-pi/",
-      "score": 147
+      "score": 182
+    },
+    {
+      "title": "Blog about things you don't understand yet",
+      "url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
+      "score": 129
     },
     {
       "title": "Where did the old web go? We followed 657,607 links to find out",
       "url": "https://0.mk/blog/link-rot",
-      "score": 166
-    },
-    {
-      "title": "The Legend of the Novell NE2000 [video]",
-      "url": "https://www.youtube.com/watch?v=nNXzQ7V1S_k",
-      "score": 39
+      "score": 202
     },
     {
       "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
       "url": "https://github.com/systemd/systemd/issues/40262",
-      "score": 196
+      "score": 233
     },
     {
-      "title": "Finite State Machines in Forth (1994)",
-      "url": "https://www.forth.org/literature/noble.html",
-      "score": 71
+      "title": "The Library of Ashurbanipal (2025)",
+      "url": "https://www.historytoday.com/archive/feature/library-ashurbanipal",
+      "score": 44
     },
     {
       "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
       "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-      "score": 97
-    },
-    {
-      "title": "How Gödel's Proof Works (2020)",
-      "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
-      "score": 98
-    },
-    {
-      "title": "an ambiguity in C89 which will never be fixed",
-      "url": "https://sebsite.pw/w/20260810-c89ambiguity.html",
-      "score": 57
+      "score": 116
     },
     {
       "title": "Ordinary Abundance",
       "url": "https://ordinaryabundance.com/",
-      "score": 285
+      "score": 337
     },
     {
-      "title": "Cave of the Crystals",
-      "url": "https://en.wikipedia.org/wiki/Cave_of_the_Crystals",
-      "score": 34
-    },
-    {
-      "title": "Choosing an AI model: one prompt, 11 models, different results",
-      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-      "score": 197
-    },
-    {
-      "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
-      "url": "https://www.codewithbullet.com",
-      "score": 95
-    },
-    {
-      "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
-      "url": "https://oxide.computer/blog/kubernetes-on-oxide",
-      "score": 181
+      "title": "NP-overrated",
+      "url": "https://gruhn.me/blog/2026-08-13/",
+      "score": 225
     }
   ]
 }
