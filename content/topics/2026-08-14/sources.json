@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-      "url": "https://z.ai/blog/glm-5.3",
-      "score": 668
+      "title": "Qwen 3.8 27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "score": 434
     },
     {
-      "title": "Don't classify, hallucinate!",
-      "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
-      "score": 30
+      "title": "Count Binface receives over a quarter of votes in Clacton by-election",
+      "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
+      "score": 208
     },
     {
-      "title": "DeepSeek peak/off-peak pricing update",
-      "url": "https://api-docs.deepseek.com/news/news260813/",
-      "score": 90
+      "title": "Seven books I keep close because I love them",
+      "url": "https://blog.plover.com/2026/08/02/",
+      "score": 183
+    },
+    {
+      "title": "RustDesk now supports true unattended remote access on Wayland",
+      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "score": 93
     },
     {
       "title": "Why does Opus 5 feel worse to work with?",
       "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-      "score": 188
+      "score": 512
     },
     {
-      "title": "Gemini 3.7 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "score": 893
+      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+      "url": "https://z.ai/blog/glm-5.3",
+      "score": 946
+    },
+    {
+      "title": "Introducing Toast 1",
+      "url": "https://www.mixedbread.com/blog/toast-1",
+      "score": 121
+    },
+    {
+      "title": "Maximizing the value of your Claude Code sessions",
+      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "score": 55
+    },
+    {
+      "title": "Ultraviolet Bird Photography",
+      "url": "https://uvbirds.com/",
+      "score": 46
+    },
+    {
+      "title": "AI by Hand",
+      "url": "https://www.byhand.ai/",
+      "score": 67
+    },
+    {
+      "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+      "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+      "score": 74
+    },
+    {
+      "title": "Forbidden City Cabbage",
+      "url": "https://www.cnn.com/2025/11/10/style/jadeite-cabbage-taiwan-forbidden-city-curio-hnk-intl",
+      "score": 28
+    },
+    {
+      "title": "Every Fucking Website (2020)",
+      "url": "https://lxe.github.io/everywebsite/",
+      "score": 582
+    },
+    {
+      "title": "Moving integer division to floating-point is trivial",
+      "url": "http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html",
+      "score": 12
+    },
+    {
+      "title": "RayforceDB – a pure C analytics database with a Lisp-like syntax",
+      "url": "https://rayforcedb.com/",
+      "score": 24
+    },
+    {
+      "title": "France's top court blocks social media ban for under-15s",
+      "url": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
+      "score": 129
+    },
+    {
+      "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+      "url": "https://luacad.ad-si.com",
+      "score": 34
+    },
+    {
+      "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+      "url": "https://arxiv.org/abs/2608.12700",
+      "score": 10
+    },
+    {
+      "title": "Don't classify, hallucinate",
+      "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
+      "score": 176
+    },
+    {
+      "title": "DeepSeek peak/off-peak pricing update",
+      "url": "https://api-docs.deepseek.com/news/news260813/",
+      "score": 213
+    },
+    {
+      "title": "In Australia, a home battery boom has helped cut wholesale power prices",
+      "url": "https://e360.yale.edu/digest/australia-home-batteries",
+      "score": 246
+    },
+    {
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "score": 91
+    },
+    {
+      "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+      "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+      "score": 35
+    },
+    {
+      "title": "Gödel, Escher, Elisp: The Beauty of Macros",
+      "url": "https://www.chiply.dev/post-elisp-macros-are-beautiful",
+      "score": 57
+    },
+    {
+      "title": "Self-hosted web push Cloudflare Worker, works on iOS",
+      "url": "https://kukuroo.cc/",
+      "score": 41
+    },
+    {
+      "title": "The TEMU-Fication of Software, Digital Goods and Services",
+      "url": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/",
+      "score": 92
+    },
+    {
+      "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+      "url": "https://hashagent.pages.dev/",
+      "score": 38
+    },
+    {
+      "title": "Earth.nullschool.net",
+      "url": "https://earth.nullschool.net/",
+      "score": 34
     },
     {
       "title": "Differential Heuristics",
       "url": "https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/",
-      "score": 52
-    },
-    {
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "score": 647
-    },
-    {
-      "title": "Hello, me. It's been a while",
-      "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
-      "score": 279
-    },
-    {
-      "title": "Protect Your Relays",
-      "url": "https://www.iroh.computer/blog/authenticated-relays",
-      "score": 13
-    },
-    {
-      "title": "Show HN: C# Game Engine with its own scripting language and IDE",
-      "url": "https://github.com/ArcadeMakerSources/ArcadeMaker",
-      "score": 71
-    },
-    {
-      "title": "DeepSeek Harness developer preview",
-      "url": "https://deepseek.com/harness/en/",
-      "score": 689
-    },
-    {
-      "title": "Spaghettifying DRAM",
-      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "score": 661
-    },
-    {
-      "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
-      "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
-      "score": 48
-    },
-    {
-      "title": "Mistral OCR 4.1",
-      "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "score": 380
+      "score": 102
     },
     {
       "title": "We're not done with point clouds",
       "url": "https://claytonwramsey.com/blog/mvt/",
-      "score": 22
-    },
-    {
-      "title": "Bluesky Protocol Services",
-      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-      "score": 181
-    },
-    {
-      "title": "Understanding is the new bottleneck",
-      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-      "score": 367
-    },
-    {
-      "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
-      "url": "https://github.com/JustVugg/lumabri",
-      "score": 37
-    },
-    {
-      "title": "Choose Boring Technology (2015)",
-      "url": "https://mcfunley.com/choose-boring-technology",
-      "score": 379
-    },
-    {
-      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
-      "url": "https://donkeybas.com/",
-      "score": 251
-    },
-    {
-      "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
-      "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
-      "score": 339
-    },
-    {
-      "title": "What an improv stage can teach you about leading cross-cultural teams in Tokyo",
-      "url": "https://www.tokyodev.com/articles/yes-and-what-an-improv-stage-can-teach-you-about-leading-cross-cultural-teams-in-tokyo",
-      "score": 27
-    },
-    {
-      "title": "How Compaction Works in Pi",
-      "url": "https://earendil.com/posts/compaction-in-pi/",
-      "score": 182
-    },
-    {
-      "title": "Blog about things you don't understand yet",
-      "url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
-      "score": 129
-    },
-    {
-      "title": "Where did the old web go? We followed 657,607 links to find out",
-      "url": "https://0.mk/blog/link-rot",
-      "score": 202
-    },
-    {
-      "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
-      "url": "https://github.com/systemd/systemd/issues/40262",
-      "score": 233
-    },
-    {
-      "title": "The Library of Ashurbanipal (2025)",
-      "url": "https://www.historytoday.com/archive/feature/library-ashurbanipal",
-      "score": 44
-    },
-    {
-      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-      "score": 116
-    },
-    {
-      "title": "Ordinary Abundance",
-      "url": "https://ordinaryabundance.com/",
-      "score": 337
-    },
-    {
-      "title": "NP-overrated",
-      "url": "https://gruhn.me/blog/2026-08-13/",
-      "score": 225
+      "score": 63
     }
   ]
 }
