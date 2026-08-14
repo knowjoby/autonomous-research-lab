@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+      "url": "https://z.ai/blog/glm-5.3",
+      "score": 258
+    },
+    {
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "score": 619
-    },
-    {
-      "title": "Bluesky Protocol Services",
-      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-      "score": 62
-    },
-    {
-      "title": "SparrowMap – Cameras that watch government vehicles",
-      "url": "https://sparrowmap.com/",
-      "score": 34
+      "score": 779
     },
     {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "score": 421
-    },
-    {
-      "title": "NP-Overrated",
-      "url": "https://gruhn.me/blog/2026-08-13/",
-      "score": 149
-    },
-    {
-      "title": "Understanding is the new bottleneck",
-      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-      "score": 204
-    },
-    {
-      "title": "DeepSeek Harness developer preview",
-      "url": "https://deepseek.com/harness/en/",
-      "score": 558
-    },
-    {
-      "title": "Mistral OCR 4.1",
-      "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "score": 252
-    },
-    {
-      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
-      "url": "https://donkeybas.com/",
-      "score": 188
-    },
-    {
-      "title": "Choose Boring Technology (2015)",
-      "url": "https://mcfunley.com/choose-boring-technology",
-      "score": 253
-    },
-    {
-      "title": "Spaghettifying DRAM",
-      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "score": 496
+      "score": 546
     },
     {
       "title": "Hello, me. It's been a while",
       "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
-      "score": 22
+      "score": 161
     },
     {
-      "title": "Finite State Machines in Forth (1994)",
-      "url": "https://www.forth.org/literature/noble.html",
-      "score": 46
+      "title": "Bluesky Protocol Services",
+      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+      "score": 144
     },
     {
-      "title": "Where did the old web go? We followed 657,607 links to find out",
-      "url": "https://0.mk/blog/link-rot",
-      "score": 133
+      "title": "DeepSeek Harness developer preview",
+      "url": "https://deepseek.com/harness/en/",
+      "score": 630
     },
     {
-      "title": "How Gödel's Proof Works (2020)",
-      "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
-      "score": 71
+      "title": "Spaghettifying DRAM",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "score": 583
     },
     {
-      "title": "How a device finds encrypted DNS by itself",
-      "url": "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/",
-      "score": 15
+      "title": "The Library of Ashurbanipal",
+      "url": "https://www.historytoday.com/archive/feature/library-ashurbanipal",
+      "score": 18
     },
     {
-      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-      "score": 66
+      "title": "Show HN: C# Game Engine with its own scripting language and IDE",
+      "url": "https://github.com/ArcadeMakerSources/ArcadeMaker",
+      "score": 10
     },
     {
-      "title": "How Compaction Works in Pi",
-      "url": "https://earendil.com/posts/compaction-in-pi/",
-      "score": 106
+      "title": "Mistral OCR 4.1",
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
+      "score": 315
     },
     {
-      "title": "How AI text watermarking works",
-      "url": "https://declaude.org/watermarking/",
-      "score": 76
+      "title": "Understanding is the new bottleneck",
+      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+      "score": 295
     },
     {
-      "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
-      "url": "https://github.com/systemd/systemd/issues/40262",
-      "score": 146
+      "title": "Choose Boring Technology (2015)",
+      "url": "https://mcfunley.com/choose-boring-technology",
+      "score": 322
+    },
+    {
+      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+      "url": "https://donkeybas.com/",
+      "score": 222
+    },
+    {
+      "title": "NP-overrated",
+      "url": "https://gruhn.me/blog/2026-08-13/",
+      "score": 196
+    },
+    {
+      "title": "How do you sell a CPU design when the instruction set is free?",
+      "url": "https://www.siliconimist.com/p/credibility-is-the-barrier-to-entry",
+      "score": 18
     },
     {
       "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
       "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
-      "score": 245
-    },
-    {
-      "title": "An ambiguity in c89 which will never be fixed",
-      "url": "https://sebsite.pw/w/20260810-c89ambiguity.html",
-      "score": 31
-    },
-    {
-      "title": "I want extern \"fil-C\"",
-      "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
-      "score": 22
+      "score": 294
     },
     {
       "title": "Blog about things you don't understand yet",
       "url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
-      "score": 12
+      "score": 79
     },
     {
-      "title": "Smooth Move: Taming Trajectories with Polynomials",
-      "url": "https://nick.zoic.org/art/smooth-move-taming-trajectories-with-polynomials/",
-      "score": 22
+      "title": "How Compaction Works in Pi",
+      "url": "https://earendil.com/posts/compaction-in-pi/",
+      "score": 147
     },
     {
-      "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
-      "url": "https://oxide.computer/blog/kubernetes-on-oxide",
-      "score": 155
+      "title": "Where did the old web go? We followed 657,607 links to find out",
+      "url": "https://0.mk/blog/link-rot",
+      "score": 166
     },
     {
-      "title": "Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game",
-      "url": "https://nicole.express/2026/more-like-idle-mahjong.html",
-      "score": 40
+      "title": "The Legend of the Novell NE2000 [video]",
+      "url": "https://www.youtube.com/watch?v=nNXzQ7V1S_k",
+      "score": 39
     },
     {
-      "title": "AI At Home Part 1: A Box Of Scraps",
-      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-      "score": 91
+      "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+      "url": "https://github.com/systemd/systemd/issues/40262",
+      "score": 196
+    },
+    {
+      "title": "Finite State Machines in Forth (1994)",
+      "url": "https://www.forth.org/literature/noble.html",
+      "score": 71
+    },
+    {
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "score": 97
+    },
+    {
+      "title": "How Gödel's Proof Works (2020)",
+      "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
+      "score": 98
+    },
+    {
+      "title": "an ambiguity in C89 which will never be fixed",
+      "url": "https://sebsite.pw/w/20260810-c89ambiguity.html",
+      "score": 57
+    },
+    {
+      "title": "Ordinary Abundance",
+      "url": "https://ordinaryabundance.com/",
+      "score": 285
+    },
+    {
+      "title": "Cave of the Crystals",
+      "url": "https://en.wikipedia.org/wiki/Cave_of_the_Crystals",
+      "score": 34
+    },
+    {
+      "title": "Choosing an AI model: one prompt, 11 models, different results",
+      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+      "score": 197
     },
     {
       "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
       "url": "https://www.codewithbullet.com",
-      "score": 84
+      "score": 95
     },
     {
-      "title": "Ordinary abundance",
-      "url": "https://ordinaryabundance.com/",
-      "score": 211
+      "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
+      "url": "https://oxide.computer/blog/kubernetes-on-oxide",
+      "score": 181
     }
   ]
 }
