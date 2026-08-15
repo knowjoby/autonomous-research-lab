@@ -4,152 +4,147 @@
     {
       "title": "Qwen 3.8 27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "score": 879
+      "score": 1040
+    },
+    {
+      "title": "The other Sean Byrne doesn't exist",
+      "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+      "score": 40
+    },
+    {
+      "title": "Coin-sized device can hack a Boeing 737",
+      "url": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
+      "score": 33
     },
     {
       "title": "Going Dark, and the era of law enforcement hacking",
       "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-      "score": 181
+      "score": 293
     },
     {
-      "title": "RISC-V: They should have known better",
-      "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-      "score": 105
+      "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+      "score": 170
     },
     {
-      "title": "The case for overhauling American science",
-      "url": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
-      "score": 26
+      "title": "The Ploopy A+ Trackball Is Here",
+      "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+      "score": 89
     },
     {
-      "title": "Why does Opus 5 feel worse to work with?",
-      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-      "score": 773
+      "title": "\"That's not SoC 2 compliant\"",
+      "url": "https://ampcode.com/notes/thats-not-soc-2-compliant",
+      "score": 7
     },
     {
       "title": "Google is making private AI practical with homomorphic encryption",
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "score": 271
-    },
-    {
-      "title": "Stop sending me huge PRs; a rant",
-      "url": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
-      "score": 47
-    },
-    {
-      "title": "RustDesk now supports true unattended remote access on Wayland",
-      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-      "score": 216
-    },
-    {
-      "title": "Super Mario Derivations",
-      "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
-      "score": 43
-    },
-    {
-      "title": "Jane Street suffers $15B hit after meltdown at Situational Awareness",
-      "url": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697",
-      "score": 64
-    },
-    {
-      "title": "AI by Hand",
-      "url": "https://www.byhand.ai/",
-      "score": 196
-    },
-    {
-      "title": "Firefox is now the last major browser that still supports uBlock Origin",
-      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-      "score": 371
+      "score": 349
     },
     {
       "title": "eigendrum",
       "url": "https://eigendrum.com/#p=circle",
-      "score": 17
+      "score": 108
     },
     {
-      "title": "Ultraviolet Bird Photography",
-      "url": "https://uvbirds.com/",
-      "score": 106
+      "title": "RustDesk now supports true unattended remote access on Wayland",
+      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "score": 260
     },
     {
-      "title": "Introducing Toast 1",
-      "url": "https://www.mixedbread.com/blog/toast-1",
-      "score": 173
+      "title": "Simplifying and Refactoring Introductory Calculus (2018)",
+      "url": "https://arxiv.org/abs/1811.03459",
+      "score": 70
     },
     {
-      "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
-      "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
-      "score": 144
+      "title": "Firefox is now the last major browser that still supports uBlock Origin",
+      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "score": 752
     },
     {
-      "title": "Show HN: Mole – Deep research agent for your terminal",
-      "url": "https://github.com/lajosdeme/mole",
-      "score": 46
+      "title": "AI by Hand",
+      "url": "https://www.byhand.ai/",
+      "score": 270
     },
     {
-      "title": "New Lower and Upper Bounds for the Grothendieck Constant",
-      "url": "https://arxiv.org/abs/2608.11158",
+      "title": "Unearthing a 31 year old Easter egg in Ecco the Dolphin",
+      "url": "https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin-98c",
+      "score": 66
+    },
+    {
+      "title": "This Hi-Fi Tape Recorder Changed Radio Forever",
+      "url": "https://spectrum.ieee.org/magnetophon-laugh-track",
       "score": 34
     },
     {
       "title": "Maximizing the value of your Claude Code sessions",
       "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "score": 130
+      "score": 179
     },
     {
-      "title": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS",
-      "url": "http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/",
-      "score": 67
+      "title": "The End of Mathematics",
+      "url": "https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics",
+      "score": 15
     },
     {
-      "title": "The American sports plutocracy",
-      "url": "https://www.derekthompson.org/p/the-american-sports-plutocracy-is",
-      "score": 49
+      "title": "Show HN: A website for exploring historical photographs of my city",
+      "url": "https://yesterdays.maprva.org/",
+      "score": 18
     },
     {
-      "title": "Seven books I keep close because I love them",
-      "url": "https://blog.plover.com/2026/08/02/",
-      "score": 294
+      "title": "Super Mario Derivations",
+      "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
+      "score": 85
+    },
+    {
+      "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+      "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+      "score": 171
+    },
+    {
+      "title": "Introducing Toast 1",
+      "url": "https://www.mixedbread.com/blog/toast-1",
+      "score": 193
+    },
+    {
+      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+      "url": "https://chenxiachan.github.io/thoughtdag/",
+      "score": 4
+    },
+    {
+      "title": "Show HN: Deltix – AI Driven Testing",
+      "url": "https://app.deltix.ai",
+      "score": 22
+    },
+    {
+      "title": "Ultraviolet Bird Photography",
+      "url": "https://uvbirds.com/",
+      "score": 134
+    },
+    {
+      "title": "Racket v9.3",
+      "url": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
+      "score": 66
     },
     {
       "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
       "url": "https://z.ai/blog/glm-5.3",
-      "score": 1025
+      "score": 1073
     },
     {
-      "title": "Don't classify, hallucinate",
-      "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
-      "score": 216
+      "title": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS",
+      "url": "http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/",
+      "score": 90
     },
     {
-      "title": "Every exterior shot in The Taking of Pelham 123",
-      "url": "https://iafisher.com/2026/07/pelham-123",
-      "score": 29
+      "title": "Why does Opus 5 feel worse to work with?",
+      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "score": 837
     },
     {
       "title": "Show HN: Ember – Redshift safe color palettes",
       "url": "https://github.com/carpdiem/ember",
-      "score": 55
-    },
-    {
-      "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
-      "url": "https://luacad.ad-si.com",
-      "score": 70
-    },
-    {
-      "title": "Ant teams beat gravity-based puzzle solvers",
-      "url": "https://phys.org/news/2026-08-ant-teams-gravity-based-puzzle.html",
-      "score": 4
-    },
-    {
-      "title": "Every Fucking Website (2020)",
-      "url": "https://lxe.github.io/everywebsite/",
-      "score": 740
-    },
-    {
-      "title": "A humble cabbage became one of the Forbidden City’s treasures (2025)",
-      "url": "https://www.cnn.com/2025/11/10/style/jadeite-cabbage-taiwan-forbidden-city-curio-hnk-intl",
-      "score": 54
+      "score": 86
     }
   ]
 }
