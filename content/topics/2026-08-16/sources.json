@@ -1,0 +1,155 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "Semaglutide linked to lower predicted dementia risk",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "score": 340
+    },
+    {
+      "title": "ChatGPT lost 22 points of web share in a year",
+      "url": "https://aicharts.grok.me/c/market-share",
+      "score": 12
+    },
+    {
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "score": 70
+    },
+    {
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "score": 84
+    },
+    {
+      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "score": 210
+    },
+    {
+      "title": "Abdominal fat predicts heart disease risk better than BMI",
+      "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+      "score": 136
+    },
+    {
+      "title": "RISC-V: They Should Have Known Better",
+      "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+      "score": 224
+    },
+    {
+      "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+      "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+      "score": 58
+    },
+    {
+      "title": "A fortuitous decade as an indie software developer",
+      "url": "https://lapcatsoftware.com/articles/2026/8/3.html",
+      "score": 21
+    },
+    {
+      "title": "AI has access to a vastly larger working memory than the human brain",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "score": 406
+    },
+    {
+      "title": "Tracking down a Zsh history data loss bug",
+      "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+      "score": 31
+    },
+    {
+      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "url": "https://sankalp.bearblog.dev/autoresearch/",
+      "score": 391
+    },
+    {
+      "title": "Asus Bike Booster",
+      "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
+      "score": 13
+    },
+    {
+      "title": "Tea5767-Radio-Tuner",
+      "url": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
+      "score": 7
+    },
+    {
+      "title": "Credit card debt rises to $1.26T, nearing all-time record",
+      "url": "https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/",
+      "score": 34
+    },
+    {
+      "title": "A spectre is haunting Unicode",
+      "url": "https://www.dampfkraft.com/ghost-characters.html",
+      "score": 165
+    },
+    {
+      "title": "Bede Liu, a digital signal processing pioneer, has died",
+      "url": "https://spectrum.ieee.org/digital-signal-processing",
+      "score": 53
+    },
+    {
+      "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
+      "url": "https://sugartrack-beta.vercel.app/",
+      "score": 16
+    },
+    {
+      "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+      "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
+      "score": 1
+    },
+    {
+      "title": "Working with AI feels more like leadership than coding",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "score": 264
+    },
+    {
+      "title": "Tess's Android Wayland Compositor",
+      "url": "https://github.com/wmww/tawc",
+      "score": 40
+    },
+    {
+      "title": "Jaithon 3, a fast programming language with the perfect syntax",
+      "url": "https://github.com/abhiramasonny/jaithon",
+      "score": 20
+    },
+    {
+      "title": "Humazon",
+      "url": "https://hughhowey.com/humazon/",
+      "score": 21
+    },
+    {
+      "title": "I Remain a Skeptic",
+      "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+      "score": 55
+    },
+    {
+      "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
+      "url": "https://en.wikipedia.org/wiki/Wow!_signal",
+      "score": 61
+    },
+    {
+      "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
+      "url": "https://baselashraf81.github.io/eigendrum/",
+      "score": 201
+    },
+    {
+      "title": "Pizza Box Project Stack",
+      "url": "https://cblgh.org/posts/2026-07-31-pizza-box-project-stack/",
+      "score": 32
+    },
+    {
+      "title": "2D Gaussian Splatting for Bézier Spline Line Art Vectorization",
+      "url": "https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorization/",
+      "score": 62
+    },
+    {
+      "title": "Modeling and Verification of Keeta's Consensus [pdf]",
+      "url": "https://xescu.re/keeta-consensus.pdf",
+      "score": 10
+    },
+    {
+      "title": "The mathematical beauty of hyperbezier curves",
+      "url": "https://linebender.org/blog/hyperbezier/",
+      "score": 188
+    }
+  ]
+}
