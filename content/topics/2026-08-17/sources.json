@@ -4,152 +4,147 @@
     {
       "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
       "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-      "score": 311
+      "score": 584
     },
     {
-      "title": "The Life and Death of Direct File [pdf]",
-      "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
-      "score": 169
+      "title": "On A.I. regulation and messaging",
+      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+      "score": 125
+    },
+    {
+      "title": "People are worried about America's solvency",
+      "url": "https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e",
+      "score": 36
+    },
+    {
+      "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "score": 394
     },
     {
       "title": "A third world engineer responds to “RISC-V: They should have known better”",
       "url": "https://rvembedded.com/blog_post/12/",
-      "score": 460
+      "score": 550
     },
     {
-      "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
-      "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
-      "score": 63
+      "title": "How Go detects struct copies with sync.noCopy",
+      "url": "https://func25.dev/posts/go-sync-nocopy/",
+      "score": 6
+    },
+    {
+      "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
+      "url": "https://desktopcolors.com",
+      "score": 35
     },
     {
       "title": "Reticulum – Decentralized Mesh Network",
       "url": "https://reticulum.network/",
-      "score": 88
+      "score": 150
     },
     {
       "title": "Claude: System Prompts",
       "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "score": 619
+      "score": 690
+    },
+    {
+      "title": "The Mysterious Syndrome Destroying Endurance Athletes",
+      "url": "https://www.outsideonline.com/health/training-performance/running-empty/",
+      "score": 32
+    },
+    {
+      "title": "Production-ready detection and response queries for osquery",
+      "url": "https://github.com/chainguard-dev/osquery-defense-kit",
+      "score": 16
+    },
+    {
+      "title": "Linear algebra done right",
+      "url": "https://linear.axler.net/",
+      "score": 116
+    },
+    {
+      "title": "Self hosted email continues to steeply decline",
+      "url": "https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/",
+      "score": 58
+    },
+    {
+      "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
+      "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
+      "score": 100
     },
     {
       "title": "Rhombus 1.1 is now available",
       "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
-      "score": 58
-    },
-    {
-      "title": "Linear Algebra Done Right – Sheldon Axler",
-      "url": "https://linear.axler.net/",
-      "score": 9
-    },
-    {
-      "title": "Low-Tech Ceramic Water Filter",
-      "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
-      "score": 152
-    },
-    {
-      "title": "Design 3D-printable parts by talking",
-      "url": "https://nurb.dev/",
-      "score": 7
-    },
-    {
-      "title": "Applying a photosynthetic process to treat “dry eye”",
-      "url": "https://www.science.org/content/blog-post/taking-tip-plants-eyes",
-      "score": 36
-    },
-    {
-      "title": "Interview with Amit Patel, Creator of “Solar Realms Elite” (2013)",
-      "url": "https://breakintochat.com/blog/2013/02/18/amit-patel-creator-of-solar-realms-elite/",
-      "score": 45
-    },
-    {
-      "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
-      "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
-      "score": 105
+      "score": 97
     },
     {
       "title": "How do I permanently disable random Google Photos popup to backup photos? (2024)",
       "url": "https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en",
-      "score": 84
+      "score": 155
     },
     {
-      "title": "Show HN: Vocal Slice – Cut audio by selecting text, fully on-device",
-      "url": "https://vocalslice.com/",
-      "score": 13
+      "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
+      "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
+      "score": 128
     },
     {
-      "title": "Strong gravitational lensing and microlensing of supernovae (2024)",
-      "url": "https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5",
-      "score": 9
+      "title": "Gakutensoku",
+      "url": "https://en.wikipedia.org/wiki/Gakutensoku",
+      "score": 45
     },
     {
-      "title": "$12B of US ratepayers' money wasted on a modeling mistake in PJM",
-      "url": "https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted",
-      "score": 20
+      "title": "Who Owns Commodore? The Retro PC Brand Still Exists, but a Lot Has Changed",
+      "url": "https://www.bgr.com/2233625/who-owns-commodore-retro-brand/",
+      "score": 5
     },
     {
-      "title": "Dancing with friends and enemies: boids' swarm intelligence (2012)",
-      "url": "https://community.wolfram.com/groups/-/m/t/122095",
-      "score": 38
-    },
-    {
-      "title": "Prolly: A content-addressed ordered map built on prolly trees",
-      "url": "https://github.com/crabbuild/prolly",
-      "score": 27
+      "title": "Applying a photosynthetic process to treat “dry eye”",
+      "url": "https://www.science.org/content/blog-post/taking-tip-plants-eyes",
+      "score": 55
     },
     {
       "title": "The AI Credit Resale Economy",
       "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "score": 266
+      "score": 302
     },
     {
-      "title": "MathCode, Mathematical Coding Agent",
-      "url": "https://math-ai-org.github.io/mathcode/",
-      "score": 84
-    },
-    {
-      "title": "Protobuf has LSP support. You're welcome",
-      "url": "https://buf.build/blog/protobuf-lsp",
-      "score": 140
-    },
-    {
-      "title": "Stripe will reportedly acquire OpenRouter for $7B+",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "score": 291
-    },
-    {
-      "title": "Red queen hypothesis – A new way forward for self-improving AI",
-      "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
-      "score": 40
-    },
-    {
-      "title": "Plastic mechanical computer from 1963: The Digi-Comp 1 [video]",
-      "url": "https://www.youtube.com/watch?v=-y8bGBE71yw",
-      "score": 62
-    },
-    {
-      "title": "Clamiga: Common Lisp for the Amiga",
-      "url": "https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga",
-      "score": 104
-    },
-    {
-      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-      "score": 185
-    },
-    {
-      "title": "Anton Chekhov played at love most of his life",
-      "url": "https://commonreader.wustl.edu/winning-and-losing-at-the-great-game-of-intimacy/",
-      "score": 84
+      "title": "Buyer cancels showing after Deflock shows two cameras utilized by the HOA",
+      "url": "https://twitter.com/lydiakauppi/status/2089196932413452386",
+      "score": 4
     },
     {
       "title": "GIMP Development Update",
       "url": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
-      "score": 5
+      "score": 213
     },
     {
-      "title": "Firefox for iOS now has a native adblocker",
-      "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
-      "score": 626
+      "title": "Protobuf has LSP support",
+      "url": "https://buf.build/blog/protobuf-lsp",
+      "score": 163
+    },
+    {
+      "title": "MathCode, Mathematical Coding Agent",
+      "url": "https://math-ai-org.github.io/mathcode/",
+      "score": 106
+    },
+    {
+      "title": "Prolly: A content-addressed ordered map built on prolly trees",
+      "url": "https://github.com/crabbuild/prolly",
+      "score": 48
+    },
+    {
+      "title": "Stripe will reportedly acquire OpenRouter for $7B+",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "score": 396
+    },
+    {
+      "title": "Clamiga: Common Lisp for the Amiga",
+      "url": "https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga",
+      "score": 120
+    },
+    {
+      "title": "Plastic mechanical computer from 1963: The Digi-Comp 1 [video]",
+      "url": "https://www.youtube.com/watch?v=-y8bGBE71yw",
+      "score": 72
     }
   ]
 }
