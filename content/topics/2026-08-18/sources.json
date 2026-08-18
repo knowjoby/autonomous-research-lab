@@ -1,0 +1,150 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "How Bluesky draws its logo on screenshots",
+      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+      "score": 192
+    },
+    {
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "score": 123
+    },
+    {
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "score": 73
+    },
+    {
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "url": "https://arxiv.org/abs/2608.13759",
+      "score": 155
+    },
+    {
+      "title": "A Preview of DuckDB v2.0",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "score": 525
+    },
+    {
+      "title": "Flock cameras haven't improved Atlanta's crime clearance rates",
+      "url": "https://atlpresscollective.com/2026/07/28/flock-cameras-atlanta-clearance-rates/",
+      "score": 26
+    },
+    {
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "score": 84
+    },
+    {
+      "title": "Incident with Github.com",
+      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+      "score": 521
+    },
+    {
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "score": 310
+    },
+    {
+      "title": "Olo (Color)",
+      "url": "https://en.wikipedia.org/wiki/Olo_(color)",
+      "score": 305
+    },
+    {
+      "title": "The Road to MS-DOS 2.0",
+      "url": "https://nemanjatrifunovic.substack.com/p/the-road-to-ms-dos-2",
+      "score": 13
+    },
+    {
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+      "score": 297
+    },
+    {
+      "title": "Judge sets framework for Nine PBS to retrieve archival data",
+      "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
+      "score": 131
+    },
+    {
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "score": 565
+    },
+    {
+      "title": "How do functions like alloca allocate memory from the stack?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617",
+      "score": 23
+    },
+    {
+      "title": "Sun Clock",
+      "url": "https://sunclock.net/",
+      "score": 164
+    },
+    {
+      "title": "How to disable or avoid intrusive AI",
+      "url": "https://www.librarian.net/notoai/",
+      "score": 250
+    },
+    {
+      "title": "PM Carney announces largest clean energy investment in North American history",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/08/17/prime-minister-carney-announces-largest-clean-energy-investment-north",
+      "score": 21
+    },
+    {
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "url": "https://speko.ai/",
+      "score": 90
+    },
+    {
+      "title": "A particle made of force: physicists say they've found mysterious 'glueball'",
+      "url": "https://www.nature.com/articles/d41586-026-02498-1",
+      "score": 97
+    },
+    {
+      "title": "A digestion of the proof of Sendov's conjecture",
+      "url": "https://terrytao.wordpress.com/2026/08/12/a-digestion-of-the-proof-of-sendovs-conjecture/",
+      "score": 3
+    },
+    {
+      "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
+      "url": "https://blog.roboflow.com/roboflow-playground/",
+      "score": 42
+    },
+    {
+      "title": "A simple fix for LLM tail latency",
+      "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
+      "score": 36
+    },
+    {
+      "title": "Puppy PPE",
+      "url": "http://amosdudley.com/weblog/Designing-PPE-for-Hilde",
+      "score": 12
+    },
+    {
+      "title": "Intriguing stories in computer science",
+      "url": "https://inventwithpython.com/blog/intriguing-stories-in-cs.html",
+      "score": 27
+    },
+    {
+      "title": "GitHub degradation affects Cursor Origin, its new Git platform",
+      "url": "https://status.cursor.com/incidents/l9h9vrd726jv",
+      "score": 24
+    },
+    {
+      "title": "The oldest bar in every state",
+      "url": "https://www.businessinsider.com/oldest-bar-every-state",
+      "score": 65
+    },
+    {
+      "title": "scScript for Linux",
+      "url": "https://scapplications.com/",
+      "score": 10
+    },
+    {
+      "title": "Repair Cafe – Fix Your Broken Items",
+      "url": "https://www.repaircafe.org/",
+      "score": 6
+    }
+  ]
+}
