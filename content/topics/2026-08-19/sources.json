@@ -1,0 +1,155 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+      "url": "https://github.com/DenisSergeevitch/desktop-fly",
+      "score": 128
+    },
+    {
+      "title": "Solo – a .so loader for static Linux binaries",
+      "url": "https://github.com/pg83/solo",
+      "score": 24
+    },
+    {
+      "title": "The Amazon tax",
+      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "score": 910
+    },
+    {
+      "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
+      "url": "https://modelmap.cc",
+      "score": 25
+    },
+    {
+      "title": "How does IKEA come up with names for its products?",
+      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+      "score": 219
+    },
+    {
+      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "score": 201
+    },
+    {
+      "title": "Being ambitious and being a dad",
+      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+      "score": 251
+    },
+    {
+      "title": "AI usage patterns in software teams",
+      "url": "https://linear.app/data",
+      "score": 30
+    },
+    {
+      "title": "Using the railway network as a flatbed scanner",
+      "url": "https://philo.gay/linecam/",
+      "score": 395
+    },
+    {
+      "title": "Cursor launches Origin, GitHub alternative",
+      "url": "https://cursor.com/changelog/origin-code-hosting",
+      "score": 456
+    },
+    {
+      "title": "Beware Management Consultants",
+      "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+      "score": 431
+    },
+    {
+      "title": "Fixing a bricked Framework laptop",
+      "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+      "score": 348
+    },
+    {
+      "title": "A 25-year-old video patent just expired, ending a legal headache for Linux",
+      "url": "https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/",
+      "score": 75
+    },
+    {
+      "title": "Why crypto's best infrastructure companies stopped looking like crypto?",
+      "url": "https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/",
+      "score": 4
+    },
+    {
+      "title": "GLM-5.3 Artificial Analysis Benchmarks",
+      "url": "https://artificialanalysis.ai/models/glm-5-3",
+      "score": 70
+    },
+    {
+      "title": "And then the men with guns tell you to do it anyway",
+      "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+      "score": 152
+    },
+    {
+      "title": "Memory prices climb 500% in 12 months",
+      "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
+      "score": 469
+    },
+    {
+      "title": "The 90-year history of the binoculars bolted to scenic overlooks",
+      "url": "https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/",
+      "score": 14
+    },
+    {
+      "title": "Show HN: Loft Day – a wedding invitation turned point-and-click game",
+      "url": "https://marketa.behdad.org/loft-day",
+      "score": 5
+    },
+    {
+      "title": "How a giant battery is transforming a town centre in Cannington, Ontario",
+      "url": "https://betakit.com/how-a-giant-battery-is-transforming-a-town-centre-in-cannington-ontario/",
+      "score": 13
+    },
+    {
+      "title": "Apple announces changes for apps in the European Union",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "score": 107
+    },
+    {
+      "title": "Programmable Property-Based Testing",
+      "url": "https://dl.acm.org/doi/10.1145/3828685",
+      "score": 14
+    },
+    {
+      "title": "Norway should buy OpenAI",
+      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+      "score": 205
+    },
+    {
+      "title": "2,500-year-old sculpture discovered at UNESCO site in Turkey",
+      "url": "https://www.theartnewspaper.com/2026/08/07/colossal-2500-year-old-sculpture-discovered-turkey-unesco-site",
+      "score": 69
+    },
+    {
+      "title": "Universal health coverage could save $1T and 114k lives a year: study",
+      "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+      "score": 695
+    },
+    {
+      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+      "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+      "score": 107
+    },
+    {
+      "title": "Claude Code May–August 2026 weekly limits promotion",
+      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "score": 255
+    },
+    {
+      "title": "Simulated red blood cells and microscopy",
+      "url": "https://lucasamoudruz.com/blog/red-blood-cells.html",
+      "score": 6
+    },
+    {
+      "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+      "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+      "score": 158
+    },
+    {
+      "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
+      "url": "https://machine0.io",
+      "score": 59
+    }
+  ]
+}
