@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
-      "score": 32
+      "title": "Don't Paste the AI, please",
+      "url": "https://dontpastetheai.com/",
+      "score": 601
+    },
+    {
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "score": 188
+    },
+    {
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "score": 29
+    },
+    {
+      "title": "Windows brings out the Rorschach test in everyone (2003)",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+      "score": 252
     },
     {
       "title": "OpenRouter is joining Stripe",
       "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "score": 788
+      "score": 891
     },
     {
       "title": "Turns are Better than Radians (2022)",
       "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-      "score": 135
+      "score": 249
     },
     {
-      "title": "Go 1.27",
-      "url": "https://go.dev/blog/go1.27",
-      "score": 575
-    },
-    {
-      "title": "A faster way to calculate the day of the week",
-      "url": "https://www.benjoffe.com/fast-day-of-week",
-      "score": 100
+      "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
+      "url": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff",
+      "score": 1
     },
     {
       "title": "Google has stopped pushing Git tags for some Android source code",
       "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "score": 431
+      "score": 677
     },
     {
-      "title": "Manabu Kosaka's Handmade Paper Sculptures",
-      "url": "https://coca11272000.wixsite.com/manabukosaka",
-      "score": 102
+      "title": "Go 1.27",
+      "url": "https://go.dev/blog/go1.27",
+      "score": 691
     },
     {
-      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
-      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
-      "score": 186
+      "title": "A faster way to calculate the day of the week",
+      "url": "https://www.benjoffe.com/fast-day-of-week",
+      "score": 194
     },
     {
       "title": "A joke domain purchase turned in geopolitical warfare",
       "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "score": 838
+      "score": 943
+    },
+    {
+      "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+      "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+      "score": 5
+    },
+    {
+      "title": "Manabu Kosaka's Handmade Paper Sculptures",
+      "url": "https://coca11272000.wixsite.com/manabukosaka",
+      "score": 152
     },
     {
       "title": "Unsloth Dynamic 3.0 GGUFs",
       "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-      "score": 230
+      "score": 295
     },
     {
-      "title": "Sol loves to cheat",
-      "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
-      "score": 133
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+      "score": 232
     },
     {
       "title": "Casio F-B100W-1A",
       "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
-      "score": 333
+      "score": 416
     },
     {
-      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
-      "url": "https://os8088.com/spotlight/",
-      "score": 76
+      "title": "Sol loves to cheat",
+      "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
+      "score": 190
+    },
+    {
+      "title": "Filtered Vector Search: What Acorn Fixes, and What Fixes Acorn",
+      "url": "https://qdrant.tech/articles/filtered-vector-search-acorn/",
+      "score": 6
     },
     {
       "title": "Geolocating a random island using geometry and CUDA programming",
       "url": "https://yassa9.github.io/osint/gralhix-004/",
-      "score": 454
+      "score": 495
     },
     {
-      "title": "Feature Request: Support AGENTS.md",
-      "url": "https://github.com/anthropics/claude-code/issues/6235",
-      "score": 204
-    },
-    {
-      "title": "Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)",
-      "url": "https://github.com/cesarblum/sectorforth",
-      "score": 16
-    },
-    {
-      "title": "Pixel 11 Pro Fold feels like the end of an era",
-      "url": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
-      "score": 53
+      "title": "The Chauffeur Problem",
+      "url": "https://engines.egr.uh.edu/episode/1495",
+      "score": 32
     },
     {
       "title": "fx :Tiny, open, native coding agent.",
       "url": "https://fx.sh",
-      "score": 235
-    },
-    {
-      "title": "Rewriting in Rust",
-      "url": "https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/",
-      "score": 28
+      "score": 292
     },
     {
       "title": "PostgreSQL for Everything",
       "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
-      "score": 343
+      "score": 395
     },
     {
-      "title": "The little-known winstart.bat batch file",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605",
-      "score": 107
+      "title": "Australia passes law to levy tech giants that fail to pay for local news",
+      "url": "https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/",
+      "score": 13
+    },
+    {
+      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+      "url": "https://os8088.com/spotlight/",
+      "score": 105
+    },
+    {
+      "title": "Feature Request: Support AGENTS.md",
+      "url": "https://github.com/anthropics/claude-code/issues/6235",
+      "score": 306
     },
     {
       "title": "Mathematics in the age of AI",
       "url": "https://arxiv.org/abs/2608.16753",
-      "score": 152
+      "score": 187
     },
     {
-      "title": "Simulacra and Simulation",
-      "url": "https://en.wikipedia.org/wiki/Simulacra_and_Simulation",
-      "score": 56
+      "title": "Pixel 11 Pro Fold feels like the end of an era",
+      "url": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
+      "score": 80
+    },
+    {
+      "title": "Risk Engineering",
+      "url": "https://risk-engineering.org/",
+      "score": 5
+    },
+    {
+      "title": "Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)",
+      "url": "https://github.com/cesarblum/sectorforth",
+      "score": 40
     },
     {
       "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
       "url": "https://github.com/onecli/onecli",
-      "score": 73
-    },
-    {
-      "title": "Xorshift Generators",
-      "url": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
-      "score": 71
-    },
-    {
-      "title": "Extensible Software in the age of LLMs",
-      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
-      "score": 140
-    },
-    {
-      "title": "Air Theremin – A browser theremin you play by waving at your webcam",
-      "url": "https://theremin.bizibah.com/",
-      "score": 268
-    },
-    {
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
-      "score": 146
-    },
-    {
-      "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
-      "url": "https://ornith.ai/ornith_1_5.html",
-      "score": 188
-    },
-    {
-      "title": "DFlash 2: Keep Drafting Parallel",
-      "url": "https://inco.ai/blog/dflash2/",
-      "score": 85
+      "score": 81
     }
   ]
 }
