@@ -1,0 +1,155 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "The August 17 outage, and the work ahead",
+      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "score": 301
+    },
+    {
+      "title": "Consumer Rights Wiki",
+      "url": "https://consumerrights.wiki/w/Main_Page",
+      "score": 210
+    },
+    {
+      "title": "Copyright does not protect AI-generated content in EU",
+      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+      "score": 44
+    },
+    {
+      "title": "I like 'em thick: an apology to my English teachers",
+      "url": "https://www.experimental-history.com/p/i-like-em-thick",
+      "score": 552
+    },
+    {
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+      "score": 904
+    },
+    {
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "score": 872
+    },
+    {
+      "title": "I should have loved biology (2020)",
+      "url": "https://jsomers.net/i-should-have-loved-biology/",
+      "score": 195
+    },
+    {
+      "title": "HTML Can Do That",
+      "url": "https://chrisburnell.com/html-can-do-that/",
+      "score": 559
+    },
+    {
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "score": 391
+    },
+    {
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "score": 215
+    },
+    {
+      "title": "Stealth Model",
+      "url": "https://openrouter.ai/stealth/ox-alpha",
+      "score": 14
+    },
+    {
+      "title": "CIA funding helped keep NeXT afloat in the 80s",
+      "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
+      "score": 329
+    },
+    {
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "score": 494
+    },
+    {
+      "title": "There's no such thing as a small software team anymore",
+      "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
+      "score": 8
+    },
+    {
+      "title": "Why aren't smart people happier? (2022)",
+      "url": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
+      "score": 81
+    },
+    {
+      "title": "Detecting scraper bots through scroll behaviour",
+      "url": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
+      "score": 21
+    },
+    {
+      "title": "Linux 7.2",
+      "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+      "score": 191
+    },
+    {
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "url": "https://github.com/zachahn/vomit",
+      "score": 187
+    },
+    {
+      "title": "Speeding Up the Plush Garbage Collector",
+      "url": "https://pointersgonewild.com/2026-08-17-speeding-up-the-plush-garbage-collector/",
+      "score": 13
+    },
+    {
+      "title": "SpacetimeDB: A Short Technical Review",
+      "url": "https://strn.cat/posts/spacetime/",
+      "score": 57
+    },
+    {
+      "title": "Tidal Cycles – Live coding music with Algorithmic patterns",
+      "url": "https://tidalcycles.org/",
+      "score": 54
+    },
+    {
+      "title": "Sixtyfour (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
+      "score": 1
+    },
+    {
+      "title": "How to compromise your system with a job interview",
+      "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
+      "score": 117
+    },
+    {
+      "title": "Anti-AI fonts are useless and harmful",
+      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "score": 114
+    },
+    {
+      "title": "Mojo is now open source",
+      "url": "https://www.modular.com/blog/mojo-open-source",
+      "score": 339
+    },
+    {
+      "title": "Git at any scale",
+      "url": "https://cursor.com/blog/git-at-any-scale",
+      "score": 269
+    },
+    {
+      "title": "Every Model Cheats",
+      "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
+      "score": 80
+    },
+    {
+      "title": "The Citizen Developer",
+      "url": "https://www.massdriver.cloud/blogs/the-citizen-developer",
+      "score": 40
+    },
+    {
+      "title": "DiffusionGemma Technical Report",
+      "url": "https://arxiv.org/abs/2608.00146",
+      "score": 133
+    },
+    {
+      "title": "Hacking with Claude on a $27 smart watch",
+      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+      "score": 82
+    }
+  ]
+}
