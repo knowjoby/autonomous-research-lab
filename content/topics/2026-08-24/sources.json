@@ -1,0 +1,155 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "Everything I own, owned",
+      "url": "https://schlarp.com/posts/everything-i-own-owned/",
+      "score": 221
+    },
+    {
+      "title": "How I find problems to solve as a staff engineer",
+      "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+      "score": 253
+    },
+    {
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "score": 189
+    },
+    {
+      "title": "Google Workspace thinks my domain is an email provider (2025)",
+      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+      "score": 167
+    },
+    {
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "url": "https://fabiensanglard.net/agent.md/index.html",
+      "score": 145
+    },
+    {
+      "title": "What Is a Harness?",
+      "url": "https://earendil.com/posts/what-is-a-harness/",
+      "score": 290
+    },
+    {
+      "title": "How Complex Systems Fail (1998)",
+      "url": "https://how.complexsystems.fail/",
+      "score": 234
+    },
+    {
+      "title": "AI Chip Architectures",
+      "url": "https://www.jepeake.com/ai-chip-architectures",
+      "score": 35
+    },
+    {
+      "title": "Malware infects Android-based automotive head unit firmware",
+      "url": "https://securelist.com/android-head-unit-malware/121106/",
+      "score": 210
+    },
+    {
+      "title": "Implementation of GPT-2 in pure CMake",
+      "url": "https://github.com/AlpinDale/gpt2.cmake",
+      "score": 23
+    },
+    {
+      "title": "My favorite nonfiction books about cults, scams, and schemes",
+      "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+      "score": 190
+    },
+    {
+      "title": "A website for debloated open source alternatives",
+      "url": "https://debloat.dev/",
+      "score": 260
+    },
+    {
+      "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
+      "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
+      "score": 128
+    },
+    {
+      "title": "Decoding silent reading from non-invasive EEG",
+      "url": "https://arxiv.org/abs/2608.20186",
+      "score": 28
+    },
+    {
+      "title": "Explain it to me like I'm ten",
+      "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
+      "score": 78
+    },
+    {
+      "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
+      "url": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
+      "score": 21
+    },
+    {
+      "title": "Declarative WebGPU with S-Expressions",
+      "url": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
+      "score": 18
+    },
+    {
+      "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
+      "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
+      "score": 160
+    },
+    {
+      "title": "AI and Infrastructure Engineering",
+      "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
+      "score": 38
+    },
+    {
+      "title": "Kodak DC50 now usable on the Apple II",
+      "url": "https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/",
+      "score": 32
+    },
+    {
+      "title": "The Vibe Tax",
+      "url": "https://insufferable.dev/posts/vibe-tax/",
+      "score": 100
+    },
+    {
+      "title": "The Remote Work Challenge: Lessons from 5 Cities",
+      "url": "https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities",
+      "score": 30
+    },
+    {
+      "title": "The planet now has more trees than it did 35 years ago (2018)",
+      "url": "https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/",
+      "score": 48
+    },
+    {
+      "title": "Fable and the end of the free lunch",
+      "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
+      "score": 108
+    },
+    {
+      "title": "Parallel development without the headaches using Git worktree",
+      "url": "https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/",
+      "score": 14
+    },
+    {
+      "title": "Things I want in a modern relational query language",
+      "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
+      "score": 83
+    },
+    {
+      "title": "Coconut oil jet fuel matches kerosene's efficiency in engine tests",
+      "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
+      "score": 142
+    },
+    {
+      "title": "A complex structure on S^6 [pdf]",
+      "url": "https://alpo.ge/s6.pdf",
+      "score": 45
+    },
+    {
+      "title": "Death to px, long live ch",
+      "url": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
+      "score": 60
+    },
+    {
+      "title": "The Sloppification of Peptides",
+      "url": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
+      "score": 90
+    }
+  ]
+}
