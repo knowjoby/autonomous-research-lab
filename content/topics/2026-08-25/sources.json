@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "score": 385
+      "title": "Don't Wordle",
+      "url": "https://dontwordle.com/",
+      "score": 24
     },
     {
-      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-      "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "score": 815
+      "title": "HelloAssembly The smallest possible complete Windows application",
+      "url": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
+      "score": 11
+    },
+    {
+      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "score": 511
     },
     {
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "score": 658
+      "score": 753
     },
     {
-      "title": "Nostr is an inclusive communication commons",
-      "url": "https://nostr.org/",
-      "score": 89
+      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "url": "https://twitter.com/lemire/status/2091894299289874926",
+      "score": 912
     },
     {
       "title": "How Universities Should Prepare Founders",
       "url": "https://paulgraham.com/prepare.html",
-      "score": 86
-    },
-    {
-      "title": "Show HN: Screen memory without screenshots, just text to Markdown",
-      "url": "https://github.com/dragthelake/ambient-context",
-      "score": 21
-    },
-    {
-      "title": "How Europe is killing makers and micro-entrepreneurs",
-      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-      "score": 1213
-    },
-    {
-      "title": "Moon (2024)",
-      "url": "https://ciechanow.ski/moon/",
-      "score": 150
-    },
-    {
-      "title": "Headlong: A Microharness for Persistent Agents",
-      "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-      "score": 31
-    },
-    {
-      "title": "The entire city of San Francisco as a video game",
-      "url": "https://sf.thijs.gg/",
-      "score": 420
-    },
-    {
-      "title": "Was modern art a CIA psy-op? (2020)",
-      "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
-      "score": 57
-    },
-    {
-      "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-      "url": "https://github.com/murerkinn/bookshelf",
-      "score": 76
-    },
-    {
-      "title": "Where did all the public bathrooms go?",
-      "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
-      "score": 209
-    },
-    {
-      "title": "What's new in Emacs 31.1",
-      "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
-      "score": 96
+      "score": 163
     },
     {
       "title": "SiFive's First Server Platform",
       "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
-      "score": 12
+      "score": 75
     },
     {
-      "title": "Jabber/XMPP: 25 Years of Digital Independence",
-      "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
-      "score": 210
+      "title": "How Europe is killing makers and micro-entrepreneurs",
+      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+      "score": 1458
     },
     {
-      "title": "Octopus intelligence may be related to never-before-seen mutation",
-      "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
-      "score": 133
+      "title": "The entire city of San Francisco as a video game",
+      "url": "https://sf.thijs.gg/",
+      "score": 510
     },
     {
-      "title": "Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",
-      "url": "https://github.com/ovenpasta/adi2",
+      "title": "Moon (2024)",
+      "url": "https://ciechanow.ski/moon/",
+      "score": 216
+    },
+    {
+      "title": "What's new in Emacs 31.1",
+      "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
+      "score": 186
+    },
+    {
+      "title": "Credit Card Rewards Became a $9.2B Wealth Transfer",
+      "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
+      "score": 86
+    },
+    {
+      "title": "Quantum battery upends the rules of charging",
+      "url": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
       "score": 43
     },
     {
-      "title": "Walgit – a Git server that is one binary in front of an object store",
-      "url": "https://github.com/tobi/walgit",
-      "score": 63
+      "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+      "url": "https://github.com/murerkinn/bookshelf",
+      "score": 121
     },
     {
-      "title": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
-      "url": "https://tarjan.itch.io/thoreaubasic",
-      "score": 34
+      "title": "Where did all the public bathrooms go?",
+      "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+      "score": 272
     },
     {
-      "title": "Crafting QR Codes: A deep dive into QR code art (2024)",
-      "url": "https://kylezhe.ng/writes/crafting-qr-codes",
-      "score": 47
+      "title": "Headlong: A Microharness for Persistent Agents",
+      "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+      "score": 85
     },
     {
       "title": "Vintage Artificial Intelligence: Before It Got Awkward",
       "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-      "score": 79
-    },
-    {
-      "title": "Training AI to Paint with Code",
-      "url": "https://surya.website/rling-qwen-to-paint-with-code",
-      "score": 69
+      "score": 120
     },
     {
       "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
-      "score": 131
+      "score": 181
+    },
+    {
+      "title": "Training AI to Paint with Code",
+      "url": "https://surya.website/rling-qwen-to-paint-with-code",
+      "score": 125
+    },
+    {
+      "title": "Jabber/XMPP: 25 Years of Digital Independence",
+      "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
+      "score": 244
+    },
+    {
+      "title": "Nostr is an inclusive communication commons",
+      "url": "https://nostr.org/",
+      "score": 167
+    },
+    {
+      "title": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
+      "url": "https://tarjan.itch.io/thoreaubasic",
+      "score": 80
+    },
+    {
+      "title": "Walgit – a Git server that is one binary in front of an object store",
+      "url": "https://github.com/tobi/walgit",
+      "score": 113
+    },
+    {
+      "title": "Crafting QR Codes: A deep dive into QR code art (2024)",
+      "url": "https://kylezhe.ng/writes/crafting-qr-codes",
+      "score": 100
+    },
+    {
+      "title": "Was modern art a CIA psy-op? (2020)",
+      "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
+      "score": 103
     },
     {
       "title": "LLMs could control their host machines by exploiting inference engines",
       "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "score": 125
+      "score": 163
     },
     {
-      "title": "Thomson Reuters Launches Its Own Frontier Model",
-      "url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
-      "score": 83
-    },
-    {
-      "title": "Ox-Alpha Is GLM?",
-      "url": "https://dejan.ai/blog/ox-alpha/",
-      "score": 67
+      "title": "I were 17, I'd learn how to build LLMs from scratch",
+      "url": "https://twitter.com/paulg/status/2091544343589060625",
+      "score": 564
     },
     {
       "title": "SeL4 security proofs now complete on AArch64",
       "url": "https://proofcraft.systems/news-2026/#2026-08-21",
-      "score": 182
+      "score": 192
     },
     {
       "title": "Oceans hit highest temperature on record",
       "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-      "score": 484
+      "score": 619
     },
     {
-      "title": "Could we dredge the Netherlands without fossil fuels? (2018)",
-      "url": "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels",
-      "score": 48
+      "title": "Octopus intelligence may be related to never-before-seen mutation",
+      "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
+      "score": 180
     }
   ]
 }
