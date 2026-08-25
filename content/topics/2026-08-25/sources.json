@@ -4,152 +4,152 @@
     {
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
       "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "score": 197
+      "score": 385
     },
     {
       "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "score": 717
-    },
-    {
-      "title": "Moon (2024)",
-      "url": "https://ciechanow.ski/moon/",
-      "score": 90
+      "score": 815
     },
     {
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "score": 550
+      "score": 658
     },
     {
-      "title": "The entire city of San Francisco as a video game",
-      "url": "https://sf.thijs.gg/",
-      "score": 329
+      "title": "Nostr is an inclusive communication commons",
+      "url": "https://nostr.org/",
+      "score": 89
+    },
+    {
+      "title": "How Universities Should Prepare Founders",
+      "url": "https://paulgraham.com/prepare.html",
+      "score": 86
+    },
+    {
+      "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+      "url": "https://github.com/dragthelake/ambient-context",
+      "score": 21
     },
     {
       "title": "How Europe is killing makers and micro-entrepreneurs",
       "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-      "score": 1046
+      "score": 1213
     },
     {
-      "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
-      "url": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
-      "score": 119
+      "title": "Moon (2024)",
+      "url": "https://ciechanow.ski/moon/",
+      "score": 150
+    },
+    {
+      "title": "Headlong: A Microharness for Persistent Agents",
+      "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+      "score": 31
+    },
+    {
+      "title": "The entire city of San Francisco as a video game",
+      "url": "https://sf.thijs.gg/",
+      "score": 420
+    },
+    {
+      "title": "Was modern art a CIA psy-op? (2020)",
+      "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
+      "score": 57
     },
     {
       "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
       "url": "https://github.com/murerkinn/bookshelf",
-      "score": 24
+      "score": 76
     },
     {
       "title": "Where did all the public bathrooms go?",
       "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
-      "score": 145
+      "score": 209
+    },
+    {
+      "title": "What's new in Emacs 31.1",
+      "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
+      "score": 96
+    },
+    {
+      "title": "SiFive's First Server Platform",
+      "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
+      "score": 12
     },
     {
       "title": "Jabber/XMPP: 25 Years of Digital Independence",
       "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
-      "score": 166
-    },
-    {
-      "title": "IPFS Maintainers Winding Down",
-      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-      "score": 320
-    },
-    {
-      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-      "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-      "score": 49
+      "score": 210
     },
     {
       "title": "Octopus intelligence may be related to never-before-seen mutation",
       "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
-      "score": 75
+      "score": 133
     },
     {
-      "title": "Oceans hit highest temperature on record",
-      "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-      "score": 386
+      "title": "Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",
+      "url": "https://github.com/ovenpasta/adi2",
+      "score": 43
     },
     {
-      "title": "LLMs could control their host machines by exploiting inference engines",
-      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "score": 88
+      "title": "Walgit – a Git server that is one binary in front of an object store",
+      "url": "https://github.com/tobi/walgit",
+      "score": 63
     },
     {
-      "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
-      "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
-      "score": 76
+      "title": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
+      "url": "https://tarjan.itch.io/thoreaubasic",
+      "score": 34
+    },
+    {
+      "title": "Crafting QR Codes: A deep dive into QR code art (2024)",
+      "url": "https://kylezhe.ng/writes/crafting-qr-codes",
+      "score": 47
+    },
+    {
+      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+      "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+      "score": 79
+    },
+    {
+      "title": "Training AI to Paint with Code",
+      "url": "https://surya.website/rling-qwen-to-paint-with-code",
+      "score": 69
     },
     {
       "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
-      "score": 89
+      "score": 131
     },
     {
-      "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
-      "url": "https://picomq.com/",
-      "score": 92
+      "title": "LLMs could control their host machines by exploiting inference engines",
+      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "score": 125
+    },
+    {
+      "title": "Thomson Reuters Launches Its Own Frontier Model",
+      "url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+      "score": 83
+    },
+    {
+      "title": "Ox-Alpha Is GLM?",
+      "url": "https://dejan.ai/blog/ox-alpha/",
+      "score": 67
     },
     {
       "title": "SeL4 security proofs now complete on AArch64",
       "url": "https://proofcraft.systems/news-2026/#2026-08-21",
-      "score": 170
+      "score": 182
     },
     {
-      "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-      "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
-      "score": 1
+      "title": "Oceans hit highest temperature on record",
+      "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+      "score": 484
     },
     {
-      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-      "url": "https://developers.openai.com/api/docs/pricing",
-      "score": 289
-    },
-    {
-      "title": "Agent Lightning v1.0",
-      "url": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
-      "score": 42
-    },
-    {
-      "title": "Coding expertise is going to collapse from AI reliance",
-      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-      "score": 450
-    },
-    {
-      "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
-      "url": "https://ssx360.github.io/rack-02/?src=hn",
-      "score": 162
-    },
-    {
-      "title": "What Is a Syslog Server?",
-      "url": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
-      "score": 51
-    },
-    {
-      "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
-      "url": "https://textlog.cc/post/2059",
+      "title": "Could we dredge the Netherlands without fossil fuels? (2018)",
+      "url": "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels",
       "score": 48
-    },
-    {
-      "title": "Show HN: Flostep – Diagrams people can actually walkthrough",
-      "url": "https://flostep.dev/",
-      "score": 6
-    },
-    {
-      "title": "Anger, Anxiety and Agency",
-      "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-      "score": 93
-    },
-    {
-      "title": "Codefloe Is a Professionally Hosted Public Git Forge",
-      "url": "https://codefloe.com/",
-      "score": 55
-    },
-    {
-      "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
-      "url": "https://glassbox.codecanary.org",
-      "score": 88
     }
   ]
 }
