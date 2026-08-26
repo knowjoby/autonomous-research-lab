@@ -2,104 +2,134 @@
   "papers": [],
   "discussions": [
     {
-      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "score": 246
+      "title": "More than half of adults in U.S. say they lack basic statistical understanding",
+      "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
+      "score": 22
     },
     {
       "title": "Apple introduces M6 and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "score": 941
+      "score": 1072
+    },
+    {
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "score": 351
     },
     {
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "score": 314
+      "score": 424
+    },
+    {
+      "title": "Queryable Executables",
+      "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+      "score": 106
+    },
+    {
+      "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
+      "url": "https://www.youtube.com/watch?v=656058JxTM0",
+      "score": 28
     },
     {
       "title": "New Mac Studio with M5 Max and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "score": 698
+      "score": 746
     },
     {
       "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
       "url": "https://github.com/runetes/maiao",
-      "score": 23
-    },
-    {
-      "title": "Python's pre-declared constants are kinda weird",
-      "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
-      "score": 130
-    },
-    {
-      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
-      "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-      "score": 54
+      "score": 60
     },
     {
       "title": "Black hole singularity is a surface not a point",
       "url": "https://arxiv.org/abs/2608.21590",
-      "score": 182
-    },
-    {
-      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-      "url": "https://github.com/swimmingbrain/texbrain",
-      "score": 39
-    },
-    {
-      "title": "C2PA Cameras Do Not Survive Contact with Reality",
-      "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-      "score": 71
+      "score": 222
     },
     {
       "title": "New Mac mini, featuring M6 and M5 Pro",
       "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "score": 418
+      "score": 474
     },
     {
-      "title": "Nitter and XCancel receive cease and desist",
+      "title": "When str.lower() is a security vulnerability in Python",
+      "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+      "score": 98
+    },
+    {
+      "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+      "url": "https://arxiv.org/abs/2607.21503",
+      "score": 22
+    },
+    {
+      "title": "C2PA Cameras Do Not Survive Contact with Reality",
+      "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+      "score": 126
+    },
+    {
+      "title": "Nitter and XCancel receive cease and desist notices",
       "url": "https://github.com/zedeus/nitter/issues/1442",
-      "score": 604
-    },
-    {
-      "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-      "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-      "score": 259
-    },
-    {
-      "title": "Run OpenBSD on DigitalOcean for $4/month",
-      "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-      "score": 116
+      "score": 800
     },
     {
       "title": "Building a backyard office, the build and cost breakdown",
       "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-      "score": 257
+      "score": 316
     },
     {
-      "title": "Dolly Parton has died",
-      "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-      "score": 1186
+      "title": "Secret Cold War IBM Supercomputer Was Built for One Job",
+      "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
+      "score": 4
     },
     {
-      "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
-      "url": "https://github.com/jeffhajewski/latticedb",
-      "score": 104
+      "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+      "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+      "score": 300
     },
     {
-      "title": "A brief history of federal lift ticket regulation",
-      "url": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
-      "score": 23
+      "title": "Run OpenBSD on DigitalOcean for $4/month",
+      "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+      "score": 148
+    },
+    {
+      "title": "Tooltips need a delay, and then they need to skip it",
+      "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+      "score": 153
+    },
+    {
+      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "url": "https://github.com/swimmingbrain/texbrain",
+      "score": 76
     },
     {
       "title": "Don't Wordle",
       "url": "https://dontwordle.com/",
-      "score": 298
+      "score": 338
     },
     {
       "title": "Show HN: I made a Raspberry with Qwen my local car AI",
       "url": "https://github.com/ThinkOffApp/CarWatch",
-      "score": 92
+      "score": 126
+    },
+    {
+      "title": "A brief history of federal lift ticket regulation",
+      "url": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
+      "score": 58
+    },
+    {
+      "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
+      "url": "https://github.com/jeffhajewski/latticedb",
+      "score": 134
+    },
+    {
+      "title": "Dolly Parton has died",
+      "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+      "score": 1391
+    },
+    {
+      "title": "My Friend Aaron",
+      "url": "https://rorz.io/writing/my-friend-aaron",
+      "score": 520
     },
     {
       "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
@@ -107,49 +137,19 @@
       "score": 1
     },
     {
-      "title": "My Friend Aaron",
-      "url": "https://rorz.io/writing/my-friend-aaron",
-      "score": 433
-    },
-    {
-      "title": "Tracking Costco gas prices",
-      "url": "https://www.jack.bio/blog/costco-gas-tracking",
-      "score": 74
-    },
-    {
-      "title": "Tooltips need a delay, and then they need to skip it",
-      "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-      "score": 108
-    },
-    {
       "title": "Firefox 157 will include JPEG XL by default on all platforms",
       "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-      "score": 270
-    },
-    {
-      "title": "Starbase, LA",
-      "url": "https://www.spacex.com/sites/starbase-la",
-      "score": 214
+      "score": 343
     },
     {
       "title": "Visualizing Binary Files",
       "url": "https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html",
-      "score": 80
+      "score": 100
     },
     {
-      "title": "Show HN: I built self-hosted deployment automation tool for Windows and IIS",
-      "url": "https://fdeploy.com/",
-      "score": 16
-    },
-    {
-      "title": "Fuzzing the Gleam Compiler",
-      "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
-      "score": 55
-    },
-    {
-      "title": "Behaviorally fingerprinting Ox Alpha's provenance",
-      "url": "https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance",
-      "score": 29
+      "title": "Tracking Costco gas prices",
+      "url": "https://www.jack.bio/blog/costco-gas-tracking",
+      "score": 106
     }
   ]
 }
