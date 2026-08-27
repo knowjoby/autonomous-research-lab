@@ -1,0 +1,155 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "score": 875
+    },
+    {
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "score": 464
+    },
+    {
+      "title": "Pnpm 12.0",
+      "url": "https://pnpm.io/blog/releases/12.0",
+      "score": 60
+    },
+    {
+      "title": "Mechanical Turk shutting down September 30",
+      "url": "https://www.mturk.com/",
+      "score": 297
+    },
+    {
+      "title": "GLM-5.3-Flash",
+      "url": "https://z.ai/blog/glm-5.3-flash",
+      "score": 979
+    },
+    {
+      "title": "Asahi Linux Progress Report: Linux 7.2",
+      "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+      "score": 221
+    },
+    {
+      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+      "url": "https://github.com/tailscale/tailcat",
+      "score": 547
+    },
+    {
+      "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
+      "url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
+      "score": 141
+    },
+    {
+      "title": "U.S. State Department pauses immigrant visa applications",
+      "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
+      "score": 460
+    },
+    {
+      "title": "Laion Big Video Dataset",
+      "url": "https://projects.laion.ai/bvd/",
+      "score": 52
+    },
+    {
+      "title": "An ongoing 3D-printer AGPL violation",
+      "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
+      "score": 381
+    },
+    {
+      "title": "Stripe acquires Clerky",
+      "url": "https://www.clerky.com/blog/clerky-is-joining-stripe",
+      "score": 150
+    },
+    {
+      "title": "Zohran and the Short Link",
+      "url": "https://iamwillwang.com/notes/zohran-and-the-short-link/",
+      "score": 172
+    },
+    {
+      "title": "Twitter Viewer – View Twitter Without Account",
+      "url": "https://twitterwebviewer.com/",
+      "score": 404
+    },
+    {
+      "title": "The Hugging Face incident and the road ahead",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+      "score": 246
+    },
+    {
+      "title": "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela",
+      "url": "https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/",
+      "score": 256
+    },
+    {
+      "title": "Kusama Yayoi has died",
+      "url": "https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html",
+      "score": 146
+    },
+    {
+      "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
+      "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
+      "score": 154
+    },
+    {
+      "title": "Nebula Sans",
+      "url": "https://www.nebulasans.com",
+      "score": 401
+    },
+    {
+      "title": "IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE",
+      "url": "https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone",
+      "score": 121
+    },
+    {
+      "title": "FDA approves first in class targeted therapy for metastatic pancreatic cancer",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer",
+      "score": 203
+    },
+    {
+      "title": "The Harness Is the Thing",
+      "url": "https://scott-fryxell.github.io/blog/the-harness-is-the-thing/",
+      "score": 102
+    },
+    {
+      "title": "Mold: A Massively Parallel Linker",
+      "url": "https://arxiv.org/abs/2608.23228",
+      "score": 116
+    },
+    {
+      "title": "Serve Markdown to AI Agents with Accept Headers",
+      "url": "https://acceptmarkdown.com/",
+      "score": 122
+    },
+    {
+      "title": "The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "score": 220
+    },
+    {
+      "title": "Taylor Farms: How One Company's Reach Became a National Risk",
+      "url": "https://farmaction.us/taylorfarmsreport/",
+      "score": 268
+    },
+    {
+      "title": "AWS Acquires DuckLabs",
+      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+      "score": 1032
+    },
+    {
+      "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
+      "url": "https://www.risklytics.ai/",
+      "score": 51
+    },
+    {
+      "title": "Getting video models to learn better, faster",
+      "url": "https://www.linum.ai/field-notes/data-filtering-gen-video",
+      "score": 21
+    },
+    {
+      "title": "Tim Curry has died",
+      "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
+      "score": 625
+    }
+  ]
+}
