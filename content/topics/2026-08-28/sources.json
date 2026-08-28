@@ -1,0 +1,155 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "Overcooked? Why robotic pizza makers are failing",
+      "url": "https://www.bbc.com/news/articles/czxq0wgkkdjo",
+      "score": 15
+    },
+    {
+      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "score": 753
+    },
+    {
+      "title": "That's a Lot of YAML",
+      "url": "https://noyaml.com/",
+      "score": 26
+    },
+    {
+      "title": "Small Models Have Arrived",
+      "url": "https://calv.info/small-models-have-arrived",
+      "score": 637
+    },
+    {
+      "title": "Sovereign Tech Agency invests €500k in Flatpak",
+      "url": "https://modal.cx/blog/announcing-flatpak-sta/",
+      "score": 105
+    },
+    {
+      "title": "507 Mechanical Movements",
+      "url": "https://507movements.com/",
+      "score": 580
+    },
+    {
+      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "url": "https://github.com/elyosh/OpenTIE/",
+      "score": 160
+    },
+    {
+      "title": "Gemini-3.5-Transcribe",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "score": 281
+    },
+    {
+      "title": "Microduck",
+      "url": "https://pollen-robotics.com/microduck/",
+      "score": 655
+    },
+    {
+      "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+      "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+      "score": 243
+    },
+    {
+      "title": "Doctors are finally learning to manage antidepressant withdrawal",
+      "url": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
+      "score": 116
+    },
+    {
+      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+      "url": "https://www.terminal-bench-science.ai/announcement",
+      "score": 86
+    },
+    {
+      "title": "Gemini Omni 1.1 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+      "score": 249
+    },
+    {
+      "title": "Climate change is strengthening El Niño, coral records suggest",
+      "url": "https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest",
+      "score": 36
+    },
+    {
+      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "url": "https://github.com/experientiallabs/experiential",
+      "score": 177
+    },
+    {
+      "title": "Show HN: The load-bearing vocabulary of Claude",
+      "url": "https://louisabraham.github.io/load-bearing/",
+      "score": 515
+    },
+    {
+      "title": "The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "score": 294
+    },
+    {
+      "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
+      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+      "score": 1
+    },
+    {
+      "title": "Decompiling a Nintendo 64 game in 84 days",
+      "url": "https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/",
+      "score": 241
+    },
+    {
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "score": 1896
+    },
+    {
+      "title": "Afterglow: Run classic After Dark screen savers on modern macOS",
+      "url": "https://morphing.cloud/afterglow/",
+      "score": 152
+    },
+    {
+      "title": "Select * from Internet.blogposts",
+      "url": "https://pfrazee.leaflet.pub/3mu3p2smmis22",
+      "score": 90
+    },
+    {
+      "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+      "score": 108
+    },
+    {
+      "title": "Emacs 31: An unofficial guide to Markdown-ts-mode",
+      "url": "https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31",
+      "score": 179
+    },
+    {
+      "title": "Bootstrappable Builds: How and Why",
+      "url": "https://lwn.net/Articles/1088279/",
+      "score": 36
+    },
+    {
+      "title": "M5Stack Launches PaperMono",
+      "url": "https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects",
+      "score": 140
+    },
+    {
+      "title": "Stripe said to abandon $50B pursuit of PayPal",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
+      "score": 143
+    },
+    {
+      "title": "Previewing the Model Hardware Standard",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "score": 115
+    },
+    {
+      "title": "Suica, Japan's First IC Transit Card",
+      "url": "https://www.tokyodev.com/articles/the-story-of-suica",
+      "score": 242
+    },
+    {
+      "title": "Show HN: Voronoi Go",
+      "url": "https://voronoigo.com/",
+      "score": 129
+    }
+  ]
+}
