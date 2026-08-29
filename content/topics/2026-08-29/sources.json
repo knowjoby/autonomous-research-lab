@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "score": 196
+      "title": "Iceland votes on whether to restart talks on joining EU",
+      "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+      "score": 55
     },
     {
-      "title": "TurboKV: Insanely fast Rust key-value store",
-      "url": "https://github.com/kingroryg/turbokv",
-      "score": 54
+      "title": "Samsung's Processing-in-Memory (PIM)",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "score": 134
     },
     {
       "title": "GUIs should be fully keyboard-driven",
       "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-      "score": 710
+      "score": 863
+    },
+    {
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "score": 298
+    },
+    {
+      "title": "Europe's last regular standard-gauge steam passenger service",
+      "url": "https://parowozowniawolsztyn.pl/?page_id=2141",
+      "score": 59
+    },
+    {
+      "title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
+      "url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
+      "score": 38
     },
     {
       "title": "Htmx 4.0",
       "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-      "score": 591
+      "score": 697
     },
     {
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-      "score": 303
-    },
-    {
-      "title": "9th Circuit sides with states in Kalshi gambling fight",
-      "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
-      "score": 106
-    },
-    {
-      "title": "StemDeck, a free, open-source and local AI stem separator",
-      "url": "https://github.com/stemdeckapp/stemdeck",
-      "score": 56
+      "title": "TurboKV: Insanely fast Rust key-value store",
+      "url": "https://github.com/kingroryg/turbokv",
+      "score": 123
     },
     {
       "title": "U.S. sanctions against the A/I Collective",
       "url": "https://www.inventati.org/",
-      "score": 540
+      "score": 630
     },
     {
-      "title": "Does the Sumerian King List Align with Paleoclimate Events?",
-      "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
-      "score": 75
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "score": 119
     },
     {
       "title": "I accidentally turned LLM memory into program analysis",
       "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-      "score": 82
-    },
-    {
-      "title": "Just the rumour of a bug is enough to find an exploit these days",
-      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-      "score": 283
+      "score": 175
     },
     {
       "title": "Inception-style curved map for turn-by-turn directions",
       "url": "https://www.orbify.eu/demo/",
-      "score": 462
+      "score": 524
     },
     {
-      "title": "Monzo Stand-In",
-      "url": "https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in",
-      "score": 42
+      "title": "Just the rumour of a bug is enough to find an exploit these days",
+      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "score": 340
     },
     {
-      "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
-      "url": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
-      "score": 19
+      "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+      "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+      "score": 106
     },
     {
-      "title": "PPWR lands another blow to an precarious tabletop industry",
-      "url": "https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/",
-      "score": 44
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "score": 588
     },
     {
       "title": "Experiments with Plotter Art",
       "url": "https://sometimes.digital/posts/experiments-with-plotter-art/",
-      "score": 28
+      "score": 65
     },
     {
-      "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
-      "url": "https://www.kumander.org/",
-      "score": 28
+      "title": "Queen Caroline turned King Arthur into an 18C royal PR strategy",
+      "url": "https://theconversation.com/how-queen-caroline-turned-king-arthur-into-an-18th-century-royal-pr-strategy-288244",
+      "score": 24
     },
     {
-      "title": "Curvature Beziers: Improving on a timeless recipe",
-      "url": "https://acko.net/blog/curvature-beziers/",
-      "score": 100
+      "title": "Monzo Stand-In",
+      "url": "https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in",
+      "score": 94
     },
     {
-      "title": "The Twelve-Factor App (2025)",
-      "url": "https://12factor.net/",
-      "score": 250
+      "title": "Show HN: Galaxium, an experimental WebGPU space explorer",
+      "url": "https://galaxium.app",
+      "score": 8
     },
     {
-      "title": "Identifying fake cosmetics using AI",
-      "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
-      "score": 45
+      "title": "Glacier Mice",
+      "url": "https://en.wikipedia.org/wiki/Glacier_mice",
+      "score": 19
     },
     {
       "title": "Box of 300 Love Letters Showed Up, What Whimsical WWII Soldier Who Wrote Them?",
       "url": "https://www.smithsonianmag.com/history/this-box-of-300-love-letters-showed-up-out-of-the-blue-who-was-the-whimsical-world-war-ii-soldier-who-wrote-them-180989300/",
-      "score": 3
+      "score": 24
     },
     {
-      "title": "GLM-5.3 is now open-weight",
-      "url": "https://huggingface.co/zai-org/GLM-5.3",
-      "score": 639
+      "title": "Curvature Beziers: Improving on a timeless recipe",
+      "url": "https://acko.net/blog/curvature-beziers/",
+      "score": 125
     },
     {
-      "title": "Flyway for freeloaders, rollback implemented in Python",
-      "url": "https://aconcan.io/blog/flyway-for-freeloaders/",
-      "score": 5
+      "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
+      "url": "https://www.kumander.org/",
+      "score": 65
     },
     {
-      "title": "Twitterwebviewer.com Service Discontinued",
-      "url": "https://twitterwebviewer.com/?",
-      "score": 17
+      "title": "9th Circuit sides with states in Kalshi gambling fight",
+      "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+      "score": 138
     },
     {
-      "title": "Visual Analysis of Binary Files",
-      "url": "https://binvis.io/#/",
-      "score": 73
+      "title": "The Twelve-Factor App (2025)",
+      "url": "https://12factor.net/",
+      "score": 278
     },
     {
       "title": "EasyEffects can improve laptop speaker sound quality",
       "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
-      "score": 121
+      "score": 168
     },
     {
-      "title": "Processing in Memory: DRAM Is About to Do Math",
-      "url": "https://ben3d.ca/blog/processing-in-memory",
-      "score": 85
+      "title": "Time complexity of operations on Python's built-in types",
+      "url": "https://docs.python.org/3.16/library/time-complexity.html",
+      "score": 18
     },
     {
-      "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-      "url": "https://arxiv.org/abs/2608.23691",
-      "score": 93
+      "title": "GLM-5.3 is now open-weight",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "score": 718
+    },
+    {
+      "title": "Visual Analysis of Binary Files",
+      "url": "https://binvis.io/#/",
+      "score": 90
     },
     {
       "title": "Verschlimmbesserung: The Word Your Software Updates Need",
       "url": "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/",
-      "score": 120
-    },
-    {
-      "title": "Migrating to HTTPX2",
-      "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
-      "score": 190
+      "score": 144
     }
   ]
 }
