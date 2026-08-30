@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-      "url": "https://arxiv.org/abs/1804.07389",
-      "score": 65
+      "title": "Creepy Crawlies",
+      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "score": 202
+    },
+    {
+      "title": "No AI Fridays",
+      "url": "https://noaifridays.com/",
+      "score": 188
+    },
+    {
+      "title": "Hacking IKEA Furniture",
+      "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+      "score": 129
+    },
+    {
+      "title": "Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]",
+      "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
+      "score": 169
     },
     {
       "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
       "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
-      "score": 43
+      "score": 143
     },
     {
-      "title": "Spark: Sparklines in your shell",
-      "url": "https://git.zx2c4.com/spark/about/",
-      "score": 15
+      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "url": "https://arxiv.org/abs/1804.07389",
+      "score": 157
+    },
+    {
+      "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+      "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
+      "score": 36
+    },
+    {
+      "title": "Europe's summer drought is so extreme that desertification is a growing threat",
+      "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
+      "score": 57
+    },
+    {
+      "title": "When Fruit Is Scarce, These Monkeys Hunt Animals",
+      "url": "https://www.smithsonianmag.com/smart-news/when-fruit-is-scarce-these-monkeys-hunt-animals-the-behavior-may-offer-clues-about-the-origins-of-humans-meat-eating-habits-180989412/",
+      "score": 23
+    },
+    {
+      "title": "An implementation of Conway's Game of Life for Windows 3.1x and later",
+      "url": "https://www.muppetlabs.com/~breadbox/software/windows.html",
+      "score": 31
     },
     {
       "title": "Brits would quite like their private messages to stay private",
       "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
-      "score": 85
+      "score": 284
     },
     {
-      "title": "Everyone Should Build Their Own Network Stack",
-      "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
-      "score": 11
+      "title": "What my dad taught me about AI coding in the 90s",
+      "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
+      "score": 73
+    },
+    {
+      "title": "Dad's Custom Atari Peripherals – By Jim Trageser",
+      "url": "https://www.goto10retro.com/p/dads-custom-atari-peripherals",
+      "score": 14
     },
     {
       "title": "RISC-V is now officially supported by CPython",
       "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
-      "score": 185
+      "score": 252
     },
     {
-      "title": "Xcena and Samsung's Near Memory Compute CXL Device",
-      "url": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
-      "score": 16
-    },
-    {
-      "title": "Hy4 preview",
-      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-      "score": 314
-    },
-    {
-      "title": "FreeCORE TrueNAS Core – Continued",
-      "url": "https://freecore.org/",
-      "score": 109
-    },
-    {
-      "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
-      "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
-      "score": 327
+      "title": "Automating Immersive Reading",
+      "url": "https://smoores.dev/post/automating_immersive_reading/",
+      "score": 43
     },
     {
       "title": "JupyterGIS 0.16: a grammar of graphics for maps, and collaborative story maps",
       "url": "https://blog.jupyter.org/jupytergis-0-16-new-visualization-capabilities-collaborative-story-maps-and-more-03e6b78bacc0",
-      "score": 28
+      "score": 71
     },
     {
-      "title": "Bug Blindness",
-      "url": "https://danluu.com/bug-blind/",
-      "score": 273
+      "title": "monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter",
+      "url": "https://github.com/fugue-labs/monty-go",
+      "score": 26
     },
     {
-      "title": "Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website",
-      "url": "https://github.com/AniketWathore/bolnee-chat",
-      "score": 3
+      "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+      "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+      "score": 542
     },
     {
       "title": "The Einstein-Szilard Refrigerator (2020)",
       "url": "https://invention.si.edu/invention-stories/einstein-szilard-refrigerator",
-      "score": 38
-    },
-    {
-      "title": "Tether: iMessage, SMS, etc. on Linux",
-      "url": "https://zackbartel.com/blog/2026/08/tether/",
-      "score": 469
-    },
-    {
-      "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
-      "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
-      "score": 14
-    },
-    {
-      "title": "Nancy Grace Roman Space Telescope",
-      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
-      "score": 203
-    },
-    {
-      "title": "Benchmarking Pocket-Scale Inference",
-      "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
-      "score": 52
+      "score": 82
     },
     {
       "title": "Orbs",
       "url": "https://ampcode.com/notes/orbs-explained",
-      "score": 14
+      "score": 61
+    },
+    {
+      "title": "Hy4 preview",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "score": 358
+    },
+    {
+      "title": "One Nix flake to rule them all",
+      "url": "https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all",
+      "score": 45
+    },
+    {
+      "title": "FreeCORE TrueNAS Core – Continued",
+      "url": "https://freecore.org/",
+      "score": 151
+    },
+    {
+      "title": "Tether: iMessage, SMS, etc. on Linux",
+      "url": "https://zackbartel.com/blog/2026/08/tether/",
+      "score": 512
+    },
+    {
+      "title": "Nancy Grace Roman Space Telescope",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+      "score": 257
+    },
+    {
+      "title": "Xcena and Samsung's Near Memory Compute CXL Device",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
+      "score": 45
+    },
+    {
+      "title": "Bug Blindness",
+      "url": "https://danluu.com/bug-blind/",
+      "score": 332
     },
     {
       "title": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\") (1999)",
       "url": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
-      "score": 49
+      "score": 72
     },
     {
-      "title": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
-      "url": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
-      "score": 73
+      "title": "Benchmarking Pocket-Scale Inference",
+      "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
+      "score": 75
     },
     {
       "title": "SQLite as a Document Database (2020)",
       "url": "https://dgl.cx/2020/06/sqlite-json-support",
-      "score": 217
-    },
-    {
-      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-      "score": 314
-    },
-    {
-      "title": "EVE Online moves to Python 3",
-      "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
-      "score": 365
-    },
-    {
-      "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
-      "url": "https://dl.acm.org/doi/10.1145/3830438.3830958",
-      "score": 93
-    },
-    {
-      "title": "Glacier Mice",
-      "url": "https://en.wikipedia.org/wiki/Glacier_mice",
-      "score": 306
-    },
-    {
-      "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
-      "url": "https://github.com/mk6i/open-oscar-server",
-      "score": 41
-    },
-    {
-      "title": "Is it safe to call print in a Python signal handler?",
-      "url": "https://iafisher.com/2026/08/sigprint",
-      "score": 52
-    },
-    {
-      "title": "My fat loss experiments with ChatGPT and water fasting",
-      "url": "https://community.webminal.org/t/my-fat-loss-experiments-with-chatgpt-and-water-fasting/8846",
-      "score": 11
-    },
-    {
-      "title": "Nvidia's AI advantage is moving beyond the GPU",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "score": 8
+      "score": 238
     }
   ]
 }
