@@ -2,149 +2,139 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "score": 587
+    },
+    {
+      "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+      "url": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
+      "score": 397
+    },
+    {
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "score": 29
+    },
+    {
+      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+      "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+      "score": 14
+    },
+    {
+      "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+      "url": "https://www.norirobotics.com/",
+      "score": 75
+    },
+    {
       "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
       "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
-      "score": 545
+      "score": 753
     },
     {
-      "title": "Io_uring Without Readahead",
-      "url": "https://frn.sh/io-uring/",
-      "score": 58
-    },
-    {
-      "title": "44% on ARC-AGI-1 in 67 cents",
-      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
-      "score": 250
+      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
+      "url": "https://github.com/carloslfu/slotstream",
+      "score": 92
     },
     {
       "title": "Ambient CSS v3 – Blender meets CSS",
       "url": "https://ambientcss.vercel.app/",
-      "score": 8
+      "score": 138
     },
     {
-      "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
+      "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
+      "url": "https://moviescenemap.com/",
+      "score": 90
+    },
+    {
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "score": 460
+    },
+    {
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron/",
+      "score": 129
+    },
+    {
+      "title": "Magic eye tube",
+      "url": "https://en.wikipedia.org/wiki/Magic_eye_tube",
+      "score": 37
+    },
+    {
+      "title": "The creator of Jujutsu has joined ERSC",
+      "url": "https://ersc.io/blog/martin-joins-ersc",
+      "score": 116
+    },
+    {
+      "title": "How bicycle coaster brakes work (2018)",
+      "url": "https://www.dougbarnesauthor.com/2018/06/how-bicycle-coaster-brakes-work.html",
+      "score": 19
+    },
+    {
+      "title": "American Airlines mechanic Azriel “Al” Blackman has died",
       "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
-      "score": 257
+      "score": 347
+    },
+    {
+      "title": "Atlas: A World Model for Spatial Intelligence",
+      "url": "https://www.worldlabs.ai/blog/atlas",
+      "score": 73
+    },
+    {
+      "title": "Io_uring Without Readahead",
+      "url": "https://frn.sh/io-uring/",
+      "score": 97
     },
     {
       "title": "Fastpotify",
       "url": "https://fastpotify.rocks/",
-      "score": 672
+      "score": 779
     },
     {
-      "title": "EFF to Governor Newsom: Veto California's AB 1709",
-      "url": "https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709",
-      "score": 57
+      "title": "There Is No AI",
+      "url": "https://wadler.blogspot.com/2026/08/there-is-no-ai.html",
+      "score": 18
     },
     {
-      "title": "We Are Rebuilding Monica",
-      "url": "https://www.monicahq.com/en/blog/we-are-rebuilding-monica/",
-      "score": 30
+      "title": "Dr. Melvin Scheinman: 40th Anniversary of Catheter Ablation",
+      "url": "https://ucsfhealthcardiology.ucsf.edu/facstaff/spotlight/dr-melvin-scheinman-40th-anniversary-catheter-ablation",
+      "score": 53
+    },
+    {
+      "title": "Specifications Don't Exist",
+      "url": "https://www.galois.com/articles/specifications-dont-exist",
+      "score": 9
+    },
+    {
+      "title": "Physically Immutable Optical Archive Libraries",
+      "url": "https://savartus.com/solutions/enterprise-laser-storage/",
+      "score": 28
+    },
+    {
+      "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+      "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+      "score": 158
     },
     {
       "title": "Introducing Ad Blocker for Firefox on iOS",
       "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
-      "score": 79
+      "score": 208
     },
     {
-      "title": "A browser-based viewer for Office Open XML documents",
-      "url": "https://ooxml.silurus.dev/",
-      "score": 8
-    },
-    {
-      "title": "Saab Enters Collaborative Combat Aircraft Race with High-End Concept",
-      "url": "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept",
-      "score": 53
-    },
-    {
-      "title": "Fractal Jittered Voronoi Partitions",
-      "url": "https://www.boristhebrave.com/2026/08/29/fractal-jittered-voronoi-partitions/",
-      "score": 43
-    },
-    {
-      "title": "Tmp.0ut Volume 5",
-      "url": "https://tmpout.sh/5/",
-      "score": 156
+      "title": "We are rebuilding Monica",
+      "url": "https://www.monicahq.com/en/blog/we-are-rebuilding-monica/",
+      "score": 87
     },
     {
       "title": "Restroom Archive",
       "url": "https://restroomarchive.com",
-      "score": 269
+      "score": 351
     },
     {
-      "title": "GPU World",
-      "url": "https://www.gpuworld.org/",
-      "score": 348
-    },
-    {
-      "title": "Playa Phone",
-      "url": "https://playaphone.com/",
-      "score": 704
-    },
-    {
-      "title": "Ubisoft's FOR HONOR will block SteamOS / Linux players starting September 10",
-      "url": "https://www.gamingonlinux.com/2026/09/ubisofts-for-honor-will-block-steamos-linux-on-september-10/",
-      "score": 63
-    },
-    {
-      "title": "I turned my security cameras into an automatic bird identification system",
-      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-      "score": 573
-    },
-    {
-      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-      "score": 545
-    },
-    {
-      "title": "CollectWise (YC F24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer",
-      "score": 1
-    },
-    {
-      "title": "DIY – Build a Potato Box (2022)",
-      "url": "https://www.rebootedmom.com/build-a-potato-box/",
-      "score": 28
-    },
-    {
-      "title": "A Genealogy of Freudenthal's Lincos",
-      "url": "https://www.shellsandpebbles.com/2026/01/19/a-genealogy-of-freudenthals-lincos-part-i-looking-up-from-the-ruins-of-babel/",
-      "score": 3
-    },
-    {
-      "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
-      "url": "https://github.com/fregacmols/RotaryCell",
-      "score": 131
-    },
-    {
-      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-      "score": 374
-    },
-    {
-      "title": "Dwarf Fortress is getting the mother of all magic updates",
-      "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
-      "score": 479
-    },
-    {
-      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "score": 473
-    },
-    {
-      "title": "Urban Congestion Pricing and the Response Times of Emergency Medical Services",
-      "url": "https://www.nber.org/digest/202609/urban-congestion-pricing-and-response-times-emergency-medical-services",
-      "score": 44
-    },
-    {
-      "title": "State of Open Models: Summer 2026 Observations",
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "score": 16
-    },
-    {
-      "title": "Cheap GPS jammers are filling the world with navigation dead zones",
-      "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
-      "score": 198
+      "title": "Keenable SELECT: an agent that searches the web in SQL",
+      "url": "https://keenableai.github.io/select-showcase/",
+      "score": 47
     }
   ]
 }
