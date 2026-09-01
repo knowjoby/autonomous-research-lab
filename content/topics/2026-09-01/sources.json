@@ -2,149 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "I turned my security cameras into an automatic bird identification system",
-      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-      "score": 389
+      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+      "score": 102
+    },
+    {
+      "title": "44% on ARC-AGI-1 in 67 cents",
+      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "score": 34
+    },
+    {
+      "title": "Fastpotify",
+      "url": "https://fastpotify.rocks/",
+      "score": 443
+    },
+    {
+      "title": "GPU World",
+      "url": "https://www.gpuworld.org/",
+      "score": 259
+    },
+    {
+      "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
+      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+      "score": 67
+    },
+    {
+      "title": "Tmp.0ut Volume 5",
+      "url": "https://tmpout.sh/5/",
+      "score": 84
+    },
+    {
+      "title": "Restroom Archive",
+      "url": "https://restroomarchive.com",
+      "score": 146
+    },
+    {
+      "title": "Polishing Cloth Updated",
+      "url": "https://512pixels.net/2026/08/polishing-cloth-updated/",
+      "score": 40
     },
     {
       "title": "Playa Phone",
       "url": "https://playaphone.com/",
-      "score": 527
+      "score": 645
     },
     {
-      "title": "2004 RuneScape fit a multiplayer RPG into 56k dial-up",
-      "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
-      "score": 39
-    },
-    {
-      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-      "score": 242
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "score": 512
     },
     {
       "title": "Terence Tao explains 6 essential mathematical concepts [video]",
       "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-      "score": 260
+      "score": 444
     },
     {
-      "title": "Lion-man",
-      "url": "https://en.wikipedia.org/wiki/Lion-man",
-      "score": 73
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "score": 337
     },
     {
-      "title": "Borges Labyrinth in Venice reopens to the public",
-      "url": "https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening",
-      "score": 24
+      "title": "CollectWise (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer",
+      "score": 1
+    },
+    {
+      "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
+      "url": "https://github.com/fregacmols/RotaryCell",
+      "score": 72
     },
     {
       "title": "Dwarf Fortress is getting the mother of all magic updates",
       "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
-      "score": 325
-    },
-    {
-      "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
-      "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
-      "score": 56
-    },
-    {
-      "title": "Show HN: Laser Graffiti",
-      "url": "https://laser.consti.de",
-      "score": 137
+      "score": 424
     },
     {
       "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
       "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "score": 332
+      "score": 421
     },
     {
       "title": "Evidence of Fraud in an Influential Study About Procrastination",
       "url": "https://datacolada.org/138",
-      "score": 93
+      "score": 253
     },
     {
-      "title": "Smartphone LED detects hidden cameras with AI",
-      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-      "score": 165
+      "title": "NASA: Fill in a name, and you can have an exclusive coordinate in the universe",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/",
+      "score": 14
     },
     {
-      "title": "Run macOS Software on Linux",
-      "url": "https://www.darlinghq.org/",
-      "score": 145
-    },
-    {
-      "title": "Cheap GPS jammers are filling the world with navigation dead zones",
-      "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
-      "score": 79
+      "title": "Show HN: Laser Graffiti",
+      "url": "https://laser.consti.de",
+      "score": 199
     },
     {
       "title": "I think the military commissary's freezers were hacked",
       "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
-      "score": 274
+      "score": 354
     },
     {
-      "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
-      "url": "https://ravynos.com/",
-      "score": 179
+      "title": "Roget's Thesaurus",
+      "url": "https://artflsrv04.uchicago.edu/roget-thesaurus/",
+      "score": 19
     },
     {
-      "title": "ChatGPT Work Tool and Skill Reference",
-      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
-      "score": 193
+      "title": "Cheap GPS jammers are filling the world with navigation dead zones",
+      "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
+      "score": 148
     },
     {
-      "title": "'Mad honey' that can stop your heart is being sold online",
-      "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
-      "score": 160
+      "title": "Smartphone LED detects hidden cameras with AI",
+      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+      "score": 219
+    },
+    {
+      "title": "Flat vs. segmented memory – it's recursive",
+      "url": "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented",
+      "score": 25
+    },
+    {
+      "title": "Lion-man",
+      "url": "https://en.wikipedia.org/wiki/Lion-man",
+      "score": 118
     },
     {
       "title": "Reverse engineering my ADHD test",
       "url": "https://nullpt.rs/reverse-engineering-adhd-test",
-      "score": 165
+      "score": 230
     },
     {
-      "title": "Ex-Crips leader found guilty in 1996 murder of rapper Tupac Shakur",
-      "url": "https://www.bbc.com/news/articles/c24j5192j7jo",
-      "score": 49
+      "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
+      "url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
+      "score": 50
     },
     {
-      "title": "Internet centralization and the original sin of NAT",
-      "url": "https://dreamstation.systems/personal/ntppost.html",
-      "score": 193
+      "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+      "url": "https://ravynos.com/",
+      "score": 202
     },
     {
-      "title": "Snakes and Ladders",
-      "url": "https://entropicthoughts.com/snakes-and-ladders",
-      "score": 19
+      "title": "Borges Labyrinth in Venice reopens to the public",
+      "url": "https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening",
+      "score": 77
     },
     {
-      "title": "No country for mediocre mathematicians",
-      "url": "https://garvvee.substack.com/p/no-country-for-mediocre-mathematicians",
-      "score": 173
-    },
-    {
-      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
-      "score": 605
-    },
-    {
-      "title": "Optimal transport is art: images to collection of optimally placed particles",
-      "url": "https://blog.wolfram.com/2016/05/06/computational-stippling-can-machines-do-as-well-as-humans/",
-      "score": 3
-    },
-    {
-      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-      "url": "https://usealmanac.com/",
-      "score": 51
-    },
-    {
-      "title": "Visualizing Combos in Judo in R",
-      "url": "https://www.r-bloggers.com/2025/05/the-dynamics-of-the-gentle-way-exploring-judo-attack-combinations-as-networks-in-r/",
-      "score": 13
-    },
-    {
-      "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-      "url": "https://github.com/Hebbian-Robotics/hflow",
-      "score": 44
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "score": 224
     }
   ]
 }
