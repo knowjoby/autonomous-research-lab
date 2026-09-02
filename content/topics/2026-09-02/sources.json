@@ -2,49 +2,99 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Gemini 3.8 Flash",
+      "url": "https://deepmind.google/models/model-cards/gemini-3-8-flash/",
+      "score": 133
+    },
+    {
+      "title": "A Note from LWN",
+      "url": "https://lwn.net/Articles/1090585/",
+      "score": 411
+    },
+    {
+      "title": "GrapheneOS says Pixel 11 has MTE support after all",
+      "url": "https://grapheneos.social/@GrapheneOS/117194007157499435",
+      "score": 77
+    },
+    {
+      "title": "Biggest dark matter detector spots a single weird particle",
+      "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+      "score": 99
+    },
+    {
+      "title": "Mistral now trains on user input by default, except on enterprise tier",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "score": 149
+    },
+    {
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "score": 122
+    },
+    {
+      "title": "Poisson Disk Sampling",
+      "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
+      "score": 52
+    },
+    {
+      "title": "Exit the Cave",
+      "url": "https://turtlespace.blog/p/exit-the-cave",
+      "score": 44
+    },
+    {
+      "title": "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
+      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+      "score": 63
+    },
+    {
       "title": "Commodore 64 released September 1, 1982",
       "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+      "score": 232
+    },
+    {
+      "title": "WebLLM: high-performance in-browser LLM inference engine",
+      "url": "https://github.com/mlc-ai/web-llm",
+      "score": 21
+    },
+    {
+      "title": "A Selection of Los Alamos Rolodex Business Cards",
+      "url": "https://clui.org/collections/los-alamos-business-cards/selection-cards",
+      "score": 30
+    },
+    {
+      "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+      "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
       "score": 79
     },
     {
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "score": 1262
+      "title": "Check if a file was made with Claude",
+      "url": "https://claude.com/check-content",
+      "score": 64
+    },
+    {
+      "title": "A third of Perplexity's citations don't contain the number they're cited for",
+      "url": "https://hausresearch.com/reports/perplexity-citation-audit/",
+      "score": 32
+    },
+    {
+      "title": "LLMs: Intelligence vs. Cost",
+      "url": "https://openteams.com/intelligence-vs-cost/",
+      "score": 36
+    },
+    {
+      "title": "Dutch central bank moves share of gold from U.S., Canada to London",
+      "url": "https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability",
+      "score": 147
+    },
+    {
+      "title": "9000 RPM is faster than your screen refreshes",
+      "url": "https://ma.ttias.be/9000-rpm/",
+      "score": 30
     },
     {
       "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
       "url": "https://arxiv.org/abs/2608.29530",
-      "score": 156
-    },
-    {
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "url": "https://danluu.com/zitron/",
-      "score": 719
-    },
-    {
-      "title": "Fine, I'll build my own text editor",
-      "url": "https://dbushell.com/2026/09/01/text-editor/",
-      "score": 137
-    },
-    {
-      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-      "score": 229
-    },
-    {
-      "title": "Introducing Ad Blocker for Firefox on iOS",
-      "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
-      "score": 487
-    },
-    {
-      "title": "WebFPGA",
-      "url": "https://webfpga.io/",
-      "score": 85
-    },
-    {
-      "title": "Sonic Pi",
-      "url": "https://sonic-pi.net/",
-      "score": 170
+      "score": 236
     },
     {
       "title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
@@ -52,99 +102,54 @@
       "score": 1
     },
     {
-      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-      "url": "https://masteranza.github.io/weedout/",
-      "score": 146
+      "title": "Ending my elixir exploratory writing",
+      "url": "https://lucassifoni.info/blog/the-end-of-this-elixir-log/",
+      "score": 54
     },
     {
-      "title": "Open Battery Information",
-      "url": "https://github.com/mnh-jansson/open-battery-information",
-      "score": 7
+      "title": "Why humanoid robots won't catch up to human workers any time soon",
+      "url": "https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up",
+      "score": 25
     },
     {
-      "title": "My local model setup on an M4 Pro Mac Mini",
-      "url": "https://lws.io/blog/my-local-model-setup/",
-      "score": 212
+      "title": "Using jq to format JSON on the clipboard",
+      "url": "https://chris48s.github.io/blogmarks/posts/2021/jsontidy/",
+      "score": 35
     },
     {
-      "title": "The efficient frontier of LLM inference",
-      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
-      "score": 125
+      "title": "The Cables That Connect the World",
+      "url": "https://xn--gckvb8fzb.com/the-cables-that-connect-the-world/",
+      "score": 30
     },
     {
-      "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-      "url": "https://www.norirobotics.com/",
-      "score": 173
+      "title": "Banca Etica Suspends A/I's Account While Condemning the Sanctions Behind It",
+      "url": "https://sabot.media/post/banca-etica-statement-english",
+      "score": 50
     },
     {
-      "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
-      "url": "https://moviescenemap.com/",
-      "score": 261
+      "title": "Move in C++ without a std:move",
+      "url": "https://andreasfertig.com/blog/2026/09/move-in-cpp-without-a-stdmove/",
+      "score": 30
     },
     {
-      "title": "Ambient CSS v3 – Blender meets CSS",
-      "url": "https://ambientcss.vercel.app/",
-      "score": 276
+      "title": "It's OK to hardcode feature flags (2025)",
+      "url": "https://code.mendhak.com/hardcode-feature-flags/",
+      "score": 57
     },
     {
-      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
-      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-      "score": 418
+      "title": "Quasar 438B: Europe's Leading AI Model",
+      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+      "score": 110
     },
     {
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "url": "https://openai.com/index/path-to-astra/",
-      "score": 160
+      "title": "Fine, I'll build my own text editor",
+      "url": "https://dbushell.com/2026/09/01/text-editor/",
+      "score": 210
     },
     {
-      "title": "True Rate of Unemployment",
-      "url": "https://www.lisep.org/tru",
-      "score": 239
-    },
-    {
-      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
-      "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
-      "score": 129
-    },
-    {
-      "title": "The creator of Jujutsu has joined ERSC",
-      "url": "https://ersc.io/blog/martin-joins-ersc",
-      "score": 239
-    },
-    {
-      "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
-      "url": "https://hnmatchmaker.com/",
-      "score": 92
-    },
-    {
-      "title": "How bicycle coaster brakes work (2018)",
-      "url": "https://www.dougbarnesauthor.com/2018/06/how-bicycle-coaster-brakes-work.html",
-      "score": 67
-    },
-    {
-      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
-      "url": "https://github.com/carloslfu/slotstream",
-      "score": 213
-    },
-    {
-      "title": "Building an interactive instrument for a one-of-a-kind festival",
-      "url": "https://benholmen.com/blog/halfmoon-chimes/",
-      "score": 56
-    },
-    {
-      "title": "Forgotten History of Small Nuclear Reactors (2015)",
-      "url": "https://spectrum.ieee.org/the-forgotten-history-of-small-nuclear-reactors",
-      "score": 42
-    },
-    {
-      "title": "A Genealogy of Freudenthal's Lincos",
-      "url": "https://www.shellsandpebbles.com/2026/01/19/a-genealogy-of-freudenthals-lincos-part-i-looking-up-from-the-ruins-of-babel/",
-      "score": 10
-    },
-    {
-      "title": "Atlas: A World Model for Spatial Intelligence",
-      "url": "https://www.worldlabs.ai/blog/atlas",
-      "score": 223
+      "title": "B200 Attention Kernel from Scratch to Near-SOTA in 60 Diagrams",
+      "url": "https://iaroslavelistratov.github.io/b200-attention/",
+      "score": 13
     }
   ]
 }
