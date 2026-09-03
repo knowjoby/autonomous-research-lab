@@ -2,149 +2,149 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Audacity 4.0",
+      "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+      "score": 651
+    },
+    {
+      "title": "Grok Outage",
+      "url": "https://status.x.ai/",
+      "score": 50
+    },
+    {
+      "title": "ChatGPT Is Throwing 404",
+      "url": "https://chatgpt.com/",
+      "score": 291
+    },
+    {
+      "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+      "url": "https://anyhumanever.com/",
+      "score": 44
+    },
+    {
+      "title": "Elevated Errors for Multiple Models",
+      "url": "https://status.claude.com/incidents/461yvfrzpwtt",
+      "score": 168
+    },
+    {
+      "title": "New York Times and The Athletic workers demand company scrap Kalshi deal",
+      "url": "https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/",
+      "score": 20
+    },
+    {
       "title": "Pre-Release of Polars 2.0",
       "url": "https://pola.rs/posts/announcing-polars-2/",
-      "score": 173
+      "score": 309
     },
     {
       "title": "The Browser's Main Thread Is Expensive",
       "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
-      "score": 83
+      "score": 275
     },
     {
-      "title": "Muse Spark 1.3",
-      "url": "https://developer.meta.com/ai/models/muse-spark/",
-      "score": 592
-    },
-    {
-      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-      "score": 1037
-    },
-    {
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "score": 430
-    },
-    {
-      "title": "Google avoids a breakup of its ad tech business",
-      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
-      "score": 396
-    },
-    {
-      "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
-      "url": "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/",
-      "score": 63
-    },
-    {
-      "title": "Holden's Lightning Flight",
-      "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
-      "score": 161
-    },
-    {
-      "title": "The Computer Museum of America reclamation project",
-      "url": "https://computer-museum.org/wp/",
-      "score": 47
+      "title": "Invisible Companies",
+      "url": "https://colossus.com/article/invisible-companies/",
+      "score": 100
     },
     {
       "title": "What I Learned from My Mom (1941-2026)",
       "url": "https://experimentalliving.substack.com/p/what-i-learned-from-my-mom-1941-2026",
-      "score": 19
+      "score": 180
+    },
+    {
+      "title": "Intrusive Linked Lists",
+      "url": "https://www.data-structures-in-practice.com/intrusive-linked-lists/",
+      "score": 52
+    },
+    {
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "score": 1121
+    },
+    {
+      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+      "url": "https://9mothers.com/careers",
+      "score": 1
+    },
+    {
+      "title": "Muse Spark 1.3",
+      "url": "https://developer.meta.com/ai/models/muse-spark/",
+      "score": 655
+    },
+    {
+      "title": "Nobody Has Actually Built a Software Factory",
+      "url": "https://medium.com/@NMitchem/nobody-has-actually-built-a-software-factory-77ffdc0c3efc",
+      "score": 5
+    },
+    {
+      "title": "Nvidia to Acquire Hugging Face",
+      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+      "score": 163
+    },
+    {
+      "title": "Amazon Stonehenge: Parque Arqueológico do Solstício",
+      "url": "https://en.wikipedia.org/wiki/Parque_Arqueol%C3%B3gico_do_Solst%C3%ADcio",
+      "score": 24
+    },
+    {
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "score": 490
+    },
+    {
+      "title": "Florida revokes permits for license plate readers on state highways",
+      "url": "https://www.wusf.org/transportation/2026-08-31/fdot-revokes-permits-for-flock-cameras-installed-on-state-land-next-to-roads",
+      "score": 65
+    },
+    {
+      "title": "The Computer Museum of America reclamation project",
+      "url": "https://computer-museum.org/wp/",
+      "score": 84
+    },
+    {
+      "title": "Google avoids a breakup of its ad tech business",
+      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+      "score": 447
+    },
+    {
+      "title": "Holden's Lightning Flight",
+      "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
+      "score": 206
+    },
+    {
+      "title": "ChatGPT, Claude, and Grok Are Down",
+      "url": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down/",
+      "score": 8
+    },
+    {
+      "title": "Codex Is Down",
+      "url": "https://github.com/openai/codex/issues/28756",
+      "score": 77
+    },
+    {
+      "title": "Anatomy of a Browser",
+      "url": "https://medium.com/@Koukyosyumei/anatomy-of-a-browser-95014ab378f8",
+      "score": 7
     },
     {
       "title": "Fish Bad, Sugar Good and Other Medieval Ideas About Food",
       "url": "https://lithub.com/fish-bad-sugar-good-and-other-medieval-ideas-about-food/",
-      "score": 4
+      "score": 68
+    },
+    {
+      "title": "Astronomers Detect a 10-Sided Structure in Saturn's Atmosphere",
+      "url": "https://www.sciencealert.com/astronomers-spot-an-uncannily-geometric-10-sided-structure-in-saturns-atmosphere",
+      "score": 32
     },
     {
       "title": "Can I opt out of my input or output data being used for training?",
       "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-      "score": 448
+      "score": 480
     },
     {
       "title": "Fable 5.1 World Modeling",
       "url": "https://github.com/PhiloLabs/fable51-worlds",
-      "score": 260
-    },
-    {
-      "title": "Reverse Engineering Unknown File Formats with ImHex",
-      "url": "https://werwolv.net/posts/file_format_reverse_engineering/",
-      "score": 210
-    },
-    {
-      "title": "Higher Multipoles of the Cow",
-      "url": "https://arxiv.org/abs/2504.00506",
-      "score": 76
-    },
-    {
-      "title": "Biggest dark matter detector spots a single weird particle",
-      "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
-      "score": 304
-    },
-    {
-      "title": "Aging brains blend memories together instead of just forgetting them",
-      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
-      "score": 289
-    },
-    {
-      "title": "Wendell Berry has died",
-      "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
-      "score": 191
-    },
-    {
-      "title": "Japan halves speed limit to 30km/h on all narrow city streets",
-      "url": "https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets",
-      "score": 24
-    },
-    {
-      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
-      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
-      "score": 144
-    },
-    {
-      "title": "Engineering of the fastest WebAssembly interpreters",
-      "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
-      "score": 101
-    },
-    {
-      "title": "Exit the Cave",
-      "url": "https://turtlespace.blog/p/exit-the-cave",
-      "score": 269
-    },
-    {
-      "title": "A Selection of Los Alamos Rolodex Business Cards",
-      "url": "https://clui.org/collections/los-alamos-business-cards/selection-cards",
-      "score": 173
-    },
-    {
-      "title": "Async Rust vs RTOS showdown (2022)",
-      "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
-      "score": 97
-    },
-    {
-      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
-      "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
-      "score": 61
-    },
-    {
-      "title": "We could save petabytes of cache storage with Zstandard and Pingora",
-      "url": "https://blog.cloudflare.com/cache-transcoding/",
-      "score": 115
-    },
-    {
-      "title": "Poisson Disk Sampling",
-      "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
-      "score": 169
-    },
-    {
-      "title": "WebLLM: high-performance in-browser LLM inference engine",
-      "url": "https://github.com/mlc-ai/web-llm",
-      "score": 122
-    },
-    {
-      "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
-      "url": "https://nango.dev/careers",
-      "score": 1
+      "score": 311
     }
   ]
 }
