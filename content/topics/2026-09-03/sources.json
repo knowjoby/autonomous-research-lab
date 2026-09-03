@@ -1,0 +1,150 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "Muse Spark 1.3",
+      "url": "https://developer.meta.com/ai/models/muse-spark/",
+      "score": 420
+    },
+    {
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "score": 853
+    },
+    {
+      "title": "Google avoids a breakup of its ad tech business",
+      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+      "score": 286
+    },
+    {
+      "title": "Holden's Lightning Flight",
+      "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
+      "score": 72
+    },
+    {
+      "title": "Reverse Engineering Unknown File Formats with ImHex",
+      "url": "https://werwolv.net/posts/file_format_reverse_engineering/",
+      "score": 120
+    },
+    {
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "score": 323
+    },
+    {
+      "title": "Fable 5.1 World Modeling",
+      "url": "https://github.com/PhiloLabs/fable51-worlds",
+      "score": 152
+    },
+    {
+      "title": "Can I opt out of my input or output data being used for training?",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "score": 382
+    },
+    {
+      "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
+      "url": "https://www.nature.com/articles/s41562-026-02550-0",
+      "score": 47
+    },
+    {
+      "title": "Engineering of the fastest WebAssembly interpreters",
+      "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
+      "score": 54
+    },
+    {
+      "title": "Higher Multipoles of the Cow",
+      "url": "https://arxiv.org/abs/2504.00506",
+      "score": 7
+    },
+    {
+      "title": "Reasons robotics is hard",
+      "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+      "score": 49
+    },
+    {
+      "title": "Whistleblower warns Postal Service mail ballot system has catastrophic problems",
+      "url": "https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/",
+      "score": 132
+    },
+    {
+      "title": "Biggest dark matter detector spots a single weird particle",
+      "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+      "score": 256
+    },
+    {
+      "title": "Wendell Berry has died",
+      "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
+      "score": 145
+    },
+    {
+      "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
+      "url": "https://nango.dev/careers",
+      "score": 1
+    },
+    {
+      "title": "Aging brains blend memories together instead of just forgetting them",
+      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+      "score": 220
+    },
+    {
+      "title": "Exit the Cave",
+      "url": "https://turtlespace.blog/p/exit-the-cave",
+      "score": 216
+    },
+    {
+      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
+      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
+      "score": 88
+    },
+    {
+      "title": "Embedded Rust RTOS vs. C RTOS",
+      "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
+      "score": 64
+    },
+    {
+      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
+      "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
+      "score": 43
+    },
+    {
+      "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+      "url": "https://www.bbc.com/news/articles/c86xpv8l9y9o",
+      "score": 105
+    },
+    {
+      "title": "A Selection of Los Alamos Rolodex Business Cards",
+      "url": "https://clui.org/collections/los-alamos-business-cards/selection-cards",
+      "score": 142
+    },
+    {
+      "title": "Poisson Disk Sampling",
+      "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
+      "score": 132
+    },
+    {
+      "title": "We could save petabytes of cache storage with Zstandard and Pingora",
+      "url": "https://blog.cloudflare.com/cache-transcoding/",
+      "score": 74
+    },
+    {
+      "title": "WebLLM: high-performance in-browser LLM inference engine",
+      "url": "https://github.com/mlc-ai/web-llm",
+      "score": 92
+    },
+    {
+      "title": "I wanna live an NPC life",
+      "url": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
+      "score": 199
+    },
+    {
+      "title": "Making the Internet Boring",
+      "url": "https://cemrehancavdar.com/2026/08/30/making-the-internet-boring/",
+      "score": 87
+    },
+    {
+      "title": "Product Backlog Problems: Why Your Hierarchy Is Broken",
+      "url": "https://www.prodpad.com/blog/backlog-hierarchy-problem/",
+      "score": 21
+    }
+  ]
+}
