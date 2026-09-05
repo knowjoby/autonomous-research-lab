@@ -2,149 +2,149 @@
   "papers": [],
   "discussions": [
     {
-      "title": "AI handles incidents, engineers lose touch with their systems",
-      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "score": 92
+      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+      "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+      "score": 42
     },
     {
       "title": "Actively exploited sandbox RCE in all Chromium versions",
       "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
-      "score": 500
+      "score": 619
     },
     {
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
-      "score": 1720
-    },
-    {
-      "title": "Formalizing Fermat's Last Theorem",
-      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "score": 619
+      "score": 1850
     },
     {
       "title": "Nitter has more working instances than before the takedowns",
       "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-      "score": 219
+      "score": 387
     },
     {
-      "title": "Kale: A Transformation-Safe Spreadsheet System",
-      "url": "https://arxiv.org/abs/2608.26345",
-      "score": 12
+      "title": "Pentagon rescinds new testosterone screening policy without explanation",
+      "url": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/",
+      "score": 68
+    },
+    {
+      "title": "Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "score": 668
+    },
+    {
+      "title": "Global warming will exceed 1.5-degree limit, UN says",
+      "url": "https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone",
+      "score": 46
+    },
+    {
+      "title": "Terpstra Keyboard",
+      "url": "http://terpstrakeyboard.com/",
+      "score": 30
+    },
+    {
+      "title": ".gitignore Everything by Default",
+      "url": "https://packagemain.tech/p/gitignore-everything-by-default",
+      "score": 8
+    },
+    {
+      "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
+      "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
+      "score": 181
     },
     {
       "title": "Statichost.eu – European static site hosting",
       "url": "https://www.statichost.eu/",
-      "score": 289
+      "score": 359
     },
     {
-      "title": "GPT-6 Astra on OpenRouter",
-      "url": "https://openrouter.ai/openai/gpt-6-astra",
-      "score": 229
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "score": 249
     },
     {
-      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-      "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
-      "score": 44
-    },
-    {
-      "title": "Can AI design circuit boards yet?",
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "score": 262
-    },
-    {
-      "title": "Shutting down our public encrypted DNS",
-      "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
-      "score": 346
-    },
-    {
-      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-      "score": 138
-    },
-    {
-      "title": "Git Submodules as a Package Manager",
-      "url": "https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html",
-      "score": 58
-    },
-    {
-      "title": "Artificial Analysis Intelligence Index v4.2",
-      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
-      "score": 118
-    },
-    {
-      "title": "Can guitar frets perform multiplication?",
-      "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
-      "score": 81
+      "title": "A Million Falcons Went Missing. Here’s How They Were Found",
+      "url": "https://www.nationalgeographic.com/animals/article/falcons-migration-angola-falcopolis",
+      "score": 10
     },
     {
       "title": "Git hosting that never leaves Europe",
       "url": "https://pushin.eu",
-      "score": 84
+      "score": 155
+    },
+    {
+      "title": "Meet the Ig Nobel Prize Winners",
+      "url": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
+      "score": 12
+    },
+    {
+      "title": "Kale: A Transformation-Safe Spreadsheet System",
+      "url": "https://arxiv.org/abs/2608.26345",
+      "score": 38
+    },
+    {
+      "title": "Can AI design circuit boards yet?",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "score": 299
+    },
+    {
+      "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
+      "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+      "score": 10
+    },
+    {
+      "title": "GPT-6 Astra on OpenRouter",
+      "url": "https://openrouter.ai/openai/gpt-6-astra",
+      "score": 262
+    },
+    {
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "score": 184
+    },
+    {
+      "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",
+      "url": "https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/",
+      "score": 4
     },
     {
       "title": "Show HN: Open-Source eInk Bike Computer",
       "url": "https://opentrailpaper.com",
-      "score": 288
+      "score": 329
+    },
+    {
+      "title": "Git Submodules as a Package Manager",
+      "url": "https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html",
+      "score": 70
+    },
+    {
+      "title": "Shutting down our public encrypted DNS",
+      "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+      "score": 384
     },
     {
       "title": "Pointing at the error: compiler-style diagnostics in uutils coreutils",
       "url": "https://uutils.org/blog/2026-08-error-diagnostics/",
-      "score": 12
-    },
-    {
-      "title": "The Highest Point in the Netherlands",
-      "url": "https://ipv6.hanazo.no/posts/anniversary-personal/",
-      "score": 58
+      "score": 32
     },
     {
       "title": "IBM Bob",
       "url": "https://bob.ibm.com/",
-      "score": 271
+      "score": 299
     },
     {
-      "title": "An open DNS recursive service for free security and high privacy",
-      "url": "https://quad9.net/",
-      "score": 91
-    },
-    {
-      "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
-      "url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
-      "score": 425
+      "title": "Can guitar frets perform multiplication?",
+      "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+      "score": 104
     },
     {
       "title": "Fermat's Last Theorem in Lean 4",
       "url": "https://github.com/anthropics/fermats-last-theorem",
-      "score": 109
+      "score": 129
     },
     {
       "title": "The Rust React Compiler is now native in Vite",
       "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
-      "score": 139
-    },
-    {
-      "title": "Government Rails Site Hit Hours After CVE Patch",
-      "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
-      "score": 94
-    },
-    {
-      "title": "Decompiler Explorer",
-      "url": "https://dogbolt.org",
-      "score": 87
-    },
-    {
-      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
-      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
-      "score": 133
-    },
-    {
-      "title": "RSA-260 Factorized",
-      "url": "https://twitter.com/penlume/status/2095372672356212876",
-      "score": 114
-    },
-    {
-      "title": "deSEC – Free Secure DNS",
-      "url": "https://desec.io/",
-      "score": 133
+      "score": 157
     }
   ]
 }
