@@ -2,154 +2,149 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Intellectual Fly Is Open (2025)",
-      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-      "score": 210
+      "title": "Nitter is unarchived and will continue",
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "score": 186
     },
     {
-      "title": "A/I shuts down – Stay human",
-      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-      "score": 35
+      "title": "An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind/",
+      "score": 190
+    },
+    {
+      "title": "Your intellectual fly is open (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "score": 375
+    },
+    {
+      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+      "score": 81
     },
     {
       "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
       "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
-      "score": 372
+      "score": 486
+    },
+    {
+      "title": "Research carried out using NetBSD",
+      "url": "https://www.netbsd.org/gallery/research.html",
+      "score": 49
+    },
+    {
+      "title": "A/I shuts down – Stay human",
+      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+      "score": 388
+    },
+    {
+      "title": "Finder is so frustrating and has been since day one",
+      "url": "https://kepter.app/finder",
+      "score": 63
+    },
+    {
+      "title": "Following legal advice, the Nitter project will continue",
+      "url": "https://github.com/zedeus/nitter",
+      "score": 224
     },
     {
       "title": "Doomscrolling Ourselves to Death",
       "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
-      "score": 149
+      "score": 286
+    },
+    {
+      "title": "Vidact – a compiler that turns React into direct DOM operations",
+      "url": "https://www.vidact.dev/",
+      "score": 23
+    },
+    {
+      "title": "Opalite Health (YC W26) Is Hiring – Founding GTM",
+      "url": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm",
+      "score": 1
+    },
+    {
+      "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
+      "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
+      "score": 33
+    },
+    {
+      "title": "Electronic skin for prosthetics to sense temperature and pressure",
+      "url": "https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/",
+      "score": 23
+    },
+    {
+      "title": "Recreating Minecraft Is Not a Benchmark",
+      "url": "https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark",
+      "score": 51
+    },
+    {
+      "title": "Is There I/O After Death? What Happens to Io_uring When a Process Dies",
+      "url": "https://blog.ydb.tech/is-there-i-o-after-death-what-happens-to-io-uring-when-a-process-dies-92c65354873f?postPublishedType=repub",
+      "score": 45
     },
     {
       "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
       "url": "https://en.wikipedia.org/wiki/M-DISC",
-      "score": 101
-    },
-    {
-      "title": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
-      "url": "https://github.com/scastiel/kado",
-      "score": 5
-    },
-    {
-      "title": "The many mysteries and lessons of the Bayeux tapestry",
-      "url": "https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry",
-      "score": 21
-    },
-    {
-      "title": "What is Nueralese and Why is it Bad",
-      "url": "https://www.lesswrong.com/posts/RCYF2rW8wgusidZk7/what-is-neuralese-and-why-is-it-bad",
-      "score": 15
-    },
-    {
-      "title": "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
-      "url": "https://www.phoronix.com/news/Asahi-Linux-Official-M3",
-      "score": 38
-    },
-    {
-      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-      "url": "https://cloudinabottle.org/blog/launch-post",
-      "score": 514
+      "score": 158
     },
     {
       "title": "The revolt of the reader",
       "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-      "score": 476
+      "score": 540
     },
     {
-      "title": "The pencil case model of creativity",
-      "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
-      "score": 27
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "url": "https://cloudinabottle.org/blog/launch-post",
+      "score": 581
     },
     {
-      "title": "Household Laser Cuts",
-      "url": "https://cceckman.com/writing/household-laser-cuts/",
-      "score": 21
+      "title": "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
+      "url": "https://www.phoronix.com/news/Asahi-Linux-Official-M3",
+      "score": 216
+    },
+    {
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "score": 70
     },
     {
       "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering",
       "url": "https://shukla.io/quantum-oracle-engineering/",
-      "score": 9
+      "score": 45
     },
     {
-      "title": "Music Theory for Programmers",
-      "url": "https://runjs.app/blog/music-theory-for-programmers",
-      "score": 237
+      "title": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
+      "url": "https://github.com/scastiel/kado",
+      "score": 52
+    },
+    {
+      "title": "The many mysteries and lessons of the Bayeux tapestry",
+      "url": "https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry",
+      "score": 51
     },
     {
       "title": "IBM Quantum Nighthawk R2",
       "url": "https://www.ibm.com/quantum/blog/nighthawk-r2",
-      "score": 47
+      "score": 68
     },
     {
-      "title": "The ColorChecker, photography's most important 24 squares, turns 50",
-      "url": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
-      "score": 103
+      "title": "The pencil case model of creativity",
+      "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
+      "score": 51
     },
     {
-      "title": "The Empire of Information",
-      "url": "https://lareviewofbooks.org/article/data-empire-roopika-risam-information-organize-control-dominate/",
-      "score": 21
+      "title": "Music Theory for Programmers",
+      "url": "https://runjs.app/blog/music-theory-for-programmers",
+      "score": 318
     },
     {
-      "title": "AMD Based FreeBSD Desktop Reloaded",
-      "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
-      "score": 86
+      "title": "Ganon's Mysterious Origins (Revisited)",
+      "url": "https://www.thrillingtalesofoldvideogames.com/blog/ganon-name-origin-kamen-rider",
+      "score": 22
     },
     {
-      "title": "Fileregister: Tagging and reference layer for your files, in plain text",
-      "url": "https://github.com/rhsev/fileregister",
-      "score": 9
-    },
-    {
-      "title": "AI, Tools and Transformation",
-      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-      "score": 106
-    },
-    {
-      "title": "I Changed My License",
-      "url": "https://bergie.iki.fi/blog/eupl/",
-      "score": 113
-    },
-    {
-      "title": "Discovery of a new OpenAI agent message board",
-      "url": "https://collusion.wiki/",
-      "score": 2227
-    },
-    {
-      "title": "2026 Hugo Awards",
-      "url": "https://www.thehugoawards.org/",
-      "score": 26
-    },
-    {
-      "title": "Learn Programming with OCaml",
-      "url": "https://usr.lmf.cnrs.fr/lpo/",
-      "score": 290
-    },
-    {
-      "title": "New all in one 6502 computer (Neo6502kbd)",
-      "url": "https://olimex.wordpress.com/2026/09/04/new-open-source-hardware-variant-of-neo6502-now-includes-keyboard-4-usb-hosts-uext-power-switch-and-usb-c-for-power-and-programming-all-in-one-keyboard-body/",
-      "score": 25
-    },
-    {
-      "title": "'Old Person Smell'",
-      "url": "https://www.theguardian.com/wellness/2026/sep/03/old-person-smell",
-      "score": 47
-    },
-    {
-      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-      "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-      "score": 361
-    },
-    {
-      "title": "LLMs as a Cognitive Virus",
-      "url": "https://arxiv.org/abs/2609.03344",
-      "score": 335
-    },
-    {
-      "title": "Chrome again exempts Google from user site data settings",
-      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
-      "score": 506
+      "title": "Household Laser Cuts",
+      "url": "https://cceckman.com/writing/household-laser-cuts/",
+      "score": 46
     }
   ]
 }
