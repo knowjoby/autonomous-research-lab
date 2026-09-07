@@ -2,139 +2,134 @@
   "papers": [],
   "discussions": [
     {
+      "title": "De-Brainrot Vacations",
+      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+      "score": 376
+    },
+    {
+      "title": "bzip3",
+      "url": "https://github.com/iczelia/bzip3",
+      "score": 174
+    },
+    {
       "title": "Keep Our Servers Running",
       "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-      "score": 556
+      "score": 787
     },
     {
       "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
       "url": "https://mathathonchallenge.com/index.html",
-      "score": 36
+      "score": 144
+    },
+    {
+      "title": "Simple Is Not Small",
+      "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+      "score": 69
     },
     {
       "title": "Live map of public transport in Belgium",
       "url": "https://openbaarvervoerbelgie.be/",
-      "score": 60
-    },
-    {
-      "title": "Speculative Decoding in vLLM on AMD GPUs",
-      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-      "score": 31
-    },
-    {
-      "title": "Impedance Matching",
-      "url": "https://www.edge.org/response-detail/27238",
-      "score": 18
+      "score": 142
     },
     {
       "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
       "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
-      "score": 267
+      "score": 897
     },
     {
-      "title": "US refuses payout for soldiers who died in Iran 'because it isn't a war'",
-      "url": "https://www.telegraph.co.uk/world-news/2026/09/06/pentagon-refused-payout-soldiers-died-in-iran-war/",
-      "score": 32
+      "title": "Splash-free urinals (2025)",
+      "url": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false",
+      "score": 172
     },
     {
-      "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
-      "url": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/",
-      "score": 70
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "score": 96
+    },
+    {
+      "title": "The Dataflow Model Revisited",
+      "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+      "score": 18
+    },
+    {
+      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+      "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+      "score": 198
+    },
+    {
+      "title": "Bill Gates tries to install MovieMaker",
+      "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+      "score": 67
+    },
+    {
+      "title": "Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set",
+      "url": "https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set",
+      "score": 44
+    },
+    {
+      "title": "Whistle Synth",
+      "url": "https://www.jefftk.com/p/whistle-synth-mac-app",
+      "score": 19
+    },
+    {
+      "title": "Impedance Matching (2017)",
+      "url": "https://www.edge.org/response-detail/27238",
+      "score": 61
+    },
+    {
+      "title": "Decoding the NEC V20 Microcode",
+      "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
+      "score": 16
     },
     {
       "title": "Making a Python interpreter in 1024 bytes",
       "url": "https://austinhenley.com/blog/python1024.html",
-      "score": 246
+      "score": 290
     },
     {
-      "title": "I Connected My Withings Body+ to Home Assistant with an ESP32",
-      "url": "https://didac.dev/blog/i-made-my-withings-scale-sync-to-home-assistant-without-the-cloud",
-      "score": 7
+      "title": "Unified Arabic",
+      "url": "https://worksthatwork.com/6/unified-arabic",
+      "score": 96
     },
     {
       "title": "It took a year to ship WebAssembly in Anubis",
       "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-      "score": 285
+      "score": 334
     },
     {
-      "title": "Programming is Art",
-      "url": "https://orchidfiles.com/programming-is-art/",
-      "score": 89
+      "title": "Tiny $70 Xteink X3 e-reader",
+      "url": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/",
+      "score": 156
     },
     {
-      "title": "Show HN: GET Together – A social network where you don't need POST to Post",
-      "url": "https://gettogether.dev",
-      "score": 70
-    },
-    {
-      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-      "url": "https://github.com/timgordontg/engrim",
-      "score": 46
-    },
-    {
-      "title": "Nitter and XCancel resume service after legal advice",
-      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-      "score": 767
+      "title": "If a Tesla Cybercab fleet were profitable, Tesla wouldn't sell you one",
+      "url": "https://electrek.co/2026/09/07/tesla-cybercab-fleet-profitable-wouldnt-sell/",
+      "score": 42
     },
     {
       "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
       "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
-      "score": 308
+      "score": 373
     },
     {
-      "title": "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
-      "url": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
-      "score": 196
+      "title": "I Connected My Withings Body+ to Home Assistant with an ESP32",
+      "url": "https://didac.dev/blog/i-made-my-withings-scale-sync-to-home-assistant-without-the-cloud",
+      "score": 61
     },
     {
-      "title": "Is mathematics about to enter the conservatory?",
-      "url": "https://mbmccoy.dev/posts/mathematical-conservatory/",
-      "score": 63
+      "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
+      "url": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
+      "score": 77
     },
     {
-      "title": "Harnessing the Universal Geometry of Embeddings",
-      "url": "https://arxiv.org/abs/2505.12540",
-      "score": 85
+      "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
+      "url": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/",
+      "score": 271
     },
     {
-      "title": "TiVo to charge money for skipping commercials in your own recordings",
-      "url": "https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/",
-      "score": 100
-    },
-    {
-      "title": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
-      "url": "https://rfd.shared.oxide.computer/rfd/0301",
-      "score": 37
-    },
-    {
-      "title": "Asahi Linux on M3",
-      "url": "https://asahilinux.org/2026/09/m2-episode-1/",
-      "score": 498
-    },
-    {
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "score": 184
-    },
-    {
-      "title": "Show HN: Think Turing Complete, but you write the circuits in TypeScript (WIP)",
-      "url": "https://play.simten.dev",
+      "title": "Nördlinger Ries Impact Crater",
+      "url": "https://en.wikipedia.org/wiki/Nördlinger_Ries",
       "score": 6
-    },
-    {
-      "title": "25 years ago, two strangers met in the twin towers and escaped on 9/11",
-      "url": "https://www.theguardian.com/us-news/2026/sep/07/strangers-twin-towers-escape-september-11",
-      "score": 8
-    },
-    {
-      "title": "An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind/",
-      "score": 421
-    },
-    {
-      "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
-      "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
-      "score": 152
     }
   ]
 }
