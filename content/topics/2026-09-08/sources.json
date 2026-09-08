@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+      "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
+      "score": 98
+    },
+    {
+      "title": "We built our house for LAN parties",
+      "url": "https://lanparty.house/",
+      "score": 115
+    },
+    {
       "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
       "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-      "score": 116
+      "score": 344
+    },
+    {
+      "title": "Why getting your hands dirty is good for you",
+      "url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
+      "score": 19
+    },
+    {
+      "title": "There's a new \"Google Jail\" for independent wikis",
+      "url": "https://weirdgloop.org/blog/google-jail",
+      "score": 174
+    },
+    {
+      "title": "Mistral raises €3B",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "score": 482
+    },
+    {
+      "title": "Antiquated HTML Snippets and Artefacts",
+      "url": "https://vale.rocks/posts/html-relics",
+      "score": 8
     },
     {
       "title": "TALA Is Open-Source",
       "url": "https://d2lang.com/blog/tala-is-open-source/",
-      "score": 99
+      "score": 231
     },
     {
-      "title": "Jellyfin 12.0",
-      "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
-      "score": 99
+      "title": "Multi-Agents LLM Financial Trading Framework",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "score": 52
+    },
+    {
+      "title": "How well do agents use test/verification techniques?",
+      "url": "https://danluu.com/agentic-testing/",
+      "score": 89
+    },
+    {
+      "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+      "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+      "score": 46
     },
     {
       "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
       "url": "https://lax-skyline.parcelscope.net/",
-      "score": 234
+      "score": 297
     },
     {
       "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
       "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
-      "score": 112
+      "score": 202
     },
     {
-      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-      "url": "https://arxiv.org/abs/2607.24888",
-      "score": 167
+      "title": "We have a year to fix security everywhere",
+      "url": "https://jyn.dev/a-year-to-fix-security/",
+      "score": 234
     },
     {
-      "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
-      "url": "https://github.com/Sadpainy/Stuxnet",
-      "score": 111
+      "title": "Jellyfin 12.0",
+      "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+      "score": 383
     },
     {
-      "title": "John Margolies' photographs of roadside America",
-      "url": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/",
-      "score": 30
+      "title": "Understanding Computer Memory Architecture and SSD Internals",
+      "url": "https://codingpirate.com/understanding-computer-memory-architecture-ac9320110787",
+      "score": 43
     },
     {
       "title": "WeatherNext 3",
       "url": "https://deepmind.google/science/weathernext/",
-      "score": 246
+      "score": 330
+    },
+    {
+      "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+      "url": "https://rohanadwankar.github.io/posts/platforms.html",
+      "score": 32
     },
     {
       "title": "Scientists observe Einstein's gravity in the quantum world",
       "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
-      "score": 158
+      "score": 223
     },
     {
-      "title": "216M Spy TVs – The LG Smart TV Problem [video]",
-      "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
-      "score": 570
+      "title": "My Feed, My Way",
+      "url": "https://www.pm.gov.au/media/my-feed-my-way",
+      "score": 125
     },
     {
-      "title": "Show HN: Jigsaw Haiku",
-      "url": "https://jigsawhaiku.com/",
-      "score": 65
+      "title": "End-to-end infrastructure for training and inferencing open weight models",
+      "url": "https://docs.appliedcompute.com",
+      "score": 6
     },
     {
-      "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
-      "url": "https://kallus.org/blog/dummit_and_foote.html",
-      "score": 70
+      "title": "John Margolies' photographs of roadside America",
+      "url": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/",
+      "score": 86
     },
     {
-      "title": "Colorlight 5A-75B: A dive into a popular low-cost ECP5 (FPGA) development board",
-      "url": "https://blog.yosyshq.com/p/colorlight-part-1/",
-      "score": 12
+      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "score": 268
     },
     {
-      "title": "Show HN: Interactive Tree of Life",
-      "url": "https://ptree.org/",
-      "score": 66
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+      "url": "https://arxiv.org/abs/2607.24888",
+      "score": 211
     },
     {
-      "title": "This Month in Ladybird – August 2026",
-      "url": "https://ladybird.org/newsletter/2026-08-31/",
-      "score": 182
+      "title": "Extinct Tasmanian tiger's 'snap' unlike any living mammal's bite",
+      "url": "https://www.cnn.com/2026/09/02/science/tasmanian-tiger-skull-bite-force",
+      "score": 30
     },
     {
-      "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
-      "url": "https://mathathonchallenge.com/index.html",
-      "score": 238
+      "title": "anystation: Calling any station A public board shaped like a tree. No account",
+      "url": "https://anystation.net/",
+      "score": 6
     },
     {
       "title": "Emacs Bedrock 2.0",
       "url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
-      "score": 46
+      "score": 121
     },
     {
       "title": "Icy Moons Are Ocean Worlds",
       "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
-      "score": 138
+      "score": 184
     },
     {
-      "title": "Catching Crumbs from the Table (2000)",
-      "url": "https://www.nature.com/articles/35014679",
+      "title": "Feather Atlas",
+      "url": "https://www.fws.gov/lab/featheratlas/identify.html",
       "score": 13
     },
     {
-      "title": "Decoding the NEC V20 Microcode",
-      "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
-      "score": 127
-    },
-    {
-      "title": "Simple Is Not Small",
-      "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
-      "score": 216
-    },
-    {
-      "title": "Macbeth and His Problems",
-      "url": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
-      "score": 46
-    },
-    {
-      "title": "Keep Our Servers Running",
-      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-      "score": 963
-    },
-    {
-      "title": "Methods for Random Gradients (2024)",
-      "url": "https://justinjay.wang/methods-for-random-gradients/",
-      "score": 47
-    },
-    {
-      "title": "The Dataflow Model Revisited",
-      "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
-      "score": 89
-    },
-    {
-      "title": "bzip3",
-      "url": "https://github.com/iczelia/bzip3",
-      "score": 389
-    },
-    {
-      "title": "Live map of public transport in Belgium",
-      "url": "https://openbaarvervoerbelgie.be/",
-      "score": 190
-    },
-    {
-      "title": "She Also Found It at the Movies",
-      "url": "https://hedgehogreview.com/web-features/thr/posts/she-also-found-it-at-the-movies",
-      "score": 28
-    },
-    {
-      "title": "Whistle Synth Mac App",
-      "url": "https://www.jefftk.com/p/whistle-synth-mac-app",
-      "score": 71
+      "title": "Show HN: Jigsaw Haiku",
+      "url": "https://jigsawhaiku.com/",
+      "score": 97
     }
   ]
 }
