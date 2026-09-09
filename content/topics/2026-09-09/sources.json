@@ -2,154 +2,149 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Tailwind Labs is joining Shopify",
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "score": 401
+    },
+    {
+      "title": "Desert Ant Labs: local, fast models that run on device",
+      "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+      "score": 224
+    },
+    {
+      "title": "Claude, change the \"Add to Cart\" button to blue",
+      "url": "https://opusfived.dev/",
+      "score": 514
+    },
+    {
+      "title": "Investing in Mothers? The Long-Run Impact of a Universal Child Care",
+      "url": "https://www.nber.org/papers/w35514",
+      "score": 21
+    },
+    {
+      "title": "Show HN: Geiger – See every AI agent on your machine and what it can touch",
+      "url": "https://github.com/Atomburstofficial/geiger",
+      "score": 21
+    },
+    {
+      "title": "I advertise malicious software on Google Ads",
+      "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
+      "score": 224
+    },
+    {
+      "title": "Playing whack-a-mole is losing",
+      "url": "https://dadrian.io/blog/posts/whack-a-mole-is-losing/",
+      "score": 28
+    },
+    {
+      "title": "No Man's Sky Cosmos",
+      "url": "https://www.nomanssky.com/cosmos-update/",
+      "score": 3
+    },
+    {
+      "title": "Better AI code comment detector",
+      "url": "https://entropicthoughts.com/better-ai-comment-classifier",
+      "score": 3
+    },
+    {
+      "title": "Planet Labs' Open Satellite Feed",
+      "url": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
+      "score": 4
+    },
+    {
       "title": "Muse – Meta’s personal AI agent",
       "url": "https://ai.meta.com/muse/",
-      "score": 526
+      "score": 593
     },
     {
-      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
-      "score": 72
+      "title": "Coyote v. Acme (1990)",
+      "url": "https://www.newyorker.com/magazine/1990/02/26/coyote-v-acme",
+      "score": 107
     },
     {
-      "title": "Lotus Notes and the dangers of starting from scratch",
-      "url": "https://buttondown.com/blog/lotus-notes-email",
-      "score": 8
+      "title": "Roame (YC S23) Is Hiring Viral Content Editor",
+      "url": "https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor",
+      "score": 1
+    },
+    {
+      "title": "We Accidentally Built a Synthetic Cell Factory",
+      "url": "https://bnext.bio/post/we-accidentally-built-a-synthetic-cell-factory",
+      "score": 3
     },
     {
       "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
       "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-      "score": 1715
+      "score": 1907
     },
     {
-      "title": "On Really Trying (2009)",
-      "url": "https://gwern.net/on-really-trying",
-      "score": 57
+      "title": "Building a Wall Lamp from Scratch",
+      "url": "https://mbugert.de/posts/2026-09-09-bedroom-lamp-build/",
+      "score": 58
+    },
+    {
+      "title": "Searching for the best silicone USB cable",
+      "url": "https://www.frankchiarulli.com/blog/best-silicone-usb-cable/",
+      "score": 51
+    },
+    {
+      "title": "Smolts: A pedagogical IDE for a teaching language",
+      "url": "https://eighty-twenty.org/2026/09/04/smolts",
+      "score": 29
+    },
+    {
+      "title": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes",
+      "url": "https://github.com/ashemag/human-atlas",
+      "score": 53
+    },
+    {
+      "title": "Lotus Notes and the dangers of starting from scratch",
+      "url": "https://buttondown.com/blog/lotus-notes-email",
+      "score": 126
+    },
+    {
+      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+      "score": 126
     },
     {
       "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
       "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
-      "score": 123
+      "score": 148
     },
     {
       "title": "How to build a printer",
       "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-      "score": 346
+      "score": 416
+    },
+    {
+      "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
+      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+      "score": 4
     },
     {
       "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-      "score": 566
-    },
-    {
-      "title": "Maak.el: Lisp machine command runner in Emacs, infinitely extensible and Scheme",
-      "url": "https://codeberg.org/jjba23/maak.el",
-      "score": 13
+      "score": 586
     },
     {
       "title": "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
       "url": "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/",
-      "score": 47
+      "score": 76
+    },
+    {
+      "title": "How An AI math breakthrough ignited a controversy",
+      "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+      "score": 193
+    },
+    {
+      "title": "The Ancient Greek Water Clock That Kept the Most Accurate Time for 1,800 Years",
+      "url": "https://www.openculture.com/2026/09/the-ancient-greek-water-clock-that-kept-the-most-accurate-time-for-1800-years.html",
+      "score": 22
     },
     {
       "title": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
       "url": "https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en",
-      "score": 57
-    },
-    {
-      "title": "Large language models develop novel social biases through adaptive exploration",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-      "score": 170
-    },
-    {
-      "title": "Mercury 2.5",
-      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
-      "score": 204
-    },
-    {
-      "title": "“Tweet” and the bird logo apparently enter the public domain",
-      "url": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
-      "score": 101
-    },
-    {
-      "title": "DaVinci Resolve 21.1",
-      "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
-      "score": 407
-    },
-    {
-      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "score": 460
-    },
-    {
-      "title": "27.5KB language-agnostic WebGPU syntax highlighter",
-      "url": "https://gpu-lexer.vercel.app/",
-      "score": 88
-    },
-    {
-      "title": "Tao: Open math problems being non-renewably mined by AI",
-      "url": "https://mathstodon.xyz/@tao/117237320796901560",
-      "score": 374
-    },
-    {
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "url": "https://openai.com/index/navier-stokes-solution/",
-      "score": 1267
-    },
-    {
-      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
-      "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
-      "score": 253
-    },
-    {
-      "title": "An Accidental Blackboard",
-      "url": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
-      "score": 63
-    },
-    {
-      "title": "Carmakers Have a New Idea to Boost EV Range: Add a Gas Engine",
-      "url": "https://www.wsj.com/business/autos/carmakers-have-a-new-idea-to-boost-ev-range-add-a-gas-engine-16bbcc34",
-      "score": 7
-    },
-    {
-      "title": "We built our house for LAN parties (2024)",
-      "url": "https://lanparty.house/",
-      "score": 529
-    },
-    {
-      "title": "Interactive demo of MINIX1-like O/S on emulated CPU",
-      "url": "https://swtos.softwarewrighter.com/",
-      "score": 4
-    },
-    {
-      "title": "The Microeconomics of Artificial Intelligence (2025)",
-      "url": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
-      "score": 62
-    },
-    {
-      "title": "The origins of Partner’s computer case",
-      "url": "https://www.racunalniski-muzej.si/en/the-origins-of-partners-computer-case/",
-      "score": 34
-    },
-    {
-      "title": "Ganon's Mysterious Origins (Revisited)",
-      "url": "https://www.thrillingtalesofoldvideogames.com/blog/ganon-name-origin-kamen-rider",
-      "score": 34
-    },
-    {
-      "title": "A Topological Picture Book, Rendered",
-      "url": "https://e-infinity.space/picture-book/",
-      "score": 109
-    },
-    {
-      "title": "Into the depths of C: Elaborating the de facto standards (2016)",
-      "url": "https://dl.acm.org/doi/10.1145/2980983.2908081",
-      "score": 21
-    },
-    {
-      "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
-      "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
-      "score": 130
+      "score": 90
     }
   ]
 }
