@@ -2,149 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Harvard study predicts most suicide attempts a week in advance",
-      "url": "https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance",
-      "score": 78
-    },
-    {
       "title": "Muse – Meta’s personal AI agent",
       "url": "https://ai.meta.com/muse/",
-      "score": 350
+      "score": 526
     },
     {
-      "title": "How to build a printer",
-      "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-      "score": 168
+      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+      "score": 72
     },
     {
-      "title": "Large language models develop novel social biases through adaptive exploration",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-      "score": 106
-    },
-    {
-      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-      "score": 505
-    },
-    {
-      "title": "27.5KB language-agnostic WebGPU syntax highlighter",
-      "url": "https://gpu-lexer.vercel.app/",
-      "score": 19
-    },
-    {
-      "title": "An Accidental Blackboard",
-      "url": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
-      "score": 15
-    },
-    {
-      "title": "DaVinci Resolve 21.1",
-      "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
-      "score": 363
-    },
-    {
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "url": "https://openai.com/index/navier-stokes-solution/",
-      "score": 1154
-    },
-    {
-      "title": "Trees use a \"muscle\", tension wood, to correct their posture",
-      "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
-      "score": 6
-    },
-    {
-      "title": "Tao: Open math problems being non-renewably mined by AI",
-      "url": "https://mathstodon.xyz/@tao/117237320796901560",
-      "score": 190
-    },
-    {
-      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
-      "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
-      "score": 221
-    },
-    {
-      "title": "The Microeconomics of Artificial Intelligence (2025)",
-      "url": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
-      "score": 35
-    },
-    {
-      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "score": 337
-    },
-    {
-      "title": "AI Responsibility – OpenAI and Anthropic",
-      "url": "https://twitter.com/hilbertspaess/status/2097476196791709843",
-      "score": 31
-    },
-    {
-      "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
-      "url": "https://github.com/argonautlabsai/deltafin",
-      "score": 219
+      "title": "Lotus Notes and the dangers of starting from scratch",
+      "url": "https://buttondown.com/blog/lotus-notes-email",
+      "score": 8
     },
     {
       "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
       "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-      "score": 1351
+      "score": 1715
     },
     {
-      "title": "A Topological Picture Book, Rendered",
-      "url": "https://e-infinity.space/picture-book/",
-      "score": 62
+      "title": "On Really Trying (2009)",
+      "url": "https://gwern.net/on-really-trying",
+      "score": 57
     },
     {
-      "title": "Show HN: LLM Attention Visualization",
-      "url": "https://ishamf.dev/p/llm-attention-visualizer/",
-      "score": 135
+      "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
+      "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
+      "score": 123
     },
     {
-      "title": "Getting phpBB 1.4.4 working in Docker",
-      "url": "https://www.thran.uk/writ/devlog/2026/09/phpbb-144-in-docker.html",
-      "score": 26
+      "title": "How to build a printer",
+      "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+      "score": 346
     },
     {
-      "title": "Animation in Bevy: The Big Picture",
-      "url": "https://glocq.com/en/blog/20260827/",
-      "score": 48
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "score": 566
     },
     {
-      "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
-      "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
-      "score": 92
+      "title": "Maak.el: Lisp machine command runner in Emacs, infinitely extensible and Scheme",
+      "url": "https://codeberg.org/jjba23/maak.el",
+      "score": 13
     },
     {
-      "title": "We built our house for LAN parties (2024)",
-      "url": "https://lanparty.house/",
-      "score": 436
+      "title": "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
+      "url": "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/",
+      "score": 47
     },
     {
-      "title": "The Helicopter with Radioactive Blades",
-      "url": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/",
-      "score": 152
+      "title": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
+      "url": "https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en",
+      "score": 57
+    },
+    {
+      "title": "Large language models develop novel social biases through adaptive exploration",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "score": 170
     },
     {
       "title": "Mercury 2.5",
       "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
-      "score": 128
+      "score": 204
     },
     {
-      "title": "Implementation of GCC's Nested Functions (vs. C++ Lambdas)",
-      "url": "https://uecker.codeberg.page/2026-09-05.html",
-      "score": 61
+      "title": "“Tweet” and the bird logo apparently enter the public domain",
+      "url": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
+      "score": 101
     },
     {
-      "title": "Tracing np.add, all the way down",
-      "url": "https://blog.veitheller.de/numpy.html",
-      "score": 42
+      "title": "DaVinci Resolve 21.1",
+      "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+      "score": 407
     },
     {
-      "title": "Show HN: Copperhead – Cursor for circuit boards",
-      "url": "https://copperhead.sh/",
-      "score": 212
+      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "score": 460
     },
     {
-      "title": "Reverse Engineering an ASIC",
-      "url": "https://kjartanvandriel.github.io/asic/",
-      "score": 39
+      "title": "27.5KB language-agnostic WebGPU syntax highlighter",
+      "url": "https://gpu-lexer.vercel.app/",
+      "score": 88
+    },
+    {
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560",
+      "score": 374
+    },
+    {
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution/",
+      "score": 1267
+    },
+    {
+      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+      "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+      "score": 253
+    },
+    {
+      "title": "An Accidental Blackboard",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
+      "score": 63
+    },
+    {
+      "title": "Carmakers Have a New Idea to Boost EV Range: Add a Gas Engine",
+      "url": "https://www.wsj.com/business/autos/carmakers-have-a-new-idea-to-boost-ev-range-add-a-gas-engine-16bbcc34",
+      "score": 7
+    },
+    {
+      "title": "We built our house for LAN parties (2024)",
+      "url": "https://lanparty.house/",
+      "score": 529
+    },
+    {
+      "title": "Interactive demo of MINIX1-like O/S on emulated CPU",
+      "url": "https://swtos.softwarewrighter.com/",
+      "score": 4
+    },
+    {
+      "title": "The Microeconomics of Artificial Intelligence (2025)",
+      "url": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
+      "score": 62
+    },
+    {
+      "title": "The origins of Partner’s computer case",
+      "url": "https://www.racunalniski-muzej.si/en/the-origins-of-partners-computer-case/",
+      "score": 34
+    },
+    {
+      "title": "Ganon's Mysterious Origins (Revisited)",
+      "url": "https://www.thrillingtalesofoldvideogames.com/blog/ganon-name-origin-kamen-rider",
+      "score": 34
+    },
+    {
+      "title": "A Topological Picture Book, Rendered",
+      "url": "https://e-infinity.space/picture-book/",
+      "score": 109
+    },
+    {
+      "title": "Into the depths of C: Elaborating the de facto standards (2016)",
+      "url": "https://dl.acm.org/doi/10.1145/2980983.2908081",
+      "score": 21
+    },
+    {
+      "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
+      "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
+      "score": 130
     }
   ]
 }
