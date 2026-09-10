@@ -1,0 +1,155 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "iPhone Duo",
+      "url": "https://www.apple.com/iphone-duo/",
+      "score": 964
+    },
+    {
+      "title": "Shopify acquires Tailwind",
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "score": 917
+    },
+    {
+      "title": "What do Visa and Mastercard do? An intro to card networks",
+      "url": "https://tautology.town/2026/06/01/card-networks.html",
+      "score": 405
+    },
+    {
+      "title": "Show HN: What if the speed of light was 5 km/h?",
+      "url": "https://rivendell.dmitrybrant.com/relativity/",
+      "score": 23
+    },
+    {
+      "title": "Growing proof that autonomous cars save lives",
+      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+      "score": 247
+    },
+    {
+      "title": "AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "score": 395
+    },
+    {
+      "title": "Show HN: Compute polynomials twice as fast",
+      "url": "https://thomasahle.com/fast-polynomials/",
+      "score": 25
+    },
+    {
+      "title": "No Man's Sky Cosmos",
+      "url": "https://www.nomanssky.com/cosmos-update/",
+      "score": 314
+    },
+    {
+      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "score": 299
+    },
+    {
+      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+      "score": 362
+    },
+    {
+      "title": "Factoring RSA 260",
+      "url": "https://cognition.com/blog/factoring-rsa-260",
+      "score": 49
+    },
+    {
+      "title": "Apple Watch Series 12",
+      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+      "score": 228
+    },
+    {
+      "title": "Desert Ant Labs: local, fast models that run on device",
+      "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+      "score": 407
+    },
+    {
+      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "score": 185
+    },
+    {
+      "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
+      "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+      "score": 72
+    },
+    {
+      "title": "GNU Radio in the browser",
+      "url": "https://gnuradioworld.com/",
+      "score": 178
+    },
+    {
+      "title": "Rivian's gambit for full autonomy",
+      "url": "https://spectrum.ieee.org/rivian-self-driving",
+      "score": 40
+    },
+    {
+      "title": "How I advertise malicious software on Google Ads",
+      "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
+      "score": 363
+    },
+    {
+      "title": "Be Using Rootless Containers",
+      "url": "https://blog.miguelgrinberg.com/post/you-should-be-using-rootless-containers",
+      "score": 5
+    },
+    {
+      "title": "The UN challenges five centuries of cartography",
+      "url": "https://www.not-ship.com/united-nations-map/",
+      "score": 56
+    },
+    {
+      "title": "Seismic Isolation",
+      "url": "https://www.ligo.caltech.edu/page/vibration-isolation",
+      "score": 8
+    },
+    {
+      "title": "The Kuycon P20 – 28\" 4500x3000px 3:2 monitor",
+      "url": "https://taoofmac.com/space/reviews/2026/09/06/1800",
+      "score": 27
+    },
+    {
+      "title": "Planet Labs' open satellite feed",
+      "url": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
+      "score": 151
+    },
+    {
+      "title": "Understanding the recent DDoS attack against Read the Docs",
+      "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
+      "score": 164
+    },
+    {
+      "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
+      "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
+      "score": 5
+    },
+    {
+      "title": "Blizzard Workers Win Historic Union Contract",
+      "url": "https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers",
+      "score": 117
+    },
+    {
+      "title": "Use Vsock with Libzmq",
+      "url": "https://blog.remijouan.net/posts/libzmq-vsock-pyzmq/",
+      "score": 30
+    },
+    {
+      "title": "Electrostatic Cathode Ray Tube Project 1 (2014)",
+      "url": "https://labguysworld.com/Project_ESCRTs_001.htm",
+      "score": 16
+    },
+    {
+      "title": "Bespoke: A programming language for people who say please",
+      "url": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
+      "score": 139
+    },
+    {
+      "title": "Claude, change the “Add to Cart” button to blue",
+      "url": "https://opusfived.dev/",
+      "score": 1041
+    }
+  ]
+}
