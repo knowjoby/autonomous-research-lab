@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Cherenkov Radiation - traveling faster than light",
+      "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+      "score": 55
+    },
+    {
       "title": "Shopify is moving from React Native back to Swift and Kotlin",
       "url": "https://shopify.engineering/back-to-native",
-      "score": 834
-    },
-    {
-      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-      "score": 718
-    },
-    {
-      "title": "OpenAI Agents API",
-      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "score": 159
-    },
-    {
-      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-      "url": "https://system76.com/workstations/thelio-mira-ai",
-      "score": 47
-    },
-    {
-      "title": "YuE2 · Frontier Music with Symbolic Planning",
-      "url": "https://map-yue2.github.io/",
-      "score": 53
+      "score": 1078
     },
     {
       "title": "Don't let anyone take away your big box of cables",
       "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-      "score": 351
+      "score": 543
     },
     {
-      "title": "Google will buy half the electricity of a nuclear power plant",
-      "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
-      "score": 109
+      "title": "Working with Git Worktrees in Magit",
+      "url": "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/",
+      "score": 56
     },
     {
-      "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
-      "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
-      "score": 61
-    },
-    {
-      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "url": "https://cognition.com/blog/swe-2",
-      "score": 363
-    },
-    {
-      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
-      "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
-      "score": 284
+      "title": "OpenAI Agents API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "score": 272
     },
     {
       "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
       "url": "https://auberon.xyz/blog/posts/deathray/",
-      "score": 100
+      "score": 205
+    },
+    {
+      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+      "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+      "score": 342
+    },
+    {
+      "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+      "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+      "score": 229
+    },
+    {
+      "title": "Nine coding harnesses vs. your laptop",
+      "url": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
+      "score": 107
+    },
+    {
+      "title": "So you want to use OpenRouter?",
+      "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
+      "score": 99
+    },
+    {
+      "title": "Neijuan",
+      "url": "https://en.wikipedia.org/wiki/Neijuan",
+      "score": 36
+    },
+    {
+      "title": "GPT‑Live‑1 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+      "score": 23
     },
     {
       "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
       "url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
-      "score": 67
+      "score": 107
     },
     {
-      "title": "Customizing my Compaq MX-11800 keyboard",
-      "url": "https://blog.webb.page/WM-102",
-      "score": 16
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "score": 820
+    },
+    {
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
+      "score": 419
     },
     {
       "title": "Music Theory for the 21st-Century Classroom",
       "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
-      "score": 171
+      "score": 232
     },
     {
-      "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
-      "url": "https://merybenavente.me/blog/proof-of-capture",
-      "score": 74
-    },
-    {
-      "title": "Neki – Sharded Postgres",
-      "url": "https://planetscale.com/blog/introducing-neki",
-      "score": 210
+      "title": "CSS Curiosities of the Past",
+      "url": "https://vale.rocks/posts/css-relics",
+      "score": 9
     },
     {
       "title": "Forgejo <=16.0.3 Critical RCE",
       "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
-      "score": 155
+      "score": 188
+    },
+    {
+      "title": "Neki – Sharded Postgres",
+      "url": "https://planetscale.com/blog/introducing-neki",
+      "score": 247
+    },
+    {
+      "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+      "url": "https://merybenavente.me/blog/proof-of-capture",
+      "score": 111
     },
     {
       "title": "Rust is tier-1 language at Microsoft",
       "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-      "score": 620
+      "score": 680
     },
     {
-      "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
-      "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
-      "score": 289
-    },
-    {
-      "title": "iPhone Duo",
-      "url": "https://www.apple.com/iphone-duo/",
-      "score": 1417
-    },
-    {
-      "title": "Recursion into madness",
-      "url": "https://blog.coredump.cx/p/recursion-into-madness",
-      "score": 45
+      "title": "Testing race conditions with mem access tracing and stack-based delay injection",
+      "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
+      "score": 9
     },
     {
       "title": "Detecting and countering misuse of AI: September 2026",
       "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-      "score": 93
-    },
-    {
-      "title": "JEP 544: Ahead-of-Time Code Compilation",
-      "url": "https://openjdk.org/jeps/544",
-      "score": 82
-    },
-    {
-      "title": "What happens when a GPU writes memory",
-      "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
-      "score": 52
-    },
-    {
-      "title": "Herdr Studio",
-      "url": "https://powerfooI.github.io/herdr-studio/",
-      "score": 8
+      "score": 136
     },
     {
       "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
       "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
-      "score": 149
+      "score": 185
     },
     {
-      "title": "YouTube had a bug – I used ChatGPT to investigate",
-      "url": "https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate",
-      "score": 15
+      "title": "An interactive tour of the spanning tree protocol",
+      "url": "https://vincent.bernat.ch/en/blog/2026-spanning-tree",
+      "score": 7
     },
     {
-      "title": "Setting up OpenCode with Ollama and sbx on Mac",
-      "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
-      "score": 10
+      "title": "Recursion into madness",
+      "url": "https://blog.coredump.cx/p/recursion-into-madness",
+      "score": 75
     },
     {
-      "title": "Silicon Valley is transforming the military-industrial complex? (2024)",
-      "url": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
-      "score": 157
+      "title": "Astra for Coding: Why Are We Doing This Again?",
+      "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+      "score": 341
     },
     {
-      "title": "Embedding a bitmap font in your HyperCard stack",
-      "url": "https://www.leadedsolder.com/2026/09/08/hypercard-custom-fonts-in-resources.html",
-      "score": 25
+      "title": "JEP 544: Ahead-of-Time Code Compilation",
+      "url": "https://openjdk.org/jeps/544",
+      "score": 94
+    },
+    {
+      "title": "Exercise intensity is associated with cardiometabolic health",
+      "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
+      "score": 105
+    },
+    {
+      "title": "YuE2 · Frontier Music with Symbolic Planning",
+      "url": "https://map-yue2.github.io/",
+      "score": 96
     }
   ]
 }
