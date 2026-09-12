@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "A Mathematical Framework for Transformer Circuits (2021)",
-      "url": "https://transformer-circuits.pub/2021/framework/index.html",
-      "score": 18
+      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+      "score": 234
+    },
+    {
+      "title": "Make your first edit to OpenStreetMap",
+      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "score": 133
+    },
+    {
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "score": 237
+    },
+    {
+      "title": "Stabilizing Rust's Never Type",
+      "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+      "score": 34
+    },
+    {
+      "title": "Will There Be a 7G?",
+      "url": "https://arxiv.org/abs/2609.01877",
+      "score": 50
+    },
+    {
+      "title": "An open letter to Dario: if you mean it, open the weights",
+      "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+      "score": 137
+    },
+    {
+      "title": "We must pace the frontier",
+      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "score": 358
     },
     {
       "title": "IKEA made a mod for Skyrim [video]",
       "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
-      "score": 357
+      "score": 488
     },
     {
-      "title": "Fuck it, make it anyway",
-      "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
-      "score": 308
-    },
-    {
-      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-      "url": "https://eiln.github.io/posts/ane.html",
-      "score": 156
-    },
-    {
-      "title": "A misalignment of AI in mathematics",
-      "url": "https://mathandai.org/",
-      "score": 1072
-    },
-    {
-      "title": "Performance of WebAssembly Runtimes in 2026",
-      "url": "https://00f.net/2026/06/23/webassembly-runtimes-2026/",
-      "score": 20
-    },
-    {
-      "title": "LRU is harder to beat than the KV-cache papers suggest",
-      "url": "https://github.com/gauravapiscean/agentic-kv-cache",
-      "score": 27
-    },
-    {
-      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-      "score": 640
-    },
-    {
-      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-      "score": 58
-    },
-    {
-      "title": "Waymo pulls over, calls cops on juvenile riders who had 'ghost gun\"",
-      "url": "https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun",
-      "score": 18
-    },
-    {
-      "title": "A Design Space Exploration of Async/Await",
-      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-      "score": 359
-    },
-    {
-      "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
-      "url": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
-      "score": 111
-    },
-    {
-      "title": "We Must Pace the Frontier",
-      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
-      "score": 63
-    },
-    {
-      "title": "Finding Slow Code with Wrapture",
-      "url": "https://grahamdumpleton.me/posts/2026/09/finding-slow-code-with-wrapture/",
-      "score": 13
-    },
-    {
-      "title": "Usenet rewind archive search engine",
-      "url": "https://www.usenet-rewind.com/",
-      "score": 95
-    },
-    {
-      "title": "Show HN: Bodily Oddities",
-      "url": "https://vester.si/bodily-oddities/",
-      "score": 299
-    },
-    {
-      "title": "My last six months at Evernote",
-      "url": "https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/",
-      "score": 16
-    },
-    {
-      "title": "Inverse Kinematics and Foot Locking",
-      "url": "https://theorangeduck.com/page/inverse-kinematics-foot-locking",
-      "score": 96
+      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+      "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+      "score": 56
     },
     {
       "title": "google.com/goto: Google's anti-scraping update",
       "url": "https://www.autom.dev/blog/google-search-goto-links",
-      "score": 516
+      "score": 589
     },
     {
-      "title": "Logo Programming",
-      "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
-      "score": 296
+      "title": "I made a build visualizer to understand Bun's compile times",
+      "url": "https://lalitm.com/post/buildprof/",
+      "score": 39
     },
     {
-      "title": "Forgotten Woodlands",
-      "url": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
-      "score": 25
+      "title": "A Mathematical Framework for Transformer Circuits (2021)",
+      "url": "https://transformer-circuits.pub/2021/framework/index.html",
+      "score": 60
     },
     {
-      "title": "We've followed their lives for six decades; now the stars of 7 Up are bowing out",
-      "url": "https://www.bbc.co.uk/news/articles/crm932el3yjo",
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "url": "https://eiln.github.io/posts/ane.html",
+      "score": 198
+    },
+    {
+      "title": "A few good ideas in programming languages",
+      "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
+      "score": 60
+    },
+    {
+      "title": "Eating Fruit Skins",
+      "url": "https://pgadey.ca/blog/eating-fruit-skins/",
+      "score": 42
+    },
+    {
+      "title": "How Trail of Bits helps verify the integrity of Signal chats",
+      "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+      "score": 19
+    },
+    {
+      "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
+      "url": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
+      "score": 140
+    },
+    {
+      "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
+      "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
       "score": 63
     },
     {
-      "title": "SystemIO conflicts are not firmware bugs",
-      "url": "https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/",
-      "score": 23
-    },
-    {
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "url": "https://www.rubyhack.ai/",
-      "score": 839
-    },
-    {
-      "title": "Compiler Can Undo Your Security Checks",
-      "url": "https://davidbombal.com/your-compiler-can-undo-your-security-checks/",
-      "score": 6
-    },
-    {
-      "title": "LLMs are real, AI is fake",
-      "url": "https://pluralistic.net/2026/09/12/god-in-the-box/",
-      "score": 16
-    },
-    {
-      "title": "Designing for Dual Screen and Foldable Devices with CSS (2023)",
-      "url": "https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/",
-      "score": 49
-    },
-    {
-      "title": "Mind-altering drugs played key role in rise of Andean civilization",
-      "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
-      "score": 191
-    },
-    {
-      "title": "Litelm: LiteLLM Without the Bloat",
-      "url": "https://github.com/kennethwolters/litelm",
-      "score": 161
+      "title": "Performance of WebAssembly Runtimes in 2026",
+      "url": "https://00f.net/2026/06/23/webassembly-runtimes-2026/",
+      "score": 64
     },
     {
       "title": "Navier-Stokes Announcement",
       "url": "https://www.claymath.org/news/navier-stokes-announcement/",
-      "score": 233
+      "score": 270
+    },
+    {
+      "title": "LRU is harder to beat than the KV-cache papers suggest",
+      "url": "https://github.com/gauravapiscean/agentic-kv-cache",
+      "score": 81
+    },
+    {
+      "title": "λ Snap – An inviting programming language for kids and adults for CS study",
+      "url": "https://snap.berkeley.edu/",
+      "score": 166
+    },
+    {
+      "title": "The worst spam emails: iLands AI agent hustle",
+      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+      "score": 89
+    },
+    {
+      "title": "How we manage and engage with our horses shapes their personality",
+      "url": "https://www.utu.fi/en/news/press-release/how-we-manage-and-engage-with-our-horses-shapes-their-personality",
+      "score": 22
+    },
+    {
+      "title": "A Design Space Exploration of Async/Await",
+      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "score": 402
+    },
+    {
+      "title": "Reconstructing Concurrency Invariants Through Medieval East Asian Logic",
+      "url": "https://oborona.zip/post/a-middle-period-engine-reconstructing-concurrency-invariants-through-east-asian-structural-logic",
+      "score": 15
+    },
+    {
+      "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
+      "url": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
+      "score": 137
+    },
+    {
+      "title": "I refuse to let SPICE die",
+      "url": "https://github.com/nefarius/vd_agent/",
+      "score": 63
+    },
+    {
+      "title": "Waymo pulls over, calls cops on juvenile riders who had 'ghost gun\"",
+      "url": "https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun",
+      "score": 101
+    },
+    {
+      "title": "A misalignment of AI in mathematics",
+      "url": "https://mathandai.org/",
+      "score": 1159
     }
   ]
 }
