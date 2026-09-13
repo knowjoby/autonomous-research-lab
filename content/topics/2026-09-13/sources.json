@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Flock worker calls police on reporter filming public camera installation",
-      "url": "https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/",
-      "score": 277
+      "title": "Why is Google still serving dodgy ads?",
+      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "score": 278
+    },
+    {
+      "title": "There Is No AI (It's Just People) with Jaron Lanier",
+      "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
+      "score": 16
+    },
+    {
+      "title": "Global Shortage Has Led to Motor Oil Rationing at Costco",
+      "url": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/",
+      "score": 78
     },
     {
       "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
       "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-      "score": 47
+      "score": 290
+    },
+    {
+      "title": "Data collected by cars and sold to third parties",
+      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+      "score": 172
     },
     {
       "title": "JetKVM Mini",
       "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-      "score": 331
+      "score": 455
     },
     {
-      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-      "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
-      "score": 48
+      "title": "Julia 1.13 Highlights",
+      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
+      "score": 18
     },
     {
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "score": 428
-    },
-    {
-      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-      "url": "https://github.com/FeralFirmware/TailTalk/",
-      "score": 37
-    },
-    {
-      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
-      "url": "https://bensimms.moe/reverse-engineering-scooter/",
-      "score": 95
-    },
-    {
-      "title": "Base84 deserves a place in file names",
-      "url": "https://00f.net/2026/09/09/base84/",
-      "score": 25
+      "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
+      "url": "https://twitter.com/TechEmails/status/2099214399840059428",
+      "score": 3
     },
     {
       "title": "Why is the x86 undefined instruction called ud2? Why 2?",
       "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
-      "score": 16
+      "score": 144
     },
     {
-      "title": "US Customs supervisor busted for stealing hardware from Homeland Security PCs",
-      "url": "https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg",
-      "score": 65
+      "title": "I'm being cyberattacked by Tesla, Inc",
+      "url": "https://dreamstation.systems/personal/tesla.html",
+      "score": 309
+    },
+    {
+      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+      "url": "https://bensimms.moe/reverse-engineering-scooter/",
+      "score": 273
+    },
+    {
+      "title": "Making Startups Powerful",
+      "url": "https://paulgraham.com/powerful.html",
+      "score": 91
     },
     {
       "title": "CUDA for AMD on Windows",
       "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-      "score": 5
+      "score": 104
     },
     {
-      "title": "Homebrew 7.0.0",
-      "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
-      "score": 317
+      "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video]",
+      "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
+      "score": 39
     },
     {
-      "title": "Aligned to whom?",
-      "url": "https://hyperbo.la/w/aligned-to-whom/",
-      "score": 131
+      "title": "Device Drivers lab exercise – COSC562",
+      "url": "https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html",
+      "score": 13
     },
     {
-      "title": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
-      "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-      "score": 30
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "score": 235
+    },
+    {
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "score": 534
+    },
+    {
+      "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
+      "url": "https://cpak.it/",
+      "score": 32
+    },
+    {
+      "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
+      "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
+      "score": 19
+    },
+    {
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "score": 154
+    },
+    {
+      "title": "Libraries Run Rust Inside Python (With PyO3)",
+      "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
+      "score": 39
+    },
+    {
+      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+      "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+      "score": 94
+    },
+    {
+      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+      "url": "https://github.com/FeralFirmware/TailTalk/",
+      "score": 57
+    },
+    {
+      "title": "Romania soccer introduces black card to 'combat abusive behaviour' from parents",
+      "url": "https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/",
+      "score": 64
+    },
+    {
+      "title": "Alan's Random Insult Generator (1999)",
+      "url": "https://alanbellows.com/experiments/insult/index.html",
+      "score": 54
+    },
+    {
+      "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "score": 17
     },
     {
       "title": "Make your first edit to OpenStreetMap",
       "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-      "score": 534
+      "score": 577
+    },
+    {
+      "title": "Base84 deserves a place in file names",
+      "url": "https://00f.net/2026/09/09/base84/",
+      "score": 49
+    },
+    {
+      "title": "Homebrew 7.0.0",
+      "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+      "score": 492
     },
     {
       "title": "On Binary Translation and Its Consequences",
       "url": "https://chipsandcheese.com/p/on-binary-translation-and-its-consequences",
-      "score": 25
-    },
-    {
-      "title": "The Interim Computer Museum",
-      "url": "https://icm.museum/",
-      "score": 146
-    },
-    {
-      "title": "Key symbols we lost to time, pt. 1: The PC side",
-      "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/",
-      "score": 18
-    },
-    {
-      "title": "Ode to Metadata",
-      "url": "https://www.autodidacts.io/ode-to-metadata/",
-      "score": 8
-    },
-    {
-      "title": "I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant",
-      "url": "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77",
-      "score": 128
-    },
-    {
-      "title": "Revolut confirms customer data breach through fake government requests",
-      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-      "score": 114
-    },
-    {
-      "title": "Apple iPod Engraver (2019)",
-      "url": "https://dunstanorchard.com/apple-ipod-engraver/",
-      "score": 259
-    },
-    {
-      "title": "Don't be the out of touch Kung Fu master",
-      "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
-      "score": 201
-    },
-    {
-      "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
-      "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
-      "score": 18
-    },
-    {
-      "title": "Nvidia is the central bank of AI",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "score": 529
-    },
-    {
-      "title": "Stabilizing Rust's Never Type",
-      "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
-      "score": 225
-    },
-    {
-      "title": "Show HN: Analyst Index – analysts who make money telling you good stock calls",
-      "url": "https://www.analystidx.com/",
-      "score": 6
-    },
-    {
-      "title": "Everyone should slow down AI development except for me",
-      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-      "score": 654
-    },
-    {
-      "title": "Getting 50 GB/S Back from the Apple Neural Engine",
-      "url": "https://eiln.github.io/posts/ane-dma.html",
-      "score": 195
-    },
-    {
-      "title": "A wandering black hole caught feeding on the run",
-      "url": "https://phys.org/news/2026-08-black-hole-caught.html",
-      "score": 50
+      "score": 42
     }
   ]
 }
