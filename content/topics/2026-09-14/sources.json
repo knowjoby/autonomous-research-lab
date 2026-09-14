@@ -2,34 +2,74 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Distributed Systems Classics (2017)",
-      "url": "https://nvartolomei.com/dist-sys-classics/",
-      "score": 74
+      "title": "Amazon.com Services, LLC vs. Perplexity AI, INC., No. 26-1444 (9th Cir. 2026)",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+      "score": 67
     },
     {
-      "title": "Why don't machine learning research agents overfit?",
-      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-      "score": 24
+      "title": "Distributed Systems Classics (2017)",
+      "url": "https://nvartolomei.com/dist-sys-classics/",
+      "score": 184
+    },
+    {
+      "title": "A Beginning for Mathematics",
+      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+      "score": 133
     },
     {
       "title": "Principles for Fast Tokio Applications",
       "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-      "score": 54
+      "score": 135
     },
     {
-      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-      "score": 82
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "score": 301
+    },
+    {
+      "title": "How my e-reader lost its stripes",
+      "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
+      "score": 93
+    },
+    {
+      "title": "Why don't machine learning research agents overfit?",
+      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+      "score": 85
+    },
+    {
+      "title": "XCancel service is suspended until further notice",
+      "url": "https://xcancel.com/#",
+      "score": 341
+    },
+    {
+      "title": "Oracle's Cold 6AM Layoff Emails Hit Staff Amid New Wave of Cuts",
+      "url": "https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676",
+      "score": 97
+    },
+    {
+      "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
+      "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+      "score": 58
+    },
+    {
+      "title": "Pion, an agent designed to run any company autonomously",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "score": 205
+    },
+    {
+      "title": "Optimizing a Spin-Lock",
+      "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
+      "score": 12
     },
     {
       "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
       "url": "https://www.neobrutalism.dev/",
-      "score": 38
+      "score": 110
     },
     {
-      "title": "Truncated SVD",
-      "url": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
-      "score": 15
+      "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+      "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+      "score": 43
     },
     {
       "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
@@ -37,119 +77,74 @@
       "score": 1
     },
     {
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "score": 161
-    },
-    {
-      "title": "Pion, an agent designed to run any company autonomously",
-      "url": "https://andonlabs.com/blog/why-we-built-pion",
-      "score": 35
-    },
-    {
-      "title": "XCancel service is suspended until further notice",
-      "url": "https://xcancel.com/#",
-      "score": 156
-    },
-    {
-      "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
-      "url": "https://spectrum.ieee.org/adversarial-fashion",
-      "score": 45
-    },
-    {
-      "title": "The Tudor Kings",
-      "url": "https://analog-antiquarian.net/2026/09/11/the-tudor-kings/",
-      "score": 10
-    },
-    {
-      "title": "A Beginning for Mathematics",
-      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-      "score": 20
-    },
-    {
-      "title": "When LLM judges agree, should we believe them?",
-      "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
-      "score": 13
-    },
-    {
-      "title": "Claude is a Contrarian",
-      "url": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
-      "score": 69
-    },
-    {
-      "title": "Hacking AI customer service agents",
-      "url": "https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents",
-      "score": 33
-    },
-    {
-      "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
-      "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-      "score": 6
-    },
-    {
-      "title": "An atlas of periodic solutions to the three-body problem",
-      "url": "https://www.threebodyorbits.com/",
-      "score": 248
-    },
-    {
-      "title": "Show HN: Pelican-bicycle alternatives",
-      "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
-      "score": 59
-    },
-    {
-      "title": "EuroBirdPortal – Live bird movements across Europe",
-      "url": "https://www.eurobirdportal.org/ebp/en/",
-      "score": 190
-    },
-    {
-      "title": "Trying to Make a Loop Auto-Vectorize",
-      "url": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
-      "score": 30
-    },
-    {
-      "title": "How my e-reader lost its stripes",
-      "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
-      "score": 8
-    },
-    {
-      "title": "Show HN: Is this photo edited? Client-side image forensics",
-      "url": "https://vajba.com/image-forensics/",
-      "score": 13
-    },
-    {
-      "title": "A 386 PC for Your RP2350",
-      "url": "https://github.com/rh1tech/frank-386",
-      "score": 173
-    },
-    {
-      "title": "Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
-      "score": 42
-    },
-    {
-      "title": "Transitions.dev: UI transitions for AI agents",
-      "url": "https://transitions.dev/",
-      "score": 13
-    },
-    {
-      "title": "Steam Frame starts at $1059",
-      "url": "https://store.steampowered.com/hardware/steamframe",
-      "score": 20
-    },
-    {
-      "title": "How to write an effective software design document",
-      "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
-      "score": 241
+      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+      "score": 103
     },
     {
       "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
       "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
-      "score": 47
+      "score": 154
     },
     {
-      "title": "Things That Annoy Me About Cars",
-      "url": "https://blog.decryption.net.au/posts/cars_suck.html",
-      "score": 8
+      "title": "An atlas of periodic solutions to the three-body problem",
+      "url": "https://www.threebodyorbits.com/",
+      "score": 309
+    },
+    {
+      "title": "Truncated SVD (2023)",
+      "url": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
+      "score": 38
+    },
+    {
+      "title": "Steam Frame starts at $1059",
+      "url": "https://store.steampowered.com/hardware/steamframe",
+      "score": 396
+    },
+    {
+      "title": "Dario, Please",
+      "url": "https://pop.rdi.sh/dario-please/",
+      "score": 78
+    },
+    {
+      "title": "Show HN: Apollo Lunar Module landing simulation",
+      "url": "https://gosandeep.com/eagles-descent/",
+      "score": 28
+    },
+    {
+      "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
+      "url": "https://spectrum.ieee.org/adversarial-fashion",
+      "score": 83
+    },
+    {
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "score": 263
+    },
+    {
+      "title": "EuroBirdPortal – Live bird movements across Europe",
+      "url": "https://www.eurobirdportal.org/ebp/en/",
+      "score": 207
+    },
+    {
+      "title": "Show HN: Pelican-bicycle alternatives",
+      "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
+      "score": 97
+    },
+    {
+      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "score": 60
+    },
+    {
+      "title": "Trying to Make a Loop Auto-Vectorize",
+      "url": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
+      "score": 55
+    },
+    {
+      "title": "A 386 PC for Your RP2350",
+      "url": "https://github.com/rh1tech/frank-386",
+      "score": 196
     }
   ]
 }
