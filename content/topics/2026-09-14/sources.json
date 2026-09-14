@@ -2,149 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "EuroBirdPortal – Live bird movements across Europe",
-      "url": "https://www.eurobirdportal.org/ebp/en/",
-      "score": 90
+      "title": "Distributed Systems Classics (2017)",
+      "url": "https://nvartolomei.com/dist-sys-classics/",
+      "score": 74
     },
     {
-      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "score": 1015
+      "title": "Why don't machine learning research agents overfit?",
+      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+      "score": 24
     },
     {
-      "title": "A 386 PC for Your RP2350",
-      "url": "https://github.com/rh1tech/frank-386",
-      "score": 65
+      "title": "Principles for Fast Tokio Applications",
+      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+      "score": 54
+    },
+    {
+      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+      "score": 82
+    },
+    {
+      "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
+      "url": "https://www.neobrutalism.dev/",
+      "score": 38
+    },
+    {
+      "title": "Truncated SVD",
+      "url": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
+      "score": 15
+    },
+    {
+      "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
+      "url": "https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead",
+      "score": 1
+    },
+    {
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "score": 161
+    },
+    {
+      "title": "Pion, an agent designed to run any company autonomously",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "score": 35
+    },
+    {
+      "title": "XCancel service is suspended until further notice",
+      "url": "https://xcancel.com/#",
+      "score": 156
+    },
+    {
+      "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
+      "url": "https://spectrum.ieee.org/adversarial-fashion",
+      "score": 45
+    },
+    {
+      "title": "The Tudor Kings",
+      "url": "https://analog-antiquarian.net/2026/09/11/the-tudor-kings/",
+      "score": 10
+    },
+    {
+      "title": "A Beginning for Mathematics",
+      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+      "score": 20
+    },
+    {
+      "title": "When LLM judges agree, should we believe them?",
+      "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
+      "score": 13
+    },
+    {
+      "title": "Claude is a Contrarian",
+      "url": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
+      "score": 69
+    },
+    {
+      "title": "Hacking AI customer service agents",
+      "url": "https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents",
+      "score": 33
+    },
+    {
+      "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
+      "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+      "score": 6
     },
     {
       "title": "An atlas of periodic solutions to the three-body problem",
       "url": "https://www.threebodyorbits.com/",
-      "score": 54
+      "score": 248
     },
     {
-      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-      "url": "https://github.com/anuj0456/OpenArch",
-      "score": 45
+      "title": "Show HN: Pelican-bicycle alternatives",
+      "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
+      "score": 59
     },
     {
-      "title": "Spaceships (Reverse Asteroid)",
-      "url": "https://spaceships.treybastian.com/",
-      "score": 269
+      "title": "EuroBirdPortal – Live bird movements across Europe",
+      "url": "https://www.eurobirdportal.org/ebp/en/",
+      "score": 190
     },
     {
-      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-      "score": 297
+      "title": "Trying to Make a Loop Auto-Vectorize",
+      "url": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
+      "score": 30
     },
     {
-      "title": "How Much Has Trump Made from Crypto? ($1.4B from 2025 Federal Disclosure)",
-      "url": "https://www.thepricer.org/how-much-has-trump-made-from-crypto/",
-      "score": 40
+      "title": "How my e-reader lost its stripes",
+      "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
+      "score": 8
     },
     {
-      "title": "Who Aligns the Aligners?",
-      "url": "https://prestonbyrne.com/2026/09/13/aligners/",
-      "score": 7
+      "title": "Show HN: Is this photo edited? Client-side image forensics",
+      "url": "https://vajba.com/image-forensics/",
+      "score": 13
     },
     {
-      "title": "HP ZGX Fury Is Now Orderable: GB300 Superchip, 748GB Unified Memory",
-      "url": "https://www.storagereview.com/news/hp-zgx-fury-is-now-orderable-gb300-superchip-748gb-unified-memory-and-a-red-hat-ai-factory-plan-for-the-edge",
-      "score": 18
+      "title": "A 386 PC for Your RP2350",
+      "url": "https://github.com/rh1tech/frank-386",
+      "score": 173
     },
     {
-      "title": "Apple's Dimensional Drawings",
-      "url": "https://developer.apple.com/accessories/dimensional-drawings/",
-      "score": 238
+      "title": "Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
+      "score": 42
     },
     {
-      "title": "Watch AI materials-science and bioscience abilities closely",
-      "url": "https://www.lesswrong.com/posts/SCtkSz4nQ9icLZ4uq/watch-ai-materials-science-and-bioscience-abilities-closely",
-      "score": 6
+      "title": "Transitions.dev: UI transitions for AI agents",
+      "url": "https://transitions.dev/",
+      "score": 13
     },
     {
-      "title": "The case against JPEG XL",
-      "url": "https://giannirosato.com/blog/post/case-against-jxl/",
-      "score": 188
+      "title": "Steam Frame starts at $1059",
+      "url": "https://store.steampowered.com/hardware/steamframe",
+      "score": 20
     },
     {
-      "title": "Show HN: 1080p is 920px tall – 1k real browser viewports",
-      "url": "https://screensize.net/reports/viewport-stats",
-      "score": 25
+      "title": "How to write an effective software design document",
+      "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+      "score": 241
     },
     {
-      "title": "Mullenweg has returned as CEO after attempted board ouster",
-      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-      "score": 191
+      "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
+      "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
+      "score": 47
     },
     {
-      "title": "The Nature of Dance",
-      "url": "https://vester.si/blog/nature-of-dance/",
-      "score": 22
-    },
-    {
-      "title": "Rope, twine and thread: Invisible technologies of the Stone Age",
-      "url": "https://knowablemagazine.org/content/article/society/2026/prehistory-lost-threads",
-      "score": 84
-    },
-    {
-      "title": "Julia 1.13 highlights",
-      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
-      "score": 239
-    },
-    {
-      "title": "A Vacuum Diode for Make: Magazine",
-      "url": "https://www.nickpoole.me/2023/12/10/a-vacuum-diode-for-make-magazine/",
-      "score": 10
-    },
-    {
-      "title": "Why is Google still serving dodgy ads?",
-      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-      "score": 851
-    },
-    {
-      "title": "Bad benchmarks and evals: Senior SWE-Bench, napkin math, and winter tires",
-      "url": "https://danluu.com/exercise-7/",
-      "score": 39
-    },
-    {
-      "title": "Why the software industry needs a lot of regulation",
-      "url": "https://petewarden.com/2026/09/10/why-the-software-industry-needs-a-lot-of-regulation/",
-      "score": 5
-    },
-    {
-      "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
-      "url": "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee",
-      "score": 91
-    },
-    {
-      "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
-      "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
-      "score": 91
-    },
-    {
-      "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
-      "url": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
-      "score": 180
-    },
-    {
-      "title": "Pkgsrc Is Cool (2022)",
-      "url": "https://www.wisellama.rocks/posts/2021-12-23-pkgsrc-is-cool/",
-      "score": 16
-    },
-    {
-      "title": "CUDA for AMD on Windows",
-      "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-      "score": 172
-    },
-    {
-      "title": "Open-source AI and open models reading list",
-      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "score": 120
-    },
-    {
-      "title": "Show HN: EterDB, a Postgres fork that makes it easy to recover from incidents",
-      "url": "https://eterdb.com/",
-      "score": 41
+      "title": "Things That Annoy Me About Cars",
+      "url": "https://blog.decryption.net.au/posts/cars_suck.html",
+      "score": 8
     }
   ]
 }
