@@ -2,149 +2,149 @@
   "papers": [],
   "discussions": [
     {
+      "title": "EuroBirdPortal – Live bird movements across Europe",
+      "url": "https://www.eurobirdportal.org/ebp/en/",
+      "score": 90
+    },
+    {
       "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
       "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "score": 553
+      "score": 1015
+    },
+    {
+      "title": "A 386 PC for Your RP2350",
+      "url": "https://github.com/rh1tech/frank-386",
+      "score": 65
+    },
+    {
+      "title": "An atlas of periodic solutions to the three-body problem",
+      "url": "https://www.threebodyorbits.com/",
+      "score": 54
+    },
+    {
+      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+      "url": "https://github.com/anuj0456/OpenArch",
+      "score": 45
     },
     {
       "title": "Spaceships (Reverse Asteroid)",
       "url": "https://spaceships.treybastian.com/",
-      "score": 56
-    },
-    {
-      "title": "Why is Google still serving dodgy ads?",
-      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-      "score": 648
+      "score": 269
     },
     {
       "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
       "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-      "score": 111
+      "score": 297
     },
     {
-      "title": "Show HN: Is It Greg?",
-      "url": "https://github.com/antoineleclair/is-it-greg",
-      "score": 36
+      "title": "How Much Has Trump Made from Crypto? ($1.4B from 2025 Federal Disclosure)",
+      "url": "https://www.thepricer.org/how-much-has-trump-made-from-crypto/",
+      "score": 40
     },
     {
-      "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-      "url": "https://www.bbc.com/news/articles/cpve191wy47o",
-      "score": 4
+      "title": "Who Aligns the Aligners?",
+      "url": "https://prestonbyrne.com/2026/09/13/aligners/",
+      "score": 7
     },
     {
-      "title": "Open-Source AI and Open Models Reading List",
-      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "score": 37
-    },
-    {
-      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-      "score": 395
-    },
-    {
-      "title": "Julia 1.13 highlights",
-      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
-      "score": 170
-    },
-    {
-      "title": "Data collected by cars and sold to third parties",
-      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-      "score": 331
-    },
-    {
-      "title": "The Malicious Use of Artificial Intelligence",
-      "url": "https://arxiv.org/abs/1802.07228",
-      "score": 13
-    },
-    {
-      "title": "Mullenweg has returned as CEO after attempted board ouster",
-      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-      "score": 65
-    },
-    {
-      "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
-      "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
-      "score": 68
+      "title": "HP ZGX Fury Is Now Orderable: GB300 Superchip, 748GB Unified Memory",
+      "url": "https://www.storagereview.com/news/hp-zgx-fury-is-now-orderable-gb300-superchip-748gb-unified-memory-and-a-red-hat-ai-factory-plan-for-the-edge",
+      "score": 18
     },
     {
       "title": "Apple's Dimensional Drawings",
       "url": "https://developer.apple.com/accessories/dimensional-drawings/",
-      "score": 43
+      "score": 238
     },
     {
-      "title": "Writing a better reality: The case for optimistic sci-fi",
-      "url": "https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/",
-      "score": 16
+      "title": "Watch AI materials-science and bioscience abilities closely",
+      "url": "https://www.lesswrong.com/posts/SCtkSz4nQ9icLZ4uq/watch-ai-materials-science-and-bioscience-abilities-closely",
+      "score": 6
+    },
+    {
+      "title": "The case against JPEG XL",
+      "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "score": 188
+    },
+    {
+      "title": "Show HN: 1080p is 920px tall – 1k real browser viewports",
+      "url": "https://screensize.net/reports/viewport-stats",
+      "score": 25
+    },
+    {
+      "title": "Mullenweg has returned as CEO after attempted board ouster",
+      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "score": 191
+    },
+    {
+      "title": "The Nature of Dance",
+      "url": "https://vester.si/blog/nature-of-dance/",
+      "score": 22
     },
     {
       "title": "Rope, twine and thread: Invisible technologies of the Stone Age",
       "url": "https://knowablemagazine.org/content/article/society/2026/prehistory-lost-threads",
-      "score": 6
+      "score": 84
+    },
+    {
+      "title": "Julia 1.13 highlights",
+      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
+      "score": 239
+    },
+    {
+      "title": "A Vacuum Diode for Make: Magazine",
+      "url": "https://www.nickpoole.me/2023/12/10/a-vacuum-diode-for-make-magazine/",
+      "score": 10
+    },
+    {
+      "title": "Why is Google still serving dodgy ads?",
+      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "score": 851
+    },
+    {
+      "title": "Bad benchmarks and evals: Senior SWE-Bench, napkin math, and winter tires",
+      "url": "https://danluu.com/exercise-7/",
+      "score": 39
+    },
+    {
+      "title": "Why the software industry needs a lot of regulation",
+      "url": "https://petewarden.com/2026/09/10/why-the-software-industry-needs-a-lot-of-regulation/",
+      "score": 5
     },
     {
       "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
       "url": "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee",
-      "score": 37
+      "score": 91
     },
     {
-      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
-      "url": "https://bensimms.moe/reverse-engineering-scooter/",
-      "score": 396
-    },
-    {
-      "title": "Making Startups Powerful",
-      "url": "https://paulgraham.com/powerful.html",
-      "score": 177
-    },
-    {
-      "title": "The Coming War on General Computation (2011)",
-      "url": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
-      "score": 58
+      "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
+      "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
+      "score": 91
     },
     {
       "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
       "url": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
-      "score": 12
+      "score": 180
     },
     {
-      "title": "Why is the x86 undefined instruction called ud2? Why 2?",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
-      "score": 218
+      "title": "Pkgsrc Is Cool (2022)",
+      "url": "https://www.wisellama.rocks/posts/2021-12-23-pkgsrc-is-cool/",
+      "score": 16
     },
     {
       "title": "CUDA for AMD on Windows",
       "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-      "score": 145
+      "score": 172
     },
     {
-      "title": "AI Robots – When will they be in our homes",
-      "url": "https://spectrum.ieee.org/ai-robots",
-      "score": 7
+      "title": "Open-source AI and open models reading list",
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "score": 120
     },
     {
-      "title": "Show HN: Exploring the intersection of prediction markets and social media",
-      "url": "https://www.thevidmarket.com/",
-      "score": 6
-    },
-    {
-      "title": "I build a mechanical watch face: a real gear train for a watch with no gears",
-      "url": "https://myday24.com/blog/how-a-mechanical-watch-face-is-built/",
-      "score": 16
-    },
-    {
-      "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
-      "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
-      "score": 12
-    },
-    {
-      "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
-      "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
-      "score": 64
-    },
-    {
-      "title": "Necker, 1832: \"An optical phænomenon on viewing a figure of a geometrical solid\"",
-      "url": "https://zenodo.org/records/1430991",
-      "score": 8
+      "title": "Show HN: EterDB, a Postgres fork that makes it easy to recover from incidents",
+      "url": "https://eterdb.com/",
+      "score": 41
     }
   ]
 }
