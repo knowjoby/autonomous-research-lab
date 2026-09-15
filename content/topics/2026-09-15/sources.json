@@ -2,69 +2,109 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
-      "score": 48
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "score": 548
+    },
+    {
+      "title": "Swift 6.4 Released",
+      "url": "https://www.swift.org/blog/swift-6.4-released/",
+      "score": 64
+    },
+    {
+      "title": "Cartesian – AI 3D Modeling for Design",
+      "url": "https://www.formas.ai/cartesian",
+      "score": 24
+    },
+    {
+      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+      "url": "https://withcapsule.app/",
+      "score": 110
+    },
+    {
+      "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+      "url": "https://bkovac.github.io/modem-thing/",
+      "score": 93
+    },
+    {
+      "title": "Java 27 Released",
+      "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
+      "score": 221
     },
     {
       "title": "I can't stop thinking about Papua New Guinea",
       "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
-      "score": 264
+      "score": 681
     },
     {
-      "title": "How much of F-Droid is LLM generated?",
-      "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-      "score": 39
+      "title": "V1.1 state of open source- OS 4.4 months behind frontier [pdf]",
+      "url": "https://stateofopensource.ai/state-of-open-source-ai-v1-1.pdf",
+      "score": 10
+    },
+    {
+      "title": "Giving up on smart rings",
+      "url": "https://notesbylex.com/giving-up-on-smart-rings",
+      "score": 11
+    },
+    {
+      "title": "25 Years of Mass Surveillance Is Enough",
+      "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+      "score": 458
+    },
+    {
+      "title": "A Man Archiving Pirate Radio Station Kool FM",
+      "url": "https://londonist.com/london/music/kool-fm-archives",
+      "score": 31
+    },
+    {
+      "title": "Sony's First Computer – The SMC-70 from 1982 [video]",
+      "url": "https://www.youtube.com/watch?v=cT2-7KkPkBc",
+      "score": 34
+    },
+    {
+      "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
+      "url": "https://github.com/greentfrapp/panel",
+      "score": 24
     },
     {
       "title": "Alternatives to MinIO for single-node local S3",
       "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
-      "score": 31
+      "score": 168
     },
     {
-      "title": "iOS 27, iPadOS 27, and macOS 27",
-      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-      "score": 620
+      "title": "The CSS Zen Garden dream shipped",
+      "url": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/",
+      "score": 8
     },
     {
-      "title": "OpenArm: An open-source 7DOF humanoid arm",
-      "url": "https://github.com/enactic/OpenArm",
-      "score": 105
+      "title": "CSS-Tricks in Limbo",
+      "url": "https://vale.rocks/micros/20260915-0135",
+      "score": 189
     },
     {
-      "title": "Pion, an agent designed to run any company autonomously",
-      "url": "https://andonlabs.com/blog/why-we-built-pion",
-      "score": 419
+      "title": "Closing the IPv6 First-Packet Gap with Grand",
+      "url": "https://labs.ripe.net/author/pouria/closing-the-ipv6-first-packet-gap-with-grand/",
+      "score": 6
     },
     {
-      "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
-      "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
-      "score": 148
+      "title": "The bitter lesson of browser agents",
+      "url": "https://browser-use.com/posts/bitter-lesson-browser-agents",
+      "score": 4
     },
     {
-      "title": "Linux from Scratch",
-      "url": "https://www.linuxfromscratch.org/",
-      "score": 201
+      "title": "Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks",
+      "url": "https://github.com/ordewell/ordewell",
+      "score": 25
     },
     {
-      "title": "XCancel service is suspended until further notice",
-      "url": "https://xcancel.com/#",
-      "score": 656
+      "title": "Inverse-Square Law",
+      "url": "https://blog.coredump.cx/p/inverse-square-law",
+      "score": 35
     },
     {
-      "title": "Let's make quality the norm again",
-      "url": "https://www.forbrukerradet.no/short-life/",
-      "score": 66
-    },
-    {
-      "title": "Charts built for Chat",
-      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
-      "score": 237
-    },
-    {
-      "title": "The k-server conjecture is true",
-      "url": "https://arxiv.org/abs/2609.15979",
-      "score": 15
+      "title": "Global bond yields hit 2008 highs, raising stakes for big borrowers",
+      "url": "https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/",
+      "score": 109
     },
     {
       "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
@@ -72,79 +112,44 @@
       "score": 1
     },
     {
-      "title": "Show HN: Redis City – Explore how Redis works in an interactive 3D model",
-      "url": "https://poltora.dev/redis",
-      "score": 103
+      "title": "OpenArm: An open-source 7DOF humanoid arm",
+      "url": "https://github.com/enactic/OpenArm",
+      "score": 187
     },
     {
-      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-      "score": 125
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+      "score": 337
     },
     {
-      "title": "CSS-Tricks in Limbo",
-      "url": "https://vale.rocks/micros/20260915-0135",
-      "score": 14
+      "title": "The k-server conjecture is true",
+      "url": "https://arxiv.org/abs/2609.15979",
+      "score": 82
     },
     {
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "score": 470
+      "title": "AI is breaking our proxies for expertise",
+      "url": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
+      "score": 61
     },
     {
       "title": "US confirms for first time it has deployed space weapons",
       "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
-      "score": 69
+      "score": 259
     },
     {
-      "title": "A beginning for mathematics",
-      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-      "score": 229
+      "title": "25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]",
+      "url": "https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough",
+      "score": 107
     },
     {
-      "title": "Distributed Systems Classics (2017)",
-      "url": "https://nvartolomei.com/dist-sys-classics/",
-      "score": 311
+      "title": "The Inference Hardware Revolution of 2026",
+      "url": "https://spectrum.ieee.org/inference-hardware-revolution",
+      "score": 4
     },
     {
-      "title": "A rough guide for going back to the Moon",
-      "url": "https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model",
-      "score": 3
-    },
-    {
-      "title": "Compressing a flag to 11 bits",
-      "url": "https://read.vantezzen.io/miniflags",
-      "score": 156
-    },
-    {
-      "title": "High-performance garbage collection for C++",
-      "url": "https://v8.dev/blog/high-performance-cpp-gc",
-      "score": 48
-    },
-    {
-      "title": "Forgotten Woodlands",
-      "url": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
-      "score": 68
-    },
-    {
-      "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
-      "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
-      "score": 201
-    },
-    {
-      "title": "Glyph Immersive",
-      "url": "https://glyph.kateander.com/",
-      "score": 8
-    },
-    {
-      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-      "url": "https://github.com/JamesRyanATX/fcbnerd",
-      "score": 76
-    },
-    {
-      "title": "Principles for Fast Tokio Applications",
-      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-      "score": 219
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "score": 104
     }
   ]
 }
