@@ -2,69 +2,109 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "score": 147
+    },
+    {
       "title": "Cloudflare Quick Tunnels",
       "url": "https://try.cloudflare.com/",
-      "score": 61
+      "score": 414
     },
     {
-      "title": "An Empirical Study of Harness Design for Coding Agents",
-      "url": "https://arxiv.org/abs/2609.20804",
-      "score": 125
+      "title": "Apple releases iPhone Duo simulator and Xcode 27.1 beta",
+      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+      "score": 56
     },
     {
-      "title": "North Korean nuclear test sets off years of earthquakes",
-      "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
-      "score": 31
+      "title": "Saving another 100TB of RAM with math (and Rust)",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "score": 55
     },
     {
-      "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
-      "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
-      "score": 34
+      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+      "score": 113
     },
     {
-      "title": "Show HN: Rickub – The Smartest Git in the Universe",
-      "url": "https://rickub.com/",
-      "score": 10
+      "title": "Cache-to-Cache: Direct Semantic Communication Between Large Language Models",
+      "url": "https://arxiv.org/abs/2510.03215",
+      "score": 26
+    },
+    {
+      "title": "Korea raises data breach fines to 10% of revenue",
+      "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+      "score": 6
+    },
+    {
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "url": "https://cactuscompute.com/needle",
+      "score": 109
+    },
+    {
+      "title": "The Implications of Linguistic Illegibility for LLM Security",
+      "url": "https://arxiv.org/abs/2609.02852",
+      "score": 20
     },
     {
       "title": "OpenJev",
       "url": "https://openjev.com/",
-      "score": 329
+      "score": 477
     },
     {
-      "title": "Bend 2 and the Vibe-Coding Trap",
-      "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
-      "score": 269
+      "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
+      "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
+      "score": 107
     },
     {
-      "title": "The Shadows Lurking in the Equations – Underwater Islands",
-      "url": "https://gods.art/articles/equation_shadows",
-      "score": 38
+      "title": "Our brain evolved from two primitive nervous systems that merged: Study",
+      "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+      "score": 51
     },
     {
-      "title": "I don't like passkeys",
-      "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
-      "score": 399
+      "title": "North Korean nuclear test sets off years of earthquakes",
+      "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
+      "score": 147
     },
     {
-      "title": "NATS publishes preliminary report on technical incident of 8 September",
-      "url": "https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/",
-      "score": 17
+      "title": "I vibed a proof of Conway's conjecture",
+      "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+      "score": 164
     },
     {
-      "title": "Jemalloc 5.4.0",
-      "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
-      "score": 266
+      "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
+      "url": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
+      "score": 84
     },
     {
-      "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
-      "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
-      "score": 189
+      "title": "The first new cat species discovered in 100 years",
+      "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+      "score": 50
     },
     {
-      "title": "The scourge of x86 emulation",
-      "url": "https://fex-emu.com/Scourge-of-emulation/",
-      "score": 228
+      "title": "Show HN: Ax-check.com – Can agents use your product?",
+      "url": "https://www.ax-check.com/",
+      "score": 21
+    },
+    {
+      "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+      "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+      "score": 212
+    },
+    {
+      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+      "url": "https://www.hacktron.ai/blog/hacking-openai",
+      "score": 456
+    },
+    {
+      "title": "US Military had close call after using AI for hallucinated intelligence report",
+      "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "score": 258
+    },
+    {
+      "title": "Minimal Phone 2",
+      "url": "https://minimalcompany.com/",
+      "score": 96
     },
     {
       "title": "Cekura (YC F24) Is Hiring",
@@ -72,84 +112,44 @@
       "score": 1
     },
     {
-      "title": "Mathematicians Build Long-Awaited Graph Sandwich",
-      "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
-      "score": 9
-    },
-    {
-      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "url": "https://prismml.com/news/bonsai-2-27b",
-      "score": 523
-    },
-    {
-      "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
-      "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
+      "title": "\"From Geometry to Algebra and Back Again: 4000 Years of Papers\" by Jack Rusher [video]",
+      "url": "https://www.youtube.com/watch?v=1cRFfYQYGxE",
       "score": 4
     },
     {
-      "title": "Build Faster Feedback Loops Using Qualitative User Research",
-      "url": "https://blog.nseldeib.com/p/build-faster-feedback-loops-using",
-      "score": 5
-    },
-    {
-      "title": "BeanShell3 in Development",
-      "url": "https://beanshell.github.io/home.html",
-      "score": 11
-    },
-    {
-      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-      "url": "https://bend-lang.com/",
-      "score": 559
-    },
-    {
-      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "score": 634
-    },
-    {
-      "title": "Second Circuit Allows Government to Search Electronic Devices at the Border",
-      "url": "https://knightcolumbia.org/content/second-circuit-allows-government-to-search-electronic-devices-at-the-border-without-any-suspicion",
-      "score": 36
-    },
-    {
-      "title": "Qwen 3.8 Omni Flash",
-      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-      "score": 295
-    },
-    {
-      "title": "ZCode, the GLM coding agent, silently uploads your Git history",
-      "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-      "score": 231
-    },
-    {
-      "title": "Show HN: Jev vs. GPT-5.6 and Claude Haiku at Pong",
-      "url": "https://jev-pong.ably.dev/",
-      "score": 9
-    },
-    {
-      "title": "Replacing Pull Requests with Delta",
-      "url": "https://zed.dev/blog/delta-public-beta",
-      "score": 101
-    },
-    {
-      "title": "When the fractional part of a float fixes your shader",
-      "url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
+      "title": "How SpaceX streamlined the Raptor engine",
+      "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
       "score": 82
+    },
+    {
+      "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+      "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
+      "score": 46
+    },
+    {
+      "title": "A search-and-inference database from scratch in pure Zig",
+      "url": "https://antfly.io/research/antfly-zig",
+      "score": 26
+    },
+    {
+      "title": "Show HN: Scry, programmable internet search w/ congestion pricing",
+      "url": "https://scry.io/",
+      "score": 31
     },
     {
       "title": "How to Write with an LLM",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "score": 257
+      "score": 303
     },
     {
-      "title": "Pre-Greek: The lost language hidden within Ancient Greek",
-      "url": "https://linguisticdiscovery.com/posts/pre-greek/",
-      "score": 125
+      "title": "Mathematicians Build Long-Awaited Graph Sandwich",
+      "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
+      "score": 49
     },
     {
-      "title": "HEIF Heist: image parser RCE exploit",
-      "url": "https://heif-heist.com",
-      "score": 6
+      "title": "Jemalloc 5.4.0",
+      "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+      "score": 311
     }
   ]
 }
