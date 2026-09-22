@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
-      "url": "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html",
-      "score": 13
+      "title": "How Meta's Muse works, revealed by the 6.8 GB filesystem it sent me",
+      "url": "https://mouse.dev/blog/muse-runtime-export/",
+      "score": 105
     },
     {
-      "title": "AMD's random number generator can't generate a 0?",
-      "url": "https://board.flatassembler.net/topic.php?t=24261",
-      "score": 68
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "score": 237
+    },
+    {
+      "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+      "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+      "score": 257
+    },
+    {
+      "title": "Jev – a curation of Jev demos on X, tools, skills, and integrations",
+      "url": "https://github.com/Amal-David/awesome-jev",
+      "score": 63
+    },
+    {
+      "title": "Show HN: Drop – a rootless Linux sandbox with gVisor support",
+      "url": "https://droprun.sh/",
+      "score": 75
+    },
+    {
+      "title": "16-bit Intel 8088 chip by Charles Bukowski",
+      "url": "https://allpoetry.com/16-bit-Intel-8088-chip",
+      "score": 5
+    },
+    {
+      "title": "Solitaire Alone Together",
+      "url": "https://solitairealonetogether.com/",
+      "score": 31
+    },
+    {
+      "title": "Writing Rust code that's fast by asking agents to make the code faster",
+      "url": "https://minimaxir.com/2026/09/agentic-iteration/",
+      "score": 7
     },
     {
       "title": "Can gzip be a language model?",
       "url": "https://nathan.rs/posts/gzip-lm/",
-      "score": 164
+      "score": 313
     },
     {
       "title": "MiMo v2.6",
       "url": "https://mimo.xiaomi.com/mimo-v2-6",
-      "score": 923
+      "score": 1026
+    },
+    {
+      "title": "OpenAI is about to eat Jev's lunch – Arcturus Labs",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "score": 91
     },
     {
       "title": "Spymarks, Not Watermarks",
       "url": "https://brand.io/article/spymarks/",
-      "score": 461
+      "score": 605
     },
     {
-      "title": "I said no and Apple said yes",
-      "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
-      "score": 224
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "score": 48
     },
     {
-      "title": "Transformers Explained Visually",
-      "url": "https://poloclub.github.io/transformer-explainer/",
-      "score": 432
+      "title": "Teleoperated Humans",
+      "url": "https://www.jefftk.com/p/teleoperated-humans",
+      "score": 17
+    },
+    {
+      "title": "Line Scan Photos from MUNI Heritage Weekend in San Francisco",
+      "url": "https://daniel.lawrence.lu/blog/2026-09-20-muni-heritage-weekend/",
+      "score": 91
     },
     {
       "title": "Attention is all you have",
       "url": "https://alicegg.tech/2026/09/21/attention",
-      "score": 828
+      "score": 986
+    },
+    {
+      "title": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "score": 555
+    },
+    {
+      "title": "Vacate a Drone Restriction That Criminalized Recording Immigration Agents",
+      "url": "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration",
+      "score": 21
     },
     {
       "title": "What Sun got wrong",
       "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-      "score": 597
+      "score": 655
     },
     {
-      "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
-      "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
-      "score": 79
+      "title": "The Economics of Open-Weight Inference",
+      "url": "https://data.ornn.com/publications/the-economics-of-open-weight-inference",
+      "score": 9
     },
     {
-      "title": "Verda (Finland) raises $189M in Series B",
-      "url": "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers",
-      "score": 5
-    },
-    {
-      "title": "I don't want to read what you didn't write",
-      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-      "score": 713
-    },
-    {
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
-      "score": 249
-    },
-    {
-      "title": "JavaFX 27 Native Image on a Raspberry Pi 5",
-      "url": "https://ennerf.github.io/2026/09/18/JavaFX-27-Native-Image-on-a-Raspberry-Pi-5.html",
-      "score": 10
+      "title": "I said no and Apple said yes",
+      "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+      "score": 613
     },
     {
       "title": "A font that reads what you wrote",
       "url": "https://rohanadwankar.github.io/posts/semfont.html",
-      "score": 12
+      "score": 67
     },
     {
-      "title": "Divide by depth for instant 3D",
-      "url": "https://gabrieloc.com/2026/09/15/perspective.html",
-      "score": 162
+      "title": "I don't want to read what you didn't write",
+      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+      "score": 911
     },
     {
-      "title": "NASA’s Mars Sample Return mission is dead",
-      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
-      "score": 393
+      "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+      "score": 130
     },
     {
-      "title": "Looking forward to Git 2.56 – and 3.0",
-      "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
-      "score": 137
+      "title": "AMD's random number generator can't generate a 0?",
+      "url": "https://board.flatassembler.net/topic.php?t=24261",
+      "score": 182
+    },
+    {
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "score": 295
     },
     {
       "title": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
       "url": "https://gregorygundersen.com/blog/2024/12/21/engineering-memory/",
-      "score": 19
+      "score": 50
     },
     {
-      "title": "World Wide Words",
-      "url": "https://www.worldwidewords.org/genindex.html",
-      "score": 20
+      "title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
+      "url": "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html",
+      "score": 151
     },
     {
-      "title": "Claude Status – Elevated errors for multiple models",
-      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-      "score": 117
+      "title": "Divide by depth for instant 3D",
+      "url": "https://gabrieloc.com/2026/09/15/perspective.html",
+      "score": 196
     },
     {
-      "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
-      "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
-      "score": 47
-    },
-    {
-      "title": "What It's Like to Work in One of America's Data Centers",
-      "url": "https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003",
-      "score": 13
-    },
-    {
-      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
-      "score": 142
-    },
-    {
-      "title": "PDF Forgeries Are Surprisingly Rare (2022)",
-      "url": "https://gwern.net/blog/2022/pdf-forgery",
-      "score": 45
-    },
-    {
-      "title": "Used ThinkPad Buyer's Guide (2019)",
-      "url": "https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide",
-      "score": 25
-    },
-    {
-      "title": "Socrates vs. the Written Word (2011)",
-      "url": "https://wondermark.com/socrates-vs-writing/",
-      "score": 47
-    },
-    {
-      "title": "Python Workers are now generally available",
-      "url": "https://blog.cloudflare.com/python-workers-ga/",
-      "score": 232
-    },
-    {
-      "title": "HERMES radio enables voice and data communication over vast distances",
-      "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
-      "score": 145
-    },
-    {
-      "title": "How do traffic signals work? (2019)",
-      "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
-      "score": 88
+      "title": "AI Has No Wisdom and Neither Will You",
+      "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+      "score": 317
     }
   ]
 }
