@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Xiaomi MiMo v2.6",
+      "title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
+      "url": "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html",
+      "score": 13
+    },
+    {
+      "title": "AMD's random number generator can't generate a 0?",
+      "url": "https://board.flatassembler.net/topic.php?t=24261",
+      "score": 68
+    },
+    {
+      "title": "Can gzip be a language model?",
+      "url": "https://nathan.rs/posts/gzip-lm/",
+      "score": 164
+    },
+    {
+      "title": "MiMo v2.6",
       "url": "https://mimo.xiaomi.com/mimo-v2-6",
-      "score": 613
+      "score": 923
     },
     {
       "title": "Spymarks, Not Watermarks",
       "url": "https://brand.io/article/spymarks/",
-      "score": 179
+      "score": 461
     },
     {
-      "title": "I don't want to read what you didn't write",
-      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-      "score": 365
-    },
-    {
-      "title": "What Sun got wrong",
-      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-      "score": 521
+      "title": "I said no and Apple said yes",
+      "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+      "score": 224
     },
     {
       "title": "Transformers Explained Visually",
       "url": "https://poloclub.github.io/transformer-explainer/",
-      "score": 233
+      "score": 432
     },
     {
       "title": "Attention is all you have",
       "url": "https://alicegg.tech/2026/09/21/attention",
-      "score": 613
+      "score": 828
     },
     {
-      "title": "NASA’s Mars Sample Return mission is dead",
-      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
-      "score": 327
+      "title": "What Sun got wrong",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "score": 597
+    },
+    {
+      "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+      "score": 79
+    },
+    {
+      "title": "Verda (Finland) raises $189M in Series B",
+      "url": "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers",
+      "score": 5
+    },
+    {
+      "title": "I don't want to read what you didn't write",
+      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+      "score": 713
     },
     {
       "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
       "url": "https://linear.app/now/ci-bottleneck-reworked",
-      "score": 160
+      "score": 249
     },
     {
-      "title": "Claude Status – Elevated errors for multiple models",
-      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-      "score": 73
+      "title": "JavaFX 27 Native Image on a Raspberry Pi 5",
+      "url": "https://ennerf.github.io/2026/09/18/JavaFX-27-Native-Image-on-a-Raspberry-Pi-5.html",
+      "score": 10
     },
     {
-      "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
-      "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
-      "score": 68
+      "title": "A font that reads what you wrote",
+      "url": "https://rohanadwankar.github.io/posts/semfont.html",
+      "score": 12
     },
     {
       "title": "Divide by depth for instant 3D",
       "url": "https://gabrieloc.com/2026/09/15/perspective.html",
-      "score": 95
+      "score": 162
+    },
+    {
+      "title": "NASA’s Mars Sample Return mission is dead",
+      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+      "score": 393
     },
     {
       "title": "Looking forward to Git 2.56 – and 3.0",
       "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+      "score": 137
+    },
+    {
+      "title": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
+      "url": "https://gregorygundersen.com/blog/2024/12/21/engineering-memory/",
+      "score": 19
+    },
+    {
+      "title": "World Wide Words",
+      "url": "https://www.worldwidewords.org/genindex.html",
+      "score": 20
+    },
+    {
+      "title": "Claude Status – Elevated errors for multiple models",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "score": 117
+    },
+    {
+      "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
+      "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
       "score": 47
     },
     {
-      "title": "Socrates vs. the Written Word (2011)",
-      "url": "https://wondermark.com/socrates-vs-writing/",
-      "score": 16
+      "title": "What It's Like to Work in One of America's Data Centers",
+      "url": "https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003",
+      "score": 13
     },
     {
       "title": "The Advisory Group on Mathematics and Artificial Intelligence",
       "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
-      "score": 99
+      "score": 142
     },
     {
-      "title": "More Floating Point Alternatives",
-      "url": "https://wizardzines.com/comics/floating-point-alternatives/",
-      "score": 13
+      "title": "PDF Forgeries Are Surprisingly Rare (2022)",
+      "url": "https://gwern.net/blog/2022/pdf-forgery",
+      "score": 45
     },
     {
-      "title": "Paper Models of Polyhedra",
-      "url": "https://www.polyhedra.net/en/",
-      "score": 9
+      "title": "Used ThinkPad Buyer's Guide (2019)",
+      "url": "https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide",
+      "score": 25
     },
     {
-      "title": "Truman World",
-      "url": "https://trumanworld.live",
-      "score": 5
-    },
-    {
-      "title": "How do traffic signals work? (2019)",
-      "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
-      "score": 66
-    },
-    {
-      "title": "Frontier AI on Your Own Hardware",
-      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-      "score": 114
-    },
-    {
-      "title": "First Shader from Zero in Godot 4",
-      "url": "https://www.gdquest.com/library/first_shader_godot4_portal/",
-      "score": 38
-    },
-    {
-      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
-      "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
-      "score": 257
-    },
-    {
-      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-      "url": "https://github.com/jaredpalmer/kev/tree/main",
-      "score": 413
-    },
-    {
-      "title": "Grok 4.7",
-      "url": "https://x.ai/news/grok-4-7",
-      "score": 518
-    },
-    {
-      "title": "Copper-Rs: Live Telemetry Deterministic Twins for Robots",
-      "url": "https://www.copper-robotics.com/whats-new/copper-12-live-telemetry-and-replayable-logs-over-a-lossy-one-way-connection-with-twinning",
-      "score": 4
-    },
-    {
-      "title": "HERMES radio enables voice and data communication over vast distances",
-      "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
-      "score": 108
-    },
-    {
-      "title": "Why does mathmain need an encrypted loader?",
-      "url": "https://safedep.io/mathmain-encrypted-loader/",
-      "score": 115
+      "title": "Socrates vs. the Written Word (2011)",
+      "url": "https://wondermark.com/socrates-vs-writing/",
+      "score": 47
     },
     {
       "title": "Python Workers are now generally available",
       "url": "https://blog.cloudflare.com/python-workers-ga/",
-      "score": 192
+      "score": 232
     },
     {
-      "title": "Apple Copland D11E4 Booting in the Browser",
-      "url": "https://www.pagetable.com/300",
-      "score": 106
+      "title": "HERMES radio enables voice and data communication over vast distances",
+      "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+      "score": 145
     },
     {
-      "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
-      "url": "https://robocurve.org/roboharm/",
-      "score": 37
-    },
-    {
-      "title": "TXR: An Original, New Programming Language for Convenient Data Munging",
-      "url": "https://www.nongnu.org/txr/",
-      "score": 24
+      "title": "How do traffic signals work? (2019)",
+      "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
+      "score": 88
     }
   ]
 }
