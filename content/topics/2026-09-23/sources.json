@@ -2,69 +2,114 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "score": 270
+    },
+    {
       "title": "Fixing the Portobello Police Station Clock",
       "url": "https://pointinthecloud.com/2026-04-11-211700.html",
-      "score": 71
+      "score": 323
     },
     {
-      "title": "Strands Harness",
-      "url": "https://strandsagents.com/blog/introducing-strands-harness/",
-      "score": 52
+      "title": "Italian parliament votes for return to nuclear energy",
+      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+      "score": 368
     },
     {
-      "title": "Stripe's Knowledge AI Platform",
-      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
-      "score": 85
+      "title": "A brief history of Windows scroll bar shortcuts",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+      "score": 62
     },
     {
-      "title": "GPT-6 Astra has gained the ability to drive a car",
-      "url": "https://drivingbench.com/",
-      "score": 71
-    },
-    {
-      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
-      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-      "score": 338
+      "title": "Gemini 3.8 text-to-speech",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "score": 199
     },
     {
       "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
       "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
-      "score": 15
+      "score": 95
     },
     {
       "title": "Jev in 25 Lines of Python",
       "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
-      "score": 460
-    },
-    {
-      "title": "Z80 REPL (2018)",
-      "url": "https://abagames.github.io/z80-repl/index.html",
-      "score": 99
+      "score": 574
     },
     {
       "title": "GPT-6 Sol and Luna",
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "score": 1666
+      "score": 1723
     },
     {
-      "title": "Jev Can't Be Calibrated",
-      "url": "https://www.alexmolas.com/2026/09/23/jev-cant-be-calibrated.html",
-      "score": 9
-    },
-    {
-      "title": "I don't want the details",
-      "url": "https://michaelheap.com/i-dont-want-the-details/",
-      "score": 173
-    },
-    {
-      "title": "Tokens Too Cheap to Meter",
-      "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
-      "score": 99
+      "title": "LensVLM-9B by Apple",
+      "url": "https://huggingface.co/papers/2605.07019",
+      "score": 16
     },
     {
       "title": "Claude Opus 5.5",
       "url": "https://www.anthropic.com/claude-opus-5-5",
-      "score": 1686
+      "score": 1763
+    },
+    {
+      "title": "Tokens too cheap to meter",
+      "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
+      "score": 189
+    },
+    {
+      "title": "How we made claude.ai 3x faster in two weeks",
+      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+      "score": 83
+    },
+    {
+      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+      "score": 421
+    },
+    {
+      "title": "Z80 REPL (2018)",
+      "url": "https://abagames.github.io/z80-repl/index.html",
+      "score": 127
+    },
+    {
+      "title": "Stripe's Knowledge AI Platform",
+      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+      "score": 153
+    },
+    {
+      "title": "I don't want the details",
+      "url": "https://michaelheap.com/i-dont-want-the-details/",
+      "score": 294
+    },
+    {
+      "title": "UK military jamming other nations' satellites to defend itself, BBC told",
+      "url": "https://www.bbc.com/news/articles/c32l8y8kygdvo",
+      "score": 95
+    },
+    {
+      "title": "Show HN: Conway's Game of Life in boot sector",
+      "url": "https://github.com/0xAX/BootLife",
+      "score": 12
+    },
+    {
+      "title": "Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes",
+      "url": "https://www.forensicdbg.com",
+      "score": 9
+    },
+    {
+      "title": "Show HN: An atlas of system designs with interactive architecture diagrams",
+      "url": "https://atlas-sysdes.vercel.app/",
+      "score": 6
+    },
+    {
+      "title": "Why Omarchy Exists",
+      "url": "https://mikael.pika.page/posts/why-omarchy-exists",
+      "score": 15
+    },
+    {
+      "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
+      "url": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
+      "score": 228
     },
     {
       "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
@@ -72,84 +117,39 @@
       "score": 1
     },
     {
-      "title": "Woman Arrested, Dragged Away After Speaking About Flock at City Council Meeting",
-      "url": "https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/",
-      "score": 22
-    },
-    {
-      "title": "Web-based IBM 1620 emulator and IPL-V from 1963",
-      "url": "https://github.com/pkimpel/retro-1620",
-      "score": 14
-    },
-    {
-      "title": "Transit rewards",
-      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
-      "score": 214
+      "title": "DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why",
+      "url": "https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/",
+      "score": 160
     },
     {
       "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
       "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-      "score": 705
+      "score": 719
     },
     {
-      "title": "The GitHub wiki is an anti-pattern (2022)",
-      "url": "https://michaelheap.com/github-wiki-is-an-antipattern/",
-      "score": 102
+      "title": "Swap, ZRAM, Zswap and Hibernate on NixOS",
+      "url": "https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/",
+      "score": 9
     },
     {
-      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-      "url": "https://foxscript.org/",
-      "score": 419
+      "title": "Web-based IBM 1620 emulator and IPL-V from 1963",
+      "url": "https://github.com/pkimpel/retro-1620",
+      "score": 35
     },
     {
-      "title": "Samsung accidentally freezes its smart fridges with a software update",
-      "url": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/",
-      "score": 174
+      "title": "Transit rewards",
+      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
+      "score": 243
     },
     {
-      "title": "What California is learning from solar panels built over irrigation canals",
-      "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
-      "score": 297
+      "title": "28% of job postings on company career sites have been open over 90 days",
+      "url": "https://unlisted.careers/ghost-jobs/report/2026-09",
+      "score": 169
     },
     {
-      "title": "How did AMD Ryzen get 50% faster in two years?",
-      "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
-      "score": 424
-    },
-    {
-      "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
-      "url": "https://github.com/xCuri0/ReBarUEFI",
-      "score": 206
-    },
-    {
-      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
-      "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
-      "score": 732
-    },
-    {
-      "title": "SAML: A fractal of bad design",
-      "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
-      "score": 305
-    },
-    {
-      "title": "Data-only attacks are easier than you think (2024)",
-      "url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
-      "score": 83
-    },
-    {
-      "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
-      "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
-      "score": 218
-    },
-    {
-      "title": "Community condemn Bedminster AI mural as 'insult' to artists",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyq09jp49eo",
-      "score": 13
-    },
-    {
-      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-      "score": 810
+      "title": "Strands Harness",
+      "url": "https://strandsagents.com/blog/introducing-strands-harness/",
+      "score": 120
     }
   ]
 }
