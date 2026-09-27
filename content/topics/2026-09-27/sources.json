@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "url": "https://arxiv.org/abs/2609.25021",
-      "score": 25
+      "title": "\"They had no concept of a duty of care to their users.\"",
+      "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+      "score": 186
+    },
+    {
+      "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
+      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+      "score": 56
+    },
+    {
+      "title": "The Normalization of Inexplicable Failures",
+      "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+      "score": 29
+    },
+    {
+      "title": "Replacing the old battery on rechargeable bike lights",
+      "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+      "score": 58
+    },
+    {
+      "title": "Show HN: TinyAIArena watch AI agents battle it out",
+      "url": "https://tinyaiarena.com/",
+      "score": 12
+    },
+    {
+      "title": "Writing Efficient C++ Code",
+      "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+      "score": 36
+    },
+    {
+      "title": "Font where each token is equal-width",
+      "url": "https://twitter.com/amplifiedamp/status/2103535129503383700",
+      "score": 20
+    },
+    {
+      "title": "Ten Lines of Code That Changed My World",
+      "url": "https://pixelambacht.nl/2026/ten-lines-of-code/",
+      "score": 28
     },
     {
       "title": "Flip Fluid on Flip Dots",
       "url": "https://mitxela.com/projects/flipflip",
-      "score": 111
+      "score": 268
+    },
+    {
+      "title": "Show HN: A CC0 museum of retro 3D tricks you can paste into a page",
+      "url": "https://3d-retro.com/",
+      "score": 35
+    },
+    {
+      "title": "Fakecloud: Local AWS cloud emulator for integration tests",
+      "url": "https://fakecloud.dev/",
+      "score": 42
     },
     {
       "title": "Does Georgism work? Five years later",
       "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
-      "score": 361
+      "score": 459
     },
     {
-      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-      "score": 254
-    },
-    {
-      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
-      "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
-      "score": 198
+      "title": "postmarketOS Rebrand: Nura",
+      "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
+      "score": 28
     },
     {
       "title": "Go Concurrency Distilled",
       "url": "https://antonz.org/go-concurrency-distilled/",
-      "score": 234
-    },
-    {
-      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-      "url": "https://github.com/InfinityLoop1308/PipePipe",
-      "score": 429
+      "score": 310
     },
     {
       "title": "Finally, A True Blue Rose Exists",
       "url": "https://www.sciencenews.org/article/true-blue-rose-pigment-copigment",
-      "score": 17
+      "score": 71
+    },
+    {
+      "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "score": 543
+    },
+    {
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "score": 467
+    },
+    {
+      "title": "Rusty thoughts on \"Parse, don't validate\"",
+      "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+      "score": 37
+    },
+    {
+      "title": "Walgit: A Git server that is one binary in front of an object store",
+      "url": "https://github.com/rgodha24/walgithub",
+      "score": 3
     },
     {
       "title": "DeepSeek Elastic Compute (DSec)",
       "url": "https://arxiv.org/abs/2609.22978",
-      "score": 255
-    },
-    {
-      "title": "Improving site performance by shipping more CSS",
-      "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
-      "score": 53
+      "score": 301
     },
     {
       "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
       "url": "https://github.com/reladraw/reladraw",
-      "score": 320
-    },
-    {
-      "title": "Show HN: LightCloud – A cloud console organised like file system",
-      "url": "https://www.light-cloud.com/",
-      "score": 4
+      "score": 361
     },
     {
       "title": "The internet discovers TLA+. Now what?",
       "url": "https://reasonable.io/blog/tla-tutorial/",
-      "score": 23
+      "score": 82
     },
     {
-      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-      "url": "https://www.movingimagearchive.com/",
-      "score": 177
-    },
-    {
-      "title": "Biology might not be quantum, but its math is quantumlike",
-      "url": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
-      "score": 77
+      "title": "10 Tells of a Slop UI",
+      "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
+      "score": 183
     },
     {
       "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
       "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
-      "score": 300
+      "score": 368
     },
     {
-      "title": "Evolving programming languages in the AI era",
-      "url": "https://dashbit.co/blog/evolving-ai-era",
+      "title": "Biology might not be quantum, but its math is quantumlike",
+      "url": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
       "score": 104
+    },
+    {
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "url": "https://www.movingimagearchive.com/",
+      "score": 197
+    },
+    {
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "score": 83
     },
     {
       "title": "Fifteen years later, the Apple Cards origin story",
       "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-      "score": 400
-    },
-    {
-      "title": "Teaching a World Model to Play Pokemon",
-      "url": "https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/",
-      "score": 10
+      "score": 423
     },
     {
       "title": "An agent used DNS to reach an external chatbot",
       "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
-      "score": 106
-    },
-    {
-      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-      "score": 157
-    },
-    {
-      "title": "What is the size of Yemen? (2024)",
-      "url": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
-      "score": 179
+      "score": 141
     },
     {
       "title": "How I changed teaching after AI managed to do all my homework assignments",
       "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-      "score": 218
-    },
-    {
-      "title": "Promising discoveries about the potential for life on one of Saturn’s icy moons",
-      "url": "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html",
-      "score": 65
-    },
-    {
-      "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
-      "url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
-      "score": 81
-    },
-    {
-      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
-      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-      "score": 100
-    },
-    {
-      "title": "How to keep enjoying programming in a world of LLMs",
-      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-      "score": 236
-    },
-    {
-      "title": "Exploding variance of means of exponentials: least-squares to the rescue",
-      "url": "https://francisbach.com/spectral_log_density_estimation/",
-      "score": 34
-    },
-    {
-      "title": "Generate fonts where every LLM token is the same width",
-      "url": "https://ampdot.mesh.host/token-space-fonts.html",
-      "score": 67
-    },
-    {
-      "title": "Modern Object Pascal Introduction for Programmers",
-      "url": "https://castle-engine.io/modern_pascal",
-      "score": 176
+      "score": 268
     }
   ]
 }
