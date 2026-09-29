@@ -2,154 +2,149 @@
   "papers": [],
   "discussions": [
     {
-      "title": "You Are No Longer Invited to Dinner",
-      "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
-      "score": 70
+      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+      "score": 88
     },
     {
-      "title": "AI companies leak data to advertisers [pdf]",
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "score": 664
+    },
+    {
+      "title": "How Delhi cut electricity loss from 50 to 5 percent",
+      "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+      "score": 396
+    },
+    {
+      "title": "PS5 Relapse Exploit",
+      "url": "https://github.com/ntfargo/Relapse-Exploit",
+      "score": 173
+    },
+    {
+      "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
+      "url": "https://github.com/lostmsu/TurboGPT",
+      "score": 24
+    },
+    {
+      "title": "NAND-16: a computer built from 277,248 NAND gates",
+      "url": "https://somethingbig.ai/computer",
+      "score": 75
+    },
+    {
+      "title": "Tcl/Tk 9.1",
+      "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+      "score": 211
+    },
+    {
+      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+      "url": "https://space.bl2.net/",
+      "score": 29
+    },
+    {
+      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
       "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "score": 160
+      "score": 398
     },
     {
-      "title": "Jeeves. Reasoning improves Jev-like decision models",
-      "url": "https://github.com/PostHog/jeeves",
-      "score": 37
+      "title": "Dots: Always-on agents",
+      "url": "https://openai.com/index/introducing-dots/",
+      "score": 400
     },
     {
-      "title": "Using any C++ library in Godot",
-      "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
-      "score": 66
+      "title": "America.gov",
+      "url": "https://america.gov/",
+      "score": 159
     },
     {
-      "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
-      "url": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
-      "score": 47
+      "title": "Stuck in the Suez Canal – the short version (2021)",
+      "url": "https://cathsenker.co.uk/stuck-in-the-suez-canal-the-short-version/",
+      "score": 23
     },
     {
       "title": "Phyllotaxis: An audio-reactive LED display",
       "url": "https://jagi.studio/posts/phyllotaxis/",
-      "score": 167
+      "score": 247
     },
     {
-      "title": "Booted up in 1993, this server still runs – but not for much longer (2017)",
-      "url": "https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html",
-      "score": 88
+      "title": "Virus Stole a Human Gene and Won't Let Go of It",
+      "url": "https://www.nytimes.com/2026/09/28/science/virus-molluscum-human-gene.html",
+      "score": 60
     },
     {
-      "title": "The systems that no one will test",
-      "url": "https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/",
-      "score": 86
+      "title": "Show HN: NSL – WSL for Linux",
+      "url": "https://frostyard.github.io/nsl/",
+      "score": 61
     },
     {
-      "title": "California farmers are struggling to sell grapes as demand for wine drops",
-      "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
-      "score": 256
+      "title": "Without the Hot Air",
+      "url": "https://www.withouthotair.com/",
+      "score": 127
     },
     {
-      "title": "Software occlusion culling in Block Game",
-      "url": "https://enikofox.com/posts/software-rendered-occlusion-culling-in-block-game/",
-      "score": 40
+      "title": "C64 MERCENARY (1985): a novel exploit bug at the start of the game",
+      "url": "https://gamesexplained.com/c64/mercenary/",
+      "score": 9
     },
     {
-      "title": "Startup Nights 2026 is comming up on 5-6 Nov. in Switzerland",
-      "url": "https://www.startup-nights.ch/event/",
-      "score": 21
+      "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+      "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+      "score": 128
     },
     {
-      "title": "Pirating the Pirates",
-      "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
-      "score": 614
+      "title": "Jeeves. Reasoning improves Jev-like decision models",
+      "url": "https://github.com/PostHog/jeeves",
+      "score": 214
     },
     {
-      "title": "Tank Body Problem",
-      "url": "http://www.jimsitu.com",
-      "score": 130
+      "title": "A Staff Engineer's Guide to Inventing Work",
+      "url": "https://sujithjay.com/inventing-work",
+      "score": 134
     },
     {
-      "title": "Four CHI '26 papers I wish I wrote",
-      "url": "https://countingfromzero.blog/2026/04/24/four-chi-26-papers-i-wish-i-wrote/",
-      "score": 15
+      "title": "Walking Men",
+      "url": "https://bookofjoe2.blogspot.com/2026/09/walking-men.html",
+      "score": 69
     },
     {
-      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "url": "https://stateofutopia.com/experiments/microllmlab/",
-      "score": 256
+      "title": "ChatGPT Pro 500",
+      "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+      "score": 160
     },
     {
-      "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
-      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
-      "score": 147
+      "title": "Using any C++ library in Godot",
+      "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
+      "score": 152
     },
     {
-      "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-      "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
-      "score": 109
+      "title": "Nicholas Polson has authored 258 academic papers in 2026 so far",
+      "url": "https://statmodeling.stat.columbia.edu/2026/08/27/258/",
+      "score": 112
     },
     {
-      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-      "url": "https://github.com/firelex/jeff",
-      "score": 519
+      "title": "You are no longer invited to dinner",
+      "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+      "score": 678
     },
     {
-      "title": "Evan Doorbell's Phone Tapes – Brought to You by Telephone World",
-      "url": "https://evan-doorbell.com/",
-      "score": 7
+      "title": "Memory Companies Have Destroyed the Consumer Market",
+      "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
+      "score": 75
     },
     {
-      "title": "Optimizing x264 settings and per-title ladders",
-      "url": "https://streaminglearningcenter.com/articles/optimizing-x264-settings-and-per-title-ladders.html",
-      "score": 4
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap/",
+      "score": 81
     },
     {
-      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-      "score": 191
+      "title": "Digital Audio on the ZX Spectrum's 1-Bit Beeper",
+      "url": "https://bumbershootsoft.wordpress.com/2026/09/26/digital-audio-on-the-zx-spectrums-1-bit-beeper/",
+      "score": 51
     },
     {
-      "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
-      "url": "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027",
-      "score": 5
-    },
-    {
-      "title": "Updated Google Maps shows destruction of the city of Rafah",
-      "url": "https://twitter.com/AliAbunimah/status/2103890594137309425",
-      "score": 661
-    },
-    {
-      "title": "New Cyber-OSINT model released",
-      "url": "https://twitter.com/0x0SojalSec/status/2104736980768866439",
-      "score": 17
-    },
-    {
-      "title": "Hijacking the PS5's RTMP stream",
-      "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
-      "score": 264
-    },
-    {
-      "title": "Sonnet 5.5",
-      "url": "https://www.anthropic.com/claude-sonnet-5-5",
-      "score": 825
-    },
-    {
-      "title": "Hermann Weyl – Frank Aydelotte memorandum (1945)",
-      "url": "https://albert.ias.edu/server/api/core/bitstreams/9feac6ca-38d1-4f5c-9876-75915f1a5762/content",
-      "score": 4
-    },
-    {
-      "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
-      "url": "https://www.thisamericanlife.org/897/transcript",
-      "score": 431
-    },
-    {
-      "title": "Simulating Airband AM Radios",
-      "url": "https://bitbashing.io/am-radio.html",
-      "score": 54
-    },
-    {
-      "title": "Does Reddit have an astroturfing problem? What the data suggests",
-      "url": "https://www.petervijeh.com/projects/reddit-astroturf",
-      "score": 244
+      "title": "What if Jev spoke Arrow?",
+      "url": "https://columnar.tech/blog/what-if-jev-spoke-arrow/",
+      "score": 26
     }
   ]
 }
