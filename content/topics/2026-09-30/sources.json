@@ -2,39 +2,79 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Gemini 4 Argon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "score": 633
+    },
+    {
+      "title": "Surprisingly Complex Waves Reveal the Brain's Inner Workings",
+      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "score": 70
+    },
+    {
+      "title": "EDG C++ front-end goes public",
+      "url": "https://edgcpp.org/#transition",
+      "score": 89
+    },
+    {
       "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
       "url": "https://github.com/magnitudedev/magnitude",
-      "score": 10
+      "score": 99
+    },
+    {
+      "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+      "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+      "score": 71
+    },
+    {
+      "title": "Halfspace experimental IDE for solid modeling with distance fields",
+      "url": "https://www.mattkeeter.com/projects/halfspace/",
+      "score": 35
     },
     {
       "title": "A brief history of the Bloomberg terminal",
       "url": "https://spectrum.ieee.org/bloomberg-terminal",
-      "score": 87
+      "score": 191
     },
     {
-      "title": "Commit Description as a Thinking Tool",
-      "url": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
-      "score": 13
-    },
-    {
-      "title": "You Said No MCP",
+      "title": "You said no MCP",
       "url": "https://earendil.com/posts/you-said-no-mcp/",
-      "score": 469
+      "score": 564
     },
     {
-      "title": "I Could've Accessed 17T Microsoft Records",
+      "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
+      "url": "https://www.chompiclub.com/opensource",
+      "score": 10
+    },
+    {
+      "title": "Why the Bronze Age Collapsed",
+      "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+      "score": 10
+    },
+    {
+      "title": "Doing a Machine Learning PhD While Working in Japan",
+      "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
+      "score": 10
+    },
+    {
+      "title": "I could've accessed 17T Microsoft records",
       "url": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
-      "score": 123
+      "score": 225
     },
     {
-      "title": "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management",
-      "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603",
-      "score": 26
+      "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+      "url": "https://twitter.com/tuakdotsol/status/2105105417760391258",
+      "score": 55
     },
     {
-      "title": "Burning Man Death Rates – A Short Lesson in Statistics",
-      "url": "https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson",
-      "score": 29
+      "title": "Functional Ultrasound Imaging (fUSI) from scratch",
+      "url": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
+      "score": 9
+    },
+    {
+      "title": "CS240 AI Cheating Retrospective",
+      "url": "https://turkeyland.net/thoughts/ai.php",
+      "score": 22
     },
     {
       "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
@@ -42,114 +82,74 @@
       "score": 1
     },
     {
-      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-      "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
-      "score": 77
-    },
-    {
-      "title": "SDF Public Access Unix System ... est. 1987",
-      "url": "https://sdf.org/",
-      "score": 29
-    },
-    {
-      "title": "Reverse-engineering a $35 backup camera display (AMT630A)",
-      "url": "https://github.com/mogrinz/AMT630A",
-      "score": 33
+      "title": "What TLA+ can and can't check",
+      "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+      "score": 112
     },
     {
       "title": "The last time my family was replaced by technology",
       "url": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
-      "score": 50
+      "score": 150
     },
     {
-      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-      "url": "https://github.com/ninjahawk/livenerf",
-      "score": 826
+      "title": "Gitea 28.0",
+      "url": "https://blog.gitea.com/release-of-28.0.0/",
+      "score": 42
     },
     {
-      "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
-      "url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
-      "score": 103
+      "title": "Before pixels: Modular industrial dashboards",
+      "url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
+      "score": 12
     },
     {
-      "title": "What TLA+ can and can't check",
-      "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
-      "score": 30
+      "title": "Burning Man death rates – A short lesson in statistics",
+      "url": "https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson",
+      "score": 83
     },
     {
-      "title": "Mathematical Origami",
-      "url": "https://mathigon.org/origami",
-      "score": 85
+      "title": "Commit description as a thinking tool",
+      "url": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
+      "score": 102
     },
     {
-      "title": "Solving Factorio Quality",
-      "url": "https://exyr.org/2026/solving-factorio-quality/",
-      "score": 220
+      "title": "Recursive `make` and `-j`",
+      "url": "https://quuxplusone.github.io/blog/2026/09/30/recursive-make-j/",
+      "score": 13
     },
     {
-      "title": "LinkedIn Larpmaxxing",
-      "url": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
-      "score": 52
+      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+      "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+      "score": 117
     },
     {
-      "title": "Getting out of the way: my robotics crash course",
-      "url": "https://thisismypersonalblog.com/posts/2026-09-25-getting-out-of-the-way/",
-      "score": 37
+      "title": "Dumb servers, smart clients: Distributing OS images with Quarry",
+      "url": "https://amutable.com/blog/distributing-images-quarry",
+      "score": 14
     },
     {
-      "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-      "url": "https://strata.do/try/",
-      "score": 3
+      "title": "Hacking SimCity 2000 saved games",
+      "url": "https://log.schemescape.com/posts/memoir/dos.html",
+      "score": 6
     },
     {
-      "title": "Dots: Always-on agents",
-      "url": "https://openai.com/index/introducing-dots/",
-      "score": 717
+      "title": "The eruption that destroyed Pompeii is helping scientists date Earth's history",
+      "url": "https://news.berkeley.edu/2026/09/25/the-eruption-that-destroyed-pompeii-is-helping-scientists-date-earths-history/",
+      "score": 8
     },
     {
-      "title": "Vermont replacing power plants with home batteries",
-      "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
-      "score": 337
+      "title": "Responsible Release of AI-Generated Mathematics",
+      "url": "https://agmai.org/general-sep29/",
+      "score": 57
     },
     {
-      "title": "Show HN: Ledge.sh – Runnable Markdown Notes",
-      "url": "https://ledge.sh",
-      "score": 27
+      "title": "Great Dirhombicosidodecahedron (\"Miller's Monster\")",
+      "url": "https://www.software3d.com/MillersMonster.php",
+      "score": 8
     },
     {
-      "title": "NASA asked several former SR-71A staffers to help secret restart",
-      "url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
-      "score": 278
-    },
-    {
-      "title": "America.gov",
-      "url": "https://america.gov/",
-      "score": 734
-    },
-    {
-      "title": "Show HN: Dental Scope – Interactive 3D dental anatomy",
-      "url": "https://dental-scope.com/",
-      "score": 77
-    },
-    {
-      "title": "Let's Ditch Google (Verb)",
-      "url": "https://adam.farkas.pro/lets-ditch-google-verb/",
-      "score": 45
-    },
-    {
-      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-      "score": 267
-    },
-    {
-      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-      "url": "https://space.bl2.net/",
-      "score": 351
-    },
-    {
-      "title": "Show HN: Parrot – Open-Source Smart Meeting Recorder with Co-Pilot on Mac",
-      "url": "https://openparrot.app",
-      "score": 5
+      "title": "SDF Public Access Unix System ... est. 1987",
+      "url": "https://sdf.org/",
+      "score": 73
     }
   ]
 }
