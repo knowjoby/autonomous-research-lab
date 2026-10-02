@@ -2,149 +2,149 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Pi 1.0",
-      "url": "https://earendil.com/posts/pi-1-0/",
-      "score": 1377
+      "title": "Dutch Computer Museums",
+      "url": "https://aresluna.org/dutch-computer-museums/",
+      "score": 14
+    },
+    {
+      "title": "The Legend of von Neumann (1973) [pdf]",
+      "url": "https://gwern.net/doc/math/1973-halmos.pdf",
+      "score": 162
+    },
+    {
+      "title": "Tiny Brutalism",
+      "url": "https://placeholders.itch.io/tiny-brutalism",
+      "score": 57
+    },
+    {
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "score": 72
+    },
+    {
+      "title": "Supabase is acquiring Turso",
+      "url": "https://supabase.com/blog/supabase-is-acquiring-turso",
+      "score": 115
+    },
+    {
+      "title": "FLUX 3 Image",
+      "url": "https://bfl.ai/models/flux-3-image",
+      "score": 81
+    },
+    {
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "url": "https://stillwet.art/",
+      "score": 65
+    },
+    {
+      "title": "Giving friends custom text buzzes based on Morse code",
+      "url": "https://liquidbrain.net/blog/giving-friends-custom-text-buzzes-based-on-morse-code/",
+      "score": 31
+    },
+    {
+      "title": "ICC judge on what U.S. sanctions mean for her and global courts",
+      "url": "https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost",
+      "score": 33
     },
     {
       "title": "Shimano Bicycle Museum Review",
       "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
-      "score": 141
+      "score": 262
+    },
+    {
+      "title": "Sites in ChatGPT",
+      "url": "https://chatgpt.com/features/sites/",
+      "score": 17
+    },
+    {
+      "title": "Nazi Germany had no hope of making an atomic bomb, uranium cubes reveal",
+      "url": "https://www.science.org/content/article/nazi-germany-had-no-hope-making-atomic-bomb-uranium-cubes-reveal",
+      "score": 54
     },
     {
       "title": "Several vulnerabilities have been discovered in the Linux kernel",
       "url": "https://lwn.net/Articles/1097401/",
-      "score": 355
+      "score": 502
+    },
+    {
+      "title": "To grieve, or not to grieve?",
+      "url": "https://xenaproject.wordpress.com/2026/10/01/to-grieve-or-not-to-grieve/",
+      "score": 98
     },
     {
       "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
       "url": "https://github.com/kvoltmer/Audionaut",
-      "score": 31
+      "score": 111
     },
     {
-      "title": "Why media fans want to escape algorithms with CDs, DVDs and vinyl",
-      "url": "https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl",
-      "score": 34
+      "title": "The Four Horsemen of Agentic Coding",
+      "url": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
+      "score": 68
     },
     {
-      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
-      "url": "https://blog.cloudflare.com/clef-decision-models/",
-      "score": 533
-    },
-    {
-      "title": "SvelteKit 3",
-      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
-      "score": 302
-    },
-    {
-      "title": "DeepSeek Harness Desktop for macOS and Windows",
-      "url": "https://www.deepseek.com/en/harness/",
-      "score": 259
-    },
-    {
-      "title": "Pi Durable",
-      "url": "https://earendil.com/posts/pi-durable/",
-      "score": 408
-    },
-    {
-      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
-      "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
-      "score": 200
-    },
-    {
-      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
-      "url": "https://blog.gitbutler.com/git-3-sha-256",
-      "score": 405
-    },
-    {
-      "title": "StreetComplete on iOS is now in public beta",
-      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
-      "score": 570
-    },
-    {
-      "title": "How Singapore's government-run dating service works",
-      "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
-      "score": 187
+      "title": "Limited Liability In Historical Perspective (1997) [pdf]",
+      "url": "https://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=1623&context=wlulr",
+      "score": 8
     },
     {
       "title": "Frog and Toad and the Increasingly Capable Machines",
       "url": "https://www.frogandtoad.ai/",
-      "score": 215
+      "score": 478
     },
     {
-      "title": "Turbo Haskell",
-      "url": "https://comonad.com/reader/2026/turbo-haskell/",
-      "score": 114
+      "title": "Fixing GRPO's credit assignment problem without evaluating every step",
+      "url": "https://arxiv.org/abs/2609.36178",
+      "score": 15
     },
     {
-      "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
-      "url": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
-      "score": 159
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "score": 599
     },
     {
-      "title": "RIP, vector database",
-      "url": "https://turbopuffer.com/blog/rip-vector-database",
-      "score": 342
+      "title": "Benchmarking retrieval for agents on messy real-world company knowledge",
+      "url": "https://www.kapa.ai/blog/company-knowledge-bench",
+      "score": 17
     },
     {
-      "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
-      "url": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
-      "score": 239
+      "title": "Now That's an Impurity Story",
+      "url": "https://www.science.org/content/blog-post/now-s-impurity-story",
+      "score": 27
     },
     {
-      "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-      "url": "https://www.cssbed.com",
-      "score": 119
+      "title": "SvelteKit 3",
+      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "score": 377
     },
     {
-      "title": "Vote on which of Hacker News' challenges for AI have been met",
-      "url": "https://stoppels.ch/goalposts/",
-      "score": 156
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "url": "https://blog.gitbutler.com/git-3-sha-256",
+      "score": 527
     },
     {
-      "title": "ArXiv's Updated Rate Limit Policy",
-      "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
-      "score": 126
+      "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
+      "url": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
+      "score": 36
     },
     {
-      "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-      "url": "https://github.com/Vibra-Ingenn/Janus",
-      "score": 79
+      "title": "Show HN: Breadcrumb, record everything on your mac + context manager for AI",
+      "url": "https://innerloop.works/breadcrumb",
+      "score": 25
     },
     {
-      "title": "Cloudflare K2: serverless event streams",
-      "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
-      "score": 251
+      "title": "Pi 1.0",
+      "url": "https://earendil.com/posts/pi-1-0/",
+      "score": 1614
     },
     {
-      "title": "Oxygen-deprived underwater zones may not be “dead zones” but clue to early life",
-      "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
-      "score": 107
+      "title": "DeepSeek Harness Desktop for macOS and Windows",
+      "url": "https://www.deepseek.com/en/harness/",
+      "score": 371
     },
     {
-      "title": "How to speed up the Rust compiler in September 2026",
-      "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-      "score": 260
-    },
-    {
-      "title": "Context Language Models",
-      "url": "https://arxiv.org/abs/2609.37725",
-      "score": 150
-    },
-    {
-      "title": "RacketCon Is Saturday",
-      "url": "https://con.racket-lang.org/",
-      "score": 151
-    },
-    {
-      "title": "Butterflies use optical illusions to dodge predators",
-      "url": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
-      "score": 53
-    },
-    {
-      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-      "score": 180
+      "title": "Pi Durable",
+      "url": "https://earendil.com/posts/pi-durable/",
+      "score": 474
     }
   ]
 }
