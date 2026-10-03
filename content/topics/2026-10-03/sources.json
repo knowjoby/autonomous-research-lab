@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "An AI agent emailed researchers for help. It told us why",
-      "url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
-      "score": 30
+      "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+      "url": "https://tej.as/blog/aleph-alpha-kolibri",
+      "score": 230
+    },
+    {
+      "title": "Woking Electrical Control Room (2016)",
+      "url": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
+      "score": 52
+    },
+    {
+      "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "score": 148
+    },
+    {
+      "title": "FTL: A new operating system for clouds",
+      "url": "https://ftl-os.org/",
+      "score": 7
+    },
+    {
+      "title": "C++ Insights – See your source code with the eyes of a Compiler",
+      "url": "https://github.com/andreasfertig/cppinsights",
+      "score": 60
     },
     {
       "title": "Newgrounds.com – A community of games, music, and art",
       "url": "https://www.newgrounds.com/",
-      "score": 244
+      "score": 354
     },
     {
-      "title": "GitHub's new dashboard experience now the default",
-      "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
-      "score": 6
+      "title": "What is going on with ceiling fans",
+      "url": "https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans",
+      "score": 63
     },
     {
       "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
       "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-      "score": 643
+      "score": 707
+    },
+    {
+      "title": "The Escalation of War in Ethiopia",
+      "url": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
+      "score": 107
     },
     {
       "title": "Apple Pass Designer",
       "url": "https://developer.apple.com/pass-designer/",
-      "score": 438
+      "score": 497
     },
     {
       "title": "Mike Tomlin spent 12 years building a Minecraft city",
       "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
-      "score": 479
+      "score": 571
+    },
+    {
+      "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
+      "url": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
+      "score": 1
+    },
+    {
+      "title": "Show HN: Offrun – manage every coding agent from one workspace",
+      "url": "https://offrun.dev/",
+      "score": 39
     },
     {
       "title": "Cloudflare OHTTP gateway",
       "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
-      "score": 90
+      "score": 140
     },
     {
       "title": "An Update on Orion for Linux and Windows",
       "url": "https://blog.kagi.com/update-orion-linux-windows",
-      "score": 61
+      "score": 132
     },
     {
       "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
       "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
-      "score": 296
-    },
-    {
-      "title": "The Forgetful CPU (Linux on M4)",
-      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
-      "score": 222
+      "score": 343
     },
     {
       "title": "Loss of cell identity drives human aging: Two new papers",
       "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
-      "score": 264
+      "score": 308
     },
     {
-      "title": "Barcodes are about to go extinct",
-      "url": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
-      "score": 50
-    },
-    {
-      "title": "From the creator of Redis; run LLM locally with ds4",
-      "url": "https://dwarfstar.sh/",
-      "score": 254
-    },
-    {
-      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "score": 246
+      "title": "Make Tmux the OS",
+      "url": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
+      "score": 127
     },
     {
       "title": "FLUX 3 Image",
       "url": "https://bfl.ai/models/flux-3-image",
-      "score": 353
+      "score": 391
     },
     {
-      "title": "Extra Big Ass Intelligence",
-      "url": "https://www.extrabigassintelligence.com/",
-      "score": 311
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "url": "https://dwarfstar.sh/",
+      "score": 298
+    },
+    {
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "score": 283
+    },
+    {
+      "title": "GitHub's new dashboard experience now the default",
+      "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
+      "score": 62
     },
     {
       "title": "With most information hidden, the game Stratego had stumped AI until now",
       "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "score": 221
+      "score": 254
+    },
+    {
+      "title": "On building a worm detector",
+      "url": "https://bencology.bearblog.dev/mapping-individual-and-collective-worm-movements/",
+      "score": 23
     },
     {
       "title": "Muse Gadgets",
       "url": "https://gadgets.muse.ai",
+      "score": 220
+    },
+    {
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "url": "https://stillwet.art/",
+      "score": 324
+    },
+    {
+      "title": "Sites in ChatGPT",
+      "url": "https://chatgpt.com/features/sites/",
+      "score": 317
+    },
+    {
+      "title": "Extra Big Ass Intelligence",
+      "url": "https://www.extrabigassintelligence.com/",
+      "score": 393
+    },
+    {
+      "title": "One month coding with GLM 5.3 Flash",
+      "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
       "score": 202
     },
     {
       "title": "Updates to Full Disk Access in macOS",
       "url": "https://developer.apple.com/news/?id=p6zjojqw",
-      "score": 208
-    },
-    {
-      "title": "One month coding with GLM 5.3 Flash",
-      "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
-      "score": 166
-    },
-    {
-      "title": "The Nintendo 64 Partner-N64 Development Kit",
-      "url": "https://www.behindthecode.ca/partner-n64pc-dev-kit/",
-      "score": 44
-    },
-    {
-      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-      "url": "https://stillwet.art/",
-      "score": 283
-    },
-    {
-      "title": "cp: -r or -R?",
-      "url": "https://movq.de/blog/postings/2026-09-30/0/POSTING-en.html",
-      "score": 8
-    },
-    {
-      "title": "Sites in ChatGPT",
-      "url": "https://chatgpt.com/features/sites/",
-      "score": 281
-    },
-    {
-      "title": "The Legend of von Neumann (1973) [pdf]",
-      "url": "https://gwern.net/doc/math/1973-halmos.pdf",
-      "score": 286
-    },
-    {
-      "title": "Venice’s failed war against Constantinople led to the first bond market",
-      "url": "https://bigthink.com/books/a-fabulous-debt/",
-      "score": 125
-    },
-    {
-      "title": "Billions of triangles redux",
-      "url": "https://zeux.io/2026/09/30/billions-of-triangles-redux/",
-      "score": 46
-    },
-    {
-      "title": "More like SC-Forth-thousand, am I right?",
-      "url": "https://www.leadedsolder.com/2026/10/01/rc2026-10-sg1000-forth-port.html",
-      "score": 10
-    },
-    {
-      "title": "OKI Develops 124-Layer PCB Technology",
-      "url": "https://www.oki.com/global/press/2025/z25006e.html",
-      "score": 35
-    },
-    {
-      "title": "To grieve, or not to grieve?",
-      "url": "https://xenaproject.wordpress.com/2026/10/01/to-grieve-or-not-to-grieve/",
-      "score": 143
+      "score": 248
     }
   ]
 }
