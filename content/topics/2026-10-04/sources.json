@@ -2,149 +2,149 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Why don't more developers \"use the platform\"?",
+      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+      "url": "https://gamehistory.org/5k-magazines/",
+      "score": 34
+    },
+    {
+      "title": "Why don't more developers “use the platform”?",
       "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-      "score": 5
+      "score": 162
     },
     {
-      "title": "We're going to need default hard budget caps on pretty much everything",
-      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-      "score": 284
-    },
-    {
-      "title": "Treachery in the Rodin Museum 3D scan verdict",
-      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-      "score": 121
+      "title": "So you think you could be an electrician?",
+      "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+      "score": 276
     },
     {
       "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
       "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-      "score": 188
+      "score": 318
     },
     {
-      "title": "So You Think You Could Be an Electrician?",
-      "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
-      "score": 60
-    },
-    {
-      "title": "Hole Punch: Sling your spaceship around gravitational fields",
-      "url": "https://notoriousbfg.com/hole-punch/",
-      "score": 254
-    },
-    {
-      "title": "Reasons I didn't become an EMT, ranked",
-      "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
-      "score": 122
-    },
-    {
-      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
-      "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
-      "score": 163
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "score": 215
     },
     {
       "title": "Agents don't need memory, they need documentation",
       "url": "https://liao.gg/blog/agents-dont-need-memory",
-      "score": 86
+      "score": 209
     },
     {
-      "title": "Kolibri: A Sovereign Open-Weight Model",
-      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-      "score": 546
+      "title": "gpuvis: GPU Trace Visualizer",
+      "url": "https://github.com/mikesart/gpuvis",
+      "score": 14
     },
     {
-      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-      "score": 188
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "url": "https://notoriousbfg.com/hole-punch/",
+      "score": 303
+    },
+    {
+      "title": "We're working on a new RuneScape MMO",
+      "url": "https://play.runescape.com/4",
+      "score": 85
+    },
+    {
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "score": 464
+    },
+    {
+      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
+      "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
+      "score": 202
+    },
+    {
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "score": 169
+    },
+    {
+      "title": "Reasons I didn't become an EMT, ranked",
+      "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+      "score": 161
+    },
+    {
+      "title": "We want you to build the next Git platform on Cloudflare",
+      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+      "score": 142
+    },
+    {
+      "title": "Religious scholars met with Anthropic",
+      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "score": 88
+    },
+    {
+      "title": "In Ukraine, distributed renewables foil Russia's assaults",
+      "url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
+      "score": 99
+    },
+    {
+      "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+      "url": "https://github.com/PowderworksCode/headstart",
+      "score": 12
     },
     {
       "title": "Math's pedagogical curse – Grant Sanderson [video]",
       "url": "https://www.youtube.com/watch?v=UOuxo6SA8Uc",
-      "score": 18
+      "score": 47
+    },
+    {
+      "title": "I quit OpenAI because its culture is broken",
+      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+      "score": 265
+    },
+    {
+      "title": "How to hack time, with C2PA",
+      "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+      "score": 43
+    },
+    {
+      "title": "Sea Monkeys Show Scientists How to Rewrite a Rule of Turbulence",
+      "url": "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/",
+      "score": 6
     },
     {
       "title": "Your body of work thinks back at you",
       "url": "https://photoni.st/index.php/2026/09/25/your-body-of-work-thinks-back-at-you/",
-      "score": 35
-    },
-    {
-      "title": "FTL: A new operating system for clouds",
-      "url": "https://ftl-os.org/",
-      "score": 156
-    },
-    {
-      "title": "Amazon introduces a redesigned Kindle family",
-      "url": "https://www.aboutamazon.com/news/devices/new-kindle-lineup-2026",
-      "score": 22
-    },
-    {
-      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "score": 241
-    },
-    {
-      "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
-      "url": "https://thoreaubasic.com/",
-      "score": 40
-    },
-    {
-      "title": "Three AI agents, two countries, and one uneven world wide web",
-      "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
-      "score": 13
-    },
-    {
-      "title": "Surely you have ultra-wideband radios on your bins too?",
-      "url": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
-      "score": 58
+      "score": 67
     },
     {
       "title": "Former SR-71 engineer talks NASA's Blackbird revival program",
       "url": "https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program",
-      "score": 30
+      "score": 67
     },
     {
-      "title": "New York City should carefully measure a new tree",
-      "url": "https://blog.willmeye.rs/new-york-city-should-carefully-measure-a-new-tree/",
-      "score": 56
+      "title": "FTL: A new operating system for clouds",
+      "url": "https://ftl-os.org/",
+      "score": 178
     },
     {
-      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-      "url": "https://pipod.dev/",
-      "score": 82
+      "title": "What Meta got right with Muse",
+      "url": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
+      "score": 55
     },
     {
-      "title": "Woking Electrical Control Room (2016)",
-      "url": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
-      "score": 129
+      "title": "Dirty Optimization Secrets (C for Playdate)",
+      "url": "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011",
+      "score": 21
     },
     {
-      "title": "Memory-Safe WebP Decoding",
-      "url": "https://halide.cx/blog/wpd/",
-      "score": 47
+      "title": "Three AI agents, two countries, and one uneven world wide web",
+      "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
+      "score": 35
     },
     {
-      "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
-      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-      "score": 368
+      "title": "City building games have a Soul Problem pt.2",
+      "url": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
+      "score": 140
     },
     {
-      "title": "Docker has always used microVMs (well since 2016)",
-      "url": "https://dave.recoil.org/docker-has-always-used-microvms/",
-      "score": 27
-    },
-    {
-      "title": "RetailReady (YC W24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
-      "score": 1
-    },
-    {
-      "title": "RSS Feed Best Practices (2022)",
-      "url": "https://kevincox.ca/2022/05/06/rss-feed-best-practices/",
-      "score": 46
-    },
-    {
-      "title": "Inside Anthropic's Quest to Instill Morality into Its A.I. Models",
-      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "score": 45
+      "title": "Surely you have ultra-wideband radios on your bins too?",
+      "url": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
+      "score": 86
     }
   ]
 }
