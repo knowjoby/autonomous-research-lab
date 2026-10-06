@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Why Common Lisp is now the best programming language",
-      "url": "https://www.vivienhenz.com/common-lisp",
-      "score": 47
+      "title": "Nobel Prize in Physics goes to Francis Halzen",
+      "url": "https://www.nobelprize.org/prizes/physics/2026/",
+      "score": 182
+    },
+    {
+      "title": "JetBrains reported a net financial loss first time in its tracked history",
+      "url": "https://www.helgilibrary.com/companies/jetbrains",
+      "score": 66
+    },
+    {
+      "title": "Gleam doesn't compile to Erlang source anymore",
+      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+      "score": 85
     },
     {
       "title": "Beam: Reflection's 501B open-weight model",
       "url": "https://reflection.ai/blog/introducing-beam",
-      "score": 376
+      "score": 480
+    },
+    {
+      "title": "Release of Polars 2.0",
+      "url": "https://pola.rs/posts/release-polars-2/",
+      "score": 3
+    },
+    {
+      "title": "Nature's capacity to 'bounce back' when species are lost is vastly overestimated",
+      "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
+      "score": 33
     },
     {
       "title": "Find the flattest route between any two points in SF",
       "url": "https://flattensf.com/",
-      "score": 146
-    },
-    {
-      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "score": 265
-    },
-    {
-      "title": "Example.com just launched the biggest redesign in decades",
-      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-      "score": 131
+      "score": 235
     },
     {
       "title": "Dust: Pretraining Transformers Without Backpropagation",
       "url": "https://qlabs.sh/research/dust",
-      "score": 140
-    },
-    {
-      "title": "An algorithmic failure beneath the secret ballot",
-      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
-      "score": 52
+      "score": 227
     },
     {
       "title": "Friendship ended with Deno, now Node is my best friend",
       "url": "https://dbushell.com/2026/10/03/deno-to-node/",
-      "score": 106
+      "score": 213
     },
     {
-      "title": "AI tutoring with Khanmigo in a two-year school experiment",
-      "url": "https://edworkingpapers.com/ai26-1551",
-      "score": 55
+      "title": "Accountability mechanisms can be joyful (2024)",
+      "url": "https://liquidbrain.net/blog/accountability-and-joy/",
+      "score": 53
     },
     {
-      "title": "Show HN: Photoc – Command-line tools for photographers",
-      "url": "https://github.com/ahmetomerv/photoc",
-      "score": 13
+      "title": "World's First enhanced geothermal power plant completed in just 23 months",
+      "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
+      "score": 17
     },
     {
       "title": "Web Search API",
       "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-      "score": 509
+      "score": 565
     },
     {
-      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-      "score": 351
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "score": 394
     },
     {
-      "title": "Anthropic reported diary entry to police, woman faces felony charge",
-      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "score": 631
+      "title": "ASOS app users receive push notifications apparently sent by hackers",
+      "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o",
+      "score": 42
     },
     {
-      "title": "Competitive Programmer's Handbook (2018) [pdf]",
-      "url": "https://cses.fi/book/book.pdf",
-      "score": 154
-    },
-    {
-      "title": "Global Solar Atlas: summary of solar power potential globally",
-      "url": "https://globalsolaratlas.info/",
-      "score": 34
-    },
-    {
-      "title": "Testing 12 different Zigbee temperature/humidity sensors",
-      "url": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/",
-      "score": 65
-    },
-    {
-      "title": "Samon: Designing a Zen Garden Raking Puzzle",
-      "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
-      "score": 31
+      "title": "Example.com just launched the biggest redesign in decades",
+      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "score": 259
     },
     {
       "title": "Resurrecting iChat Audio and Video Conferencing",
       "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
-      "score": 9
+      "score": 71
     },
     {
-      "title": "Show HN: Entombed in a Raycaster",
-      "url": "https://www.stelabouras.com/blog/entombed-raycaster/",
-      "score": 5
+      "title": "Direct retinal projection display for smart glasses using a meta-optic mirror",
+      "url": "https://www.tdk.com/en/news_center/press/20261002_01.html",
+      "score": 49
     },
     {
-      "title": "DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
-      "url": "https://github.com/dfd-tud/deda",
-      "score": 43
+      "title": "Testing 12 different Zigbee temperature/humidity sensors",
+      "url": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/",
+      "score": 143
     },
     {
-      "title": "Ephemeral Testing",
-      "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
-      "score": 40
+      "title": "Using A.I. and machine learning to decode communication of sperm whales",
+      "url": "https://blue-continuum.com/the-man-who-listens-to-whales",
+      "score": 44
     },
     {
-      "title": "Using Theme park rides and smartphones for demonstrating Newtonian mechanics",
-      "url": "https://iopscience.iop.org/article/10.1088/1361-6404/aea271",
-      "score": 6
+      "title": "Competitive Programmer's Handbook (2018) [pdf]",
+      "url": "https://cses.fi/book/book.pdf",
+      "score": 232
     },
     {
-      "title": "Texas city demands $2M for public records on Flock usage",
-      "url": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
-      "score": 148
+      "title": "An algorithmic failure beneath the secret ballot",
+      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
+      "score": 94
     },
     {
-      "title": "High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days",
-      "url": "https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days",
-      "score": 84
-    },
-    {
-      "title": "Making a GTK application in Haskell, part 1",
-      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
-      "score": 145
+      "title": "The complement of true is true, except when it's false",
+      "url": "https://dryperspective.github.io/posts/complement-of-true/",
+      "score": 31
     },
     {
       "title": "The lamps in my house",
       "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
-      "score": 161
+      "score": 240
+    },
+    {
+      "title": "Why Common Lisp is now the best programming language",
+      "url": "https://www.vivienhenz.com/common-lisp",
+      "score": 224
+    },
+    {
+      "title": "Show HN: Entombed in a Raycaster",
+      "url": "https://www.stelabouras.com/blog/entombed-raycaster/",
+      "score": 30
+    },
+    {
+      "title": "DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
+      "url": "https://github.com/dfd-tud/deda",
+      "score": 73
+    },
+    {
+      "title": "Global Solar Atlas: summary of solar power potential globally",
+      "url": "https://globalsolaratlas.info/",
+      "score": 68
+    },
+    {
+      "title": "Ephemeral Testing",
+      "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
+      "score": 70
     },
     {
       "title": "Apple and a hacker's future",
       "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-      "score": 232
+      "score": 275
     },
     {
-      "title": "Using Blu-ray M-Disk as backup of last resort",
-      "url": "https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort/",
-      "score": 81
-    },
-    {
-      "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
-      "score": 185
-    },
-    {
-      "title": "Photopea creator weighs in on Photosuite project",
-      "url": "https://github.com/eolix/photosuite/issues/77",
-      "score": 81
+      "title": "Samon: Designing a Zen Garden Raking Puzzle",
+      "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
+      "score": 49
     }
   ]
 }
