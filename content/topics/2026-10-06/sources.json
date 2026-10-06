@@ -2,154 +2,149 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Nobel Prize in Physics goes to Francis Halzen",
-      "url": "https://www.nobelprize.org/prizes/physics/2026/",
-      "score": 182
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "score": 1473
     },
     {
-      "title": "JetBrains reported a net financial loss first time in its tracked history",
-      "url": "https://www.helgilibrary.com/companies/jetbrains",
-      "score": 66
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "score": 158
+    },
+    {
+      "title": "Nobel Prize in Physics 2026: Francis Halzen",
+      "url": "https://www.nobelprize.org/prizes/physics/2026/",
+      "score": 494
+    },
+    {
+      "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
+      "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+      "score": 104
+    },
+    {
+      "title": "Decisions API is in public beta",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "score": 21
+    },
+    {
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "url": "https://github.com/FeSens/openTPU",
+      "score": 185
+    },
+    {
+      "title": "OpenSSH 10.6",
+      "url": "https://www.openssh.org/releasenotes.html#10.6",
+      "score": 57
+    },
+    {
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "score": 36
+    },
+    {
+      "title": "Benchmark in Milliseconds",
+      "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
+      "score": 120
+    },
+    {
+      "title": "The Early History of Smalltalk (1993)",
+      "url": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
+      "score": 99
     },
     {
       "title": "Gleam doesn't compile to Erlang source anymore",
       "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
-      "score": 85
+      "score": 281
+    },
+    {
+      "title": "Mathematics of Geothermal Energy",
+      "url": "https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/",
+      "score": 63
+    },
+    {
+      "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+      "url": "https://peterszentkiralyi.eu/darkplug/",
+      "score": 57
+    },
+    {
+      "title": "Erdosproblems.com Succumbs to the AI Onslaught",
+      "url": "https://www.erdosproblems.com/forum/thread/blog:9",
+      "score": 69
+    },
+    {
+      "title": "Subquadratic 3SUM and Subcubic APSP",
+      "url": "https://arxiv.org/abs/2610.06783",
+      "score": 87
+    },
+    {
+      "title": "System-level ad-blocking in Android",
+      "url": "https://kevinboone.me/adblock.html",
+      "score": 28
+    },
+    {
+      "title": "What's Earth's dominant species by mass?",
+      "url": "https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/",
+      "score": 106
+    },
+    {
+      "title": "Toronto-Based VPN Provider Plans to Quit Canada over Lawful-Access Bill",
+      "url": "https://citizenlab.ca/toronto-based-vpn-provider-plans-to-quit-canada-over-lawful-access-bill/",
+      "score": 53
+    },
+    {
+      "title": "Polars 2.0",
+      "url": "https://pola.rs/posts/release-polars-2/",
+      "score": 394
     },
     {
       "title": "Beam: Reflection's 501B open-weight model",
       "url": "https://reflection.ai/blog/introducing-beam",
-      "score": 480
-    },
-    {
-      "title": "Release of Polars 2.0",
-      "url": "https://pola.rs/posts/release-polars-2/",
-      "score": 3
-    },
-    {
-      "title": "Nature's capacity to 'bounce back' when species are lost is vastly overestimated",
-      "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
-      "score": 33
-    },
-    {
-      "title": "Find the flattest route between any two points in SF",
-      "url": "https://flattensf.com/",
-      "score": 235
-    },
-    {
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "url": "https://qlabs.sh/research/dust",
-      "score": 227
-    },
-    {
-      "title": "Friendship ended with Deno, now Node is my best friend",
-      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
-      "score": 213
-    },
-    {
-      "title": "Accountability mechanisms can be joyful (2024)",
-      "url": "https://liquidbrain.net/blog/accountability-and-joy/",
-      "score": 53
-    },
-    {
-      "title": "World's First enhanced geothermal power plant completed in just 23 months",
-      "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
-      "score": 17
-    },
-    {
-      "title": "Web Search API",
-      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-      "score": 565
-    },
-    {
-      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "score": 394
-    },
-    {
-      "title": "ASOS app users receive push notifications apparently sent by hackers",
-      "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o",
-      "score": 42
+      "score": 537
     },
     {
       "title": "Example.com just launched the biggest redesign in decades",
       "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-      "score": 259
+      "score": 337
     },
     {
-      "title": "Resurrecting iChat Audio and Video Conferencing",
-      "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
+      "title": "Nature's capacity to 'bounce back' when species are lost is overestimated: study",
+      "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
+      "score": 298
+    },
+    {
+      "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
+      "url": "https://www.parseable.com",
       "score": 71
+    },
+    {
+      "title": "Find the flattest route between any two points in SF",
+      "url": "https://flattensf.com/",
+      "score": 301
+    },
+    {
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "url": "https://qlabs.sh/research/dust",
+      "score": 265
     },
     {
       "title": "Direct retinal projection display for smart glasses using a meta-optic mirror",
       "url": "https://www.tdk.com/en/news_center/press/20261002_01.html",
-      "score": 49
+      "score": 118
     },
     {
-      "title": "Testing 12 different Zigbee temperature/humidity sensors",
+      "title": "Friendship ended with Deno, now Node is my best friend",
+      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+      "score": 306
+    },
+    {
+      "title": "Best-selling Zigbee temperature sensors tested and compared",
       "url": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/",
-      "score": 143
+      "score": 229
     },
     {
-      "title": "Using A.I. and machine learning to decode communication of sperm whales",
-      "url": "https://blue-continuum.com/the-man-who-listens-to-whales",
-      "score": 44
-    },
-    {
-      "title": "Competitive Programmer's Handbook (2018) [pdf]",
-      "url": "https://cses.fi/book/book.pdf",
-      "score": 232
-    },
-    {
-      "title": "An algorithmic failure beneath the secret ballot",
-      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
-      "score": 94
-    },
-    {
-      "title": "The complement of true is true, except when it's false",
-      "url": "https://dryperspective.github.io/posts/complement-of-true/",
-      "score": 31
-    },
-    {
-      "title": "The lamps in my house",
-      "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
-      "score": 240
-    },
-    {
-      "title": "Why Common Lisp is now the best programming language",
-      "url": "https://www.vivienhenz.com/common-lisp",
-      "score": 224
-    },
-    {
-      "title": "Show HN: Entombed in a Raycaster",
-      "url": "https://www.stelabouras.com/blog/entombed-raycaster/",
-      "score": 30
-    },
-    {
-      "title": "DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
-      "url": "https://github.com/dfd-tud/deda",
-      "score": 73
-    },
-    {
-      "title": "Global Solar Atlas: summary of solar power potential globally",
-      "url": "https://globalsolaratlas.info/",
-      "score": 68
-    },
-    {
-      "title": "Ephemeral Testing",
-      "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
-      "score": 70
-    },
-    {
-      "title": "Apple and a hacker's future",
-      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-      "score": 275
-    },
-    {
-      "title": "Samon: Designing a Zen Garden Raking Puzzle",
-      "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
-      "score": 49
+      "title": "I'm the AGI that's wiping out humanity",
+      "url": "https://ajmoon.com/posts/im-the-agi-thats-wiping-out-humanity-heres-how",
+      "score": 144
     }
   ]
 }
