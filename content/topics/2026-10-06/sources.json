@@ -1,0 +1,155 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "Why Common Lisp is now the best programming language",
+      "url": "https://www.vivienhenz.com/common-lisp",
+      "score": 47
+    },
+    {
+      "title": "Beam: Reflection's 501B open-weight model",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "score": 376
+    },
+    {
+      "title": "Find the flattest route between any two points in SF",
+      "url": "https://flattensf.com/",
+      "score": 146
+    },
+    {
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "score": 265
+    },
+    {
+      "title": "Example.com just launched the biggest redesign in decades",
+      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "score": 131
+    },
+    {
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "url": "https://qlabs.sh/research/dust",
+      "score": 140
+    },
+    {
+      "title": "An algorithmic failure beneath the secret ballot",
+      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
+      "score": 52
+    },
+    {
+      "title": "Friendship ended with Deno, now Node is my best friend",
+      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+      "score": 106
+    },
+    {
+      "title": "AI tutoring with Khanmigo in a two-year school experiment",
+      "url": "https://edworkingpapers.com/ai26-1551",
+      "score": 55
+    },
+    {
+      "title": "Show HN: Photoc – Command-line tools for photographers",
+      "url": "https://github.com/ahmetomerv/photoc",
+      "score": 13
+    },
+    {
+      "title": "Web Search API",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "score": 509
+    },
+    {
+      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+      "score": 351
+    },
+    {
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "score": 631
+    },
+    {
+      "title": "Competitive Programmer's Handbook (2018) [pdf]",
+      "url": "https://cses.fi/book/book.pdf",
+      "score": 154
+    },
+    {
+      "title": "Global Solar Atlas: summary of solar power potential globally",
+      "url": "https://globalsolaratlas.info/",
+      "score": 34
+    },
+    {
+      "title": "Testing 12 different Zigbee temperature/humidity sensors",
+      "url": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/",
+      "score": 65
+    },
+    {
+      "title": "Samon: Designing a Zen Garden Raking Puzzle",
+      "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
+      "score": 31
+    },
+    {
+      "title": "Resurrecting iChat Audio and Video Conferencing",
+      "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
+      "score": 9
+    },
+    {
+      "title": "Show HN: Entombed in a Raycaster",
+      "url": "https://www.stelabouras.com/blog/entombed-raycaster/",
+      "score": 5
+    },
+    {
+      "title": "DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
+      "url": "https://github.com/dfd-tud/deda",
+      "score": 43
+    },
+    {
+      "title": "Ephemeral Testing",
+      "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
+      "score": 40
+    },
+    {
+      "title": "Using Theme park rides and smartphones for demonstrating Newtonian mechanics",
+      "url": "https://iopscience.iop.org/article/10.1088/1361-6404/aea271",
+      "score": 6
+    },
+    {
+      "title": "Texas city demands $2M for public records on Flock usage",
+      "url": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
+      "score": 148
+    },
+    {
+      "title": "High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days",
+      "url": "https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days",
+      "score": 84
+    },
+    {
+      "title": "Making a GTK application in Haskell, part 1",
+      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+      "score": 145
+    },
+    {
+      "title": "The lamps in my house",
+      "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
+      "score": 161
+    },
+    {
+      "title": "Apple and a hacker's future",
+      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+      "score": 232
+    },
+    {
+      "title": "Using Blu-ray M-Disk as backup of last resort",
+      "url": "https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort/",
+      "score": 81
+    },
+    {
+      "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
+      "score": 185
+    },
+    {
+      "title": "Photopea creator weighs in on Photosuite project",
+      "url": "https://github.com/eolix/photosuite/issues/77",
+      "score": 81
+    }
+  ]
+}
