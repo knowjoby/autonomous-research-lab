@@ -2,149 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "score": 569
+    },
+    {
+      "title": "GPT‑6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "score": 408
+    },
+    {
+      "title": "Docker Agent",
+      "url": "https://github.com/docker/docker-agent",
+      "score": 146
+    },
+    {
+      "title": "Margaret Hamilton, who led software development for Apollo program, dies at 90",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "score": 154
+    },
+    {
+      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+      "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
+      "score": 68
+    },
+    {
+      "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+      "url": "https://bigwords.page/",
+      "score": 282
+    },
+    {
       "title": "Shipping JPEG XL in Chrome",
       "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
-      "score": 103
+      "score": 459
+    },
+    {
+      "title": "If somebody tries to hot-patch an already-hot-patched function",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261005-00/?p=112755/",
+      "score": 10
+    },
+    {
+      "title": "Navier–Stokes Lost in Translation",
+      "url": "https://arxiv.org/abs/2610.08144",
+      "score": 211
+    },
+    {
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+      "score": 209
+    },
+    {
+      "title": "Animated ASCII Art for Web Pages",
+      "url": "https://ascii.rest/",
+      "score": 249
+    },
+    {
+      "title": "How machines learned precision",
+      "url": "https://glinscott.github.io/how-machines-learned-precision/",
+      "score": 73
+    },
+    {
+      "title": "Brownian Motion",
+      "url": "https://gregorygundersen.com/blog/2026/04/22/brownian-motion/",
+      "score": 14
+    },
+    {
+      "title": "I'm in love with a German film star",
+      "url": "https://heatherburns.tech/2026/10/01/im-in-love-with-a-german-film-star/",
+      "score": 4
+    },
+    {
+      "title": "ICANN Reveals 2026 Round Applications for New Generic Top-Level Domains",
+      "url": "https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en",
+      "score": 31
     },
     {
       "title": "A font recreated from photographs of classic Commodore 64 keycaps",
       "url": "https://github.com/szabadkai/c64-keyboard-font/",
-      "score": 153
+      "score": 367
+    },
+    {
+      "title": "Despite what Watson said, Rosalind Franklin understood structure of DNA first",
+      "url": "https://link.springer.com/article/10.1007/s10739-026-09866-7",
+      "score": 68
     },
     {
       "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
       "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
-      "score": 92
+      "score": 279
+    },
+    {
+      "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
+      "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+      "score": 437
+    },
+    {
+      "title": "House with 15m underground tunnels for sale for 300k",
+      "url": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
+      "score": 134
+    },
+    {
+      "title": "Wood Tape (2004)",
+      "url": "http://gamesbyemail.com/WoodTape/Default.htm",
+      "score": 135
     },
     {
       "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "score": 1015
+      "score": 1210
     },
     {
-      "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
-      "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
-      "score": 7
+      "title": "Google Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "score": 101
     },
     {
-      "title": "Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens",
-      "url": "https://astrohelm.app/",
+      "title": "SynthID Detector",
+      "url": "https://synthid.com/",
+      "score": 78
+    },
+    {
+      "title": "The Mathocalypse",
+      "url": "https://scottaaronson.blog/?p=10169",
+      "score": 160
+    },
+    {
+      "title": "Anti-patterns in software blogging",
+      "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+      "score": 182
+    },
+    {
+      "title": "AI-assisted proof of optimal packing for 11 squares",
+      "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
+      "score": 100
+    },
+    {
+      "title": "Why were Victorian elites so effective?",
+      "url": "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/",
+      "score": 68
+    },
+    {
+      "title": "3D-printing platform rapidly produces complex electric machines",
+      "url": "https://news.mit.edu/2026/3d-printing-platform-rapidly-produces-complex-electric-machines-0218",
+      "score": 53
+    },
+    {
+      "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+      "url": "https://agent.reviews/",
       "score": 23
-    },
-    {
-      "title": "Strands Decider 2B: a small, open-source, decision model",
-      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
-      "score": 216
-    },
-    {
-      "title": "Decisions API is in public beta",
-      "url": "https://developers.openai.com/api/docs/guides/decisions",
-      "score": 340
-    },
-    {
-      "title": "Rust's derive often implies inline",
-      "url": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
-      "score": 13
-    },
-    {
-      "title": "ESP32-C3 Adblock",
-      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
-      "score": 130
-    },
-    {
-      "title": "Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4/\\",
-      "score": 1887
-    },
-    {
-      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-      "score": 357
-    },
-    {
-      "title": "What is Codemode",
-      "url": "https://lucumr.pocoo.org/2026/10/6/codemode/",
-      "score": 108
-    },
-    {
-      "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
-      "url": "https://github.com/shader-effects-inc/shaders",
-      "score": 39
-    },
-    {
-      "title": "Gallery of Processor Cache Effects (2010)",
-      "url": "https://igoro.com/archive/gallery-of-processor-cache-effects/",
-      "score": 23
-    },
-    {
-      "title": "The cost of lies: A Mineserver story",
-      "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
-      "score": 136
-    },
-    {
-      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-      "url": "https://penguin-mail.com/",
-      "score": 211
-    },
-    {
-      "title": "Forever Junior: The Skills AI Can't Develop for You",
-      "url": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/",
-      "score": 15
-    },
-    {
-      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
-      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-      "score": 229
-    },
-    {
-      "title": "Show HN: Arcadeia – A self-hosted media library with animated video previews",
-      "url": "https://github.com/travelonium/arcadeia",
-      "score": 9
-    },
-    {
-      "title": "The Legend of the Paper Crane",
-      "url": "https://mazdastories.com/en_us/inspire/paper-cranes-into-the-fold/",
-      "score": 22
-    },
-    {
-      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-      "url": "https://github.com/FeSens/openTPU",
-      "score": 306
-    },
-    {
-      "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-      "url": "https://github.com/nano-muse/nanoMuse",
-      "score": 29
-    },
-    {
-      "title": "La Cueva BBS in Mexico in 1993 (session replay)",
-      "url": "https://nanochess.org/la_cueva_bbs.html",
-      "score": 58
-    },
-    {
-      "title": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace",
-      "url": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating",
-      "score": 22
-    },
-    {
-      "title": "Treg (OpenRouter for Tools)",
-      "url": "https://github.com/superdesigndev/treg",
-      "score": 36
-    },
-    {
-      "title": "State of Devs 2026",
-      "url": "https://2026.stateofdevs.com/en-US/",
-      "score": 208
-    },
-    {
-      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-      "score": 107
-    },
-    {
-      "title": "When random is not actually random enough",
-      "url": "https://ersc.io/blog/when-random-isnt-random-enough",
-      "score": 70
     }
   ]
 }
