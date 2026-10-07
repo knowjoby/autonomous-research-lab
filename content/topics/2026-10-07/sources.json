@@ -2,149 +2,149 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "score": 594
+      "title": "Shipping JPEG XL in Chrome",
+      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+      "score": 103
     },
     {
-      "title": "Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4/\\",
-      "score": 1640
+      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+      "url": "https://github.com/szabadkai/c64-keyboard-font/",
+      "score": 153
+    },
+    {
+      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+      "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+      "score": 92
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "score": 1015
+    },
+    {
+      "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
+      "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
+      "score": 7
+    },
+    {
+      "title": "Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens",
+      "url": "https://astrohelm.app/",
+      "score": 23
     },
     {
       "title": "Strands Decider 2B: a small, open-source, decision model",
       "url": "https://strandsagents.com/blog/introducing-strands-decider/",
-      "score": 62
+      "score": 216
     },
     {
       "title": "Decisions API is in public beta",
       "url": "https://developers.openai.com/api/docs/guides/decisions",
-      "score": 189
+      "score": 340
     },
     {
-      "title": "The cost of lies: A Mineserver story",
-      "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
-      "score": 37
-    },
-    {
-      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-      "url": "https://penguin-mail.com/",
-      "score": 109
-    },
-    {
-      "title": "La Cueva BBS in Mexico in 1993 (session replay)",
-      "url": "https://nanochess.org/la_cueva_bbs.html",
-      "score": 11
-    },
-    {
-      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-      "score": 257
-    },
-    {
-      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
-      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-      "score": 138
+      "title": "Rust's derive often implies inline",
+      "url": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
+      "score": 13
     },
     {
       "title": "ESP32-C3 Adblock",
       "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
-      "score": 26
+      "score": 130
     },
     {
-      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "score": 154
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "score": 1887
     },
     {
-      "title": "What Is Codemode",
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "score": 357
+    },
+    {
+      "title": "What is Codemode",
       "url": "https://lucumr.pocoo.org/2026/10/6/codemode/",
-      "score": 26
+      "score": 108
     },
     {
-      "title": "Improving and Stabilizing the Racoon2 IKE Daemon in NetBSD",
-      "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_racoon2",
-      "score": 5
+      "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
+      "url": "https://github.com/shader-effects-inc/shaders",
+      "score": 39
+    },
+    {
+      "title": "Gallery of Processor Cache Effects (2010)",
+      "url": "https://igoro.com/archive/gallery-of-processor-cache-effects/",
+      "score": 23
+    },
+    {
+      "title": "The cost of lies: A Mineserver story",
+      "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
+      "score": 136
+    },
+    {
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "url": "https://penguin-mail.com/",
+      "score": 211
+    },
+    {
+      "title": "Forever Junior: The Skills AI Can't Develop for You",
+      "url": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/",
+      "score": 15
+    },
+    {
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "score": 229
+    },
+    {
+      "title": "Show HN: Arcadeia – A self-hosted media library with animated video previews",
+      "url": "https://github.com/travelonium/arcadeia",
+      "score": 9
+    },
+    {
+      "title": "The Legend of the Paper Crane",
+      "url": "https://mazdastories.com/en_us/inspire/paper-cranes-into-the-fold/",
+      "score": 22
     },
     {
       "title": "OpenTPU – An open-source AI accelerator, developed by AI",
       "url": "https://github.com/FeSens/openTPU",
-      "score": 254
+      "score": 306
     },
     {
-      "title": "LLMs may have helped my RSI",
-      "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
-      "score": 62
+      "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+      "url": "https://github.com/nano-muse/nanoMuse",
+      "score": 29
     },
     {
-      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
-      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
-      "score": 104
+      "title": "La Cueva BBS in Mexico in 1993 (session replay)",
+      "url": "https://nanochess.org/la_cueva_bbs.html",
+      "score": 58
     },
     {
-      "title": "Account bans on Reddit",
-      "url": "https://orchidfiles.com/account-bans-on-reddit/",
-      "score": 43
-    },
-    {
-      "title": "State of Devs 2026",
-      "url": "https://2026.stateofdevs.com/en-US/",
-      "score": 100
-    },
-    {
-      "title": "What's Earth's dominant species by mass?",
-      "url": "https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/",
-      "score": 182
-    },
-    {
-      "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
-      "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
-      "score": 11
-    },
-    {
-      "title": "When random is not actually random enough",
-      "url": "https://ersc.io/blog/when-random-isnt-random-enough",
-      "score": 41
-    },
-    {
-      "title": "How Fast is Python 3.15?",
-      "url": "https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15",
-      "score": 45
-    },
-    {
-      "title": "Xbox has secured exclusive GTA 6 streaming rights",
-      "url": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
-      "score": 17
-    },
-    {
-      "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
-      "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
-      "score": 202
-    },
-    {
-      "title": "California closed the Montana license plate loophole",
-      "url": "https://www.thedrive.com/news/heres-how-california-closed-the-montana-license-plate-loophole",
-      "score": 80
-    },
-    {
-      "title": "Integer multiplication below n log n",
-      "url": "https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026",
-      "score": 79
+      "title": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating",
+      "score": 22
     },
     {
       "title": "Treg (OpenRouter for Tools)",
       "url": "https://github.com/superdesigndev/treg",
-      "score": 6
+      "score": 36
     },
     {
-      "title": "Benchmark in Milliseconds",
-      "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
-      "score": 130
+      "title": "State of Devs 2026",
+      "url": "https://2026.stateofdevs.com/en-US/",
+      "score": 208
     },
     {
-      "title": "South Korea says AI agents appear to have been used to hack the country's banks",
-      "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
-      "score": 55
+      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+      "score": 107
+    },
+    {
+      "title": "When random is not actually random enough",
+      "url": "https://ersc.io/blog/when-random-isnt-random-enough",
+      "score": 70
     }
   ]
 }
