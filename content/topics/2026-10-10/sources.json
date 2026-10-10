@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "`123456' password used in Danish CPR data breach",
+      "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+      "score": 125
+    },
+    {
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "url": "https://github.com/rociiu/talorys",
+      "score": 29
+    },
+    {
       "title": "REA Reverse – Engineer Anything",
       "url": "https://rea.tools/",
-      "score": 197
+      "score": 468
+    },
+    {
+      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+      "score": 211
     },
     {
       "title": "Cloudflare acquires Deno",
       "url": "https://deno.com/blog/cloudflare",
-      "score": 1117
+      "score": 1257
     },
     {
       "title": "Triple-A Minesweeper",
       "url": "https://minesweeper.mikelacher.com/",
-      "score": 765
+      "score": 1044
     },
     {
-      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
+      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
       "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
-      "score": 40
+      "score": 180
+    },
+    {
+      "title": "Apple/macOS silently removed from official Unix registry",
+      "url": "https://www.opengroup.org//openbrand/register/",
+      "score": 8
+    },
+    {
+      "title": "Cube Type – Isometric Typography Generator",
+      "url": "https://typeincube.com/",
+      "score": 24
+    },
+    {
+      "title": "WSL3 Performance is about 5-60% faster than WSL2 depending on the workload",
+      "url": "https://tonym.us/wsl2-vs-wsl3-benchmarks.html",
+      "score": 74
     },
     {
       "title": "Can you use autoregressive diffusion to generate market data?",
       "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-      "score": 39
+      "score": 103
     },
     {
       "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
       "url": "https://carrierexplode.com/",
-      "score": 240
+      "score": 338
     },
     {
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "url": "https://typesafe.ai/blog/series-ai",
-      "score": 304
+      "title": "Computers Cannot Make Decisions",
+      "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
+      "score": 117
     },
     {
       "title": "Compiling Rust to readable C with Eurydice",
       "url": "https://lwn.net/Articles/1055211/",
-      "score": 38
+      "score": 90
     },
     {
-      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-      "score": 126
+      "title": "Noto means \"no tofu\": fixing dotted circles in Myanmar text",
+      "url": "https://www.datocms.com/blog/handling-less-common-scripts",
+      "score": 10
     },
     {
-      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
-      "score": 483
+      "title": "How to head into VR without wearing a headset",
+      "url": "https://www.kyushu-u.ac.jp/en/researches/view/414/",
+      "score": 39
+    },
+    {
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "score": 382
     },
     {
       "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
       "url": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
-      "score": 17
+      "score": 82
     },
     {
-      "title": "Atari Falcon",
-      "url": "https://atarimuseum.nl/atari-falcon/",
-      "score": 29
-    },
-    {
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
-      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-      "score": 106
-    },
-    {
-      "title": "Show HN: Proton Drive for Linux",
-      "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
-      "score": 49
-    },
-    {
-      "title": "Has the Autonomous Trucking Revolution Arrived?",
-      "url": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
-      "score": 17
-    },
-    {
-      "title": "Our $445M Series D",
-      "url": "https://oxide.computer/blog/our-445m-series-d",
-      "score": 621
-    },
-    {
-      "title": "The role of cat eye narrowing movements in cat–human communication (2020)",
-      "url": "https://www.nature.com/articles/s41598-020-73426-0",
-      "score": 56
-    },
-    {
-      "title": "Rewriting Prime Agent in Rust",
-      "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
-      "score": 32
-    },
-    {
-      "title": "The Alchemical Transformations of the Mutus Liber (1677)",
-      "url": "https://publicdomainreview.org/collection/mutus-liber/",
-      "score": 5
-    },
-    {
-      "title": "'Wallace and Gromit,' 90% Alone",
-      "url": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
-      "score": 178
-    },
-    {
-      "title": "Scam American companies are using to manipulate ingredient lists",
-      "url": "https://twitter.com/WallStreetApes/status/2108594998656807078",
-      "score": 78
+      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "score": 152
     },
     {
       "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
       "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-      "score": 59
+      "score": 133
+    },
+    {
+      "title": "Food processing influences metabolism and brain activity",
+      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+      "score": 54
+    },
+    {
+      "title": "C for Rust Programmers",
+      "url": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
+      "score": 4
+    },
+    {
+      "title": "Show HN: Proton Drive for Linux",
+      "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
+      "score": 93
+    },
+    {
+      "title": "Scam American companies are using to manipulate ingredient lists",
+      "url": "https://twitter.com/WallStreetApes/status/2108594998656807078",
+      "score": 131
+    },
+    {
+      "title": "The role of cat eye narrowing movements in cat–human communication (2020)",
+      "url": "https://www.nature.com/articles/s41598-020-73426-0",
+      "score": 93
+    },
+    {
+      "title": "'Wallace and Gromit,' 90% Alone",
+      "url": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
+      "score": 228
+    },
+    {
+      "title": "Our $445M Series D",
+      "url": "https://oxide.computer/blog/our-445m-series-d",
+      "score": 665
     },
     {
       "title": "Sorry, I'm in a meeting",
       "url": "https://iminafleeting.com/",
-      "score": 811
+      "score": 922
     },
     {
-      "title": "Show HN: The rarest tech books and docs you've probably never read",
-      "url": "https://readrare.com/",
-      "score": 90
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "score": 595
     },
     {
-      "title": "100+ reactions to 100+ solutions",
-      "url": "https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/",
-      "score": 45
-    },
-    {
-      "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
-      "url": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
-      "score": 6
-    },
-    {
-      "title": "The logarithms of rational numbers have irrationality exponent 2 [pdf]",
-      "url": "https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf",
-      "score": 13
-    },
-    {
-      "title": "Programming Isn't Special",
-      "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
-      "score": 185
-    },
-    {
-      "title": "M7.6 Earthquake in Panama",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
-      "score": 143
-    },
-    {
-      "title": "Smart contracts: Ship the parachute in v1",
-      "url": "https://medium.com/@giladha/ship-the-parachute-in-v1-why-upgradeability-and-disaster-recovery-are-not-v2-features-88191f35ba1c",
-      "score": 7
+      "title": "Vegetative Electron Microscopy WTF? (2025)",
+      "url": "https://www.sciencebase.com/science-blog/vegetative-electron-microscopy.html",
+      "score": 20
     }
   ]
 }
