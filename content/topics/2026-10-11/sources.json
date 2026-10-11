@@ -2,29 +2,124 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
-      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
-      "score": 137
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "url": "https://nanolathe.gg",
+      "score": 231
     },
     {
-      "title": "I paid people to try and follow my README",
-      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
-      "score": 15
+      "title": "Cartographers of North Korea",
+      "url": "https://cartographers-nk.wonyoung.so/",
+      "score": 70
+    },
+    {
+      "title": "Do You Have Pre-2012 Onion Issues?",
+      "url": "https://mailchi.mp/email.theonion.com/archivehunt",
+      "score": 141
+    },
+    {
+      "title": "Chapter 1 of Ways of Seeing by John Berger",
+      "url": "https://www.ways-of-seeing.com/ch1",
+      "score": 51
+    },
+    {
+      "title": "Artificial Insanity",
+      "url": "https://richwhitehouse.com/index.php?postid=78",
+      "score": 39
+    },
+    {
+      "title": "NYC's \"Click to Cancel\" rule is now in effect",
+      "url": "https://www.nyc.gov/main/click-to-cancel",
+      "score": 238
+    },
+    {
+      "title": "Terence Tao: Math 2.0 [pdf]",
+      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+      "score": 259
+    },
+    {
+      "title": "I guess I'm using WebP now?",
+      "url": "https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now",
+      "score": 43
+    },
+    {
+      "title": "How to Build Wealth as a Career Person",
+      "url": "https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/",
+      "score": 89
     },
     {
       "title": "IRCv3",
       "url": "https://ircv3.net/",
-      "score": 112
+      "score": 301
     },
     {
-      "title": "Nitter: Update Oct 10th seeking funding and legal help",
-      "url": "https://nitter.net",
-      "score": 130
+      "title": "The Unreasonable Effectiveness of Vex in NixOS",
+      "url": "https://blog.kammel.dev/post/nixos_vex/",
+      "score": 22
+    },
+    {
+      "title": "apsw: Another Python SQLite Wrapper",
+      "url": "https://github.com/rogerbinns/apsw",
+      "score": 44
+    },
+    {
+      "title": "The tilde in your PATH may not be your HOME",
+      "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+      "score": 190
     },
     {
       "title": "LineageOS 24.0",
       "url": "https://lineageos.org/Changelog-32/",
-      "score": 155
+      "score": 382
+    },
+    {
+      "title": "Akhetonics Photonic Computing: 1,000x Faster CPUs",
+      "url": "https://medium.com/@timventura/akhetonics-photonic-computing-1-000x-faster-cpus-b9e91c470079",
+      "score": 44
+    },
+    {
+      "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
+      "url": "https://betterwispr.com/",
+      "score": 124
+    },
+    {
+      "title": "Andrej Karpathy breaks down the capability gap",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "score": 18
+    },
+    {
+      "title": "Shape-sensing sheet digitally tracks its own movement as it bends and twists",
+      "url": "https://news.mit.edu/2026/shape-sensing-sheet-digitally-tracks-movement-bends-twists-1008",
+      "score": 20
+    },
+    {
+      "title": "How I reverse engineered a commercial spatial audio effect",
+      "url": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
+      "score": 71
+    },
+    {
+      "title": "Playgrnd – tiny tools for making weird, beautiful things",
+      "url": "https://www.playgrnd.tools/",
+      "score": 41
+    },
+    {
+      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+      "url": "https://verdagon.dev/blog/valen-group-borrowing",
+      "score": 118
+    },
+    {
+      "title": "The RAM shortage is bringing back DDR4",
+      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+      "score": 258
+    },
+    {
+      "title": "FlowCE: Calculus on your TI-84 Plus CE",
+      "url": "https://tommyb3ll.github.io/FlowCE/",
+      "score": 6
+    },
+    {
+      "title": "I paid people to try and follow my README",
+      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "score": 347
     },
     {
       "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
@@ -32,124 +127,29 @@
       "score": 1
     },
     {
-      "title": "2D Vehicles",
-      "url": "https://patkerr.co.uk/2d-vehicles/",
-      "score": 507
+      "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
+      "url": "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
+      "score": 8
     },
     {
-      "title": "Build your own decision model",
-      "url": "https://nishtahir.com/build-your-own-decision-model/",
-      "score": 342
+      "title": "I'm sorry, but you still have to think",
+      "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+      "score": 271
     },
     {
-      "title": "AI is creating a 'human premium' for art created by people",
-      "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
-      "score": 16
-    },
-    {
-      "title": "A city-building game in which the city would prefer you didn't",
-      "url": "https://housing.over.pizza/",
-      "score": 385
-    },
-    {
-      "title": "Rat's Register Allocator",
-      "url": "https://hexrat.cc/pages/blog/2026_10_07",
-      "score": 17
-    },
-    {
-      "title": "The Lightbulb Computer",
-      "url": "https://lightbulbcomputer.com/",
-      "score": 462
-    },
-    {
-      "title": "How big is a Git commit?",
-      "url": "https://ratfactor.com/cards/git-commit-size",
-      "score": 46
-    },
-    {
-      "title": "PSPi 6 – Raspberry Pi in a PSP",
-      "url": "https://github.com/othermod/PSPi-Version-6",
-      "score": 104
-    },
-    {
-      "title": "Retrofitting language models to operate over bytes",
-      "url": "https://www.nature.com/articles/s41586-026-11111-4",
-      "score": 72
-    },
-    {
-      "title": "\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
-      "url": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/",
-      "score": 17
-    },
-    {
-      "title": "When Ldaxr Doesn't Work: Exclusive Accesses and Cacheability on AArch64",
-      "url": "https://joelsiks.com/posts/aarch64-exclusive-access-cacheability/",
-      "score": 5
-    },
-    {
-      "title": "Nix wrote half of my debugger",
-      "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
-      "score": 203
-    },
-    {
-      "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
-      "url": "https://hangul.ink/blog/hangul-day",
-      "score": 55
-    },
-    {
-      "title": "Five months treating bugs like patients and coding agents like a medical team",
-      "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
-      "score": 150
-    },
-    {
-      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "url": "https://github.com/rociiu/talorys",
-      "score": 301
-    },
-    {
-      "title": "Knuth reward check",
-      "url": "https://www.thomas-huehn.com/knuth-reward-check/",
-      "score": 199
+      "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+      "url": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+      "score": 49
     },
     {
       "title": "3rd Yandex Cloud Data Center Was Hit",
       "url": "https://status.yandex.cloud/en/incidents/2136",
-      "score": 255
+      "score": 523
     },
     {
-      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
-      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-      "score": 196
-    },
-    {
-      "title": "Cyril Hilsum invented the flat-screen displays that hold us in thrall",
-      "url": "https://www.economist.com/obituary/2026/10/08/cyril-hilsum-invented-the-flat-screen-displays-that-hold-us-in-thrall",
-      "score": 8
-    },
-    {
-      "title": "I wish you the best in the Offline",
-      "url": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
-      "score": 59
-    },
-    {
-      "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
-      "url": "https://openscad.org/",
-      "score": 156
-    },
-    {
-      "title": "Deterministic Simulation Testing in Celld",
-      "url": "https://celld.dev/docs/engineering/deterministic-simulation-testing/",
-      "score": 26
-    },
-    {
-      "title": "Show HN: Diffle, a keyboard-centric diff viewer with LSP support",
-      "url": "https://github.com/moritzwilksch/diffle",
-      "score": 55
-    },
-    {
-      "title": "Decade-old RAM is making a comeback",
-      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
-      "score": 86
+      "title": "Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests",
+      "url": "https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html",
+      "score": 45
     }
   ]
 }
