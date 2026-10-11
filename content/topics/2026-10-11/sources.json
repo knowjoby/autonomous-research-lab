@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "WallHop – 12ft.io is gone, so I built a replacement",
-      "url": "https://wallhop.io/",
-      "score": 170
+      "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
+      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+      "score": 137
     },
     {
-      "title": "Build your own decision model",
-      "url": "https://nishtahir.com/build-your-own-decision-model/",
-      "score": 165
+      "title": "I paid people to try and follow my README",
+      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "score": 15
+    },
+    {
+      "title": "IRCv3",
+      "url": "https://ircv3.net/",
+      "score": 112
+    },
+    {
+      "title": "Nitter: Update Oct 10th seeking funding and legal help",
+      "url": "https://nitter.net",
+      "score": 130
+    },
+    {
+      "title": "LineageOS 24.0",
+      "url": "https://lineageos.org/Changelog-32/",
+      "score": 155
+    },
+    {
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "url": "https://jobs.ashbyhq.com/weave-os",
+      "score": 1
     },
     {
       "title": "2D Vehicles",
       "url": "https://patkerr.co.uk/2d-vehicles/",
-      "score": 393
+      "score": 507
+    },
+    {
+      "title": "Build your own decision model",
+      "url": "https://nishtahir.com/build-your-own-decision-model/",
+      "score": 342
+    },
+    {
+      "title": "AI is creating a 'human premium' for art created by people",
+      "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
+      "score": 16
     },
     {
       "title": "A city-building game in which the city would prefer you didn't",
       "url": "https://housing.over.pizza/",
-      "score": 232
+      "score": 385
     },
     {
-      "title": "PSPi 6 – Raspberry Pi in a PSP",
-      "url": "https://github.com/othermod/PSPi-Version-6",
-      "score": 33
-    },
-    {
-      "title": "Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list",
-      "url": "https://github.com/vscarpenter/gsd-task-manager",
-      "score": 3
+      "title": "Rat's Register Allocator",
+      "url": "https://hexrat.cc/pages/blog/2026_10_07",
+      "score": 17
     },
     {
       "title": "The Lightbulb Computer",
       "url": "https://lightbulbcomputer.com/",
-      "score": 304
+      "score": 462
     },
     {
-      "title": "Nix wrote half of my debugger",
-      "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
-      "score": 157
+      "title": "How big is a Git commit?",
+      "url": "https://ratfactor.com/cards/git-commit-size",
+      "score": 46
     },
     {
-      "title": "CIA World Facebook Is Dead – Here Is an Attempt at Recreation",
-      "url": "https://worldfacts.app",
-      "score": 5
-    },
-    {
-      "title": "Knuth reward check",
-      "url": "https://www.thomas-huehn.com/knuth-reward-check/",
-      "score": 170
-    },
-    {
-      "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
-      "url": "https://hangul.ink/blog/hangul-day",
-      "score": 18
-    },
-    {
-      "title": "Why DuckDB 2.0 is faster",
-      "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
-      "score": 168
-    },
-    {
-      "title": "Five months treating bugs like patients and coding agents like a medical team",
-      "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
-      "score": 91
-    },
-    {
-      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "url": "https://github.com/rociiu/talorys",
-      "score": 264
+      "title": "PSPi 6 – Raspberry Pi in a PSP",
+      "url": "https://github.com/othermod/PSPi-Version-6",
+      "score": 104
     },
     {
       "title": "Retrofitting language models to operate over bytes",
       "url": "https://www.nature.com/articles/s41586-026-11111-4",
-      "score": 27
+      "score": 72
     },
     {
-      "title": "Satya Nadella says we should assume all AI models are 'compromised'",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "score": 8
+      "title": "\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
+      "url": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/",
+      "score": 17
+    },
+    {
+      "title": "When Ldaxr Doesn't Work: Exclusive Accesses and Cacheability on AArch64",
+      "url": "https://joelsiks.com/posts/aarch64-exclusive-access-cacheability/",
+      "score": 5
+    },
+    {
+      "title": "Nix wrote half of my debugger",
+      "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+      "score": 203
+    },
+    {
+      "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
+      "url": "https://hangul.ink/blog/hangul-day",
+      "score": 55
+    },
+    {
+      "title": "Five months treating bugs like patients and coding agents like a medical team",
+      "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+      "score": 150
+    },
+    {
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "url": "https://github.com/rociiu/talorys",
+      "score": 301
+    },
+    {
+      "title": "Knuth reward check",
+      "url": "https://www.thomas-huehn.com/knuth-reward-check/",
+      "score": 199
+    },
+    {
+      "title": "3rd Yandex Cloud Data Center Was Hit",
+      "url": "https://status.yandex.cloud/en/incidents/2136",
+      "score": 255
     },
     {
       "title": "Mxc: Microsoft Execution Containers version 1.0.0",
       "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-      "score": 173
+      "score": 196
     },
     {
-      "title": "Veda: The First Agentic Hobby Operating System",
-      "url": "https://github.com/vahmoh25/Veda",
-      "score": 35
+      "title": "Cyril Hilsum invented the flat-screen displays that hold us in thrall",
+      "url": "https://www.economist.com/obituary/2026/10/08/cyril-hilsum-invented-the-flat-screen-displays-that-hold-us-in-thrall",
+      "score": 8
     },
     {
-      "title": "Unikernels were hard. key word: were",
-      "url": "https://ghuntley.com/unikernels/",
-      "score": 120
-    },
-    {
-      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "title": "I wish you the best in the Offline",
+      "url": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
       "score": 59
-    },
-    {
-      "title": "Deterministic Simulation Testing in Celld",
-      "url": "https://celld.dev/docs/engineering/deterministic-simulation-testing/",
-      "score": 3
-    },
-    {
-      "title": "Show HN: Diffle, a keyboard-centric diff viewer with LSP support",
-      "url": "https://github.com/moritzwilksch/diffle",
-      "score": 19
     },
     {
       "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
       "url": "https://openscad.org/",
-      "score": 119
+      "score": 156
     },
     {
-      "title": "Getting old Macromedia Director Games to run on modern Hardware",
-      "url": "https://werwolv.net/posts/macromedia_copy_protection/",
-      "score": 53
+      "title": "Deterministic Simulation Testing in Celld",
+      "url": "https://celld.dev/docs/engineering/deterministic-simulation-testing/",
+      "score": 26
     },
     {
-      "title": "Grieving the loss of details",
-      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
-      "score": 375
+      "title": "Show HN: Diffle, a keyboard-centric diff viewer with LSP support",
+      "url": "https://github.com/moritzwilksch/diffle",
+      "score": 55
     },
     {
-      "title": "A plastic once thought harmless may be fueling fatty liver disease",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261008102718.htm",
-      "score": 16
-    },
-    {
-      "title": "C for Rust programmers",
-      "url": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
-      "score": 125
-    },
-    {
-      "title": "Rampart: Browser native on-device PII radaction",
-      "url": "https://ndstudio.gov/posts/say-hello-to-rampart",
-      "score": 82
-    },
-    {
-      "title": "Food processing influences metabolism and brain activity",
-      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
-      "score": 123
-    },
-    {
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-      "score": 140
+      "title": "Decade-old RAM is making a comeback",
+      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+      "score": 86
     }
   ]
 }
