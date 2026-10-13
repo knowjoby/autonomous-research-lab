@@ -2,149 +2,149 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
-      "url": "https://doi.org/10.1111/acel.70751",
-      "score": 30
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "url": "https://github.com/rust-lang/rust/issues/164250",
+      "score": 299
     },
     {
-      "title": "GLM-Legal",
-      "url": "https://z.ai/blog/glm-legal",
-      "score": 404
+      "title": "An hour of audio transcribed in about 13s on MacBook Air",
+      "url": "https://eg2.haku.sh/",
+      "score": 147
     },
     {
-      "title": "Who Is Vfmaddrnd231pd?",
-      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
-      "score": 85
+      "title": "Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs",
+      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "score": 32
     },
     {
-      "title": "GPT-6 Astra Helped Me Jailbreak My Kindle",
-      "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
-      "score": 22
+      "title": "Hittite royal archive found in Turkey",
+      "url": "https://www.thehistoryblog.com/archives/77107",
+      "score": 173
     },
     {
-      "title": "A Modern Web App in C",
-      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
-      "score": 358
+      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+      "url": "https://pdftomp3.com/connect-ai/",
+      "score": 79
     },
     {
-      "title": "Phreak.ing – Internet Phone Switch",
-      "url": "https://phreak.ing/",
-      "score": 47
+      "title": "Mozilla Introduces Firefox Enterprise",
+      "url": "https://www.firefox.com/en-US/enterprise/",
+      "score": 134
     },
     {
-      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-      "score": 401
+      "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+      "url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
+      "score": 190
+    },
+    {
+      "title": "Apple HomeView",
+      "url": "https://www.apple.com/apple-homeview/",
+      "score": 77
+    },
+    {
+      "title": "Character.ai Files for Bankruptcy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+      "score": 96
     },
     {
       "title": "The baffling intelligence of a single cell (2024)",
       "url": "https://jsomers.net/e-coli-chemotaxis/",
-      "score": 10
+      "score": 333
     },
     {
-      "title": "Making big downloads resumable in Firefox",
-      "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
-      "score": 64
+      "title": "GLM-Legal",
+      "url": "https://z.ai/blog/glm-legal",
+      "score": 612
     },
     {
       "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
       "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "score": 14
+      "score": 266
     },
     {
-      "title": "Writing a Demoscene Intro for the ZX Spectrum",
-      "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
-      "score": 64
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "score": 782
     },
     {
-      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
-      "url": "https://github.com/h0m3us3r/w1700k-sdr",
-      "score": 244
+      "title": "A Modern Web App in C",
+      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "score": 626
+    },
+    {
+      "title": "Character.ai files for Chapter 11 bankruptcy",
+      "url": "https://blog.character.ai/an-update-on-character-ai/",
+      "score": 41
+    },
+    {
+      "title": "Document Review with Unsiloed and TypeSafe Jev",
+      "url": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
+      "score": 24
     },
     {
       "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
       "url": "https://github.com/prabanta-dev/janas",
-      "score": 8
+      "score": 181
     },
     {
-      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-      "url": "https://github.com/openai/codex/issues/48195",
-      "score": 427
+      "title": "A Visual Intro to Complex Numbers",
+      "url": "https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers",
+      "score": 5
+    },
+    {
+      "title": "Making big downloads resumable in Firefox",
+      "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+      "score": 243
+    },
+    {
+      "title": "Who is vfmaddrnd231pd?",
+      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "score": 230
+    },
+    {
+      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+      "url": "https://github.com/h0m3us3r/w1700k-sdr",
+      "score": 380
+    },
+    {
+      "title": "AWS Lambda Web Functions",
+      "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
+      "score": 61
+    },
+    {
+      "title": "DishwasherBench – Can Frontier Models Stack a Dishwasher?",
+      "url": "https://github.com/composo-ai/DishwasherBench",
+      "score": 71
     },
     {
       "title": "Citroen revives the 2CV for an electric age",
       "url": "https://www.bbc.com/news/articles/c620r33plgppo",
-      "score": 246
+      "score": 374
+    },
+    {
+      "title": "Writing a Demoscene Intro for the ZX Spectrum",
+      "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+      "score": 157
+    },
+    {
+      "title": "Crypto thieves sell hardware wallets with secret eSIM",
+      "url": "https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html",
+      "score": 90
     },
     {
       "title": "AI is a tool and using it well takes skill",
       "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-      "score": 182
+      "score": 480
     },
     {
-      "title": "A shared, verifiable fix database that AI agents read and write themselves",
-      "url": "https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt",
-      "score": 3
+      "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+      "url": "https://github.com/bherbruck/solidcraft",
+      "score": 92
     },
     {
-      "title": "Show HN: An experimental pattern-first DAW that supports MCP",
-      "url": "https://github.com/andrewfader/blokkily",
-      "score": 3
-    },
-    {
-      "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
-      "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
-      "score": 213
-    },
-    {
-      "title": "Secret of Orange Cats Revealed After 60-Year Search",
-      "url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
-      "score": 218
-    },
-    {
-      "title": "Muse Wonder",
-      "url": "https://research.meta.ai/blog/muse-wonder",
-      "score": 502
-    },
-    {
-      "title": "Solar panels that plug into your wall",
-      "url": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
-      "score": 95
-    },
-    {
-      "title": "Breaking Bad star RJ Mitte dies aged 34",
-      "url": "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332",
-      "score": 86
-    },
-    {
-      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-      "url": "https://taylor.town/kk-ai-2026",
-      "score": 119
-    },
-    {
-      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
-      "url": "https://github.com/snuri00/ps2-web-recomp",
-      "score": 261
-    },
-    {
-      "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
-      "url": "https://brickbrag.com/",
-      "score": 18
-    },
-    {
-      "title": "'AI' Is Not a Tool by Rich Hickey",
-      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-      "score": 175
-    },
-    {
-      "title": "Thinking will become a hobby",
-      "url": "https://www.spinellis.gr/blog/20261008/?li261008",
-      "score": 210
-    },
-    {
-      "title": "AI coding agents generate more code, but not more software",
-      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "score": 299
+      "title": "Auto Research: Integer multiplication below n log n",
+      "url": "https://app.getsupers.com/auto-research",
+      "score": 69
     }
   ]
 }
