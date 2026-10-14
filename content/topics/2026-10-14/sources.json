@@ -4,147 +4,152 @@
     {
       "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
       "url": "https://typeof.net/Iosevka/",
-      "score": 154
+      "score": 495
     },
     {
-      "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
-      "url": "https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren",
-      "score": 31
+      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+      "url": "https://github.com/timescale/pg_vectorsearch",
+      "score": 122
     },
     {
-      "title": "Gemini 4 Argon",
-      "url": "https://deepmind.google/models/gemini/",
-      "score": 1333
+      "title": "Submarine Cable Resilience",
+      "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+      "score": 9
     },
     {
-      "title": "Show HN: Building an LLM from Scratch in TypeScript",
-      "url": "https://book.humanexperiences.io/",
-      "score": 11
+      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+      "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+      "score": 98
     },
     {
-      "title": "I let an AI run my startup for a week",
-      "url": "https://daily.tinyprojects.dev/221",
-      "score": 30
-    },
-    {
-      "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
-      "url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
-      "score": 6
-    },
-    {
-      "title": "What agents mean for Rust (and vice versa)",
-      "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
-      "score": 20
-    },
-    {
-      "title": "Sound – Bartosz Ciechanowski (2022)",
-      "url": "https://ciechanow.ski/sound/",
-      "score": 135
-    },
-    {
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "score": 722
-    },
-    {
-      "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
-      "url": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
-      "score": 5
-    },
-    {
-      "title": "Same Job, Two Engines: InnoDB and Iceberg Internals",
-      "url": "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/",
-      "score": 19
-    },
-    {
-      "title": "Redesigning source control at Anthropic",
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "score": 790
-    },
-    {
-      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "url": "https://guitoro.com/",
-      "score": 452
-    },
-    {
-      "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
-      "url": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
-      "score": 10
-    },
-    {
-      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
-      "url": "https://github.com/android/ndk/issues/2260",
-      "score": 291
-    },
-    {
-      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
-      "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
-      "score": 174
-    },
-    {
-      "title": "Who Taught the Machines Mathematics?",
-      "url": "https://nisheethvishnoi.com/2026/10/09/who-taught-the-machines-mathematics/",
-      "score": 6
+      "title": "Running Windows desktop tests from Linux with disposable VMs",
+      "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
+      "score": 28
     },
     {
       "title": "Amazon pushes up prices across the Internet",
       "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-      "score": 10
+      "score": 445
     },
     {
-      "title": "Felix Rieseberg Homepage",
-      "url": "https://felixrieseberg.com/",
-      "score": 200
+      "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
+      "url": "https://github.com/graphicle-ai/graphicle",
+      "score": 6
     },
     {
-      "title": "The United Kingdom generates less electricity per person than in the 1970s",
-      "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
-      "score": 330
+      "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+      "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
+      "score": 39
+    },
+    {
+      "title": "Sound – Bartosz Ciechanowski (2022)",
+      "url": "https://ciechanow.ski/sound/",
+      "score": 235
+    },
+    {
+      "title": "Apple Keynote now showing ads in its UI",
+      "url": "https://mastodon.social/@marioguzman/117436264149891011",
+      "score": 95
+    },
+    {
+      "title": "The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)",
+      "url": "https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html",
+      "score": 33
+    },
+    {
+      "title": "Passkeys Are Not a Trap",
+      "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+      "score": 215
+    },
+    {
+      "title": "TV4 postpones show after AI agent erases edited material",
+      "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "score": 95
+    },
+    {
+      "title": "The Origin Story of Kid Pix",
+      "url": "http://red-green-blue.com/kid-pix-the-early-years",
+      "score": 117
+    },
+    {
+      "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
+      "url": "https://museumofages.org/w/vinci",
+      "score": 64
+    },
+    {
+      "title": "The Genealogy of Eliza",
+      "url": "https://elizagen.org/genealogy.html",
+      "score": 14
+    },
+    {
+      "title": "Strands Decider: Why Not an Encoder?",
+      "url": "https://brooker.co.za:443/blog/2026/10/04/encoders.html",
+      "score": 5
+    },
+    {
+      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+      "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+      "score": 242
+    },
+    {
+      "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
+      "url": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
+      "score": 62
+    },
+    {
+      "title": "How Tabasco Became the World's Hot Sauce",
+      "url": "https://www.weareravenous.com/how-tabasco-accidentally-on-purpose-became-the-worlds-hot-sauce/",
+      "score": 7
+    },
+    {
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
+      "score": 1400
+    },
+    {
+      "title": "Nvidia's first GPU: GeForce 256",
+      "url": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
+      "score": 13
+    },
+    {
+      "title": "Same Job, Two Engines: InnoDB and Iceberg Internals",
+      "url": "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/",
+      "score": 49
+    },
+    {
+      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+      "url": "https://github.com/android/ndk/issues/2260",
+      "score": 438
+    },
+    {
+      "title": "Amsterdam police confisquates server left-wing ISP A/I at American request",
+      "url": "https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960",
+      "score": 6
+    },
+    {
+      "title": "RIP Eric Binnion",
+      "url": "https://ma.tt/2026/10/rip-eric/",
+      "score": 72
     },
     {
       "title": "Recreational Programming",
       "url": "https://www.cphiri.dev/presentations/recreational-programming",
-      "score": 207
+      "score": 278
     },
     {
-      "title": "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",
-      "url": "https://strafe.chat/",
-      "score": 38
+      "title": "Shit Flow Diagram",
+      "url": "https://en.wikipedia.org/wiki/Shit_flow_diagram",
+      "score": 23
     },
     {
-      "title": "Why is every rationalist blog post way too long?",
-      "url": "https://alexwennerberg.com/blog/2026-10-13-long.html",
-      "score": 26
-    },
-    {
-      "title": "Kcgi – minimal CGI and FastCGI library for C/C++",
-      "url": "https://kristaps.bsd.lv/kcgi/",
-      "score": 33
-    },
-    {
-      "title": "MIT class project turns into an FDA-cleared treatment for tremors",
-      "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
-      "score": 220
+      "title": "Felix Rieseberg Homepage",
+      "url": "https://felixrieseberg.com/",
+      "score": 256
     },
     {
       "title": "Show HN: How random are you?",
       "url": "https://lab.specr.net/rigged-draw/",
-      "score": 159
-    },
-    {
-      "title": "Arena Allocators in C",
-      "url": "https://eliasebner.com/blog/guides/arena-allocators-in-c/",
-      "score": 49
-    },
-    {
-      "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
-      "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
-      "score": 1
-    },
-    {
-      "title": "Maybe a better way to track the release history of a Git repo",
-      "url": "https://blog.plover.com/prog/git/history-proposal.html",
-      "score": 44
+      "score": 204
     }
   ]
 }
