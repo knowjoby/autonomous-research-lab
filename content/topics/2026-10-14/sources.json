@@ -1,0 +1,155 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
+      "score": 1090
+    },
+    {
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "url": "https://guitoro.com/",
+      "score": 335
+    },
+    {
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "score": 501
+    },
+    {
+      "title": "Grace Hopper Celebration Cancelled",
+      "url": "https://anitab.org/press-release",
+      "score": 16
+    },
+    {
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "score": 594
+    },
+    {
+      "title": "Apple HomeView",
+      "url": "https://www.apple.com/apple-homeview/",
+      "score": 693
+    },
+    {
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "url": "https://pulseos.finance",
+      "score": 79
+    },
+    {
+      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+      "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+      "score": 72
+    },
+    {
+      "title": "Thunderbird for iOS",
+      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+      "score": 369
+    },
+    {
+      "title": "I built a tool to track what AI leaders say and how their views change on video",
+      "url": "https://blumify.io/people",
+      "score": 23
+    },
+    {
+      "title": "High-speed video reveals how honey bee stingers pump venom",
+      "url": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
+      "score": 32
+    },
+    {
+      "title": "Show HN: How random are you?",
+      "url": "https://lab.specr.net/rigged-draw/",
+      "score": 88
+    },
+    {
+      "title": "Recreational Programming",
+      "url": "https://www.cphiri.dev/presentations/recreational-programming",
+      "score": 89
+    },
+    {
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+      "score": 274
+    },
+    {
+      "title": "The United Kingdom generates less electricity per person than in the 1970s",
+      "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+      "score": 229
+    },
+    {
+      "title": "AlphaNIST",
+      "url": "https://alpha-nist.github.io/",
+      "score": 55
+    },
+    {
+      "title": "New Apple TV 4K",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+      "score": 310
+    },
+    {
+      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+      "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+      "score": 212
+    },
+    {
+      "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
+      "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
+      "score": 1
+    },
+    {
+      "title": "MIT class project turns into an FDA-cleared treatment for tremors",
+      "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
+      "score": 172
+    },
+    {
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "score": 454
+    },
+    {
+      "title": "Show HN: XY Music Notation",
+      "url": "https://music.xy.dev/",
+      "score": 54
+    },
+    {
+      "title": "Maybe a better way to track the release history of a Git repo",
+      "url": "https://blog.plover.com/prog/git/history-proposal.html",
+      "score": 8
+    },
+    {
+      "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
+      "url": "https://www.pi.website/blog/api-beta",
+      "score": 43
+    },
+    {
+      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "score": 237
+    },
+    {
+      "title": "Hiking the world in search of rare cheeses",
+      "url": "https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses",
+      "score": 73
+    },
+    {
+      "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
+      "url": "https://github.com/LargeModGames/spotatui",
+      "score": 61
+    },
+    {
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "url": "https://blog.character.ai/an-update-on-character-ai/",
+      "score": 306
+    },
+    {
+      "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+      "url": "https://parsimony.lasu.dev/",
+      "score": 59
+    },
+    {
+      "title": "The Four Colour Theorem: The first time machines mogged mathematicians",
+      "url": "https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians",
+      "score": 51
+    }
+  ]
+}
