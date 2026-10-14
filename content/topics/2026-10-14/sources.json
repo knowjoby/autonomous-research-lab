@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+      "title": "Things to know when you get cancer – 2026 Edition",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "score": 322
+    },
+    {
+      "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+      "url": "https://blog.cloudflare.com/yandex-outage/",
+      "score": 78
+    },
+    {
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "score": 91
+    },
+    {
+      "title": "Better HTTP/1 connection reuse in Go 1.27",
+      "url": "https://go.dev/blog/http-connection-reuse",
+      "score": 164
+    },
+    {
+      "title": "Do dentists know what they're doing?",
+      "url": "https://mapwriting.substack.com/p/dentists",
+      "score": 171
+    },
+    {
+      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+      "score": 217
+    },
+    {
+      "title": "OpenCode 2.0",
+      "url": "https://anoma.ly/notes/opencode-2-0/",
+      "score": 13
+    },
+    {
+      "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+      "url": "https://petal.live/",
+      "score": 73
+    },
+    {
+      "title": "Fancy Curl Sites",
+      "url": "https://nytpu.com/gemlog/2026-03-18",
+      "score": 28
+    },
+    {
+      "title": "Phloem: Git history grown like a slime mold",
+      "url": "https://phloem.stemdeck.app/",
+      "score": 56
+    },
+    {
+      "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
       "url": "https://typeof.net/Iosevka/",
-      "score": 495
+      "score": 663
+    },
+    {
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "score": 187
+    },
+    {
+      "title": "Neckbeard – a DevOps/platform/SRE plugin for your agent",
+      "url": "https://github.com/bealesh/neckbeard",
+      "score": 54
+    },
+    {
+      "title": "Submarine cable resilience",
+      "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+      "score": 113
+    },
+    {
+      "title": "Marshall Islands Stick Chart",
+      "url": "https://en.wikipedia.org/wiki/Marshall_Islands_stick_chart",
+      "score": 8
+    },
+    {
+      "title": "Show HN: Timur's Chess – A 14th century chess variant with giraffes",
+      "url": "https://timurschess.com",
+      "score": 13
+    },
+    {
+      "title": "Google is silently linking your phone number across all signed-in accounts",
+      "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
+      "score": 277
+    },
+    {
+      "title": "LittleJS is 2D and 3D now",
+      "url": "https://frankforce.com/littlejs-is-2d-and-3d-now/",
+      "score": 74
     },
     {
       "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
       "url": "https://github.com/timescale/pg_vectorsearch",
-      "score": 122
+      "score": 174
     },
     {
-      "title": "Submarine Cable Resilience",
-      "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
-      "score": 9
-    },
-    {
-      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-      "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
-      "score": 98
-    },
-    {
-      "title": "Running Windows desktop tests from Linux with disposable VMs",
-      "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
-      "score": 28
+      "title": "America didn't lose its rare earth industry, it sold it",
+      "url": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
+      "score": 99
     },
     {
       "title": "Amazon pushes up prices across the Internet",
       "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-      "score": 445
+      "score": 655
+    },
+    {
+      "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "score": 759
     },
     {
       "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
       "url": "https://github.com/graphicle-ai/graphicle",
-      "score": 6
-    },
-    {
-      "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-      "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
-      "score": 39
-    },
-    {
-      "title": "Sound – Bartosz Ciechanowski (2022)",
-      "url": "https://ciechanow.ski/sound/",
-      "score": 235
-    },
-    {
-      "title": "Apple Keynote now showing ads in its UI",
-      "url": "https://mastodon.social/@marioguzman/117436264149891011",
-      "score": 95
-    },
-    {
-      "title": "The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)",
-      "url": "https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html",
-      "score": 33
-    },
-    {
-      "title": "Passkeys Are Not a Trap",
-      "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
-      "score": 215
-    },
-    {
-      "title": "TV4 postpones show after AI agent erases edited material",
-      "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
-      "score": 95
+      "score": 36
     },
     {
       "title": "The Origin Story of Kid Pix",
       "url": "http://red-green-blue.com/kid-pix-the-early-years",
-      "score": 117
+      "score": 178
     },
     {
-      "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
-      "url": "https://museumofages.org/w/vinci",
-      "score": 64
+      "title": "Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",
+      "url": "https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges",
+      "score": 116
     },
     {
-      "title": "The Genealogy of Eliza",
-      "url": "https://elizagen.org/genealogy.html",
-      "score": 14
+      "title": "Running Windows desktop tests from Linux with disposable VMs",
+      "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
+      "score": 75
     },
     {
       "title": "Strands Decider: Why Not an Encoder?",
       "url": "https://brooker.co.za:443/blog/2026/10/04/encoders.html",
-      "score": 5
+      "score": 33
     },
     {
-      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
-      "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
-      "score": 242
-    },
-    {
-      "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
-      "url": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
-      "score": 62
-    },
-    {
-      "title": "How Tabasco Became the World's Hot Sauce",
-      "url": "https://www.weareravenous.com/how-tabasco-accidentally-on-purpose-became-the-worlds-hot-sauce/",
-      "score": 7
-    },
-    {
-      "title": "Gemini 4 Argon",
-      "url": "https://deepmind.google/models/gemini/",
-      "score": 1400
+      "title": "The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)",
+      "url": "https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html",
+      "score": 59
     },
     {
       "title": "Nvidia's first GPU: GeForce 256",
       "url": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
-      "score": 13
+      "score": 60
     },
     {
-      "title": "Same Job, Two Engines: InnoDB and Iceberg Internals",
-      "url": "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/",
-      "score": 49
-    },
-    {
-      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
-      "url": "https://github.com/android/ndk/issues/2260",
-      "score": 438
-    },
-    {
-      "title": "Amsterdam police confisquates server left-wing ISP A/I at American request",
-      "url": "https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960",
-      "score": 6
-    },
-    {
-      "title": "RIP Eric Binnion",
-      "url": "https://ma.tt/2026/10/rip-eric/",
-      "score": 72
-    },
-    {
-      "title": "Recreational Programming",
-      "url": "https://www.cphiri.dev/presentations/recreational-programming",
-      "score": 278
-    },
-    {
-      "title": "Shit Flow Diagram",
-      "url": "https://en.wikipedia.org/wiki/Shit_flow_diagram",
-      "score": 23
-    },
-    {
-      "title": "Felix Rieseberg Homepage",
-      "url": "https://felixrieseberg.com/",
-      "score": 256
-    },
-    {
-      "title": "Show HN: How random are you?",
-      "url": "https://lab.specr.net/rigged-draw/",
-      "score": 204
+      "title": "TV4 postpones show after AI agent erases edited material",
+      "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "score": 136
     }
   ]
 }
