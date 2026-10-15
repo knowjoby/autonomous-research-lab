@@ -2,154 +2,149 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
-      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-      "score": 84
+      "title": "Muse Spark Open",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "score": 430
     },
     {
-      "title": "I designed a nose guard for my dog and gave it away. Now 500 dogs wear one",
-      "url": "https://snoutcover.com/one-year",
-      "score": 52
+      "title": "Neural networks are clean",
+      "url": "https://already-clean.goodfire.com/",
+      "score": 352
+    },
+    {
+      "title": "E Ink Kaleido 4",
+      "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
+      "score": 68
     },
     {
       "title": "Wayland desktop for Linux with skeuomorphic design",
       "url": "https://github.com/fyzugx/DEsk",
-      "score": 190
+      "score": 418
     },
     {
-      "title": "I know why Mathematicians weep",
-      "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
-      "score": 147
+      "title": "Why are we even doing all this?",
+      "url": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
+      "score": 28
     },
     {
-      "title": "Steam Client Is Now Faster Than Epic's New Vibe Coded Launcher",
-      "url": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
-      "score": 43
+      "title": "Krea 3 – An image model built for editing at scale",
+      "url": "https://www.krea.ai/krea-3",
+      "score": 192
     },
     {
-      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
-      "url": "https://libreboot.org/news/libreboot2610.html",
-      "score": 146
+      "title": "Why I Wrote PGP (1991, revised 1999)",
+      "url": "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html",
+      "score": 62
+    },
+    {
+      "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+      "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+      "score": 302
     },
     {
       "title": "Celebrating 70 Years of Fortran",
       "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
-      "score": 53
+      "score": 176
+    },
+    {
+      "title": "Jev meets the Trolley Problem",
+      "url": "https://zachlandes.com/trolley-problem/",
+      "score": 159
+    },
+    {
+      "title": "What I Self-Host",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "score": 7
+    },
+    {
+      "title": "Delta’s Biscoff cookies were supposed to be temporary",
+      "url": "https://www.seriouseats.com/biscoff-history-12168161",
+      "score": 123
+    },
+    {
+      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+      "url": "https://libreboot.org/news/libreboot2610.html",
+      "score": 224
+    },
+    {
+      "title": "The engineering that allows articulated buses to bend",
+      "url": "https://www.theautopian.com/you-wont-believe-the-incredible-engineering-that-allows-articulated-buses-to-bend/",
+      "score": 36
+    },
+    {
+      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+      "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+      "score": 12
     },
     {
       "title": "Show HN: Unfenced – Land for sale that borders public land",
       "url": "https://unfenced.land/",
-      "score": 149
+      "score": 224
     },
     {
-      "title": "Zero-Click Spyware Delivered via Targeted Ads: AdFection",
-      "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
-      "score": 128
+      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+      "score": 199
     },
     {
-      "title": "Things to know when you get cancer",
-      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-      "score": 1764
+      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+      "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+      "score": 71
     },
     {
-      "title": "Prompt injection in HTTP headers: what 217M web responses show",
-      "url": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
-      "score": 33
+      "title": "Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering",
+      "url": "https://proa.so/",
+      "score": 65
+    },
+    {
+      "title": "The technical actions needed to ensure the continuity of UTC",
+      "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+      "score": 80
+    },
+    {
+      "title": "Rediscovering the Romance of Travel Clocks",
+      "url": "https://www.acollectedman.com/blogs/journal/rediscovering-travel-clocks",
+      "score": 9
+    },
+    {
+      "title": "Show HN: Flipflop – Iroh-powered persistent tunnels for filesharing",
+      "url": "https://github.com/andunieee/flipflop",
+      "score": 92
+    },
+    {
+      "title": "Steam Client is now faster than Epic's new vibe coded launcher",
+      "url": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
+      "score": 216
     },
     {
       "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
       "url": "https://www.cppstories.com/2026/cpp26_contracts/",
-      "score": 62
+      "score": 110
     },
     {
       "title": "Wanted to download an ISO, ended up writing a kernel exploit",
       "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
-      "score": 258
+      "score": 323
     },
     {
-      "title": "Biscoff Cookies Were Supposed to Be Temporary. Then Passengers Fell in Love",
-      "url": "https://www.seriouseats.com/biscoff-history-12168161",
-      "score": 6
+      "title": "I know why the mathematicians weep",
+      "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+      "score": 310
     },
     {
-      "title": "The largest eagle hunted unlike any other bird of prey (2021)",
-      "url": "https://www.nhm.ac.uk/discover/news/2021/december/worlds-largest-eagle-hunted-unlike-any-other-bird-of-prey.html",
-      "score": 15
+      "title": "Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally",
+      "url": "https://sygal.app",
+      "score": 29
     },
     {
-      "title": "OpenCode 2.0",
-      "url": "https://anoma.ly/notes/opencode-2-0/",
-      "score": 784
+      "title": "An Apology",
+      "url": "https://www.elevationlab.com/blogs/news/an-apology",
+      "score": 61
     },
     {
-      "title": "GridSnap – an open-source Divvy-style window snapper for macOS",
-      "url": "https://github.com/konieczkow/gridsnap",
+      "title": "Game of Life – But Multiplayer, Hypermedia and Python",
+      "url": "https://stario.dev/apps/life",
       "score": 26
-    },
-    {
-      "title": "The Haunted Toys R Us",
-      "url": "https://www.retroist.com/p/the-haunted-toys-r-us",
-      "score": 38
-    },
-    {
-      "title": "Tiny Little Office",
-      "url": "https://tinylittleoffice.com/",
-      "score": 593
-    },
-    {
-      "title": "The First Social Network: In rural Argentina residents send messages w AM radio",
-      "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-social-network",
-      "score": 105
-    },
-    {
-      "title": "Do dentists know what they're doing?",
-      "url": "https://mapwriting.substack.com/p/dentists",
-      "score": 896
-    },
-    {
-      "title": "Show HN: Indigene – Native plants for where you stand",
-      "url": "https://indigene.app/",
-      "score": 92
-    },
-    {
-      "title": "Using AI to reverse engineer hardware",
-      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-      "score": 42
-    },
-    {
-      "title": "Americans' social activity has steeply declined in the past 30 years",
-      "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
-      "score": 526
-    },
-    {
-      "title": "Catch a Bird – I made it for my own sanity",
-      "url": "https://catchabird.com",
-      "score": 335
-    },
-    {
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "score": 267
-    },
-    {
-      "title": "Creating a Garmin \"MCP\"",
-      "url": "https://jackantico.io/garmin-mcp",
-      "score": 50
-    },
-    {
-      "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
-      "url": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
-      "score": 87
-    },
-    {
-      "title": "It took me nine years to hack my Xbox 360",
-      "url": "https://kennedn.com/blog/posts/glitching/",
-      "score": 154
-    },
-    {
-      "title": "Tracing Mystery Network Traffic with eBPF Across HRT's Global Compute Cluster",
-      "url": "https://www.hudsonrivertrading.com/hrtbeat/long-on-research-short-on-bandwidth/",
-      "score": 41
     }
   ]
 }
