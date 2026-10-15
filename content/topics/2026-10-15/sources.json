@@ -2,149 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
+      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+      "score": 84
+    },
+    {
+      "title": "I designed a nose guard for my dog and gave it away. Now 500 dogs wear one",
+      "url": "https://snoutcover.com/one-year",
+      "score": 52
+    },
+    {
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "url": "https://github.com/fyzugx/DEsk",
+      "score": 190
+    },
+    {
+      "title": "I know why Mathematicians weep",
+      "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+      "score": 147
+    },
+    {
+      "title": "Steam Client Is Now Faster Than Epic's New Vibe Coded Launcher",
+      "url": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
+      "score": 43
+    },
+    {
+      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+      "url": "https://libreboot.org/news/libreboot2610.html",
+      "score": 146
+    },
+    {
+      "title": "Celebrating 70 Years of Fortran",
+      "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+      "score": 53
+    },
+    {
+      "title": "Show HN: Unfenced – Land for sale that borders public land",
+      "url": "https://unfenced.land/",
+      "score": 149
+    },
+    {
+      "title": "Zero-Click Spyware Delivered via Targeted Ads: AdFection",
+      "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+      "score": 128
+    },
+    {
       "title": "Things to know when you get cancer",
       "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-      "score": 1414
+      "score": 1764
+    },
+    {
+      "title": "Prompt injection in HTTP headers: what 217M web responses show",
+      "url": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
+      "score": 33
+    },
+    {
+      "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
+      "url": "https://www.cppstories.com/2026/cpp26_contracts/",
+      "score": 62
     },
     {
       "title": "Wanted to download an ISO, ended up writing a kernel exploit",
       "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
-      "score": 113
+      "score": 258
+    },
+    {
+      "title": "Biscoff Cookies Were Supposed to Be Temporary. Then Passengers Fell in Love",
+      "url": "https://www.seriouseats.com/biscoff-history-12168161",
+      "score": 6
+    },
+    {
+      "title": "The largest eagle hunted unlike any other bird of prey (2021)",
+      "url": "https://www.nhm.ac.uk/discover/news/2021/december/worlds-largest-eagle-hunted-unlike-any-other-bird-of-prey.html",
+      "score": 15
     },
     {
       "title": "OpenCode 2.0",
       "url": "https://anoma.ly/notes/opencode-2-0/",
-      "score": 633
+      "score": 784
+    },
+    {
+      "title": "GridSnap – an open-source Divvy-style window snapper for macOS",
+      "url": "https://github.com/konieczkow/gridsnap",
+      "score": 26
+    },
+    {
+      "title": "The Haunted Toys R Us",
+      "url": "https://www.retroist.com/p/the-haunted-toys-r-us",
+      "score": 38
     },
     {
       "title": "Tiny Little Office",
       "url": "https://tinylittleoffice.com/",
-      "score": 458
-    },
-    {
-      "title": "Show HN: Indigene – Native plants for where you stand",
-      "url": "https://indigene.app/",
-      "score": 31
-    },
-    {
-      "title": "Do dentists know what they're doing?",
-      "url": "https://mapwriting.substack.com/p/dentists",
-      "score": 729
+      "score": 593
     },
     {
       "title": "The First Social Network: In rural Argentina residents send messages w AM radio",
       "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-social-network",
-      "score": 27
+      "score": 105
     },
     {
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "score": 218
+      "title": "Do dentists know what they're doing?",
+      "url": "https://mapwriting.substack.com/p/dentists",
+      "score": 896
     },
     {
-      "title": "Catch a Bird – I made it for my own sanity",
-      "url": "https://catchabird.com",
-      "score": 195
+      "title": "Show HN: Indigene – Native plants for where you stand",
+      "url": "https://indigene.app/",
+      "score": 92
+    },
+    {
+      "title": "Using AI to reverse engineer hardware",
+      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+      "score": 42
     },
     {
       "title": "Americans' social activity has steeply declined in the past 30 years",
       "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
-      "score": 415
+      "score": 526
+    },
+    {
+      "title": "Catch a Bird – I made it for my own sanity",
+      "url": "https://catchabird.com",
+      "score": 335
+    },
+    {
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "score": 267
+    },
+    {
+      "title": "Creating a Garmin \"MCP\"",
+      "url": "https://jackantico.io/garmin-mcp",
+      "score": 50
     },
     {
       "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
       "url": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
-      "score": 39
-    },
-    {
-      "title": "Bookofjoe's Favorite Thing: Best Pill Splitter",
-      "url": "https://bookofjoe2.blogspot.com/2026/09/bookofjoes-favorite-thing-worlds-best.html",
-      "score": 6
+      "score": 87
     },
     {
       "title": "It took me nine years to hack my Xbox 360",
       "url": "https://kennedn.com/blog/posts/glitching/",
-      "score": 87
+      "score": 154
     },
     {
-      "title": "Donaldson Futuro House in Idyllwild, California, USA",
-      "url": "https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/",
-      "score": 49
-    },
-    {
-      "title": "The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl",
-      "url": "https://ei3lh.eu/2026/10/11/the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl/",
-      "score": 40
-    },
-    {
-      "title": "Better HTTP/1 connection reuse in Go 1.27",
-      "url": "https://go.dev/blog/http-connection-reuse",
-      "score": 257
-    },
-    {
-      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
-      "url": "https://github.com/awslabs/aidlc-workflows",
-      "score": 10
-    },
-    {
-      "title": "The Double Headed Stack Allocator",
-      "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
-      "score": 67
-    },
-    {
-      "title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
-      "url": "https://github.com/andunieee/flipflop",
-      "score": 45
-    },
-    {
-      "title": "Show HN: Ito – Build Terminal UIs in Lua",
-      "url": "https://uji.sh/ito/",
-      "score": 27
-    },
-    {
-      "title": "Your C is not standard C",
-      "url": "https://sebsite.pw/w/20261012-notstdc.html",
-      "score": 94
-    },
-    {
-      "title": "David Rudnick on \"borderline impossible\" process of designing Arsenal typeface",
-      "url": "https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026",
-      "score": 28
-    },
-    {
-      "title": "Why is every rationalist blog post way too long?",
-      "url": "https://alexwennerberg.com/blog/2026-10-13-long.html",
-      "score": 365
-    },
-    {
-      "title": "How Amazon pushes up prices all across the Internet",
-      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-      "score": 845
-    },
-    {
-      "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-      "url": "https://petal.live/",
-      "score": 174
-    },
-    {
-      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-      "url": "https://typesafe.ai/blog/jev-1-14",
-      "score": 301
-    },
-    {
-      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "score": 907
-    },
-    {
-      "title": "Submarine cable resilience",
-      "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
-      "score": 161
-    },
-    {
-      "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
-      "url": "https://oxide.computer/blog/voxel-labs",
-      "score": 120
+      "title": "Tracing Mystery Network Traffic with eBPF Across HRT's Global Compute Cluster",
+      "url": "https://www.hudsonrivertrading.com/hrtbeat/long-on-research-short-on-bandwidth/",
+      "score": 41
     }
   ]
 }
