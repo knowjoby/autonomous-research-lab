@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
-      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-      "score": 311
+      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+      "url": "https://calif.io/research/big-fish",
+      "score": 55
+    },
+    {
+      "title": "What on Earth Is Dekton?",
+      "url": "https://www.worksinprogress.news/p/porcelain",
+      "score": 25
+    },
+    {
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "score": 65
+    },
+    {
+      "title": "I Love Software Rendering",
+      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "score": 175
+    },
+    {
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "url": "https://starskirmish.com/bench/v0-2/",
+      "score": 50
+    },
+    {
+      "title": "How to Formalize All of Mathematics",
+      "url": "https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/",
+      "score": 33
+    },
+    {
+      "title": "Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]",
+      "url": "https://www.youtube.com/watch?v=eF6bMSjPepM",
+      "score": 37
+    },
+    {
+      "title": "Gyroscopes Got So Small [video]",
+      "url": "https://www.youtube.com/watch?v=0Zc_6xB5W3Y",
+      "score": 45
+    },
+    {
+      "title": "America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program",
+      "url": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
+      "score": 4
+    },
+    {
+      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
+      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+      "score": 18
+    },
+    {
+      "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
+      "url": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
+      "score": 31
     },
     {
       "title": "Yet another way to invoke functions without parentheses",
       "url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
-      "score": 22
+      "score": 198
     },
     {
       "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
       "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
-      "score": 339
+      "score": 673
     },
     {
-      "title": "Muse Spark Open",
-      "url": "https://research.meta.ai/blog/muse-spark-open",
-      "score": 823
+      "title": "Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS",
+      "url": "https://onedeploy.co",
+      "score": 5
     },
     {
       "title": "The Economic Complexity of the Western Roman Empire",
       "url": "https://www.michelecoscia.com/?p=2613",
-      "score": 22
+      "score": 114
+    },
+    {
+      "title": "How to make System 1 LLMs show System 2 competencies?",
+      "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
+      "score": 9
+    },
+    {
+      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "score": 427
+    },
+    {
+      "title": "What was a Token Ring network?",
+      "url": "https://dfarq.homeip.net/what-was-a-token-ring-network/",
+      "score": 18
+    },
+    {
+      "title": "AI-assisted PCB design for KiCad 10",
+      "url": "https://github.com/mixelpixx/Konnect",
+      "score": 86
+    },
+    {
+      "title": "Hello Toronto – Waymo Is En Route",
+      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "score": 93
+    },
+    {
+      "title": "MS Paint Adds Freeform Rotation (2026)",
+      "url": "https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-28020-1619-canary-channel/",
+      "score": 30
+    },
+    {
+      "title": "Bark: The Toll-Free BBS for 90s Teens",
+      "url": "https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens",
+      "score": 20
     },
     {
       "title": "Two-Stack Sliding-Window Aggregation",
       "url": "https://orlp.net/blog/two-stack-sliding-window-aggregation/",
-      "score": 26
-    },
-    {
-      "title": "The insider trading you're allowed to do",
-      "url": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
-      "score": 46
-    },
-    {
-      "title": "RPKI now protects 70% of internet routes",
-      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-      "score": 165
-    },
-    {
-      "title": "Neural networks are clean",
-      "url": "https://already-clean.goodfire.com/",
-      "score": 700
+      "score": 107
     },
     {
       "title": "The Folders Programming Language",
       "url": "https://danieltemkin.com/esolangs/folders",
-      "score": 76
+      "score": 167
     },
     {
-      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-      "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
-      "score": 303
+      "title": "RPKI now protects 70% of internet routes",
+      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "score": 204
     },
     {
-      "title": "What I self-host",
-      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-      "score": 502
+      "title": "Tesla Unveils 'Flying' Roadster with SpaceX Thrusters [video]",
+      "url": "https://www.youtube.com/watch?v=eqOfmtTJD1A",
+      "score": 31
     },
     {
-      "title": "Wayland desktop for Linux with skeuomorphic design",
-      "url": "https://github.com/fyzugx/DEsk",
-      "score": 617
+      "title": "Show HN: Grimoire for Biology",
+      "url": "https://grimoire.bio",
+      "score": 5
+    },
+    {
+      "title": "Show HN: rStation – A shared research lab for your AI agents",
+      "url": "https://rstation.ai/",
+      "score": 9
+    },
+    {
+      "title": "My old job feels distant now",
+      "url": "https://www.pinecoder.dev/blog/2026-10-15/my-old-job-is-distant/",
+      "score": 8
     },
     {
       "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
       "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
-      "score": 142
-    },
-    {
-      "title": "Jev meets the Trolley Problem",
-      "url": "https://zachlandes.com/trolley-problem/",
-      "score": 473
-    },
-    {
-      "title": "Any window from your Mac, on your iPhone and iPad",
-      "url": "https://github.com/Saffsanity/sill",
-      "score": 160
-    },
-    {
-      "title": "BIPM decides to stop adding leap seconds to UTC",
-      "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
-      "score": 186
-    },
-    {
-      "title": "New York City's iconic horse-drawn carriages expected to take their last trot",
-      "url": "https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban",
-      "score": 44
-    },
-    {
-      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
-      "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
-      "score": 353
-    },
-    {
-      "title": "'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds",
-      "url": "https://www.polygon.com/order-of-the-sinking-star-impressions/",
-      "score": 148
-    },
-    {
-      "title": "Celebrating 70 Years of Fortran",
-      "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
-      "score": 280
-    },
-    {
-      "title": "Thank You, Deno",
-      "url": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
-      "score": 91
-    },
-    {
-      "title": "Krea 3 – An image model built for editing at scale",
-      "url": "https://www.krea.ai/krea-3",
-      "score": 314
-    },
-    {
-      "title": "Comparing Chromium Development at Google and Igalia",
-      "url": "https://lwn.net/Articles/1094721/",
-      "score": 50
-    },
-    {
-      "title": "Why I Wrote PGP (1991, revised 1999)",
-      "url": "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html",
-      "score": 164
-    },
-    {
-      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
-      "url": "https://libreboot.org/news/libreboot2610.html",
-      "score": 290
-    },
-    {
-      "title": "Delta’s Biscoff cookies were supposed to be temporary",
-      "url": "https://www.seriouseats.com/biscoff-history-12168161",
-      "score": 225
-    },
-    {
-      "title": "Major ICQ security hole (1998)",
-      "url": "https://opennet.ru/base/maillist/169.txt.html",
-      "score": 92
-    },
-    {
-      "title": "Using AI to reverse engineer hardware",
-      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-      "score": 199
-    },
-    {
-      "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
-      "url": "https://github.com/johnrash/bebox",
-      "score": 64
+      "score": 183
     }
   ]
 }
