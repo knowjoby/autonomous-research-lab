@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-      "url": "https://calif.io/research/big-fish",
-      "score": 55
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
+      "score": 793
     },
     {
-      "title": "What on Earth Is Dekton?",
-      "url": "https://www.worksinprogress.news/p/porcelain",
-      "score": 25
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "score": 309
+    },
+    {
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "score": 74
+    },
+    {
+      "title": "The Fatal Flaw of 911",
+      "url": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
+      "score": 19
+    },
+    {
+      "title": "Flux 3 Image Klein: open weights, 5.6B parameters",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "score": 11
+    },
+    {
+      "title": "Waymo in Toronto",
+      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "score": 160
+    },
+    {
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "score": 137
+    },
+    {
+      "title": "Designing more efficient quantum circuits with Claude",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "score": 49
+    },
+    {
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "score": 272
     },
     {
       "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
       "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "score": 65
+      "score": 217
     },
     {
-      "title": "I Love Software Rendering",
-      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-      "score": 175
+      "title": "C++26: The New Debugging Header",
+      "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+      "score": 18
+    },
+    {
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "score": 64
+    },
+    {
+      "title": "Piramidal (YC W24) Is Hiring",
+      "url": "https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009",
+      "score": 1
+    },
+    {
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "score": 96
+    },
+    {
+      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+      "url": "https://calif.io/research/big-fish",
+      "score": 140
     },
     {
       "title": "Show HN: Gemini 4 Argon plays StarCraft",
       "url": "https://starskirmish.com/bench/v0-2/",
-      "score": 50
+      "score": 153
     },
     {
-      "title": "How to Formalize All of Mathematics",
-      "url": "https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/",
-      "score": 33
+      "title": "/dev/null: social network for developers",
+      "url": "https://dev-null.sh",
+      "score": 65
     },
     {
-      "title": "Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]",
-      "url": "https://www.youtube.com/watch?v=eF6bMSjPepM",
-      "score": 37
-    },
-    {
-      "title": "Gyroscopes Got So Small [video]",
-      "url": "https://www.youtube.com/watch?v=0Zc_6xB5W3Y",
-      "score": 45
-    },
-    {
-      "title": "America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program",
-      "url": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
-      "score": 4
+      "title": "What on Earth Is Dekton?",
+      "url": "https://www.worksinprogress.news/p/porcelain",
+      "score": 104
     },
     {
       "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
       "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
-      "score": 18
+      "score": 85
     },
     {
-      "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
-      "url": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
-      "score": 31
+      "title": "GifCities",
+      "url": "https://gifcities.org/",
+      "score": 23
     },
     {
-      "title": "Yet another way to invoke functions without parentheses",
-      "url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
-      "score": 198
+      "title": "Anthropic assigned highest junk credit rating in June",
+      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+      "score": 109
+    },
+    {
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "score": 13
+    },
+    {
+      "title": "I Love Software Rendering",
+      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "score": 258
+    },
+    {
+      "title": "Show HN: Stoke Money – Personal finance app built around a cash flow forecast",
+      "url": "https://stoke.money",
+      "score": 12
+    },
+    {
+      "title": "Monte-Carlo Simulations",
+      "url": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
+      "score": 15
     },
     {
       "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
       "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
-      "score": 673
+      "score": 798
     },
     {
-      "title": "Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS",
-      "url": "https://onedeploy.co",
+      "title": "Symmetries in Boolean Scan",
+      "url": "https://ap29600.github.io/boolean_scans.html",
       "score": 5
     },
     {
-      "title": "The Economic Complexity of the Western Roman Empire",
-      "url": "https://www.michelecoscia.com/?p=2613",
-      "score": 114
+      "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
+      "url": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
+      "score": 78
     },
     {
-      "title": "How to make System 1 LLMs show System 2 competencies?",
-      "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
-      "score": 9
+      "title": "Making 1,750 programmable PCB badges for Canada's biggest hackathon",
+      "url": "https://va3ndf.com/blog/hacker-badges/",
+      "score": 39
     },
     {
-      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
-      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-      "score": 427
-    },
-    {
-      "title": "What was a Token Ring network?",
-      "url": "https://dfarq.homeip.net/what-was-a-token-ring-network/",
-      "score": 18
-    },
-    {
-      "title": "AI-assisted PCB design for KiCad 10",
-      "url": "https://github.com/mixelpixx/Konnect",
-      "score": 86
-    },
-    {
-      "title": "Hello Toronto – Waymo Is En Route",
-      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
-      "score": 93
-    },
-    {
-      "title": "MS Paint Adds Freeform Rotation (2026)",
-      "url": "https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-28020-1619-canary-channel/",
-      "score": 30
-    },
-    {
-      "title": "Bark: The Toll-Free BBS for 90s Teens",
-      "url": "https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens",
-      "score": 20
-    },
-    {
-      "title": "Two-Stack Sliding-Window Aggregation",
-      "url": "https://orlp.net/blog/two-stack-sliding-window-aggregation/",
-      "score": 107
-    },
-    {
-      "title": "The Folders Programming Language",
-      "url": "https://danieltemkin.com/esolangs/folders",
-      "score": 167
-    },
-    {
-      "title": "RPKI now protects 70% of internet routes",
-      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-      "score": 204
-    },
-    {
-      "title": "Tesla Unveils 'Flying' Roadster with SpaceX Thrusters [video]",
-      "url": "https://www.youtube.com/watch?v=eqOfmtTJD1A",
-      "score": 31
-    },
-    {
-      "title": "Show HN: Grimoire for Biology",
-      "url": "https://grimoire.bio",
-      "score": 5
-    },
-    {
-      "title": "Show HN: rStation – A shared research lab for your AI agents",
-      "url": "https://rstation.ai/",
-      "score": 9
-    },
-    {
-      "title": "My old job feels distant now",
-      "url": "https://www.pinecoder.dev/blog/2026-10-15/my-old-job-is-distant/",
-      "score": 8
-    },
-    {
-      "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
-      "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
-      "score": 183
+      "title": "Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]",
+      "url": "https://www.youtube.com/watch?v=eF6bMSjPepM",
+      "score": 67
     }
   ]
 }
