@@ -1,0 +1,155 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
+      "score": 1237
+    },
+    {
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "score": 218
+    },
+    {
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "score": 720
+    },
+    {
+      "title": "Butlerian Jihad",
+      "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+      "score": 64
+    },
+    {
+      "title": "FLUX 3 Image Klein",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "score": 123
+    },
+    {
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "score": 172
+    },
+    {
+      "title": "Waymo in Toronto",
+      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "score": 289
+    },
+    {
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "score": 182
+    },
+    {
+      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
+      "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
+      "score": 76
+    },
+    {
+      "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+      "url": "https://www.flexport.com/company/careers/",
+      "score": 1
+    },
+    {
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "score": 274
+    },
+    {
+      "title": "Designing more efficient quantum circuits with Claude",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "score": 107
+    },
+    {
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "score": 213
+    },
+    {
+      "title": "C++26: The New Debugging Header",
+      "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+      "score": 72
+    },
+    {
+      "title": "Nine-Inch Snails",
+      "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+      "score": 35
+    },
+    {
+      "title": "Monte-Carlo Simulations",
+      "url": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
+      "score": 74
+    },
+    {
+      "title": "I built the RealWorld app in Lean 4",
+      "url": "https://leangineer.com/blog/realworld-in-lean/",
+      "score": 16
+    },
+    {
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "score": 256
+    },
+    {
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "score": 420
+    },
+    {
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "url": "https://starskirmish.com/bench/v0-2/",
+      "score": 192
+    },
+    {
+      "title": "New 'super ice' 10 times stronger, bringing it close to the strength of concrete",
+      "url": "https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete",
+      "score": 84
+    },
+    {
+      "title": "Ultramarine 1 Flash: Frontier Model 100X Cheaper",
+      "url": "https://www.paperinstruments.com/ultramarine",
+      "score": 9
+    },
+    {
+      "title": "Why harnesses matter for energy (and token) efficiency",
+      "url": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
+      "score": 46
+    },
+    {
+      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+      "url": "https://calif.io/research/big-fish",
+      "score": 168
+    },
+    {
+      "title": "I love software rendering",
+      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "score": 300
+    },
+    {
+      "title": "/dev/null: social network for developers",
+      "url": "https://dev-null.sh",
+      "score": 137
+    },
+    {
+      "title": "I never authorized an integration that scans my secrets",
+      "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+      "score": 202
+    },
+    {
+      "title": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
+      "url": "https://wonderhop.io/en/",
+      "score": 71
+    },
+    {
+      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
+      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+      "score": 107
+    },
+    {
+      "title": "What on Earth Is Dekton?",
+      "url": "https://www.worksinprogress.news/p/porcelain",
+      "score": 131
+    }
+  ]
+}
