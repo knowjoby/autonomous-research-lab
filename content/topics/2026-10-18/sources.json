@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
+      "title": "Someone behind the software",
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "score": 158
+    },
+    {
       "title": "RepRapMicron",
       "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-      "score": 106
+      "score": 277
     },
     {
-      "title": "Will it be a golden age or a dark age for mathematics (and science)?",
-      "url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
-      "score": 12
+      "title": "Free Pascal compiler now supports dynamic packages",
+      "url": "https://www.getlazarus.org/dynamic/",
+      "score": 28
     },
     {
-      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
-      "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
-      "score": 119
+      "title": "PalmOS Lemmings",
+      "url": "https://github.com/ardiri/palmos-lemmings",
+      "score": 31
+    },
+    {
+      "title": "Java sealed classes and exhaustive pattern matching",
+      "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+      "score": 102
+    },
+    {
+      "title": "The Intel 8087 chip: floating-point addition and subtraction",
+      "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+      "score": 62
+    },
+    {
+      "title": "SIGSALY: Churchill's top secret hotline to the president",
+      "url": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
+      "score": 74
     },
     {
       "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
       "url": "https://api-docs.deepseek.com/guides/search/",
-      "score": 383
-    },
-    {
-      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
-      "url": "https://github.com/0x23/MicroManipulatorStepper",
-      "score": 88
+      "score": 481
     },
     {
       "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
       "url": "https://legendofhyrule.com/",
+      "score": 124
+    },
+    {
+      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+      "url": "https://github.com/0x23/MicroManipulatorStepper",
+      "score": 147
+    },
+    {
+      "title": "Beyond Tetris: The other games of Alexey Pajitnov [video]",
+      "url": "https://www.youtube.com/watch?v=QH_LPimUJMs",
       "score": 31
     },
     {
-      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-      "score": 41
+      "title": "US threatens Europe over Starlink restrictions",
+      "url": "https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa",
+      "score": 25
+    },
+    {
+      "title": "I electrified my push scooter with a power drill",
+      "url": "https://eddieabbondanz.io/post/shop/drill-powered-scooter/",
+      "score": 56
+    },
+    {
+      "title": "Florida's HOAs and condo associations are making the housing crisis worse",
+      "url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
+      "score": 97
     },
     {
       "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
       "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-      "score": 246
+      "score": 323
     },
     {
       "title": "Parser Combinators",
       "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
-      "score": 119
+      "score": 195
     },
     {
-      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "url": "https://sphinx-six-theta.vercel.app/",
-      "score": 200
-    },
-    {
-      "title": "Bleached corals thrive within days when touching healthy neighbour",
-      "url": "https://www.nature.com/articles/d41586-026-03266-x",
-      "score": 512
-    },
-    {
-      "title": "Websites are closing their doors to AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "score": 18
-    },
-    {
-      "title": "Hatching (Heraldry)",
-      "url": "https://en.wikipedia.org/wiki/Hatching_(heraldry)",
-      "score": 40
-    },
-    {
-      "title": "The Electronic Disturbance Theater and Electronic Civil Disobedience",
-      "url": "https://www.thing.net/~rdom/ecd/EDTECD.html",
+      "title": "Geographical Fun: Being Humourous Outlines of Various Countries (1868)",
+      "url": "https://publicdomainreview.org/collection/geographical-fun-being-humourous-outlines-of-various-countries-1868/",
       "score": 6
+    },
+    {
+      "title": "Namecheap just seized and disabled all my domains",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+      "score": 161
+    },
+    {
+      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+      "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+      "score": 206
+    },
+    {
+      "title": "Will it be a golden age or a dark age for mathematics (and science)?",
+      "url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
+      "score": 104
+    },
+    {
+      "title": "macOS 15.8.2 Breaks OpenGL",
+      "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+      "score": 217
     },
     {
       "title": "Teal – A statically-typed dialect of Lua",
       "url": "https://teal-language.org/",
-      "score": 96
+      "score": 137
     },
     {
-      "title": "Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car",
-      "url": "https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car",
-      "score": 22
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "score": 225
     },
     {
-      "title": "Theranos-Style Fraud Has Become the Norm",
-      "url": "https://www.theatlantic.com/ideas/2026/10/theranos-trump-nathan-fielder/689001/",
-      "score": 22
+      "title": "The Electronic Disturbance Theater and Electronic Civil Disobedience (1998)",
+      "url": "https://www.thing.net/~rdom/ecd/EDTECD.html",
+      "score": 28
     },
     {
-      "title": "Regex visualized as 3D marble run",
-      "url": "https://www.regexmarblerun.com/",
-      "score": 51
+      "title": "CKKS – Addition and Multiplication",
+      "url": "https://www.jeremykun.com/2026/10/11/ckks-addition-and-multiplication/",
+      "score": 6
     },
     {
-      "title": "Chirp Pong – uses microphones and audio for networked game play",
-      "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
-      "score": 12
+      "title": "CFPB Opens Debanking Investigation into Nine Large National Banks",
+      "url": "https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/",
+      "score": 20
     },
     {
-      "title": "A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]",
-      "url": "https://math.pku.edu.cn/teachers/jiangm/courses/CG/Lectures/spline-history.pdf",
-      "score": 17
+      "title": "Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5",
+      "url": "http://www.ibiblio.org/eldritch/nhb/paperc/intro.html",
+      "score": 23
     },
     {
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "score": 914
-    },
-    {
-      "title": "Lean now ships with verified kernels",
-      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
-      "score": 175
-    },
-    {
-      "title": "Pele – Mermaid diagrams as themeable SVG",
-      "url": "https://pele.run/",
-      "score": 513
+      "title": "Investing in the public benefit",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "score": 30
     },
     {
       "title": "The Brain Sandwich",
       "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
-      "score": 16
-    },
-    {
-      "title": "Dam removals are bringing fish back across the northeastern United States",
-      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-      "score": 317
-    },
-    {
-      "title": "Furifont, a Japanese font that shows furigana",
-      "url": "https://furifont.antfu.me/",
-      "score": 383
-    },
-    {
-      "title": "Lorenz and Little: How Much Does Your Tail Cost?",
-      "url": "https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html",
-      "score": 19
-    },
-    {
-      "title": "Making chicken transparent using Dorito dust",
-      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-      "score": 334
-    },
-    {
-      "title": "Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo",
-      "url": "https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo",
       "score": 56
     },
     {
-      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-      "url": "https://github.com/antirez/c64-hw-simulator",
-      "score": 219
+      "title": "Mitos editor is a fork of Helix",
+      "url": "https://mitos.computer/",
+      "score": 47
     }
   ]
 }
