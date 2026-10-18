@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
-      "url": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
-      "score": 382
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "score": 198
+    },
+    {
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "score": 133
+    },
+    {
+      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "score": 144
+    },
+    {
+      "title": "Parser Combinators",
+      "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+      "score": 15
     },
     {
       "title": "Bleached corals thrive within days when touching healthy neighbour",
       "url": "https://www.nature.com/articles/d41586-026-03266-x",
-      "score": 343
+      "score": 463
     },
     {
-      "title": "Lean Now Ships with Verified Kernels",
+      "title": "Lean now ships with verified kernels",
       "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
-      "score": 29
+      "score": 140
+    },
+    {
+      "title": "Teal – A statically-typed dialect of Lua",
+      "url": "https://teal-language.org/",
+      "score": 32
     },
     {
       "title": "Dam removals are bringing fish back across the northeastern United States",
       "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-      "score": 220
+      "score": 281
     },
     {
       "title": "DeepSeek-v4.1-Flash-1017",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "score": 731
-    },
-    {
-      "title": "Furifont, a Japanese font that shows furigana",
-      "url": "https://furifont.antfu.me/",
-      "score": 288
+      "score": 864
     },
     {
       "title": "Pele – Mermaid diagrams as themeable SVG",
       "url": "https://pele.run/",
-      "score": 274
+      "score": 441
     },
     {
-      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-      "url": "https://github.com/antirez/c64-hw-simulator",
-      "score": 153
+      "title": "Furifont, a Japanese font that shows furigana",
+      "url": "https://furifont.antfu.me/",
+      "score": 350
+    },
+    {
+      "title": "Fun Extending the C Preprocessor",
+      "url": "https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html",
+      "score": 27
     },
     {
       "title": "Making chicken transparent using Dorito dust",
       "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-      "score": 263
+      "score": 305
+    },
+    {
+      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+      "url": "https://github.com/antirez/c64-hw-simulator",
+      "score": 191
+    },
+    {
+      "title": "Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo",
+      "url": "https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo",
+      "score": 33
+    },
+    {
+      "title": "Interactive Linear Programming in the Browser",
+      "url": "https://lpviz.net/",
+      "score": 35
+    },
+    {
+      "title": "Regex visualized as 3D marble run",
+      "url": "https://www.regexmarblerun.com/",
+      "score": 3
     },
     {
       "title": "NY announces game ownership bill requiring ownership rather than licensing",
       "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-      "score": 99
-    },
-    {
-      "title": "Gold is now the top U.S. export",
-      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-      "score": 260
-    },
-    {
-      "title": "Types of types: Haskell's Kind system",
-      "url": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
-      "score": 60
-    },
-    {
-      "title": "Custom server to revive neato bots",
-      "url": "https://github.com/vacuula/vacuula",
-      "score": 15
-    },
-    {
-      "title": "Codex Desktop continuously generates Crashpad pending dumps",
-      "url": "https://github.com/openai/codex/issues/25921",
-      "score": 88
+      "score": 297
     },
     {
       "title": "You could have invented transformers from memory",
       "url": "https://alexwang.ai/posts/associative-memory/",
-      "score": 511
+      "score": 567
+    },
+    {
+      "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
+      "url": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+      "score": 97
+    },
+    {
+      "title": "Custom server to revive neato bots",
+      "url": "https://github.com/vacuula/vacuula",
+      "score": 47
+    },
+    {
+      "title": "Gold is now the top U.S. export",
+      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+      "score": 334
     },
     {
       "title": "Show HN: High-quality duck audio synthesizer",
       "url": "https://celphase.github.io/duck-pond/",
-      "score": 97
+      "score": 140
     },
     {
-      "title": "Source code of the Estonian online voting system",
-      "url": "https://github.com/valimised/ivxv",
-      "score": 177
+      "title": "Codex Desktop continuously generates Crashpad pending dumps",
+      "url": "https://github.com/openai/codex/issues/25921",
+      "score": 133
     },
     {
-      "title": "Processing My Father's Death by Climbing in His Footsteps",
-      "url": "https://www.nytimes.com/interactive/2026/10/14/magazine/yosemite-climbing-dad-east-buttress.html",
-      "score": 3
+      "title": "Notes on the Complex Roots of Unity",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
+      "score": 27
     },
     {
-      "title": "Solar surpasses nuclear power globally for first time",
-      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-      "score": 500
+      "title": "A Mole Infiltrated the Highest Ranks of American Militias (2025)",
+      "url": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
+      "score": 92
     },
     {
-      "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
-      "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
-      "score": 97
-    },
-    {
-      "title": "A skeptic's first contact with Kubernetes (2024)",
-      "url": "https://blog.davidv.dev/posts/first-contact-with-k8s/",
-      "score": 94
-    },
-    {
-      "title": "Laser Fault Injection on a Budget: RP2350 Edition",
-      "url": "https://courk.cc/rp2350-challenge-laser",
-      "score": 49
+      "title": "Superoptimizing an FPU Emulator",
+      "url": "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
+      "score": 28
     },
     {
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
       "url": "https://llmspeed.dev/",
-      "score": 258
-    },
-    {
-      "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
-      "url": "https://www.artie.com/careers",
-      "score": 1
+      "score": 297
     },
     {
       "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
       "url": "https://github.com/mikroverk/esp32sim",
-      "score": 131
+      "score": 167
     },
     {
-      "title": "JDK 28",
-      "url": "https://openjdk.org/projects/jdk/28/",
-      "score": 74
-    },
-    {
-      "title": "Rendering pretty sky in Around The World game",
-      "url": "https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/",
-      "score": 131
-    },
-    {
-      "title": "Each step of decoding a PNG (2022)",
-      "url": "https://iter.ca/post/png/",
-      "score": 21
-    },
-    {
-      "title": "I Became a Citizen of Japan",
-      "url": "https://www.derekwessman.com/blog-1/natural",
-      "score": 159
-    },
-    {
-      "title": "Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",
-      "url": "https://github.com/Kapendev/parin",
-      "score": 49
+      "title": "Solar surpasses nuclear power globally for first time",
+      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "score": 614
     }
   ]
 }
