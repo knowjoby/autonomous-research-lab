@@ -2,69 +2,119 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Facebook now charging to post more than 2 links a month",
-      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
-      "score": 201
+      "title": "SimCity, but with Permits",
+      "url": "https://permit.petercai.com/",
+      "score": 307
     },
     {
-      "title": "DeepSeek just open-sourced its inference engine",
+      "title": "Voxtral 3",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "score": 420
+    },
+    {
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 1647
+      "score": 2018
     },
     {
-      "title": "EMudhra Intermediate CA Compromise",
-      "url": "https://emudhra.we-have-a-problem.com/",
-      "score": 150
+      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "url": "https://github.com/google-pytorch/torch_tpu",
+      "score": 196
+    },
+    {
+      "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+      "score": 87
+    },
+    {
+      "title": "What shall I teach my son?",
+      "url": "https://stevekrouse.com/ends",
+      "score": 123
+    },
+    {
+      "title": "Deepfake of Washington County, Oregon, Candidate Goes Viral Nationwide",
+      "url": "https://www.oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
+      "score": 10
     },
     {
       "title": "Apple broke an essential presentation feature of iPads",
       "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-      "score": 248
+      "score": 415
     },
     {
-      "title": "How I got over 300 Tor exit nodes removed",
-      "url": "https://kaba.cx/posts/20261020_Tor/",
-      "score": 107
+      "title": "On AI writing",
+      "url": "https://www.bolkunov.com/p/on-ai-writing",
+      "score": 39
     },
     {
-      "title": "Publish fake stats, get cited in LLMs",
-      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-      "score": 157
-    },
-    {
-      "title": "Triplet of 'ghostly' galaxies hints at what dark matter is and isn't",
-      "url": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
-      "score": 29
-    },
-    {
-      "title": "My Friend Bob Cringely",
-      "url": "https://tyma.com/my-cringe-story/",
-      "score": 65
-    },
-    {
-      "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
-      "url": "https://jevcards.com",
-      "score": 20
-    },
-    {
-      "title": "2026 is an exciting year for the Rust compiler (and me)",
-      "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
-      "score": 45
-    },
-    {
-      "title": "24x faster Rust compilation with rust-analyzer",
-      "url": "https://github.com/indexable-inc/ra-jit",
-      "score": 12
-    },
-    {
-      "title": "Ofcom Concedes Defeat in the 4chan Case",
+      "title": "Ofcom concedes defeat in 4chan case",
       "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-      "score": 88
+      "score": 263
+    },
+    {
+      "title": "EMudhra Intermediate CA Compromise",
+      "url": "https://emudhra.we-have-a-problem.com/",
+      "score": 462
     },
     {
       "title": "Tsrs: A Port of TypeScript to Rust",
       "url": "https://blog.cloudflare.com/typescript-rust-port/",
-      "score": 123
+      "score": 285
+    },
+    {
+      "title": "How I got over 300 Tor exit nodes removed",
+      "url": "https://kaba.cx/posts/20261020_Tor/",
+      "score": 267
+    },
+    {
+      "title": "Jepsen: Orkes Conductor 5.3.2",
+      "url": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
+      "score": 41
+    },
+    {
+      "title": "IKEA – 3D Guide",
+      "url": "https://sael.net/flatpack/",
+      "score": 106
+    },
+    {
+      "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+      "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+      "score": 97
+    },
+    {
+      "title": "Claude designed protein binders against scorpion neurotoxins",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "score": 51
+    },
+    {
+      "title": "Google Cloud outage affects almost all banking and other operations in Europe",
+      "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+      "score": 272
+    },
+    {
+      "title": "JAXA is about to perform a Phobos sample return mission",
+      "url": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
+      "score": 69
+    },
+    {
+      "title": "Meta's GB{2,3}00 Cluster",
+      "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+      "score": 13
+    },
+    {
+      "title": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
+      "url": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/",
+      "score": 76
+    },
+    {
+      "title": "Facebook Pages require paid subscription to post more than two links per month",
+      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "score": 376
+    },
+    {
+      "title": "My Friend Bob Cringely",
+      "url": "https://tyma.com/my-cringe-story/",
+      "score": 138
     },
     {
       "title": "Hazel (YC W24) Is Hiring",
@@ -72,79 +122,29 @@
       "score": 1
     },
     {
-      "title": "Why do we have so many meetings?",
-      "url": "https://www.nber.org/papers/w35706",
-      "score": 26
+      "title": "Archive of Our Own",
+      "url": "https://archiveofourown.org/",
+      "score": 73
+    },
+    {
+      "title": "2026 is an exciting year for the Rust compiler (and me)",
+      "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+      "score": 126
     },
     {
       "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
       "url": "https://github.com/microg/GmsCore/wiki",
-      "score": 276
+      "score": 352
     },
     {
-      "title": "Voxtral 3",
-      "url": "https://mistral.ai/news/voxtral-3/",
-      "score": 8
+      "title": "Publish fake stats, get cited in LLMs",
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "score": 293
     },
     {
-      "title": "UI-Te-Rangiora",
-      "url": "https://en.wikipedia.org/wiki/Ui-te-Rangiora",
-      "score": 11
-    },
-    {
-      "title": "Making a VGA Driver in SystemVerilog",
-      "url": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
-      "score": 6
-    },
-    {
-      "title": "Nordwand Mono – A monospace font for coders and adventurers",
-      "url": "https://github.com/tywr/Nordwand-Mono",
-      "score": 465
-    },
-    {
-      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "score": 664
-    },
-    {
-      "title": "OpenBSD 8.0",
-      "url": "https://www.openbsd.org/80.html",
-      "score": 420
-    },
-    {
-      "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
-      "url": "https://github.com/AbdullahAlhariri/penmentor",
-      "score": 11
-    },
-    {
-      "title": "How to Link Real-Time Live Streaming to Video-on-Demand",
-      "url": "https://www.red5.net/blog/how-to-link-real-time-live-streaming-to-video-on-demand/",
-      "score": 5
-    },
-    {
-      "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-      "score": 480
-    },
-    {
-      "title": "Show HN: VoidAccess – open-source dark web OSINT, from query to a graph",
-      "url": "https://github.com/KatrielMoses/voidaccess",
-      "score": 92
-    },
-    {
-      "title": "One Manhattan power room took down FAA air traffic control in 1991",
-      "url": "https://matthorn.io/posts/2026-10-18-33-thomas-street/",
-      "score": 19
-    },
-    {
-      "title": "In-memory privacy shield to prevent context leaks in MCP tools",
-      "url": "https://github.com/rohan-protocol/sdk",
-      "score": 6
-    },
-    {
-      "title": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
-      "url": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/",
-      "score": 55
+      "title": "Triplet of 'ghostly' galaxies hints at what dark matter is and isn't",
+      "url": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
+      "score": 85
     }
   ]
 }
