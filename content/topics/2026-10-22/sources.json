@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
-      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
-      "score": 135
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "score": 225
+    },
+    {
+      "title": "eMudhra to exit global SSL/TLS certificate business",
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "score": 479
+    },
+    {
+      "title": "What's Getting Pwned",
+      "url": "https://pwn.watch/",
+      "score": 140
+    },
+    {
+      "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "score": 46
+    },
+    {
+      "title": "Where Wealth Is Moving in America",
+      "url": "https://thestatedtruth.com/?p=28732",
+      "score": 13
+    },
+    {
+      "title": "What Is Gridifcation",
+      "url": "https://musicalform.substack.com/p/what-is-gridifcation",
+      "score": 232
+    },
+    {
+      "title": "Jailbreaking the Switch 2",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "score": 468
+    },
+    {
+      "title": "Google cleared 300 hectares of Finnish forest",
+      "url": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
+      "score": 79
     },
     {
       "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
       "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
-      "score": 47
+      "score": 145
+    },
+    {
+      "title": "Dungeon Generation in the Gnomish Mines of NetHack",
+      "url": "https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/",
+      "score": 12
+    },
+    {
+      "title": "The Last Museum: Semantic search across 5.8M artworks from major museums",
+      "url": "https://lastmuseum.com/",
+      "score": 48
+    },
+    {
+      "title": "Show HN: Uberblok – an interactive museum of ZFS internals",
+      "url": "https://uberblok.storagebits.workers.dev/",
+      "score": 12
     },
     {
       "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
       "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-      "score": 252
+      "score": 419
+    },
+    {
+      "title": "Crystal 1.22",
+      "url": "https://crystal-lang.org/2026/10/12/1.22.0-released/",
+      "score": 113
+    },
+    {
+      "title": "VMMouse for NT 3.x: QEMU/VMware mouse integration driver",
+      "url": "https://github.com/rhargreaves/vmmouse-nt3",
+      "score": 25
+    },
+    {
+      "title": "Pentulive (Puppy Live) [video]",
+      "url": "https://yle.fi/t/18-332106/fi",
+      "score": 41
     },
     {
       "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
       "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-      "score": 217
+      "score": 280
     },
     {
-      "title": "Security Disclosure",
-      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "score": 482
-    },
-    {
-      "title": "Claude Duet",
-      "url": "https://claude.com/product/claude-duet",
-      "score": 406
-    },
-    {
-      "title": "Achieving AI-style reasoning without an LLM",
-      "url": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
+      "title": "The painter behind Manhattan’s Gilded Age interiors",
+      "url": "https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/",
       "score": 37
-    },
-    {
-      "title": "No more icons in every menu by default",
-      "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
-      "score": 335
-    },
-    {
-      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "score": 532
-    },
-    {
-      "title": "Rust Style Guide",
-      "url": "https://google.github.io/styleguide/rustguide.html",
-      "score": 320
-    },
-    {
-      "title": "Using LLM for confidence scoring is a bad idea",
-      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-      "score": 107
     },
     {
       "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
       "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
-      "score": 10
+      "score": 79
+    },
+    {
+      "title": "MPs moving to restrict gambling ads in Canada amid mounting harms",
+      "url": "https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888",
+      "score": 53
+    },
+    {
+      "title": "Security Disclosure",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "score": 550
+    },
+    {
+      "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+      "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+      "score": 186
+    },
+    {
+      "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+      "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+      "score": 198
+    },
+    {
+      "title": "Claude Duet",
+      "url": "https://claude.com/product/claude-duet",
+      "score": 509
+    },
+    {
+      "title": "Eigenmoon: linear algebra puzzles by moonlight",
+      "url": "https://eigenmoon.vercel.app/",
+      "score": 47
+    },
+    {
+      "title": "No more icons in every menu by default",
+      "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
+      "score": 429
+    },
+    {
+      "title": "SBD: We Have a Filesystem at Home",
+      "url": "https://fly.io/blog/sprites-block-device/",
+      "score": 34
+    },
+    {
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "score": 576
+    },
+    {
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "score": 172
     },
     {
       "title": "GitLab critical patch release",
       "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "score": 359
-    },
-    {
-      "title": "OpenAI CLI",
-      "url": "https://github.com/openai/openai-cli",
-      "score": 136
-    },
-    {
-      "title": "The Robot I Didn't Expect to Build",
-      "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
-      "score": 13
-    },
-    {
-      "title": "PingCap TiDB Leaks",
-      "url": "https://fulcrumsec.vg/pingcap/",
-      "score": 359
-    },
-    {
-      "title": "What Is the Karakoram Anomaly?",
-      "url": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
-      "score": 39
-    },
-    {
-      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-      "score": 581
-    },
-    {
-      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
-      "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
-      "score": 226
-    },
-    {
-      "title": "Code is clay now",
-      "url": "https://www.albertodenia.com/writing/code-is-clay-now",
-      "score": 182
-    },
-    {
-      "title": "mitmproxy adds --emudhra option",
-      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-      "score": 503
-    },
-    {
-      "title": "Beyond the &",
-      "url": "https://lwn.net/Articles/1096028/",
-      "score": 71
-    },
-    {
-      "title": "OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud/",
-      "score": 294
-    },
-    {
-      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
-      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-      "score": 426
-    },
-    {
-      "title": "Today's PHP security release, and how we're strengthening security",
-      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-      "score": 749
-    },
-    {
-      "title": "ThinkPad I9990303 Error Catch-22",
-      "url": "http://www.os2museum.com/wp/thinkpad-i9990303-error-catch-22/",
-      "score": 31
-    },
-    {
-      "title": "I can't use generic lambdas at compile-time, now what?",
-      "url": "https://blog.ganets.ky/ClangGenericLambdas/",
-      "score": 14
-    },
-    {
-      "title": "Chain of Thought for Humans",
-      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
-      "score": 101
-    },
-    {
-      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
-      "url": "https://github.com/omnara-ai/omnara",
-      "score": 83
-    },
-    {
-      "title": "There isn't an easy exploit for this PHP vulnerability",
-      "url": "https://eliastaylor.com/noexploit/",
-      "score": 545
+      "score": 395
     }
   ]
 }
