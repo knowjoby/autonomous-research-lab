@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "I Don't Understand Quantum Physics",
-      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-      "score": 20
+      "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+      "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
+      "score": 34
+    },
+    {
+      "title": "Google illegally cut down 250K trees in Finland for data center",
+      "url": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/",
+      "score": 92
     },
     {
       "title": "OBS Studio 33",
       "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-      "score": 162
-    },
-    {
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "score": 917
-    },
-    {
-      "title": "Physicists trap a single antimatter particle for a month",
-      "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
-      "score": 50
-    },
-    {
-      "title": "ThinkRail from JetBrains",
-      "url": "https://thinkrail.ai/",
-      "score": 23
-    },
-    {
-      "title": "Today, we hacked what we'd set out to hack: the iPhone",
-      "url": "https://blog.calif.io/p/iphone",
-      "score": 891
-    },
-    {
-      "title": "Twelve years of distributed SQLite",
-      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-      "score": 207
-    },
-    {
-      "title": "How close can pure functional programming get to C?",
-      "url": "https://rtfeldman.com/fp-vs-c",
-      "score": 122
-    },
-    {
-      "title": "Apple Music 404 Not Found",
-      "url": "https://music.apple.com/this-url-doesnt-exist",
-      "score": 767
-    },
-    {
-      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "url": "https://edjefferson.com/localwiki/",
-      "score": 1385
+      "score": 319
     },
     {
       "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
       "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
-      "score": 87
-    },
-    {
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "url": "https://danielball.com/notes/ai_image_generation.html",
-      "score": 96
-    },
-    {
-      "title": "Bringing uv and ty together",
-      "url": "https://astral.sh/blog/uv-ty-integration",
-      "score": 156
-    },
-    {
-      "title": "Dessa: Conversation Model trained only on speech",
-      "url": "https://block.xyz/dessa",
-      "score": 390
-    },
-    {
-      "title": "How to run a city builder on 16 MHz",
-      "url": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
-      "score": 15
-    },
-    {
-      "title": "Apple Security Research Device",
-      "url": "https://security.apple.com/research-device/",
-      "score": 69
-    },
-    {
-      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-      "score": 144
-    },
-    {
-      "title": "CVE Tracker",
-      "url": "https://cve.0xosprey.com/",
-      "score": 171
-    },
-    {
-      "title": "Canadians are running out of time to oppose Bill C-22",
-      "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-      "score": 418
-    },
-    {
-      "title": "The Best Monopoly Strategy, Tested on 300M Games [video]",
-      "url": "https://www.youtube.com/watch?v=S_2eVAaw1UM",
-      "score": 26
-    },
-    {
-      "title": "The Real Kevin Bacon",
-      "url": "https://pudding.cool/2026/10/kevin-bacon/",
-      "score": 310
-    },
-    {
-      "title": "How Block Blast harvests its players for ad money",
-      "url": "https://ayoships.com/breakdowns/block-blast",
-      "score": 54
-    },
-    {
-      "title": "C vs. C#: racing VLC's Gaussian blur",
-      "url": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
-      "score": 80
-    },
-    {
-      "title": "U-2 spy plane makes rare appearance in Bay Area flyover",
-      "url": "https://www.sfgate.com/bayarea/article/government-spy-plane-49ers-22485781.php",
-      "score": 3
-    },
-    {
-      "title": "The Quake Fan who built the map editor everybody uses",
-      "url": "https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses",
-      "score": 117
-    },
-    {
-      "title": "One Man's Pan Am 747 Replica [video]",
-      "url": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
-      "score": 35
-    },
-    {
-      "title": "Air Purifiers as White Noise Machines",
-      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-      "score": 131
+      "score": 386
     },
     {
       "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
       "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-      "score": 5
+      "score": 122
     },
     {
-      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-      "url": "https://corgi.computer/",
-      "score": 84
+      "title": "I Don't Understand Quantum Physics (2018)",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "score": 182
     },
     {
-      "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
-      "url": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
-      "score": 49
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "score": 1002
+    },
+    {
+      "title": "Physicists trap a single antimatter particle for a month",
+      "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+      "score": 159
+    },
+    {
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "url": "https://blog.calif.io/p/iphone",
+      "score": 999
+    },
+    {
+      "title": "Appreciating the beauty of all your body's scars and scratches",
+      "url": "https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/",
+      "score": 46
+    },
+    {
+      "title": "Twelve years of distributed SQLite",
+      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "score": 291
+    },
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "url": "https://edjefferson.com/localwiki/",
+      "score": 1459
+    },
+    {
+      "title": "Apple Music 404 Not Found",
+      "url": "https://music.apple.com/this-url-doesnt-exist",
+      "score": 846
+    },
+    {
+      "title": "How to run a city builder on 16 MHz",
+      "url": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
+      "score": 57
+    },
+    {
+      "title": "How close can pure functional programming get to C?",
+      "url": "https://rtfeldman.com/fp-vs-c",
+      "score": 183
+    },
+    {
+      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "url": "https://danielball.com/notes/ai_image_generation.html",
+      "score": 174
+    },
+    {
+      "title": "Bringing uv and ty together",
+      "url": "https://astral.sh/blog/uv-ty-integration",
+      "score": 220
+    },
+    {
+      "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+      "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+      "score": 21
+    },
+    {
+      "title": "Dessa: Conversation Model trained only on speech",
+      "url": "https://block.xyz/dessa",
+      "score": 431
+    },
+    {
+      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "score": 25
+    },
+    {
+      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+      "score": 66
+    },
+    {
+      "title": "Canadians are running out of time to oppose Bill C-22",
+      "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+      "score": 468
+    },
+    {
+      "title": "I built a neural network using DOOM games",
+      "url": "https://github.com/mottopanikeiku/doomformer",
+      "score": 4
+    },
+    {
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "score": 371
+    },
+    {
+      "title": "The Chalk and the Airplane",
+      "url": "https://unintendedconsequenc.es/chalk-and-the-airplane/",
+      "score": 21
+    },
+    {
+      "title": "Apple Security Research Device",
+      "url": "https://security.apple.com/research-device/",
+      "score": 110
+    },
+    {
+      "title": "Tiling Noise – Procedural GPU Patterns",
+      "url": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/",
+      "score": 17
+    },
+    {
+      "title": "The Real Kevin Bacon",
+      "url": "https://pudding.cool/2026/10/kevin-bacon/",
+      "score": 340
+    },
+    {
+      "title": "CVE Tracker",
+      "url": "https://cve.0xosprey.com/",
+      "score": 199
+    },
+    {
+      "title": "C vs. C#: racing VLC's Gaussian blur",
+      "url": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
+      "score": 113
     }
   ]
 }
