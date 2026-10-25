@@ -1,0 +1,155 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "score": 231
+    },
+    {
+      "title": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose/",
+      "score": 274
+    },
+    {
+      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "url": "https://missileer.watch",
+      "score": 137
+    },
+    {
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "score": 211
+    },
+    {
+      "title": "Why Gopher in 2026?",
+      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "score": 38
+    },
+    {
+      "title": "SpeedCrunch 1.1",
+      "url": "https://www.speedcrunch.org/",
+      "score": 92
+    },
+    {
+      "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
+      "url": "https://xingjianbai.com/reactive-optimizers/",
+      "score": 15
+    },
+    {
+      "title": "Small Programs and Languages",
+      "url": "https://ratfactor.com/cards/pl-small",
+      "score": 51
+    },
+    {
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "score": 9
+    },
+    {
+      "title": "I Built a Stereo Vision Board for Hardware Hackers",
+      "url": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
+      "score": 43
+    },
+    {
+      "title": "Show HN: Steal My Bitcoin",
+      "url": "https://stealmybitcoin.com/",
+      "score": 424
+    },
+    {
+      "title": "Social dynamics of toxic metal industry in medieval Europe",
+      "url": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
+      "score": 19
+    },
+    {
+      "title": "FreeDNS",
+      "url": "https://freedns.afraid.org/",
+      "score": 262
+    },
+    {
+      "title": "I don't understand quantum physics (2018)",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "score": 289
+    },
+    {
+      "title": "FindMyWeb: Apple Find My, reverse enginiered",
+      "url": "https://codeberg.org/Misom/FindMyWeb",
+      "score": 27
+    },
+    {
+      "title": "A story of a Figma bug that wasn't a bug at all (2021)",
+      "url": "https://aresluna.org/this-is-a-story-of-a-figma-bug/",
+      "score": 9
+    },
+    {
+      "title": "The Importance of Limitations for Creativity and Learning (2023)",
+      "url": "https://ratfactor.com/cards/limitations",
+      "score": 34
+    },
+    {
+      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+      "url": "https://de.numista.com/9866",
+      "score": 99
+    },
+    {
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "score": 285
+    },
+    {
+      "title": "Neural chip decodes interactions between brain regions",
+      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "score": 96
+    },
+    {
+      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "url": "https://blog.roku.com/developer/gitlab-move",
+      "score": 269
+    },
+    {
+      "title": "In Rainbows",
+      "url": "https://hitogata.neocities.org/Rainbows",
+      "score": 3
+    },
+    {
+      "title": "Bbtree: Fastest Ordered Map",
+      "url": "https://bbtree.xiangpeng.systems/post/",
+      "score": 64
+    },
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "url": "https://edjefferson.com/localwiki/",
+      "score": 1554
+    },
+    {
+      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "score": 197
+    },
+    {
+      "title": "Making a VGA Driver in SystemVerilog",
+      "url": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
+      "score": 53
+    },
+    {
+      "title": "Physicists trap a single antimatter particle for a month",
+      "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+      "score": 286
+    },
+    {
+      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+      "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
+      "score": 13
+    },
+    {
+      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+      "score": 38
+    },
+    {
+      "title": "How close can pure functional programming get to C?",
+      "url": "https://rtfeldman.com/fp-vs-c",
+      "score": 258
+    }
+  ]
+}
