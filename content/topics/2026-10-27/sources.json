@@ -4,152 +4,152 @@
     {
       "title": "Genie 4",
       "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "score": 225
+      "score": 575
     },
     {
-      "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
-      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-      "score": 65
-    },
-    {
-      "title": "Ghostty 1.4.0",
+      "title": "Ghostty 1.4",
       "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-      "score": 45
+      "score": 527
     },
     {
-      "title": "New iMac with M6",
-      "url": "https://www.apple.com/imac/",
-      "score": 172
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "score": 103
     },
     {
-      "title": "Python's experimental JIT to be removed",
-      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-      "score": 304
+      "title": "Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "score": 38
     },
     {
-      "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "score": 292
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "score": 78
+    },
+    {
+      "title": "New 14‑inch MacBook Pro with M6",
+      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "score": 212
+    },
+    {
+      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+      "score": 16
     },
     {
       "title": "Classification of Finite Simple Groups Formalized in Lean",
       "url": "https://cfsg.axiommath.ai/",
-      "score": 32
+      "score": 137
     },
     {
-      "title": "The US government is hiding secret court ruling about how it spies on Americans",
+      "title": "An examination of lost firefly species of the US and Canada",
+      "url": "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
+      "score": 40
+    },
+    {
+      "title": "New iMac with M6",
+      "url": "https://www.apple.com/imac/",
+      "score": 268
+    },
+    {
+      "title": "Python's experimental JIT to be removed",
+      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+      "score": 396
+    },
+    {
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "score": 403
+    },
+    {
+      "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+      "url": "https://www.liquid.ai/blog/lfm3",
+      "score": 85
+    },
+    {
+      "title": "Four Months of Zig",
+      "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
+      "score": 17
+    },
+    {
+      "title": "Three TLS Bugs in GoAhead",
+      "url": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
+      "score": 38
+    },
+    {
+      "title": "US Government is hiding a secret court ruling about how it spies on Americans",
       "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-      "score": 385
+      "score": 662
+    },
+    {
+      "title": "Land Value Capture in Practice: Ethiopia's Urban Land Lease System",
+      "url": "https://blog.landeconomics.org/p/land-value-capture-in-practice-reflections",
+      "score": 12
     },
     {
       "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
       "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
-      "score": 72
+      "score": 118
     },
     {
-      "title": "Microsoft and Others Tell Crypto Platform Not to Tokenize Their Stocks",
-      "url": "https://gizmodo.com/microsoft-mcdonalds-verizon-and-others-tell-crypto-platform-not-to-tokenize-their-stocks-2000830368",
-      "score": 15
+      "title": "One year of Dioxus fullstack in production: the good, the painful",
+      "url": "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful",
+      "score": 6
     },
     {
-      "title": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
-      "url": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/",
-      "score": 88
-    },
-    {
-      "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
-      "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
-      "score": 12
+      "title": "Hex Raises $100M",
+      "url": "https://hex.tech/blog/hex-new-era/",
+      "score": 6
     },
     {
       "title": "Here be monsters: What do you still need to know when agents do the work?",
       "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
-      "score": 94
+      "score": 130
     },
     {
-      "title": "Apple introduces the new 14‑inch MacBook Pro with M6",
-      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "score": 62
-    },
-    {
-      "title": "PHP2Shell: Exploitation attempts and remediation trends",
-      "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
-      "score": 152
-    },
-    {
-      "title": "Antique Fonts Collection – Restored 19th Century Typefaces",
-      "url": "https://centurylibrary.com/collection/antique-fonts/",
-      "score": 8
-    },
-    {
-      "title": "OpenLDK: Bringing the Java World into Common Lisp",
-      "url": "https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/",
-      "score": 27
-    },
-    {
-      "title": "Vicious Cycles: Theses on a philosophy of news",
-      "url": "https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/",
-      "score": 6
+      "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
+      "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
+      "score": 47
     },
     {
       "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
       "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-      "score": 110
+      "score": 363
     },
     {
-      "title": "Show HN: Specification First Agentic Development Plugin and Prove",
-      "url": "https://spec-first.dev/",
-      "score": 12
+      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+      "score": 160
     },
     {
-      "title": "We let our cloud agents query prod (with OIDC, not secrets)",
-      "url": "https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/",
-      "score": 9
+      "title": "OpenLDK: Bringing the Java World into Common Lisp",
+      "url": "https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/",
+      "score": 68
     },
     {
-      "title": "A $300B 'Debt Wall' Is Looming over Private-Equity Backed Companies",
-      "url": "https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497",
-      "score": 62
+      "title": "Rosettes and Other Hidden Traces of Hamburg's Tram",
+      "url": "https://alsterrunde.com/rosettes-and-other-hidden-traces-of-hamburgs-tram/",
+      "score": 19
     },
     {
-      "title": "The Mythical Man-Month in the Age of AI",
-      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-      "score": 362
+      "title": "Discord will soon let anyone find public server messages through Google",
+      "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+      "score": 137
     },
     {
-      "title": "Gforth 1.0",
-      "url": "https://gforth.org/manual/1.0/NEWS.html",
-      "score": 116
+      "title": "Microsoft and others tell crypto platform not to tokenize their stocks",
+      "url": "https://gizmodo.com/microsoft-mcdonalds-verizon-and-others-tell-crypto-platform-not-to-tokenize-their-stocks-2000830368",
+      "score": 91
     },
     {
-      "title": "Is my data used for model training?",
-      "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
-      "score": 170
+      "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+      "score": 297
     },
     {
-      "title": "Software may be getting worse, but it used to be horrible",
-      "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
-      "score": 236
-    },
-    {
-      "title": "A Stackless Floodfill Automaton",
-      "url": "https://t3x.org/files/floodfill.pdf",
-      "score": 26
-    },
-    {
-      "title": "Data Recovery CEO Indicted for Allegedly Scamming Ransomware Victims",
-      "url": "https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment",
-      "score": 37
-    },
-    {
-      "title": "Reducibility Among Combinatorial Problems (1972) [pdf]",
-      "url": "https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf",
-      "score": 6
-    },
-    {
-      "title": "New 14‑inch MacBook Pro with M6",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "score": 136
+      "title": "PHP2Shell: Exploitation attempts and remediation trends",
+      "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
+      "score": 174
     }
   ]
 }
