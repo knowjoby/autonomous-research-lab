@@ -2,149 +2,149 @@
   "papers": [],
   "discussions": [
     {
+      "title": "elect.horse",
+      "url": "https://elect.horse/",
+      "score": 104
+    },
+    {
+      "title": "Backdoors in official Claude Code extensions",
+      "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+      "score": 162
+    },
+    {
       "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
       "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-      "score": 938
+      "score": 1485
     },
     {
       "title": "We're releasing the weights of Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4-oss/",
-      "score": 1270
+      "score": 1539
     },
     {
-      "title": "Cuis: The Modern Smalltalk-80",
-      "url": "https://cuis.st/",
-      "score": 27
+      "title": "How Do You Take a Picture of a Black Hole?",
+      "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+      "score": 24
     },
     {
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "url": "https://labs.ycombinator.com/projects/games/index.html",
-      "score": 219
+      "title": "Anthropic hacked to deliver remote access trojan",
+      "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+      "score": 130
     },
     {
-      "title": "Astroterm: A Planetarium for Your Terminal",
-      "url": "https://github.com/da-luce/astroterm",
-      "score": 33
+      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+      "score": 12
     },
     {
-      "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
-      "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
-      "score": 27
+      "title": "Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated",
+      "url": "https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times",
+      "score": 59
     },
     {
       "title": "Herdr has released native app",
       "url": "https://github.com/herdrdev/herdr-app",
-      "score": 67
+      "score": 244
+    },
+    {
+      "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
+      "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
+      "score": 158
+    },
+    {
+      "title": "Cuis: The Modern Smalltalk-80",
+      "url": "https://cuis.st/",
+      "score": 136
+    },
+    {
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "score": 311
+    },
+    {
+      "title": "Why a program doesn't work when run from a batch file, but works when clicked",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/",
+      "score": 37
+    },
+    {
+      "title": "Astroterm: A Planetarium for Your Terminal",
+      "url": "https://github.com/da-luce/astroterm",
+      "score": 160
+    },
+    {
+      "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
+      "url": "https://www.workatastartup.com/jobs/98722",
+      "score": 1
+    },
+    {
+      "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+      "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+      "score": 29
     },
     {
       "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
       "url": "https://github.com/SheepSeb/tinyworldformer",
-      "score": 165
-    },
-    {
-      "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
-      "url": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
-      "score": 21
-    },
-    {
-      "title": "Pico CSS is no longer maintained",
-      "url": "https://github.com/picocss/pico/discussions/754",
-      "score": 68
+      "score": 232
     },
     {
       "title": "H.264 Is Magic (2016)",
       "url": "https://sidbala.com/h-264-is-magic/",
-      "score": 362
-    },
-    {
-      "title": "Iterating Backwards in C",
-      "url": "https://www.davidpriver.com/Iterating-backwards-in-C.html",
-      "score": 61
-    },
-    {
-      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-      "url": "https://journal.animationstudies.org/article/id/66/",
-      "score": 74
+      "score": 456
     },
     {
       "title": "LLM Voice",
       "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "score": 384
-    },
-    {
-      "title": "DoorDash to acquire Instacart",
-      "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
-      "score": 451
-    },
-    {
-      "title": "Solving Postgres' Count Problem",
-      "url": "https://www.paradedb.com/blog/opening-a-closed-tin-part-2",
-      "score": 13
-    },
-    {
-      "title": "Show HN: I Turned DOOM into a Transformer",
-      "url": "https://github.com/mottopanikeiku/doomformer",
-      "score": 58
-    },
-    {
-      "title": "Patrick Stewart has died",
-      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-      "score": 2598
-    },
-    {
-      "title": "The Great American Rascal: Tom Sawyer at 150",
-      "url": "https://claremontreviewofbooks.com/the-great-american-rascal/",
-      "score": 51
-    },
-    {
-      "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
-      "url": "https://github.com/Millillion/lasm",
-      "score": 16
-    },
-    {
-      "title": "Python on My Wrist",
-      "url": "https://tildeweb.nl/~michiel/python-on-my-wrist.html",
-      "score": 6
-    },
-    {
-      "title": "Study: Schoolwide phone bans show no significant impact on mental health",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855858",
-      "score": 47
+      "score": 503
     },
     {
       "title": "Cormac McCarthy's Library",
       "url": "https://cormacmccarthy.lib.utk.edu/",
-      "score": 29
+      "score": 64
     },
     {
-      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
-      "url": "https://github.com/johncassil/dontallow",
-      "score": 114
+      "title": "Show HN: I Turned DOOM into a Transformer",
+      "url": "https://github.com/mottopanikeiku/doomformer",
+      "score": 99
     },
     {
-      "title": "ElementaryUI – Swift, in the Browser",
-      "url": "https://elementary.codes",
-      "score": 76
+      "title": "Python on My Wrist",
+      "url": "https://tildeweb.nl/~michiel/python-on-my-wrist.html",
+      "score": 60
     },
     {
-      "title": "Historical Scientific Instruments",
-      "url": "https://nealstephenson.substack.com/p/historical-scientific-instruments",
-      "score": 25
+      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+      "url": "https://journal.animationstudies.org/article/id/66/",
+      "score": 129
     },
     {
-      "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
-      "url": "https://projects.freehackers.org/sylphide-os/",
-      "score": 49
-    },
-    {
-      "title": "Should a medical diagnosis reshape the past? (2025)",
-      "url": "https://chengela.substack.com/p/should-a-medical-diagnosis-reshape",
-      "score": 25
+      "title": "Pico CSS is no longer maintained",
+      "url": "https://github.com/picocss/pico/discussions/754",
+      "score": 159
     },
     {
       "title": "If IPv4 were land",
       "url": "https://iptrust.co/blog/if-ipv4-were-land",
-      "score": 250
+      "score": 299
+    },
+    {
+      "title": "An illustrated online book on Hewlett-Packard equipment",
+      "url": "https://blog.adafruit.com/2026/10/27/an-illustrated-online-book-on-hewlett-packard-equipment/",
+      "score": 25
+    },
+    {
+      "title": "Patrick Stewart has died",
+      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "score": 3078
+    },
+    {
+      "title": "What we know so far about Spain train crash",
+      "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
+      "score": 218
+    },
+    {
+      "title": "Should a medical diagnosis reshape the past? (2025)",
+      "url": "https://chengela.substack.com/p/should-a-medical-diagnosis-reshape",
+      "score": 49
     }
   ]
 }
