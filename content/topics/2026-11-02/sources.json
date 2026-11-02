@@ -4,147 +4,147 @@
     {
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
       "url": "https://hackerbooks.org",
-      "score": 1077
-    },
-    {
-      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
-      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
-      "score": 37
+      "score": 1667
     },
     {
       "title": "Postgres 19 is late because so many more bugs are being found now",
       "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-      "score": 166
+      "score": 659
+    },
+    {
+      "title": "Show HN: I've updated my Linux System Call website and API",
+      "url": "https://syscall.sh/",
+      "score": 105
+    },
+    {
+      "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+      "url": "https://wikihack.netlify.app",
+      "score": 319
     },
     {
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "score": 2384
+      "score": 2722
+    },
+    {
+      "title": "Bones may release proteins that slow aging and extend life span",
+      "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+      "score": 200
+    },
+    {
+      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+      "score": 170
     },
     {
       "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
       "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
-      "score": 39
-    },
-    {
-      "title": "Nibnib: Image compression with extreme decompression speed",
-      "url": "https://github.com/raphlinus/nibnib",
-      "score": 116
+      "score": 200
     },
     {
       "title": "Trigger.dev customer environment variables exposed",
       "url": "https://trigger.dev/blog/security-incident-nov-2026",
-      "score": 29
+      "score": 134
+    },
+    {
+      "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+      "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+      "score": 113
+    },
+    {
+      "title": "Never Complain, Never Explain",
+      "url": "https://en.wikipedia.org/wiki/Never_complain,_never_explain",
+      "score": 72
+    },
+    {
+      "title": "Nibnib: Image compression with extreme decompression speed",
+      "url": "https://github.com/raphlinus/nibnib",
+      "score": 169
+    },
+    {
+      "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+      "score": 118
     },
     {
       "title": "Tips for more effective fuzz testing with AFL++",
       "url": "https://nullprogram.com/blog/2025/02/05/",
-      "score": 94
+      "score": 139
+    },
+    {
+      "title": "The future in old computer magazines (1984–2004)",
+      "url": "https://tomorrowasusual.substack.com/p/blast-from-the-past-the-future-in",
+      "score": 54
+    },
+    {
+      "title": "From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus",
+      "url": "https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/",
+      "score": 53
     },
     {
       "title": "Copper – A minimal low-level programming language with OOP and generics",
       "url": "https://tibleiz.net/copper/",
-      "score": 147
-    },
-    {
-      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
-      "url": "https://github.com/ivankovic/omnidiff",
-      "score": 186
-    },
-    {
-      "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
-      "score": 59
-    },
-    {
-      "title": "Keeping Up Appearances – The women taking over the funeral industry",
-      "url": "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/",
-      "score": 34
-    },
-    {
-      "title": "OccupySaaS",
-      "url": "https://occupysaas.com/",
-      "score": 131
-    },
-    {
-      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
-      "url": "https://arxiv.org/abs/2610.39302",
-      "score": 122
-    },
-    {
-      "title": "Mathematics has changed. Let's act like it",
-      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
-      "score": 250
-    },
-    {
-      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
-      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-      "score": 39
+      "score": 187
     },
     {
       "title": "The AI cost of JavaScript frameworks",
       "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "score": 326
+      "score": 418
     },
     {
-      "title": "One-minute frequency disturbances from synchronization in power systems",
-      "url": "https://www.nature.com/articles/s41560-026-02144-0",
-      "score": 131
+      "title": "BioWare co-founder: game execs \"have never made a game\" and don't get it",
+      "url": "https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/",
+      "score": 86
     },
     {
-      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
-      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
-      "score": 425
+      "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
+      "score": 100
     },
     {
-      "title": "Bidirectional charging during grid outages",
-      "url": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
-      "score": 92
+      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "url": "https://github.com/ivankovic/omnidiff",
+      "score": 283
     },
     {
       "title": "Show HN: Point your camera at a landscape to learn about its geology",
       "url": "https://outcrop.rocks/",
-      "score": 170
+      "score": 233
+    },
+    {
+      "title": "One-minute frequency disturbances from synchronization in power systems",
+      "url": "https://www.nature.com/articles/s41560-026-02144-0",
+      "score": 174
+    },
+    {
+      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+      "url": "https://arxiv.org/abs/2610.39302",
+      "score": 150
+    },
+    {
+      "title": "OccupySaaS",
+      "url": "https://occupysaas.com/",
+      "score": 407
+    },
+    {
+      "title": "Supermarket freezers in Belgium and Sweden hit by suspected cyber-attack",
+      "url": "https://www.bbc.com/news/articles/cq1kd1nee80eo",
+      "score": 87
+    },
+    {
+      "title": "Mathematics has changed. Let's act like it",
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "score": 343
+    },
+    {
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "score": 522
     },
     {
       "title": "Radiation Map of the World",
       "url": "https://radiaverse.com/",
-      "score": 141
-    },
-    {
-      "title": "Novellas with Groff",
-      "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
-      "score": 116
-    },
-    {
-      "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
-      "url": "https://kevs3d.co.uk/phoria2/",
-      "score": 80
-    },
-    {
-      "title": "The She-Wolves of Jülich",
-      "url": "https://www.historytoday.com/archive/history-matters/she-wolves-julich",
-      "score": 18
-    },
-    {
-      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
-      "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
-      "score": 148
-    },
-    {
-      "title": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
-      "url": "https://tedium.co/2019/11/21/nonstick-parchment-paper-history/",
-      "score": 45
-    },
-    {
-      "title": "Domain hacks with unusual Unicode characters (2018)",
-      "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
-      "score": 64
-    },
-    {
-      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "score": 782
+      "score": 198
     }
   ]
 }
