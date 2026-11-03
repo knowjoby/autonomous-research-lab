@@ -2,139 +2,144 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Astra can read and write weights to improve Qwen",
-      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-      "score": 1787
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "score": 154
     },
     {
-      "title": "US boy names that became girl names and vice versa",
-      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
-      "score": 270
+      "title": "Astra can read and write weights to improve Qwen",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "score": 2836
+    },
+    {
+      "title": "Life with Down Syndrome",
+      "url": "https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome/",
+      "score": 47
+    },
+    {
+      "title": "Nvidia – open-source auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "score": 167
+    },
+    {
+      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+      "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+      "score": 119
+    },
+    {
+      "title": "Katamari Damacy but it's The Met collection",
+      "url": "https://katamari.vaguespac.es/",
+      "score": 68
+    },
+    {
+      "title": "Toit v2.0.0",
+      "url": "https://toit.io/blog/toit-v2-0-0/",
+      "score": 155
+    },
+    {
+      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "score": 288
+    },
+    {
+      "title": "Sava Trust (YC F25) Is Hiring a Founding Engineer in NYC",
+      "url": "https://www.ycombinator.com/companies/sava-trust-company/jobs",
+      "score": 1
+    },
+    {
+      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "url": "https://hackertimes.ca/",
+      "score": 348
+    },
+    {
+      "title": "European RISC-V Industrial Computing Initiative",
+      "url": "https://erici.eu",
+      "score": 160
+    },
+    {
+      "title": "Charles Tandy, the mastermind behind Radio Shack",
+      "url": "https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/",
+      "score": 3
+    },
+    {
+      "title": "Resisting Cognitive Surrender",
+      "url": "https://knlb.dev/essays/surrender",
+      "score": 235
+    },
+    {
+      "title": "Efficient algorithms, the Exponential Time Hypothesis, and losing the plot",
+      "url": "https://www.argmin.net/p/galactus-the-devourer",
+      "score": 89
     },
     {
       "title": "If you love a website, back it up",
       "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
-      "score": 375
+      "score": 604
     },
     {
-      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-      "url": "https://momentic.ai/",
-      "score": 116
+      "title": "Vathographs: Photographic depth maps as creative expression",
+      "url": "https://vathography.com/",
+      "score": 39
     },
     {
-      "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
-      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
-      "score": 203
+      "title": "US boy names that became girl names and vice versa",
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "score": 437
     },
     {
-      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
-      "score": 129
-    },
-    {
-      "title": "The Ford Privacy Promise: You're in Control of Your Data",
-      "url": "https://www.fromtheroad.ford.com/us/en/articles/2026/introducing-the-ford-privacy-promise",
-      "score": 22
-    },
-    {
-      "title": "Egoless Mathematics in the AI Era",
-      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
-      "score": 100
-    },
-    {
-      "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
-      "score": 94
+      "title": "Why Don't We Live in an Art Nouveau World?",
+      "url": "https://asteriskmag.com/issues/16/why-don-t-we-life-in-an-art-nouveau-world",
+      "score": 3
     },
     {
       "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
       "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
-      "score": 68
+      "score": 270
     },
     {
-      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
-      "score": 292
-    },
-    {
-      "title": "Anthropic's growth just flattened",
-      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
-      "score": 135
-    },
-    {
-      "title": "A Conversation with Paul Masurel, Creator of Tantivy",
-      "url": "https://www.paradedb.com/blog/tantivy-interview",
-      "score": 12
-    },
-    {
-      "title": "WTF Ubuntu?",
-      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
-      "score": 1284
-    },
-    {
-      "title": "Polyend releases the Tracker firmware source code",
-      "url": "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
-      "score": 73
-    },
-    {
-      "title": "Apple reports fourth quarter results",
-      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
-      "score": 73
-    },
-    {
-      "title": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
-      "url": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
-      "score": 13
-    },
-    {
-      "title": "Skill to Create Product Videos",
-      "url": "https://github.com/aaitor/skill-video-studio",
-      "score": 60
-    },
-    {
-      "title": "Bitmovin (YC S15) Is Hiring Technical Graduates in Denver (Engineering/CS Focus)",
-      "url": "https://bitmovin.com/careers/8660599002/",
-      "score": 1
-    },
-    {
-      "title": "Why are car keys so expensive to replace?",
-      "url": "https://thehustle.co/originals/why-are-car-keys-so-expensive-to-replace",
-      "score": 6
-    },
-    {
-      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-      "score": 144
-    },
-    {
-      "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
-      "url": "https://retrogamecoders.com/c64-basic-dungeon-part11/",
-      "score": 56
-    },
-    {
-      "title": "We halved DNS build delay and cut memory use by 85%",
-      "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
-      "score": 134
-    },
-    {
-      "title": "Making Peace with the Projective Plane",
-      "url": "https://www.johndcook.com/blog/2026/11/02/projective-plane/",
-      "score": 27
-    },
-    {
-      "title": "When Modernization Breaks Working Code: A Study of LLMs on Legacy PHP",
-      "url": "https://arxiv.org/abs/2610.40269",
+      "title": "433MHz TUI scanner: using a FT232H connected to a CC1101",
+      "url": "https://blog.jacq.cc/guides/cc1101-433mhz-scanner-ft232h/",
       "score": 16
     },
     {
-      "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
-      "url": "https://longcat.ai/blog/longcat-2.5/",
-      "score": 77
+      "title": "Optical Circuit Switch Technology Built on Low-Loss Silicon Photonics Platform",
+      "url": "https://www.psiquantum.com/news-import/psiquantum-unveils-optical-circuit-switch-technology-built-on-advanced-low-loss-silicon-photonics-platform",
+      "score": 22
     },
     {
-      "title": "Moving our warehouse off DuckDB",
-      "url": "https://posthog.com/blog/moving-off-duckdb",
-      "score": 157
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "url": "https://momentic.ai/",
+      "score": 150
+    },
+    {
+      "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+      "score": 296
+    },
+    {
+      "title": "Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly",
+      "url": "https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html",
+      "score": 49
+    },
+    {
+      "title": "Ten harness patterns that you can apply to a real repo",
+      "url": "https://deepsense.ai/blog/harness-engineering-for-coding-agents-9-patterns-for-more-reliable-ai-assisted-development/",
+      "score": 6
+    },
+    {
+      "title": "Show HN: I built a little browser game to practice Vim commands",
+      "url": "https://hjkl.duy.run",
+      "score": 49
+    },
+    {
+      "title": "Shrinking NixOS RAM footprint and resource requirements to the bare minimum",
+      "url": "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum",
+      "score": 86
+    },
+    {
+      "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
+      "url": "https://arxiv.org/abs/2608.25820",
+      "score": 44
     }
   ]
 }
