@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
-      "score": 308
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "score": 215
+    },
+    {
+      "title": "AI is dramatically accelerating AI research",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "score": 110
+    },
+    {
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "score": 120
+    },
+    {
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "score": 237
+    },
+    {
+      "title": "Tesla to wind down Cybertruck production",
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "score": 741
+    },
+    {
+      "title": "First steps in bare-metal programming using UEFI",
+      "url": "https://kevinboone.me/efitest_index.html",
+      "score": 156
+    },
+    {
+      "title": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible",
+      "score": 45
+    },
+    {
+      "title": "Restaurant Delivery Payment-Skimming Campaign",
+      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+      "score": 52
     },
     {
       "title": "Blender's UI and Runtime: Much Faster Than GPUI",
       "url": "https://github.com/ppmpreetham/BUI",
-      "score": 366
+      "score": 664
     },
     {
-      "title": "Claude Code sends your email address to websites",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "score": 1302
+      "title": "Memorilla: Latent Semantic Memory for LLMs",
+      "url": "https://arxiv.org/abs/2610.21375",
+      "score": 67
+    },
+    {
+      "title": "Show HN: Waymark – A workflow engine that compiles jobs instead of replaying",
+      "url": "https://github.com/piercefreeman/waymark",
+      "score": 25
+    },
+    {
+      "title": "Replit rebuilt its sandbox engine with microVMs",
+      "url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
+      "score": 33
+    },
+    {
+      "title": "Devvm.dev: One VM for every project",
+      "url": "https://devvm.dev/",
+      "score": 78
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "score": 275
+    },
+    {
+      "title": "Size-It-Up (Game)",
+      "url": "https://magnitudle.com/size-it-up",
+      "score": 53
+    },
+    {
+      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "score": 172
+    },
+    {
+      "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
+      "url": "https://up.codes/careers?utm_source=HN",
+      "score": 1
+    },
+    {
+      "title": "How octopuses squeeze through too small gaps",
+      "url": "https://journals.biologists.com/jeb/article/229/21/jeb253615/373332/How-octopuses-squeeze-through-too-small-gaps",
+      "score": 35
+    },
+    {
+      "title": "My first and last telegram was from Rebecca West",
+      "url": "https://thelampmagazine.com/blog/rebecca-wests-nightingale",
+      "score": 29
+    },
+    {
+      "title": "PyLings: Solve Exercises and Learn Python",
+      "url": "https://github.com/thesayfulla/pylings",
+      "score": 36
+    },
+    {
+      "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
+      "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
+      "score": 20
+    },
+    {
+      "title": "We know 15k websites are infected. how do we tell them?",
+      "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
+      "score": 125
+    },
+    {
+      "title": "Deus Ex",
+      "url": "https://www.filfre.net/2026/11/deus-ex/",
+      "score": 308
+    },
+    {
+      "title": "Chomsky and the two cultures of statistical learning (2011)",
+      "url": "https://www.norvig.com/chomsky.html",
+      "score": 85
+    },
+    {
+      "title": "40C3 halfnarp – Submit talk preferences to aid scheduling",
+      "url": "https://halfnarp.events.ccc.de",
+      "score": 30
+    },
+    {
+      "title": "As the Japanese countryside empties out, wildlife is disappearing",
+      "url": "https://e360.yale.edu/digest/japan-depopulation-biodiversity",
+      "score": 65
+    },
+    {
+      "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+      "url": "https://github.com/anomalyco/rune",
+      "score": 130
     },
     {
       "title": "We've built an open-source feature flag server for 11 years",
       "url": "https://github.com/Unleash/unleash",
-      "score": 33
+      "score": 136
+    },
+    {
+      "title": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
+      "url": "https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/",
+      "score": 56
     },
     {
       "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
       "url": "https://jhr.pensoft.net/articles.php?id=9096",
-      "score": 71
-    },
-    {
-      "title": "sshole",
-      "url": "https://sshhole.com",
-      "score": 2792
-    },
-    {
-      "title": "Kugelblitz – Mac-Native Google Earth Alternative",
-      "url": "https://apps.metaebene.me/en/kugelblitz",
-      "score": 135
-    },
-    {
-      "title": "Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers",
-      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
-      "score": 1
-    },
-    {
-      "title": "Tesla winds down Cybertruck production after years of poor sales in few markets",
-      "url": "https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv",
-      "score": 84
-    },
-    {
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-      "score": 600
-    },
-    {
-      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
-      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
-      "score": 163
-    },
-    {
-      "title": "Pwn.college",
-      "url": "https://pwn.college/",
-      "score": 208
-    },
-    {
-      "title": "Nvidia Kubernetes Engine (NVKE)",
-      "url": "https://github.com/dsx-ai-factory/nvke",
-      "score": 102
-    },
-    {
-      "title": "The Hackintosh Reborn",
-      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
-      "score": 348
-    },
-    {
-      "title": "Inkling 2 Small",
-      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
-      "score": 235
-    },
-    {
-      "title": "Britain to make salary disclosure in job ads mandatory",
-      "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
-      "score": 339
-    },
-    {
-      "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
-      "url": "https://worldstrike.fun/",
-      "score": 94
-    },
-    {
-      "title": "Hardcoded credentials and other issues in Tata Motors App",
-      "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537",
-      "score": 54
-    },
-    {
-      "title": "Window Sweaters",
-      "url": "https://github.com/saragordic/window-sweaters",
-      "score": 387
-    },
-    {
-      "title": "Chomsky and the Two Cultures of Statistical Learning",
-      "url": "https://www.norvig.com/chomsky.html",
-      "score": 22
-    },
-    {
-      "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
-      "url": "https://firenook.dev/",
-      "score": 147
-    },
-    {
-      "title": "Motorola Signature 27 with GrapheneOS support",
-      "url": "https://motorolanews.com/motorola-signature-27-2/",
-      "score": 520
-    },
-    {
-      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-      "url": "https://github.com/rivet-dev/rivet",
-      "score": 105
-    },
-    {
-      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-      "url": "https://www.linum.ai/field-notes/pjit-21k",
-      "score": 255
-    },
-    {
-      "title": "I wish tech companies knew more about me",
-      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
-      "score": 480
-    },
-    {
-      "title": "September in Servo: <progress>, rounded rectangles, and more",
-      "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
-      "score": 257
-    },
-    {
-      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-      "score": 417
-    },
-    {
-      "title": "Download your favourite YouTube videos",
-      "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
-      "score": 371
-    },
-    {
-      "title": "Pangram Image 1.0",
-      "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
-      "score": 128
-    },
-    {
-      "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
-      "url": "https://github.com/matthewmrichter/mooftcp",
-      "score": 56
+      "score": 156
     }
   ]
 }
