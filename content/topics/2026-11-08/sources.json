@@ -1,0 +1,155 @@
+{
+  "papers": [],
+  "discussions": [
+    {
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "url": "https://blog.bosscher.ch/posts/openstick/",
+      "score": 439
+    },
+    {
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "score": 258
+    },
+    {
+      "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+      "url": "https://github.com/crmne/zapfast",
+      "score": 15
+    },
+    {
+      "title": "Making any integer with four 2s (2025)",
+      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "score": 80
+    },
+    {
+      "title": "GitHub New pull request overview page in public preview",
+      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+      "score": 94
+    },
+    {
+      "title": "Amsterdam School",
+      "url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
+      "score": 12
+    },
+    {
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "score": 90
+    },
+    {
+      "title": "Need for Speed Underground 2 online in the browser",
+      "url": "https://nfsu2.xyz/",
+      "score": 865
+    },
+    {
+      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "score": 235
+    },
+    {
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "url": "https://github.com/hedgerow-dev/coldframe",
+      "score": 206
+    },
+    {
+      "title": "Goodbye Claude, Hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "score": 7
+    },
+    {
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "score": 644
+    },
+    {
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://hunch.net/?p=13764006",
+      "score": 424
+    },
+    {
+      "title": "Commodore PET – The Worlds First Personal Computer",
+      "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+      "score": 31
+    },
+    {
+      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+      "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+      "score": 256
+    },
+    {
+      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "score": 403
+    },
+    {
+      "title": "Turning every radio into a radar",
+      "url": "https://tiaminetworks.com/turning-every-radio-into-a-radar/",
+      "score": 42
+    },
+    {
+      "title": "Five memorable books about programming (2008)",
+      "url": "https://prog21.dadgum.com/19.html",
+      "score": 95
+    },
+    {
+      "title": "Consumer brain wave headsets threaten privacy",
+      "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+      "score": 6
+    },
+    {
+      "title": "The $8 Linux Computer (2022)",
+      "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+      "score": 210
+    },
+    {
+      "title": "Show HN: Where Were We",
+      "url": "https://wherewerewe.app/",
+      "score": 33
+    },
+    {
+      "title": "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
+      "url": "https://www.retrosongbird.com/",
+      "score": 51
+    },
+    {
+      "title": "Study solved a 150-year-old mystery into the identity of the extinct giant crane",
+      "url": "https://www.bournemouth.ac.uk/news/2026-10-28/study-has-solved-150-year-old-mystery-identity-extinct-giant-crane",
+      "score": 19
+    },
+    {
+      "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",
+      "url": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
+      "score": 50
+    },
+    {
+      "title": "Asahi Linux Progress Linux 7.3",
+      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+      "score": 343
+    },
+    {
+      "title": "Text.js: Build full-stack React apps that render inside console.log",
+      "url": "https://textjs.org/",
+      "score": 87
+    },
+    {
+      "title": "Every processor die anyone has photographed and given away",
+      "url": "https://sheets.works/data-viz/cpu-dies",
+      "score": 94
+    },
+    {
+      "title": "Cancer at Sea",
+      "url": "https://biographic.com/cancer-at-sea/",
+      "score": 24
+    },
+    {
+      "title": "IRA Velinsky – Commodore's Industrial Designer",
+      "url": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
+      "score": 19
+    },
+    {
+      "title": "Multi-Token Prediction Done Right",
+      "url": "https://arxiv.org/abs/2610.38331",
+      "score": 3
+    }
+  ]
+}
