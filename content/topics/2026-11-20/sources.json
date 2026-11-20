@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Anthropic’s Nasdaq debut",
-      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-      "score": 842
+      "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "score": 153
     },
     {
-      "title": "Pancreatic cancer halted by virus injection in three patients",
-      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-      "score": 492
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "score": 264
     },
     {
-      "title": "Synology Security Advisory",
-      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
-      "score": 76
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "score": 351
     },
     {
-      "title": "Claude solves two open problems in the physics of black holes",
-      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "score": 352
+      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+      "url": "https://kobi.music/research/dettato",
+      "score": 45
+    },
+    {
+      "title": "Llms.txt and MCP didn't move the needle",
+      "url": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did",
+      "score": 20
+    },
+    {
+      "title": "Floppy3.5: A portable 3.5-inch floppy WiFi NAS",
+      "url": "https://github.com/bigcrimping/floppy3.5",
+      "score": 50
+    },
+    {
+      "title": "The Making of Oxygene",
+      "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+      "score": 96
+    },
+    {
+      "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
+      "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
+      "score": 52
+    },
+    {
+      "title": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
+      "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
+      "score": 60
+    },
+    {
+      "title": "What people are building, discovered through new domains",
+      "url": "https://startups.novumsignals.com/",
+      "score": 92
+    },
+    {
+      "title": "Signal Is Serious About Protecting Your Privacy",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "score": 75
+    },
+    {
+      "title": "Epic Games Turns to AI Coding for the Unreal Engine",
+      "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+      "score": 27
+    },
+    {
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "url": "https://github.com/openssl/openssl/pull/33652",
+      "score": 320
+    },
+    {
+      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
+      "url": "https://trynotched.com/find",
+      "score": 85
+    },
+    {
+      "title": "I can’t believe it’s 1!",
+      "url": "https://aperiodical.com/2026/11/i-cant-believe-its-1/",
+      "score": 26
+    },
+    {
+      "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
+      "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
+      "score": 296
+    },
+    {
+      "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "score": 47
+    },
+    {
+      "title": "UK fridges secured from hackers",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
+      "score": 95
+    },
+    {
+      "title": "FFmpeg 9.1 'Gauss'",
+      "url": "https://ffmpeg.org/download.html#release_9.1",
+      "score": 222
+    },
+    {
+      "title": "If you stop writing code, you also get worse at reviewing it",
+      "url": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
+      "score": 62
+    },
+    {
+      "title": "µ-Wire – USB on an ATtiny 10",
+      "url": "https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/",
+      "score": 79
+    },
+    {
+      "title": "The Strongest Sokoban Solver",
+      "url": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
+      "score": 102
+    },
+    {
+      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+      "score": 143
+    },
+    {
+      "title": "The G1 Garbage Collector",
+      "url": "https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/",
+      "score": 3
     },
     {
       "title": "How to CAD Almost Anything",
       "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
-      "score": 82
+      "score": 325
     },
     {
-      "title": "RegExr: Temporarily Offline",
-      "url": "https://regexr.com/",
-      "score": 27
+      "title": "\"I can tell you wrote this yourself\"",
+      "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+      "score": 305
     },
     {
-      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-      "score": 177
+      "title": "Jujutsu Primer",
+      "url": "https://ethanlowman.com/posts/jj-primer/",
+      "score": 176
     },
     {
-      "title": "Garage Door Spam",
-      "url": "https://blog.harrison.page/garage-door-spam/",
-      "score": 726
+      "title": "PostgreSQL 19",
+      "url": "https://www.postgresql.org/docs/release/19.0/",
+      "score": 297
     },
     {
-      "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
-      "url": "https://cornholenews.news",
-      "score": 181
+      "title": "What Comes After AGI?",
+      "url": "https://institute.deepmind.com/essays/what-comes-after-agi/",
+      "score": 114
     },
     {
-      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-      "score": 64
-    },
-    {
-      "title": "Someone reported java4shell bug in September 2026",
-      "url": "https://github.com/openjdk/jdk/pull/32781",
-      "score": 348
-    },
-    {
-      "title": "UK government forced to admit it issued Apple a secret encryption order",
-      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
-      "score": 467
-    },
-    {
-      "title": "Rebuilding my local voice assistant pipeline",
-      "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
-      "score": 43
-    },
-    {
-      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-      "url": "https://github.com/onlook-dev/onlook/",
-      "score": 82
-    },
-    {
-      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
-      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
-      "score": 239
-    },
-    {
-      "title": "Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches",
-      "url": "https://www.tisonkun.io/posts/ai-repair-program/",
-      "score": 29
-    },
-    {
-      "title": "Computer Graphics from Scratch (2021)",
-      "url": "https://www.gabrielgambetta.com/computer-graphics-from-scratch/index.html",
-      "score": 44
-    },
-    {
-      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-      "url": "https://verialabs.com/ruby2shell/",
-      "score": 380
-    },
-    {
-      "title": "Nintendo takes Picofly firmware down from GitHub [video]",
-      "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
-      "score": 249
-    },
-    {
-      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
-      "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
-      "score": 32
-    },
-    {
-      "title": "How the European Commission rolled out Matrix to more than 40k staff",
-      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
-      "score": 650
-    },
-    {
-      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-      "url": "https://thedataexchange.media/pete-warden-moonshine/",
-      "score": 207
-    },
-    {
-      "title": "An Oregon library ditched Dewey Decimal and got people excited about books again",
-      "url": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system",
-      "score": 184
-    },
-    {
-      "title": "Do not buy RAM, compress",
-      "url": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
-      "score": 244
-    },
-    {
-      "title": "What's New in PHP 8.6",
-      "url": "https://www.php.net/releases/8.6/en.php",
-      "score": 269
-    },
-    {
-      "title": "Unblockable communication with gravity",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aee0802",
-      "score": 141
-    },
-    {
-      "title": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
-      "url": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/",
-      "score": 70
-    },
-    {
-      "title": "Distributed, high-performance blob storage on SQLite",
-      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
-      "score": 253
-    },
-    {
-      "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
-      "url": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
-      "score": 33
-    },
-    {
-      "title": "Adding Fortran Support to LLDB (GSoC 2026)",
-      "url": "https://blog.llvm.org/posts/2026-09-07-gsoc-add-fortran-support-to-lldb/",
-      "score": 32
+      "title": "Vint Cerf on why TCP/IP was never patented",
+      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+      "score": 136
     }
   ]
 }
