@@ -2,149 +2,149 @@
   "papers": [],
   "discussions": [
     {
-      "title": "Ternary Bonsai 2.5 27B",
-      "url": "https://prismml.com/news/bonsai-2-5-27b",
-      "score": 340
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "score": 171
     },
     {
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-      "score": 168
+      "title": "Investigating degraded experiences across GitHub products",
+      "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+      "score": 73
+    },
+    {
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "score": 224
+    },
+    {
+      "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "score": 239
+    },
+    {
+      "title": "Predicting LoRA size for any dataset",
+      "url": "https://engram.com/blog/lora-size",
+      "score": 15
+    },
+    {
+      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "url": "https://buttons.joshwcomeau.com/",
+      "score": 685
+    },
+    {
+      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "score": 869
+    },
+    {
+      "title": "Rumors swirling that labs might have cracked Factoring in P",
+      "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+      "score": 140
+    },
+    {
+      "title": "Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+      "score": 37
+    },
+    {
+      "title": "Pinocchio at 200: a tale of hunger, greed and Italy's culinary history",
+      "url": "https://www.repubblica.it/en/europe/food-travel/2026/11/24/news/carlo_collodi_pinocchio_pellegrino_artusi_italian_literature-425744069/",
+      "score": 34
+    },
+    {
+      "title": "U.S. jury convicts Huawei of fraud, Iran sanctions violations",
+      "url": "https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/",
+      "score": 128
+    },
+    {
+      "title": "The short age of dragon riders",
+      "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
+      "score": 203
+    },
+    {
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "score": 377
+    },
+    {
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "url": "https://gpu-demo-gallery.pages.dev/",
+      "score": 268
+    },
+    {
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "score": 8
+    },
+    {
+      "title": "Hazel (YC W24) Is Hiring a Product Designer",
+      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
+      "score": 1
+    },
+    {
+      "title": "Getting old Java phones online again",
+      "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+      "score": 136
+    },
+    {
+      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "score": 363
+    },
+    {
+      "title": "Ternary Bonsai 2.5 27B",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "score": 510
     },
     {
       "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
       "url": "https://greydanus.github.io/2026/11/12/pengpt/",
-      "score": 13
+      "score": 355
     },
     {
-      "title": "Here in the World: Letters of Albert Camus, 1944–1959",
-      "url": "https://literaryreview.co.uk/here-in-the-world",
-      "score": 15
+      "title": "Taking over US Treasury subdomains for $3 each",
+      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+      "score": 183
     },
     {
-      "title": "Matrix Multiplication is O(n^2.25) [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-      "score": 24
-    },
-    {
-      "title": "Active intrusion campaign against Check Point security management servers",
-      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-      "score": 264
+      "title": "A Clock Made of Branches",
+      "url": "https://fzakaria.com/2026/11/01/a-clock-made-of-branches",
+      "score": 3
     },
     {
       "title": "The Spray Bottle",
       "url": "https://mechanical-pencil.com/products/spray-bottle",
-      "score": 354
+      "score": 577
     },
     {
-      "title": "Gödel Enigma",
-      "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "score": 198
+    },
+    {
+      "title": "The algebra of dependent types (2025)",
+      "url": "https://dotat.at/@/2025-05-28-types.html",
       "score": 86
     },
     {
-      "title": "Calculate how many mesh radio nodes your city needs",
-      "url": "https://meshcoveragecalculator.lalala.ing/",
-      "score": 79
+      "title": "The Shapes of Rivers",
+      "url": "https://dominicroye.github.io/shapes-of-rivers/",
+      "score": 119
     },
     {
-      "title": "An Italian folding bicycle design that fits into a suitcase",
-      "url": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
-      "score": 129
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "score": 328
     },
     {
-      "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
-      "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
-      "score": 65
+      "title": "When in Doubt, Flail About",
+      "url": "https://www.seangoedecke.com/when-in-doubt-flail-about/",
+      "score": 100
     },
     {
-      "title": "Heart attack and stroke risk detectable decades in advance",
-      "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
-      "score": 143
-    },
-    {
-      "title": "Jetty Pro",
-      "url": "http://hypercritical.co/2026/11/23/jetty-pro",
-      "score": 275
-    },
-    {
-      "title": "Show HN: PQCrypta Proxy: Rust proxy with HTTP/3, QUIC, hybrid post-quantum TLS",
-      "url": "https://github.com/PQCrypta/pqcrypta-proxy",
-      "score": 32
-    },
-    {
-      "title": "A training engine for your local model, using your idle compute",
-      "url": "https://github.com/sous-labs/songe",
-      "score": 180
-    },
-    {
-      "title": "GTA 6 Running on Windows",
-      "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
-      "score": 287
-    },
-    {
-      "title": "Quad9 pulled their DNS service from France",
-      "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
-      "score": 357
-    },
-    {
-      "title": "Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility",
-      "url": "https://statwonk.com/hierarchical-bayesian-neural-network.html",
-      "score": 12
-    },
-    {
-      "title": "Cento fine foods has been sued for “tomato fraud”",
-      "url": "https://slate.com/life/2026/11/cento-san-marzano-tomato-sauce-recipes-lawsuit.html",
-      "score": 124
-    },
-    {
-      "title": "The Artificial Monkey Mind",
-      "url": "https://eamonnsullivan.co.uk/posts/the-artificial-monkey-mind/",
-      "score": 4
-    },
-    {
-      "title": "Splitting USB-C: USB 3 and USB 2 on one port",
-      "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
-      "score": 131
-    },
-    {
-      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "url": "https://jobs.ashbyhq.com/weave-os",
-      "score": 1
-    },
-    {
-      "title": "An unclassified CIA system was breached in a cyberattack",
-      "url": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
-      "score": 104
-    },
-    {
-      "title": "Worshipping at the altar of Brendan Gregg",
-      "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
-      "score": 226
-    },
-    {
-      "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
-      "url": "https://grafana.com/grafana/download",
-      "score": 137
-    },
-    {
-      "title": "LLM agents work for their parent companies, not for you",
-      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-      "score": 910
-    },
-    {
-      "title": "How a Mechanical Watch Keeps Time",
-      "url": "https://martincmartin.github.io/slidev-stem/watches/article/1/",
-      "score": 220
-    },
-    {
-      "title": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
-      "url": "https://github.com/ItsNotRexed/Leonida/issues",
-      "score": 341
-    },
-    {
-      "title": "Anthropic breaks below $83 IPO price",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-      "score": 348
+      "title": "Macrohistory in Six Facts",
+      "url": "https://basilhalperin.com/essays/macrohistory.html",
+      "score": 128
     }
   ]
 }
