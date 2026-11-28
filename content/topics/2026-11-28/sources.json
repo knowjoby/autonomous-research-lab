@@ -2,154 +2,154 @@
   "papers": [],
   "discussions": [
     {
-      "title": "GPT 6.2 Astra Solves a Historical Mystery",
-      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-      "score": 295
+      "title": "Farewell",
+      "url": "https://github.com/p-e-w/heretic/issues/601",
+      "score": 501
+    },
+    {
+      "title": "Claude Code sabotage: preliminary benchmarking",
+      "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+      "score": 254
+    },
+    {
+      "title": "Audible removes download option for purchased audiobooks",
+      "url": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
+      "score": 155
+    },
+    {
+      "title": "Show HN: Luciole Mono – terminal font designed for legibility",
+      "url": "https://scriptor-pro.github.io/luciole-mono/",
+      "score": 59
+    },
+    {
+      "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+      "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+      "score": 67
+    },
+    {
+      "title": "Physics Breakthrough Simulator",
+      "url": "https://pages.ethanmdavidson.com/ai-physics-breakthrough",
+      "score": 7
+    },
+    {
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "url": "https://unkernel.dev",
+      "score": 459
+    },
+    {
+      "title": "Loom seamlessly combines weaving, knitting and braiding",
+      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+      "score": 207
+    },
+    {
+      "title": "Knuth: Moratorium on Error Reports",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
+      "score": 256
+    },
+    {
+      "title": "Diablo II",
+      "url": "https://www.filfre.net/2026/11/diablo-ii/",
+      "score": 76
     },
     {
       "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
       "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
-      "score": 45
+      "score": 497
     },
     {
-      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
-      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
-      "score": 413
+      "title": "Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run",
+      "url": "https://github.com/RiccardoSottini/AffrescoUI",
+      "score": 12
     },
     {
-      "title": "Convex skills send the user's app idea to a remote server without telling them",
-      "url": "https://github.com/convex/convex-backend-skill/issues/64",
-      "score": 222
+      "title": "The AI-designed USB-C LTE Modem is built, and it makes calls",
+      "url": "https://koppar.ai/blog/lte-modem-bring-up/",
+      "score": 14
     },
     {
-      "title": "Source Control from Hell",
-      "url": "https://frantic.im/git/",
-      "score": 53
-    },
-    {
-      "title": "9/UX: a Macintosh-inspired desktop for 9front",
-      "url": "https://progrium.github.io/9ux/",
-      "score": 64
-    },
-    {
-      "title": "Citroën Hydraulic System",
-      "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
-      "score": 130
+      "title": "IBM MVS 3.8j Community Edition (52-year old OS)",
+      "url": "https://github.com/MVS-sysgen/sysgen",
+      "score": 14
     },
     {
       "title": "The Balatro Timeline",
       "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
-      "score": 25
+      "score": 467
     },
     {
-      "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
-      "url": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
-      "score": 33
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "score": 483
     },
     {
-      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
-      "url": "https://bouncemarket.minhanhday.com/",
-      "score": 324
+      "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
+      "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
+      "score": 121
+    },
+    {
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "score": 566
+    },
+    {
+      "title": "Skala by Bjango",
+      "url": "https://bjango.com/mac/skala/",
+      "score": 9
+    },
+    {
+      "title": "Swapping Jolt's sorted collections to a B+tree",
+      "url": "https://yogthos.net/posts/2026-11-23-b+trees.html",
+      "score": 16
+    },
+    {
+      "title": "Sydney Fire Ant Infestation",
+      "url": "https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812",
+      "score": 85
+    },
+    {
+      "title": "Signals",
+      "url": "https://www.quarter--mile.com/Signals",
+      "score": 40
+    },
+    {
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "score": 341
     },
     {
       "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
       "url": "https://tabernet.es/",
-      "score": 25
+      "score": 177
     },
     {
-      "title": "The AT&T Unix PC (3B1) VM",
-      "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
-      "score": 55
+      "title": "What Is the Metabolism-First Theory for the Origin of Life?",
+      "url": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
+      "score": 47
     },
     {
-      "title": "First images of the impact of DART asteroid deflection experiment",
-      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
-      "score": 184
+      "title": "Citroën Hydraulic System",
+      "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+      "score": 224
     },
     {
-      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
-      "score": 250
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "url": "https://bouncemarket.minhanhday.com/",
+      "score": 395
     },
     {
-      "title": "Rayshader 1.0: Exit the Matrix",
-      "url": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
-      "score": 71
-    },
-    {
-      "title": "Scrapheap America",
-      "url": "https://dansinker.com/posts/2026-11-20-scrapheap/",
-      "score": 57
+      "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
+      "url": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
+      "score": 110
     },
     {
       "title": "Michael Nielsen took down his book on neural nets",
       "url": "https://neuralnetworksanddeeplearning.com/",
-      "score": 371
+      "score": 611
     },
     {
-      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
-      "url": "https://github.com/skeeto/prospero",
-      "score": 32
-    },
-    {
-      "title": "Show HN: DragDropMath – Learn math by feel",
-      "url": "https://dragdropmath.com/",
-      "score": 93
-    },
-    {
-      "title": "Lydian Chromatic Concept of Tonal Organization",
-      "url": "https://en.wikipedia.org/wiki/Lydian_Chromatic_Concept_of_Tonal_Organization",
-      "score": 41
-    },
-    {
-      "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
-      "url": "https://sessiongraph.ai/",
-      "score": 21
-    },
-    {
-      "title": "Show HN: Analysis of Hacker News predictions since 2008",
-      "url": "https://hnpredictions.com/",
-      "score": 54
-    },
-    {
-      "title": "False computer-checked proofs",
-      "url": "https://cr.yp.to/proofs/falseccp.html",
-      "score": 175
-    },
-    {
-      "title": "Quad9 Blocks Nginx2root.com",
-      "url": "https://quad9.net/?url=nginx2root.com#domain-tester",
-      "score": 13
-    },
-    {
-      "title": "Atlantic 1866: information and shipping in the age of the telegraph",
-      "url": "https://atlantic-1866.com/",
-      "score": 24
-    },
-    {
-      "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
-      "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
-      "score": 34
-    },
-    {
-      "title": "Painting 1990s anime scenes in Python",
-      "url": "https://www.fofr.ai/greenhouse-after-the-typhoon",
-      "score": 5
-    },
-    {
-      "title": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order",
-      "url": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
-      "score": 142
-    },
-    {
-      "title": "Making a 3D fantasy map like a 16th-Century atlas",
-      "url": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
-      "score": 94
-    },
-    {
-      "title": "Claude sabotaging ML research tasks?",
-      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-      "score": 591
+      "title": "The Quantum Omelette Problem",
+      "url": "https://quantumfrontiers.com/2026/10/11/the-quantum-omelette-problem-how-much-energy-belongs-to-the-yolk/",
+      "score": 20
     }
   ]
 }
